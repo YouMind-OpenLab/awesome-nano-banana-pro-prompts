@@ -55,6 +55,18 @@ Why use our gallery?
 
 📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
 
+### 🚀 Raycast Integration
+
+Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+
+**Example:**
+```
+A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
+by {argument name="author" default="Steve Jobs"}
+```
+
+When used in Raycast, you can dynamically replace the arguments for quick iterations!
+
 ---
 
 ## 📊 Statistics
@@ -65,7 +77,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **511** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 8:15:36 AM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 9:34:56 AM UTC** |
 
 </div>
 
@@ -79,6 +91,7 @@ Why use our gallery?
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -89,6 +102,8 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 ```
 一张宽幅的名人金句卡，棕色背景，衬线体浅金色“{argument name="金句" default="保持饥饿，保持愚蠢"}”，小字“——{argument name="作者" default="Steve Jobs"}”，文字前面带一个大的淡淡的引号。人物头像在左边，文字在右边，文字占画面比例 2/3，人物占 1/3，人物有一点渐变过渡的感觉。
 ```
+
+> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7573,6 +7588,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T08:15:37.052Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T09:34:56.952Z</sub>
 
 </div>
