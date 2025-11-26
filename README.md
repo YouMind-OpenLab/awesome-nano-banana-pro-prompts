@@ -77,7 +77,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **496** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 3:22:25 PM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 1:22:33 PM UTC** |
 
 </div>
 
@@ -403,7 +403,7 @@ Crea una imagen en {argument name="coordenadas" default="34°36’07’’S 58°
 
 - **Author:** [N≡H](https://x.com/nehuenmk)
 - **Source:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20en%20%7Bargument%20name%3D%22coordenadas%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99O%22%7D%20el%20%7Bargument%20name%3D%22fecha%22%20default%3D%2218%20de%20julio%20de%201994%22%7D%20a%20las%20%7Bargument%20name%3D%22hora%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
@@ -474,7 +474,7 @@ Important:
 
 - **Author:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Source:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%20image%20in%208K%20resolution%2C%20keeping%20exactly%20my%20real%20face%2C%20features%2C%20skin%20color%2C%20eyes%2C%20and%20hair%20as%20per%20the%20reference%20image.%0AI%20am%20the%20%7Bargument%20name%3D%22subject_gender_role%22%20default%3D%22woman%22%7D%20in%20the%20photo%3B%20preserve%20my%20confident%2C%20charming%2C%20and%20elegant%20expression%2C%20with%20a%20slight%20smile%20and%20relaxed%20posture.%0AI%20am%20at%20an%20outdoor%20automotive%20event%2C%20in%20a%20grandstand%20or%20VIP%20box%2C%20with%20a%20wide%20view%20of%20the%20track%20and%20the%20crowd%20in%20the%20background.%20The%20weather%20is%20sunny%2C%20with%20an%20intense%20blue%20sky%20and%20natural%20sunlight%2C%20enhancing%20the%20colors%20and%20creating%20a%20vibrant%20racing%20atmosphere.%0AThe%20framing%20is%20a%20medium%20shot%2C%20capturing%20the%20upper%20body%20and%20the%20busy%20background%20with%20a%20slight%20depth-of-field%20blur.%0AThe%20look%20is%20sporty%20fashion%20with%20a%20sophisticated%20touch%2C%20composed%20of%3A%0A%20*%20%7Bargument%20name%3D%22cap_brand%22%20default%3D%22Red%20Ferrari%22%7D%20cap%2C%20with%20the%20yellow%20prancing%20horse%20(cavallino%20rampante)%20logo%20on%20the%20front%20and%20the%20number%20%22%7Bargument%20name%3D%22driver_number%22%20default%3D%2216%22%7D%22%20in%20white%20on%20the%20brim%3B%0A%20*%20Strapless%20top%20in%20structured%20denim%2C%20tight%20and%20with%20visible%20stitching%2C%20enhancing%20the%20d%C3%A9colletage%20and%20silhouette%3B%0A%20*%20%7Bargument%20name%3D%22sunglasses_brand%22%20default%3D%22Miu%20Miu%22%7D%20sunglasses%20with%20brown%20gradient%20lenses%20and%20a%20rectangular%20metallic%20frame%2C%20partially%20covering%20the%20eyes%3B%0A%20*%20Double%20necklace%20%E2%80%93%20one%20with%20large%20golden%20links%20and%20another%20with%20delicate%20diamonds%20close%20to%20the%20neck%3B%0A%20%20%20*%20Geometric%20gold%20earrings%3B%0A%20%20%20*%20Silver%20bracelet%20on%20the%20right%20wrist%3B%0A%20%20%20*%20Discreet%20red%20bag%20hanging%20on%20the%20shoulder%2C%20partially%20visible%20beside%20the%20arm.%0AHair%3A%20natural%2C%20loose.%0AThe%20makeup%20is%20impeccable%20and%20glamorous%2C%20with%20illuminated%20skin%2C%20defined%20eyes%2C%20pink%20lipstick%2C%20and%20warm%20blush.%0AThe%20nails%20are%20long%20and%20decorated%20with%20nail%20art%20in%20shades%20of%20pink%20and%20red%20with%20white%20details%2C%20visible%20while%20holding%20the%20glass.%0AThe%20pose%20conveys%20attitude%20and%20sophistication%3A%0A%20*%20Right%20hand%20holding%20the%20brim%20of%20the%20cap%2C%20adjusting%20it%20slightly%3B%0A%20*%20Left%20hand%20holding%20a%20glass%20of%20%7Bargument%20name%3D%22drink_type%22%20default%3D%22white%20wine%22%7D%2C%20with%20the%20arm%20relaxed%3B%0A%20*%20Body%20slightly%20leaned%2C%20face%20turned%20towards%20the%20camera.%0AThe%20lighting%20is%20natural%20and%20intense%2C%20with%20subtle%20solar%20reflections%20on%20the%20face%20and%20hair.%0AThe%20color%20palette%20is%20vibrant%20%E2%80%93%20shades%20of%20red%2C%20denim%20blue%2C%20gold%2C%20and%20caramel%2C%20contrasting%20with%20the%20sunny%20background.%0AThe%20general%20atmosphere%20is%20modern%2C%20luxurious%2C%20and%20relaxed%20%E2%80%93%20transmitting%20the%20style%20of%20someone%20who%20lives%20exclusive%20experiences%2C%20with%20elegance%20and%20a%20striking%20presence%20at%20a%20premium%20automotive%20event.%0AQuality%3A%208K%20hyper-realistic%20photo%2C%20sharp%20focus%20on%20the%20face%20and%20outfit%2C%20background%20slightly%20blurred%20with%20a%20colorful%20crowd%20and%20the%20track%20in%20the%20sun.%0AImportant%3A%0A%20*%20Keep%20my%20face%2C%20hair%2C%20and%20skin%20color%20original.%0A%20*%20Preserve%20the%20authentic%20p)**
@@ -525,7 +525,7 @@ Final image should be in 4K resolution, {argument name="aspect_ratio" default="1
 
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20set%20of%20colorful%2C%20hand-drawn%20LINE-style%20half-body%20Q-version%20emoji%20portraits%20based%20on%20the%20%7Bargument%20name%3D%22reference_characters%22%20default%3D%22characters%20shown%20in%20the%20reference%20image%22%7D%2C%20ensuring%20accurate%20depiction%20of%20their%20head%20accessories.%0A%0AArrange%20the%20images%20in%20a%20%7Bargument%20name%3D%22grid_layout%22%20default%3D%224x6%22%7D%20layout%2C%20featuring%20common%20chat%20phrases%20or%20relevant%20humorous%20memes.%0AUse%20handwritten-style%20fonts%20for%20text.%0AOutput%20must%20be%20original%E2%80%94avoid%20direct%20copying%20of%20the%20reference%20image.%0AFinal%20image%20should%20be%20in%204K%20resolution%2C%20%7Bargument%20name%3D%22aspect_ratio%22%20default%3D%2216%3A9%22%7D%20aspect%20ratio.)**
@@ -559,7 +559,7 @@ Create a hand drawn isometric schematic diagram of {argument name="landmark" def
 
 - **Author:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand%20drawn%20isometric%20schematic%20diagram%20of%20%7Bargument%20name%3D%22landmark%22%20default%3D%22%5BLANDMARK%5D%22%7D.%20%7Bargument%20name%3D%22dimension%22%20default%3D%221080x1080%22%7D%20dimension)**
@@ -603,7 +603,7 @@ medium close-up, straight-on
 
 - **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20realistic%20black%20and%20white%20photograph%20of%20a%20young%20woman%20with%20long%2C%20dark%20hair%2C%20closely%20resembling%20the%20facial%20features%2C%20structure%2C%20and%20expression%20of%20the%20subject%20in%20the%20reference%20image.%20She%20has%20an%20imposing%20or%20serious%20expression%2C%20looking%20directly%20at%20the%20camera.%20She%20is%20wearing%20a%20black%20suit%20jacket%2C%20a%20white%20collared%20shirt%2C%20and%20a%20slim%20black%20tie.%20The%20lighting%20is%20dramatic%2C%20and%20the%20background%20is%20dark%20and%20uniform.%0Aphotorealistic%2C%20cinematic%2C%20high-contrast%2C%20black%20and%20white%0Afemale%0Ablack%20suit%2C%20white%20shirt%2C%20slim%20black%20tie%0Aimposing%2C%20serious%2C%20confident%0Amedium%20close-up%2C%20straight-on)**
@@ -643,7 +643,7 @@ Scan what’s inside of the {argument name="location" default="fridge"} and offe
 
 - **Author:** [AmirMušić](https://x.com/AmirMushich)
 - **Source:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Scan%20what%E2%80%99s%20inside%20of%20the%20%7Bargument%20name%3D%22location%22%20default%3D%22fridge%22%7D%20and%20offer%20me%20an%20idea%20what%20can%20be%20cooked%20with%20the%20ingredients%20available%20with%20a%20detailed%20step%20by%20step%20recipe%20in%20a%20form%20of%20a%20simple%20infographic)**
@@ -8230,6 +8230,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T15:22:25.138Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T13:22:33.817Z</sub>
 
 </div>
