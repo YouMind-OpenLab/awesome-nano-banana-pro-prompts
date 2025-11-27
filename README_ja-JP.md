@@ -80,9 +80,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **496** |
+| 📝 プロンプト総数 | **519** |
 | ⭐ おすすめ | **5** |
-| 🔄 最終更新 | **2025年11月27日木曜日 12:20:56 UTC** |
+| 🔄 最終更新 | **2025年11月27日木曜日 12:24:15 UTC** |
 
 </div>
 
@@ -113,25 +113,25 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="ポートレートと中国語/英語のカスタマイズが施されたワイドな引用カード - Image 4">
 </div>
 
 #### 📌 詳細
@@ -165,7 +165,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RIeSZXgAA7cOf.jpg" width="700" alt="ドイツの水彩画地図（州名入り） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="ドイツの水彩画地図（州名入り） - Image 1">
 </div>
 
 #### 📌 詳細
@@ -216,7 +216,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBYReawAAcp2x.jpg" width="700" alt="電車広告風の書籍広告画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="電車広告風の書籍広告画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -250,7 +250,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RHoGna4AArBDN.jpg" width="700" alt="カービィがシャボン玉を吹く夢日記 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="カービィがシャボン玉を吹く夢日記 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -353,7 +353,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G23i3sJW0AASGUw.jpg" width="700" alt="詳細な鏡越しの自撮りオタク部屋のシーン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="詳細な鏡越しの自撮りオタク部屋のシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -391,7 +391,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jfqdVWgAADyla.jpg" width="600" alt="特定の座標における歴史的瞬間（1994年） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg" width="600" alt="特定の座標における歴史的瞬間（1994年） - Image 1">
 </div>
 
 #### 📌 詳細
@@ -405,7 +405,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 2: F1 VIP ファンによる超リアルな自撮り編集
+### No. 2: 子供向けクレイメーションの昼夜の移り変わりインフォグラフィック
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+6 歳児に 1 日の各フェーズを説明する、奇抜なクレイメーションスタイルのインフォグラフィックを生成するためのプロンプト。教育用ビジュアルやアニメーションによる解説に最適です。
+
+#### 📝 プロンプト
+
+```
+6 歳の子供にもわかるように、1 日の各段階を説明するインフォグラフィックを作成してください。特徴的なクレイメーションスタイルで、大きく表情豊かな口、コミカルな目、魅力的なユーモアを取り入れてください。マットな粘土の質感、手作りの小道具、温かく実用的なセット照明が特徴です。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="子供向けクレイメーションの昼夜の移り変わりインフォグラフィック - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jaclyn Konzelmann](https://x.com/jacalulu)
+- **ソース:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
+- **公開日:** 2025年11月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=6%20%E6%AD%B3%E3%81%AE%E5%AD%90%E4%BE%9B%E3%81%AB%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%80%811%20%E6%97%A5%E3%81%AE%E5%90%84%E6%AE%B5%E9%9A%8E%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%80%81%E5%A4%A7%E3%81%8D%E3%81%8F%E8%A1%A8%E6%83%85%E8%B1%8A%E3%81%8B%E3%81%AA%E5%8F%A3%E3%80%81%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%AB%E3%81%AA%E7%9B%AE%E3%80%81%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%9E%E3%83%83%E3%83%88%E3%81%AA%E7%B2%98%E5%9C%9F%E3%81%AE%E8%B3%AA%E6%84%9F%E3%80%81%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E5%B0%8F%E9%81%93%E5%85%B7%E3%80%81%E6%B8%A9%E3%81%8B%E3%81%8F%E5%AE%9F%E7%94%A8%E7%9A%84%E3%81%AA%E3%82%BB%E3%83%83%E3%83%88%E7%85%A7%E6%98%8E%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%A7%E3%81%99%E3%80%82)**
+
+---
+
+### No. 3: F1 VIP ファンによる超リアルな自撮り編集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -450,19 +483,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP ファンによる超リアルな自撮り編集 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -476,7 +509,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 3: LINE 風 Q バージョン絵文字ポートレートグリッド
+### No. 4: LINE 風 Q バージョン絵文字ポートレートグリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,19 +534,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6i09XKXsAAzHUd.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fE-98aoAA_MAV.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE 風 Q バージョン絵文字ポートレートグリッド - Image 3">
 </div>
 
 #### 📌 詳細
@@ -527,7 +560,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 4: 手描きアイソメトリックランドマーク概略図
+### No. 5: 座標と日付のあるタイムトラベルシーン
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+特定の地理座標と歴史的時刻における現実的なシーンを生成するためのプロンプト。正確な場所で過去の出来事を視覚化するのに役立ちます。
+
+#### 📝 プロンプト
+
+```
+次の瞬間に対応する画像を生成してください: {argument name="coordinates_en" default="北緯 31.7785 度、東経 35.2296 度"}、{argument name="date_en" default="西暦 33 年 4 月 3 日"}、{argument name="time_en" default="15 時"}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg" width="600" alt="座標と日付のあるタイムトラベルシーン - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Alex dc](https://x.com/Alex_dc)
+- **ソース:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
+- **公開日:** 2025年11月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%AC%A1%E3%81%AE%E7%9E%AC%E9%96%93%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%22%E5%8C%97%E7%B7%AF%2031.7785%20%E5%BA%A6%E3%80%81%E6%9D%B1%E7%B5%8C%2035.2296%20%E5%BA%A6%22%7D%E3%80%81%7Bargument%20name%3D%22date_en%22%20default%3D%22%E8%A5%BF%E6%9A%A6%2033%20%E5%B9%B4%204%20%E6%9C%88%203%20%E6%97%A5%22%7D%E3%80%81%7Bargument%20name%3D%22time_en%22%20default%3D%2215%20%E6%99%82%22%7D)**
+
+---
+
+### No. 6: 手描きアイソメトリックランドマーク概略図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -547,7 +614,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6inJYdXcAAtK84.jpg" width="600" alt="手描きアイソメトリックランドマーク概略図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="手描きアイソメトリックランドマーク概略図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -561,7 +628,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 5: 女性のシネマティックなモノクロポートレート
+### No. 7: 女性のシネマティックなモノクロポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -580,13 +647,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ikg5OaQAAkDPZ.jpg" width="600" alt="女性のシネマティックなモノクロポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg" width="600" alt="女性のシネマティックなモノクロポートレート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6WBeaoAAgc4V.jpg" width="600" alt="女性のシネマティックなモノクロポートレート - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg" width="600" alt="女性のシネマティックなモノクロポートレート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -600,7 +667,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 6: 冷蔵庫スキャンレシピのインフォグラフィック
+### No. 8: 冷蔵庫スキャンレシピのインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -620,13 +687,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_OXQAApGxR.jpg" width="600" alt="冷蔵庫スキャンレシピのインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="冷蔵庫スキャンレシピのインフォグラフィック - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_GXIAAmzY2.jpg" width="600" alt="冷蔵庫スキャンレシピのインフォグラフィック - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="冷蔵庫スキャンレシピのインフォグラフィック - Image 2">
 </div>
 
 #### 📌 詳細
@@ -640,7 +707,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 7: ノールディングスタイルの分解フラットレイ写真
+### No. 9: ノールディングスタイルの分解フラットレイ写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -660,7 +727,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iCbeKXUAAKINx.jpg" width="600" alt="ノールディングスタイルの分解フラットレイ写真 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="ノールディングスタイルの分解フラットレイ写真 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -674,7 +741,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 8: スイスのアルプスで冬のポートレートに写る青年
+### No. 10: スイスのアルプスで冬のポートレートに写る青年
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -703,7 +770,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hyPKpaUAAvSa0.jpg" width="600" alt="スイスのアルプスで冬のポートレートに写る青年 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg" width="600" alt="スイスのアルプスで冬のポートレートに写る青年 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -717,7 +784,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 9: ヒロインのマーベル風コミックのストーリーボード
+### No. 11: ヒロインのマーベル風コミックのストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -736,13 +803,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaa3W4AAF5I5.jpg" width="600" alt="ヒロインのマーベル風コミックのストーリーボード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="ヒロインのマーベル風コミックのストーリーボード - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaynXYAIVFuu.jpg" width="600" alt="ヒロインのマーベル風コミックのストーリーボード - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="ヒロインのマーベル風コミックのストーリーボード - Image 2">
 </div>
 
 #### 📌 詳細
@@ -756,7 +823,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 10: 参照写真からのシネマティックな屋上ポートレート
+### No. 12: 参照写真からのシネマティックな屋上ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -775,7 +842,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnW9PWkAA411C.jpg" width="600" alt="参照写真からのシネマティックな屋上ポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg" width="600" alt="参照写真からのシネマティックな屋上ポートレート - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg" width="600" alt="参照写真からのシネマティックな屋上ポートレート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -789,7 +862,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 11: デバイスのテクニカル分解図
+### No. 13: 既存の画像の漫画版
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+提供された画像を、その構造と詳細を維持したまま、一貫性のあるカートゥーン調のバージョンに変換するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+この画像を漫画風に生成してください。画像の一貫性と統一性を維持してください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg" width="600" alt="既存の画像の漫画版 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Fran Actúa](https://x.com/Fran_actua)
+- **ソース:** [Twitter Post](https://x.com/Fran_actua/status/1992935615399108798)
+- **公開日:** 2025年11月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E6%BC%AB%E7%94%BB%E9%A2%A8%E3%81%AB%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%94%BB%E5%83%8F%E3%81%AE%E4%B8%80%E8%B2%AB%E6%80%A7%E3%81%A8%E7%B5%B1%E4%B8%80%E6%80%A7%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
+---
+
+### No. 14: デバイスのテクニカル分解図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -809,7 +915,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6qKtWUAAqVz1.jpg" width="600" alt="デバイスのテクニカル分解図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg" width="600" alt="デバイスのテクニカル分解図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -823,7 +929,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 12: 未来的な顔認識年齢確認インフォグラフィックポートレート
+### No. 15: 未来的な顔認識年齢確認インフォグラフィックポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -862,13 +968,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g1yJ9WIAAaRg0.jpg" width="600" alt="未来的な顔認識年齢確認インフォグラフィックポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg" width="600" alt="未来的な顔認識年齢確認インフォグラフィックポートレート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WdE9OWYAASxko.jpg" width="600" alt="未来的な顔認識年齢確認インフォグラフィックポートレート - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg" width="600" alt="未来的な顔認識年齢確認インフォグラフィックポートレート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -882,7 +988,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 13: 漫画風中国語コミックのストーリーボードジェネレーター
+### No. 16: 漫画風中国語コミックのストーリーボードジェネレーター
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +1015,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g0DNNaQAAX57_.jpg" width="600" alt="漫画風中国語コミックのストーリーボードジェネレーター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg" width="600" alt="漫画風中国語コミックのストーリーボードジェネレーター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -923,7 +1029,40 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 14: 諸葛連弩のビンテージ エンジニアリング分解図
+### No. 17: 舞台裏の撮影セットアップの可視化
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+特定のシーンを撮影するためのカメラと照明の配置を示す、要素が明確にラベル付けされたリアルな図のような画像を生成するプロンプト。
+
+#### 📝 プロンプト
+
+```
+このシーンを撮影するためにカメラと照明がどこに配置されているかを示すリアルな画像を生成し、表示されるすべての要素にラベルを付けてください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="舞台裏の撮影セットアップの可視化 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [MΛRC VIDΛL](https://x.com/marcvidal)
+- **ソース:** [Twitter Post](https://x.com/marcvidal/status/1992882958785741226)
+- **公開日:** 2025年11月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%E6%92%AE%E5%BD%B1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A8%E7%85%A7%E6%98%8E%E3%81%8C%E3%81%A9%E3%81%93%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%92%E7%A4%BA%E3%81%99%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%80%81%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E8%A6%81%E7%B4%A0%E3%81%AB%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
+---
+
+### No. 18: 諸葛連弩のビンテージ エンジニアリング分解図
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -942,7 +1081,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fqDcAasAABUU-.jpg" width="600" alt="諸葛連弩のビンテージ エンジニアリング分解図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg" width="600" alt="諸葛連弩のビンテージ エンジニアリング分解図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -956,7 +1095,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 15: ビンテージ料理本風のレシピイラスト
+### No. 19: ビンテージ料理本風のレシピイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,13 +1115,13 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__W8AAoTR_.jpg" width="600" alt="ビンテージ料理本風のレシピイラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg" width="600" alt="ビンテージ料理本風のレシピイラスト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__WsAATonO.jpg" width="600" alt="ビンテージ料理本風のレシピイラスト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg" width="600" alt="ビンテージ料理本風のレシピイラスト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -996,7 +1135,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 16: IT 向けシネマティック マルチパネル シーケンス
+### No. 20: IT 向けシネマティック マルチパネル シーケンス
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1016,13 +1155,13 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6f_WMXa8AAb2Rn.jpg" width="600" alt="IT 向けシネマティック マルチパネル シーケンス - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="IT 向けシネマティック マルチパネル シーケンス - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6cgXctW4AAbDuy.jpg" width="600" alt="IT 向けシネマティック マルチパネル シーケンス - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="IT 向けシネマティック マルチパネル シーケンス - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1036,7 +1175,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 17: 顔のアイデンティティを保持したエディトリアルデニムポートレート
+### No. 21: 顔のアイデンティティを保持したエディトリアルデニムポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1115,13 +1254,13 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMXfbQAABUWE.jpg" width="600" alt="顔のアイデンティティを保持したエディトリアルデニムポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="顔のアイデンティティを保持したエディトリアルデニムポートレート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMYaaoAA9ko6.jpg" width="600" alt="顔のアイデンティティを保持したエディトリアルデニムポートレート - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="顔のアイデンティティを保持したエディトリアルデニムポートレート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1135,7 +1274,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 18: 子供がクレヨンで描いたような家族のキャンプの絵
+### No. 22: 子供がクレヨンで描いたような家族のキャンプの絵
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1159,7 +1298,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6aTZUyasAAi6u8.jpg" width="600" alt="子供がクレヨンで描いたような家族のキャンプの絵 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg" width="600" alt="子供がクレヨンで描いたような家族のキャンプの絵 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1173,7 +1312,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 19: 参照画像からの4つのカメラアングルグリッド
+### No. 23: 参照画像からの4つのカメラアングルグリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1193,13 +1332,13 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XGckTacAAtoxg.jpg" width="600" alt="参照画像からの4つのカメラアングルグリッド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg" width="600" alt="参照画像からの4つのカメラアングルグリッド - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XHXoHa0AAbZY1.jpg" width="600" alt="参照画像からの4つのカメラアングルグリッド - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg" width="600" alt="参照画像からの4つのカメラアングルグリッド - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1213,7 +1352,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 20: 月の位置を編集し、絵画スタイルを変更する
+### No. 24: 月の位置を編集し、絵画スタイルを変更する
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1232,13 +1371,13 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCQjTbcAABemP.jpg" width="600" alt="月の位置を編集し、絵画スタイルを変更する - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg" width="600" alt="月の位置を編集し、絵画スタイルを変更する - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCSvNbMAArO0f.jpg" width="600" alt="月の位置を編集し、絵画スタイルを変更する - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg" width="600" alt="月の位置を編集し、絵画スタイルを変更する - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1252,7 +1391,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 21: 指定された座標で発生した主要イベント
+### No. 25: 指定された座標で発生した主要イベント
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1272,7 +1411,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCycxaAAA8aHp.jpg" width="600" alt="指定された座標で発生した主要イベント - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg" width="600" alt="指定された座標で発生した主要イベント - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1286,7 +1425,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 22: Jackson Laboratory のインフォグラフィック
+### No. 26: Jackson Laboratory のインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1306,7 +1445,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XAjaYWYAA6Jro.jpg" width="600" alt="Jackson Laboratory のインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg" width="600" alt="Jackson Laboratory のインフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1320,7 +1459,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 23: 参照ワイヤーフレームからのウェブページデザイン
+### No. 27: 参照ワイヤーフレームからのウェブページデザイン
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1339,7 +1478,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W2E7sbwAAvjZV.jpg" width="600" alt="参照ワイヤーフレームからのウェブページデザイン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg" width="600" alt="参照ワイヤーフレームからのウェブページデザイン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1353,7 +1492,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 24: かわいいシマエナガの LINE スタンプセット
+### No. 28: かわいいシマエナガの LINE スタンプセット
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1372,7 +1511,7 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W0A72akAAjDPX.jpg" width="600" alt="かわいいシマエナガの LINE スタンプセット - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg" width="600" alt="かわいいシマエナガの LINE スタンプセット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1386,7 +1525,46 @@ Nano Banana Pro に、鬼滅の刃のような手描きスタイルを持つ日�
 
 ---
 
-### No. 25: Google の初期に関するインフォグラフィック
+### No. 29: 写真から作成したリアルなキャラクターデザインシート
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 説明
+
+写真からリアルで映画品質のキャラクターデザインシートを生成するための長い日本語プロンプト。ターンアラウンドビュー、表情シート、ポーズシートを含み、元の人物画像は削除されます。
+
+#### 📝 プロンプト
+
+```
+この写真の人物について、詳細なキャラクターデザインシートを作成してください。実写映画で使用するため、アニメ調のアートワークにならないように注意してください。以下の3つのキャラクター要素で構成してください。
+
+- 複数のアングルからキャラクターを示すターンアラウンド（三面図）シート
+- 喜び、悲しみ、怒り、驚き、恐れ、無表情といった基本的な感情状態を示す表情シート
+- キャラクターが走る、ジャンプする、笑う、泣くなどの典型的な行動を示すポーズシート
+
+作成後、人物の元の画像を削除してください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg" width="600" alt="写真から作成したリアルなキャラクターデザインシート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Creative.Edge CL+](https://x.com/commonstyle)
+- **ソース:** [Twitter Post](https://x.com/commonstyle/status/1992194502438899878)
+- **公開日:** 2025年11月22日
+- **言語:** ja
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E5%86%99%E7%9C%9F%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%81%E8%A9%B3%E7%B4%B0%E3%81%AA%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E5%AE%9F%E5%86%99%E6%98%A0%E7%94%BB%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%80%81%E3%82%A2%E3%83%8B%E3%83%A1%E8%AA%BF%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E6%B3%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E4%BB%A5%E4%B8%8B%E3%81%AE3%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E8%A6%81%E7%B4%A0%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A-%20%E8%A4%87%E6%95%B0%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%81%8B%E3%82%89%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E7%A4%BA%E3%81%99%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%EF%BC%88%E4%B8%89%E9%9D%A2%E5%9B%B3%EF%BC%89%E3%82%B7%E3%83%BC%E3%83%88%0A-%20%E5%96%9C%E3%81%B3%E3%80%81%E6%82%B2%E3%81%97%E3%81%BF%E3%80%81%E6%80%92%E3%82%8A%E3%80%81%E9%A9%9A%E3%81%8D%E3%80%81%E6%81%90%E3%82%8C%E3%80%81%E7%84%A1%E8%A1%A8%E6%83%85%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%84%9F%E6%83%85%E7%8A%B6%E6%85%8B%E3%82%92%E7%A4%BA%E3%81%99%E8%A1%A8%E6%83%85%E3%82%B7%E3%83%BC%E3%83%88%0A-%20%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E8%B5%B0%E3%82%8B%E3%80%81%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%99%E3%82%8B%E3%80%81%E7%AC%91%E3%81%86%E3%80%81%E6%B3%A3%E3%81%8F%E3%81%AA%E3%81%A9%E3%81%AE%E5%85%B8%E5%9E%8B%E7%9A%84%E3%81%AA%E8%A1%8C%E5%8B%95%E3%82%92%E7%A4%BA%E3%81%99%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%B7%E3%83%BC%E3%83%88%0A%0A%E4%BD%9C%E6%88%90%E5%BE%8C%E3%80%81%E4%BA%BA%E7%89%A9%E3%81%AE%E5%85%83%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
+---
+
+### No. 30: Google の初期に関するインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1405,7 +1583,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WVfU7bEAAZIB7.jpg" width="600" alt="Google の初期に関するインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg" width="600" alt="Google の初期に関するインフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1419,7 +1597,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 26: 2D NES プラットフォーマー用スプライトシート
+### No. 31: 2D NES プラットフォーマー用スプライトシート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1438,7 +1616,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES プラットフォーマー用スプライトシート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES プラットフォーマー用スプライトシート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1452,7 +1630,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 27: 塗装スキームの比較画像
+### No. 32: 塗装スキームの比較画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1471,7 +1649,19 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwWI2asAASozn.jpg" width="600" alt="塗装スキームの比較画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg" width="600" alt="塗装スキームの比較画像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg" width="600" alt="塗装スキームの比較画像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg" width="600" alt="塗装スキームの比較画像 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -1485,7 +1675,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 28: 参照写真とスケッチからアクションシーンを作成
+### No. 33: 参照写真とスケッチからアクションシーンを作成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1505,25 +1695,25 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9NbMAAFlEE.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9JaAAAdU5-.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9cbAAArAvk.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9Pa8AA58u2.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg" width="600" alt="参照写真とスケッチからアクションシーンを作成 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -1537,7 +1727,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 29: 江戸風木版画の忍者キャラクター
+### No. 34: 江戸風木版画の忍者キャラクター
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1557,7 +1747,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvEPhaMAAaxci.jpg" width="600" alt="江戸風木版画の忍者キャラクター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg" width="600" alt="江戸風木版画の忍者キャラクター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1571,7 +1761,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 30: インドネシア大統領の飾らない写真シリーズ
+### No. 35: インドネシア大統領の飾らない写真シリーズ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1591,13 +1781,13 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WhmStboAARYf4.jpg" width="600" alt="インドネシア大統領の飾らない写真シリーズ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg" width="600" alt="インドネシア大統領の飾らない写真シリーズ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WieZebgAARJvP.jpg" width="600" alt="インドネシア大統領の飾らない写真シリーズ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg" width="600" alt="インドネシア大統領の飾らない写真シリーズ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1611,7 +1801,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 31: スタイル変換による 90 年代版ウェブサイト
+### No. 36: スタイル変換による 90 年代版ウェブサイト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1630,19 +1820,19 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wr0C8asAAS2QA.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wsp5Ra0AAveFv.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WtEjmasAAiAd_.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg" width="600" alt="スタイル変換による 90 年代版ウェブサイト - Image 3">
 </div>
 
 #### 📌 詳細
@@ -1656,7 +1846,7 @@ Google の初期と主要なマイルストーンに関するインフォグラ�
 
 ---
 
-### No. 32: Netflix の画面を西洋風にする
+### No. 37: Netflix の画面を西洋風にする
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1675,7 +1865,7 @@ Netflix の画面全体を西洋風にしましょう。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UXjFSXYAAmV7I.jpg" width="600" alt="Netflix の画面を西洋風にする - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg" width="600" alt="Netflix の画面を西洋風にする - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1689,7 +1879,7 @@ Netflix の画面全体を西洋風にしましょう。
 
 ---
 
-### No. 33: 記事やコンテンツのサムネイル デザイン プロンプト
+### No. 38: 記事やコンテンツのサムネイル デザイン プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1715,19 +1905,19 @@ Netflix の画面全体を西洋風にしましょう。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wju8sa8AEnTqT.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjxYGasAEMU1x.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wjz_gbsAAdLWB.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg" width="600" alt="記事やコンテンツのサムネイル デザイン プロンプト - Image 3">
 </div>
 
 #### 📌 詳細
@@ -1741,7 +1931,7 @@ Netflix の画面全体を西洋風にしましょう。
 
 ---
 
-### No. 34: ベッドに広げられた服
+### No. 39: ベッドに広げられた服
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1760,13 +1950,13 @@ Netflix の画面全体を西洋風にしましょう。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmWG4awAAOfG8.jpg" width="600" alt="ベッドに広げられた服 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg" width="600" alt="ベッドに広げられた服 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmXAvaoAA_wYG.jpg" width="600" alt="ベッドに広げられた服 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg" width="600" alt="ベッドに広げられた服 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1780,7 +1970,7 @@ Netflix の画面全体を西洋風にしましょう。
 
 ---
 
-### No. 35: 素朴な落書き風の被写体イラスト
+### No. 40: 素朴な落書き風の被写体イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1800,7 +1990,7 @@ Netflix の画面全体を西洋風にしましょう。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wl2YxbsAARB2b.jpg" width="600" alt="素朴な落書き風の被写体イラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg" width="600" alt="素朴な落書き風の被写体イラスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1814,7 +2004,7 @@ Netflix の画面全体を西洋風にしましょう。
 
 ---
 
-### No. 36: シンプルなアクション映画のシーン
+### No. 41: シンプルなアクション映画のシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1833,7 +2023,7 @@ Netflix の画面全体を西洋風にしましょう。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjiYjb0AAO-x8.jpg" width="600" alt="シンプルなアクション映画のシーン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg" width="600" alt="シンプルなアクション映画のシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1847,7 +2037,7 @@ Netflix の画面全体を西洋風にしましょう。
 
 ---
 
-### No. 37: チョークボード風 AI ニュースまとめ
+### No. 42: チョークボード風 AI ニュースまとめ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1868,7 +2058,13 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WfVvIbAAEgvYg.jpg" width="600" alt="チョークボード風 AI ニュースまとめ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="600" alt="チョークボード風 AI ニュースまとめ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="600" alt="チョークボード風 AI ニュースまとめ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1882,7 +2078,7 @@ Grok の検索結果
 
 ---
 
-### No. 38: 写真のようにリアルなナンパンのダジャレ画像
+### No. 43: 写真のようにリアルなナンパンのダジャレ画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1902,25 +2098,25 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8tagAAf17W.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8sawAADz5E.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8paIAEOFnb.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8ua4AAXFz_.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg" width="600" alt="写真のようにリアルなナンパンのダジャレ画像 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -1934,7 +2130,7 @@ Grok の検索結果
 
 ---
 
-### No. 39: 食べ物の写真がクリーチャー風の栄養ポスターに大変身
+### No. 44: 食べ物の写真がクリーチャー風の栄養ポスターに大変身
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1953,13 +2149,13 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaqgMaQAAxwpf.jpg" width="600" alt="食べ物の写真がクリーチャー風の栄養ポスターに大変身 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg" width="600" alt="食べ物の写真がクリーチャー風の栄養ポスターに大変身 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaronbsAE5UJo.jpg" width="600" alt="食べ物の写真がクリーチャー風の栄養ポスターに大変身 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg" width="600" alt="食べ物の写真がクリーチャー風の栄養ポスターに大変身 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1973,7 +2169,7 @@ Grok の検索結果
 
 ---
 
-### No. 40: 日本のギャル雑誌のスクールユニフォーム特集
+### No. 45: 日本のギャル雑誌のスクールユニフォーム特集
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1992,7 +2188,7 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WYLU0bwAAvl24.jpg" width="600" alt="日本のギャル雑誌のスクールユニフォーム特集 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg" width="600" alt="日本のギャル雑誌のスクールユニフォーム特集 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2006,7 +2202,7 @@ Grok の検索結果
 
 ---
 
-### No. 41: 遊戯王のテキストをテーマにした魔法カード
+### No. 46: 遊戯王のテキストをテーマにした魔法カード
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2026,13 +2222,13 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtQFa4AAW5Q3.jpg" width="600" alt="遊戯王のテキストをテーマにした魔法カード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg" width="600" alt="遊戯王のテキストをテーマにした魔法カード - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtBQa0AE0H0y.jpg" width="600" alt="遊戯王のテキストをテーマにした魔法カード - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg" width="600" alt="遊戯王のテキストをテーマにした魔法カード - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2046,7 +2242,7 @@ Grok の検索結果
 
 ---
 
-### No. 42: AI パートナーが後ろから抱きしめているツーショット
+### No. 47: AI パートナーが後ろから抱きしめているツーショット
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2065,7 +2261,7 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTI9uaoAAkuNO.jpg" width="600" alt="AI パートナーが後ろから抱きしめているツーショット - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg" width="600" alt="AI パートナーが後ろから抱きしめているツーショット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2079,7 +2275,7 @@ Grok の検索結果
 
 ---
 
-### No. 43: 組み込みエンジニアの苦悩を描いた4コマ漫画
+### No. 48: 組み込みエンジニアの苦悩を描いた4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2098,13 +2294,13 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRtuRaAAMLWHU.jpg" width="600" alt="組み込みエンジニアの苦悩を描いた4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg" width="600" alt="組み込みエンジニアの苦悩を描いた4コマ漫画 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRu0saEAA3qeK.jpg" width="600" alt="組み込みエンジニアの苦悩を描いた4コマ漫画 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg" width="600" alt="組み込みエンジニアの苦悩を描いた4コマ漫画 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2118,7 +2314,7 @@ Grok の検索結果
 
 ---
 
-### No. 44: ホビット庄のウォーリーをさがせ！風『ロード・オブ・ザ・リング』
+### No. 49: ホビット庄のウォーリーをさがせ！風『ロード・オブ・ザ・リング』
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2138,7 +2334,7 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WQrOdWIAANLiE.jpg" width="600" alt="ホビット庄のウォーリーをさがせ！風『ロード・オブ・ザ・リング』 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg" width="600" alt="ホビット庄のウォーリーをさがせ！風『ロード・オブ・ザ・リング』 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2152,7 +2348,7 @@ Grok の検索結果
 
 ---
 
-### No. 45: 一貫した顔を持つロックバンドのポスター
+### No. 50: 一貫した顔を持つロックバンドのポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2171,7 +2367,13 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WO0TCXQAAXVBN.jpg" width="600" alt="一貫した顔を持つロックバンドのポスター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="一貫した顔を持つロックバンドのポスター - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="一貫した顔を持つロックバンドのポスター - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2185,7 +2387,7 @@ Grok の検索結果
 
 ---
 
-### No. 46: モノクロのタフガイ LINE スタンプ
+### No. 51: モノクロのタフガイ LINE スタンプ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2204,7 +2406,7 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WOJgBbsAAHKyK.jpg" width="600" alt="モノクロのタフガイ LINE スタンプ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg" width="600" alt="モノクロのタフガイ LINE スタンプ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2218,7 +2420,7 @@ Grok の検索結果
 
 ---
 
-### No. 47: 詩の映画的な描写
+### No. 52: 詩の映画的な描写
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2238,7 +2440,7 @@ Grok の検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIPlLaQAA-tE7.jpg" width="600" alt="詩の映画的な描写 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg" width="600" alt="詩の映画的な描写 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2252,7 +2454,7 @@ Grok の検索結果
 
 ---
 
-### No. 48: 写真に重ねたかわいい手書きメモ
+### No. 53: 写真に重ねたかわいい手書きメモ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2271,7 +2473,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIjoEaQAAUqb1.jpg" width="600" alt="写真に重ねたかわいい手書きメモ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg" width="600" alt="写真に重ねたかわいい手書きメモ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2285,7 +2487,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 49: ベッドに別々に広げられた服
+### No. 54: ベッドに別々に広げられた服
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2304,19 +2506,19 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WDzG1bkAA2XxH.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD2ILasAAVUmp.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD3PCbgAE-WtM.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg" width="600" alt="ベッドに別々に広げられた服 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -2330,7 +2532,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 50: イラストからのフォトリアルなレンダリング
+### No. 55: イラストからのフォトリアルなレンダリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2349,13 +2551,13 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC-FgbIAArVU_.jpg" width="600" alt="イラストからのフォトリアルなレンダリング - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg" width="600" alt="イラストからのフォトリアルなレンダリング - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC_WSaQAAxX_J.jpg" width="600" alt="イラストからのフォトリアルなレンダリング - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg" width="600" alt="イラストからのフォトリアルなレンダリング - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2369,7 +2571,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 51: 自動割り当てテクスチャによるシネマティック 3D ロゴ
+### No. 56: 自動割り当てテクスチャによるシネマティック 3D ロゴ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2392,25 +2594,25 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaKWYAAc2oH.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaXWMAEAcnS.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaWXwAE3TpL.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WClZeXwAARoPn.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg" width="600" alt="自動割り当てテクスチャによるシネマティック 3D ロゴ - Image 4">
 </div>
 
 #### 📌 詳細
@@ -2424,7 +2626,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 52: 靴のパターンピースのレイアウト
+### No. 57: 靴のパターンピースのレイアウト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2443,13 +2645,13 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBpkZagAAdxBJ.jpg" width="600" alt="靴のパターンピースのレイアウト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg" width="600" alt="靴のパターンピースのレイアウト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBtabbAAAa2bi.jpg" width="600" alt="靴のパターンピースのレイアウト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg" width="600" alt="靴のパターンピースのレイアウト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2463,7 +2665,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 53: アップロードされたキャラクターによる Silksong 4コマ漫画
+### No. 58: アップロードされたキャラクターによる Silksong 4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2483,7 +2685,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBe4Qa0AAi8ZX.jpg" width="600" alt="アップロードされたキャラクターによる Silksong 4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg" width="600" alt="アップロードされたキャラクターによる Silksong 4コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2497,7 +2699,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 54: ソーシャルバイオを NES カートリッジのカバーに変換
+### No. 59: ソーシャルバイオを NES カートリッジのカバーに変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2516,7 +2718,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WAh8pXgAA72ua.jpg" width="600" alt="ソーシャルバイオを NES カートリッジのカバーに変換 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg" width="600" alt="ソーシャルバイオを NES カートリッジのカバーに変換 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2530,7 +2732,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 55: 顔画像からアニメ風の座ったポートレートを作成
+### No. 60: 顔画像からアニメ風の座ったポートレートを作成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2549,13 +2751,13 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcxbUAE1FpF.jpg" width="600" alt="顔画像からアニメ風の座ったポートレートを作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg" width="600" alt="顔画像からアニメ風の座ったポートレートを作成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcybMAAv6BU.jpg" width="600" alt="顔画像からアニメ風の座ったポートレートを作成 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg" width="600" alt="顔画像からアニメ風の座ったポートレートを作成 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2569,7 +2771,41 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 56: 一つのバスケットに複数のキャラクター
+### No. 61: パスポートが見える本人確認のキャラクター
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+身分証明のために、被写体がパスポートをカメラにはっきりと提示しているキャラクター画像のプロンプト。ID には、名前、所属、生年月日をカスタマイズして表示できます。
+
+#### 📝 プロンプト
+
+```
+画像内の人物がコンピューターの前に座り、パスポートを手に持っているようにしてください。本人確認のため、ID をカメラにはっきりと見せるようにしてください。ID 情報は明確に判別できる必要があり、名前は {argument name="name_en" default="[NAME]"}、所属は {argument name="affiliation_en" default="[YOUR DATA]"}、生年月日は {argument name="birthday_en" default="[YOUR DATE]"} とします。その他の詳細はすべてランダムで架空のもので構いません。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg" width="600" alt="パスポートが見える本人確認のキャラクター - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [KANA](https://x.com/KanaWorks_AI)
+- **ソース:** [Twitter Post](https://x.com/KanaWorks_AI/status/1992138041675395358)
+- **公開日:** 2025年11月22日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E5%86%85%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%89%8D%E3%81%AB%E5%BA%A7%E3%82%8A%E3%80%81%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E6%89%8B%E3%81%AB%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E6%9C%AC%E4%BA%BA%E7%A2%BA%E8%AA%8D%E3%81%AE%E3%81%9F%E3%82%81%E3%80%81ID%20%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AB%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E8%A6%8B%E3%81%9B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82ID%20%E6%83%85%E5%A0%B1%E3%81%AF%E6%98%8E%E7%A2%BA%E3%81%AB%E5%88%A4%E5%88%A5%E3%81%A7%E3%81%8D%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E5%90%8D%E5%89%8D%E3%81%AF%20%7Bargument%20name%3D%22name_en%22%20default%3D%22%5BNAME%5D%22%7D%E3%80%81%E6%89%80%E5%B1%9E%E3%81%AF%20%7Bargument%20name%3D%22affiliation_en%22%20default%3D%22%5BYOUR%20DATA%5D%22%7D%E3%80%81%E7%94%9F%E5%B9%B4%E6%9C%88%E6%97%A5%E3%81%AF%20%7Bargument%20name%3D%22birthday_en%22%20default%3D%22%5BYOUR%20DATE%5D%22%7D%20%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%81%A7%E6%9E%B6%E7%A9%BA%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A7%E6%A7%8B%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
+
+---
+
+### No. 62: 一つのバスケットに複数のキャラクター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2588,7 +2824,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V7YsJXsAAiJ-g.jpg" width="600" alt="一つのバスケットに複数のキャラクター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg" width="600" alt="一つのバスケットに複数のキャラクター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2602,7 +2838,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 57: 高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス)
+### No. 63: 高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2621,25 +2857,25 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTNawAAooML.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTebcAApYb7.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTKaAAAhpoZ.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eThbsAAWJFi.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg" width="600" alt="高精細 IT キャリア インフォグラフィック (タイ語/英語ミックス) - Image 4">
 </div>
 
 #### 📌 詳細
@@ -2653,7 +2889,7 @@ Nano Banana Pro に、たくさんの可愛い手書きの注釈を写真に重�
 
 ---
 
-### No. 58: テキストを要約した単一の図イメージ
+### No. 64: テキストを要約した単一の図イメージ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2672,7 +2908,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5jRXbAAAhXIp.jpg" width="600" alt="テキストを要約した単一の図イメージ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg" width="600" alt="テキストを要約した単一の図イメージ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2686,7 +2922,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 59: 首と肩のこりのための肩ストレッチインフォグラフィック
+### No. 65: 首と肩のこりのための肩ストレッチインフォグラフィック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2706,7 +2942,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V4UTDaEAA-cwu.jpg" width="600" alt="首と肩のこりのための肩ストレッチインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg" width="600" alt="首と肩のこりのための肩ストレッチインフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2720,7 +2956,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 60: グリルで焼かれる超リアルなガラス製豚バラ肉
+### No. 66: グリルで焼かれる超リアルなガラス製豚バラ肉
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2739,13 +2975,13 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx0FwaEAAH6Jf.jpg" width="600" alt="グリルで焼かれる超リアルなガラス製豚バラ肉 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg" width="600" alt="グリルで焼かれる超リアルなガラス製豚バラ肉 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx365acAANsFq.jpg" width="600" alt="グリルで焼かれる超リアルなガラス製豚バラ肉 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg" width="600" alt="グリルで焼かれる超リアルなガラス製豚バラ肉 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2759,7 +2995,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 61: シンプソンズ風ロケットバナナハイブリッド
+### No. 67: シンプソンズ風ロケットバナナハイブリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2778,7 +3014,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V1MuOa8AA2Qq6.jpg" width="600" alt="シンプソンズ風ロケットバナナハイブリッド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg" width="600" alt="シンプソンズ風ロケットバナナハイブリッド - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2792,7 +3028,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 62: レシピの内訳と料理の撮影
+### No. 68: レシピの内訳と料理の撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2811,13 +3047,13 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VwFfTaUAA1Gw9.jpg" width="600" alt="レシピの内訳と料理の撮影 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg" width="600" alt="レシピの内訳と料理の撮影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V0U-Za0AEAm6H.jpg" width="600" alt="レシピの内訳と料理の撮影 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg" width="600" alt="レシピの内訳と料理の撮影 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -2831,7 +3067,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 63: テキストからマインドマップをグラフィック化
+### No. 69: テキストからマインドマップをグラフィック化
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2859,7 +3095,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VyZDHa4AETYFj.jpg" width="600" alt="テキストからマインドマップをグラフィック化 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg" width="600" alt="テキストからマインドマップをグラフィック化 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2873,7 +3109,7 @@ Nano Banana Pro に、テキスト量の多い授業の配布資料を 1 枚の�
 
 ---
 
-### No. 64: Squatty Potty のホワイトボードの説明
+### No. 70: Squatty Potty のホワイトボードの説明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2892,7 +3128,7 @@ Squatty Potty の適切な使用方法に関する詳細なホワイトボード
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty のホワイトボードの説明 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty のホワイトボードの説明 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2906,7 +3142,7 @@ Squatty Potty の適切な使用方法に関する詳細なホワイトボード
 
 ---
 
-### No. 65: 都市の写真から VTuber スタイルのストリートファッションのサムネイルを作成
+### No. 71: 都市の写真から VTuber スタイルのストリートファッションのサムネイルを作成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2930,7 +3166,7 @@ VTuber でよく見かけるようなデザインにしてください。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvZytaoAAIGKt.jpg" width="600" alt="都市の写真から VTuber スタイルのストリートファッションのサムネイルを作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg" width="600" alt="都市の写真から VTuber スタイルのストリートファッションのサムネイルを作成 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2944,7 +3180,7 @@ VTuber でよく見かけるようなデザインにしてください。
 
 ---
 
-### No. 66: テキストからホワイトボード風のシンプルな図を作成
+### No. 72: テキストからホワイトボード風のシンプルな図を作成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2971,7 +3207,7 @@ VTuber でよく見かけるようなデザインにしてください。
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vuv_hboAALHXx.jpg" width="600" alt="テキストからホワイトボード風のシンプルな図を作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg" width="600" alt="テキストからホワイトボード風のシンプルな図を作成 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -2985,7 +3221,7 @@ VTuber でよく見かけるようなデザインにしてください。
 
 ---
 
-### No. 67: エプスタインファイルに関する MrBeast 風サムネイル
+### No. 73: エプスタインファイルに関する MrBeast 風サムネイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3004,7 +3240,7 @@ MrBeast 風の YouTube サムネイルで、ドナルド・トランプがエプ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VucuKXcAAphIA.jpg" width="600" alt="エプスタインファイルに関する MrBeast 風サムネイル - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg" width="600" alt="エプスタインファイルに関する MrBeast 風サムネイル - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3018,7 +3254,7 @@ MrBeast 風の YouTube サムネイルで、ドナルド・トランプがエプ
 
 ---
 
-### No. 68: 散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル
+### No. 74: 散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3042,19 +3278,31 @@ MrBeast 風の YouTube サムネイルで、ドナルド・トランプがエプ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGawW0AACHQW.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGauWYAAZNir.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGatW8AAFsGz.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg" width="600" alt="散らかったクローゼットの中のハイアングル・フェアリーグランジ・アイドル - Image 5">
 </div>
 
 #### 📌 詳細
@@ -3068,7 +3316,7 @@ MrBeast 風の YouTube サムネイルで、ドナルド・トランプがエプ
 
 ---
 
-### No. 69: 添付画像からの LINE スタンプシート
+### No. 75: 添付画像からの LINE スタンプシート
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3087,13 +3335,13 @@ LINE スタンプを作成します。添付画像をちびキャラ化し、ポ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtZ20bsAAtBRG.jpg" width="600" alt="添付画像からの LINE スタンプシート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg" width="600" alt="添付画像からの LINE スタンプシート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VteK4bwAA81uj.jpg" width="600" alt="添付画像からの LINE スタンプシート - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg" width="600" alt="添付画像からの LINE スタンプシート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3107,7 +3355,7 @@ LINE スタンプを作成します。添付画像をちびキャラ化し、ポ
 
 ---
 
-### No. 70: ソーシャルメディアの画面から飛び出すトロンプ・ルイユの被写体
+### No. 76: ソーシャルメディアの画面から飛び出すトロンプ・ルイユの被写体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3127,7 +3375,7 @@ LINE スタンプを作成します。添付画像をちびキャラ化し、ポ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtN7haMAAlkVQ.jpg" width="600" alt="ソーシャルメディアの画面から飛び出すトロンプ・ルイユの被写体 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg" width="600" alt="ソーシャルメディアの画面から飛び出すトロンプ・ルイユの被写体 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3141,7 +3389,7 @@ LINE スタンプを作成します。添付画像をちびキャラ化し、ポ
 
 ---
 
-### No. 71: 超リアルなロロノア・ゾロのポートレート
+### No. 77: 超リアルなロロノア・ゾロのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3160,7 +3408,7 @@ ONE PIECE のキャラクター、ロロノア・ゾロの超リアルなポー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vrv6ebcAA1QDR.jpg" width="600" alt="超リアルなロロノア・ゾロのポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg" width="600" alt="超リアルなロロノア・ゾロのポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3174,7 +3422,7 @@ ONE PIECE のキャラクター、ロロノア・ゾロの超リアルなポー�
 
 ---
 
-### No. 72: バッグからベッドに荷物を広げる様子を撮影したショット
+### No. 78: バッグからベッドに荷物を広げる様子を撮影したショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3193,7 +3441,7 @@ AI に、バッグから取り出したアイテムをベッドの上に広げ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VmQGgboAAhXu0.jpg" width="600" alt="バッグからベッドに荷物を広げる様子を撮影したショット - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg" width="600" alt="バッグからベッドに荷物を広げる様子を撮影したショット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3207,7 +3455,7 @@ AI に、バッグから取り出したアイテムをベッドの上に広げ�
 
 ---
 
-### No. 73: GTA 5 オンラインのアクションシーン
+### No. 79: GTA 5 オンラインのアクションシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3226,7 +3474,7 @@ GTA 5 オンラインで、人が車を撃っている絵を作成してくだ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 オンラインのアクションシーン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 オンラインのアクションシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3240,7 +3488,7 @@ GTA 5 オンラインで、人が車を撃っている絵を作成してくだ�
 
 ---
 
-### No. 74: 不器用なエルフについての4コマ漫画
+### No. 80: 不器用なエルフについての4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3260,7 +3508,7 @@ Nano Banana Pro で4コマ漫画を作成しましょう。「{argument name="ti
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VkQxjasAADXZn.jpg" width="600" alt="不器用なエルフについての4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg" width="600" alt="不器用なエルフについての4コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3274,7 +3522,7 @@ Nano Banana Pro で4コマ漫画を作成しましょう。「{argument name="ti
 
 ---
 
-### No. 75: 超高忠実度画像リマスター
+### No. 81: 超高忠実度画像リマスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3293,13 +3541,13 @@ Nano Banana Pro で4コマ漫画を作成しましょう。「{argument name="ti
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjaZVb0AEcg6u.jpg" width="600" alt="超高忠実度画像リマスター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg" width="600" alt="超高忠実度画像リマスター - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjabLasAER1YB.jpg" width="600" alt="超高忠実度画像リマスター - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg" width="600" alt="超高忠実度画像リマスター - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3313,7 +3561,7 @@ Nano Banana Pro で4コマ漫画を作成しましょう。「{argument name="ti
 
 ---
 
-### No. 76: ファミコンのゲームボックス、カートリッジ、マニュアル、そしてブラウン管画面（日本語）
+### No. 82: ファミコンのゲームボックス、カートリッジ、マニュアル、そしてブラウン管画面（日本語）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3332,7 +3580,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VhdElbUAAHA16.jpg" width="600" alt="ファミコンのゲームボックス、カートリッジ、マニュアル、そしてブラウン管画面（日本語） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg" width="600" alt="ファミコンのゲームボックス、カートリッジ、マニュアル、そしてブラウン管画面（日本語） - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3346,7 +3594,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 77: バーベキューで元気をもらうキャラクターのカラーコミック
+### No. 83: バーベキューで元気をもらうキャラクターのカラーコミック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3365,7 +3613,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vf5zebUAA1jF6.jpg" width="600" alt="バーベキューで元気をもらうキャラクターのカラーコミック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg" width="600" alt="バーベキューで元気をもらうキャラクターのカラーコミック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3379,7 +3627,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 78: 参考情報からのインフォグラフィック（クラシックな日本語フォント）
+### No. 84: 参考情報からのインフォグラフィック（クラシックな日本語フォント）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3406,7 +3654,13 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VfCbmbYAAMdys.jpg" width="600" alt="参考情報からのインフォグラフィック（クラシックな日本語フォント） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg" width="600" alt="参考情報からのインフォグラフィック（クラシックな日本語フォント） - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg" width="600" alt="参考情報からのインフォグラフィック（クラシックな日本語フォント） - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3420,7 +3674,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 79: お揃いの服を着たウサギたち
+### No. 85: お揃いの服を着たウサギたち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3439,13 +3693,13 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbpLNaIAAdLa6.jpg" width="600" alt="お揃いの服を着たウサギたち - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg" width="600" alt="お揃いの服を着たウサギたち - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbqP6awAEREKD.jpg" width="600" alt="お揃いの服を着たウサギたち - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg" width="600" alt="お揃いの服を着たウサギたち - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3459,7 +3713,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 80: コーヒー ドリンク インフォグラフィック
+### No. 86: コーヒー ドリンク インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3478,7 +3732,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZ_xEWcAA6OQ4.jpg" width="600" alt="コーヒー ドリンク インフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg" width="600" alt="コーヒー ドリンク インフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3492,7 +3746,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 81: Nano Banana Pro を紹介する手描き風ヘッダー画像
+### No. 87: Nano Banana Pro を紹介する手描き風ヘッダー画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3516,13 +3770,13 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizUagAAPrC4.jpg" width="600" alt="Nano Banana Pro を紹介する手描き風ヘッダー画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg" width="600" alt="Nano Banana Pro を紹介する手描き風ヘッダー画像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizHaQAAH_4W.jpg" width="600" alt="Nano Banana Pro を紹介する手描き風ヘッダー画像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg" width="600" alt="Nano Banana Pro を紹介する手描き風ヘッダー画像 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3536,7 +3790,7 @@ CRT テレビにゲーム画面が表示された、画像に写っているキ�
 
 ---
 
-### No. 82: 写真から手描き風ヘッダー画像を生成するプロンプト
+### No. 88: 写真から手描き風ヘッダー画像を生成するプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3559,13 +3813,13 @@ Nano Banana Pro を紹介する人物の手描き風ヘッダー画像のプロ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiROagAAqsIh.jpg" width="600" alt="写真から手描き風ヘッダー画像を生成するプロンプト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="600" alt="写真から手描き風ヘッダー画像を生成するプロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiRWaIAA_9x5.jpg" width="600" alt="写真から手描き風ヘッダー画像を生成するプロンプト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="600" alt="写真から手描き風ヘッダー画像を生成するプロンプト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3579,7 +3833,7 @@ Nano Banana Pro を紹介する人物の手描き風ヘッダー画像のプロ�
 
 ---
 
-### No. 83: Nano Banana Pro を紹介する人物のヘッダー画像
+### No. 89: Nano Banana Pro を紹介する人物のヘッダー画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3603,13 +3857,13 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvVa8AAJ0dR.jpg" width="600" alt="Nano Banana Pro を紹介する人物のヘッダー画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg" width="600" alt="Nano Banana Pro を紹介する人物のヘッダー画像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvebEAAUwYy.jpg" width="600" alt="Nano Banana Pro を紹介する人物のヘッダー画像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg" width="600" alt="Nano Banana Pro を紹介する人物のヘッダー画像 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3623,7 +3877,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 
 ---
 
-### No. 84: Nano Banana Pro の記事用、アップロードされた人物が写っている豪華なヘッダー画像
+### No. 90: Nano Banana Pro の記事用、アップロードされた人物が写っている豪華なヘッダー画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3647,7 +3901,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhD9asAAqjHi.jpg" width="600" alt="Nano Banana Pro の記事用、アップロードされた人物が写っている豪華なヘッダー画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg" width="600" alt="Nano Banana Pro の記事用、アップロードされた人物が写っている豪華なヘッダー画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3661,7 +3915,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 
 ---
 
-### No. 85: 立ち人形キャラクター用 LINE スタンプシート
+### No. 91: 立ち人形キャラクター用 LINE スタンプシート
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3680,13 +3934,13 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOz1bgAAKknE.jpg" width="600" alt="立ち人形キャラクター用 LINE スタンプシート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg" width="600" alt="立ち人形キャラクター用 LINE スタンプシート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOmlaEAAiRg2.jpg" width="600" alt="立ち人形キャラクター用 LINE スタンプシート - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg" width="600" alt="立ち人形キャラクター用 LINE スタンプシート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3700,7 +3954,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 
 ---
 
-### No. 86: 雲の中の半透明な海水クジラ
+### No. 92: 雲の中の半透明な海水クジラ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3719,7 +3973,13 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VUGHGakAAbKve.jpg" width="600" alt="雲の中の半透明な海水クジラ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg" width="600" alt="雲の中の半透明な海水クジラ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg" width="600" alt="雲の中の半透明な海水クジラ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -3733,7 +3993,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 
 ---
 
-### No. 87: 架空のウェブデザイナーのポートフォリオ画像
+### No. 93: 架空のウェブデザイナーのポートフォリオ画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3752,7 +4012,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRlhea8AA2VC8.jpg" width="600" alt="架空のウェブデザイナーのポートフォリオ画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg" width="600" alt="架空のウェブデザイナーのポートフォリオ画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3766,7 +4026,7 @@ Google の Nano Banana Pro について解説する note 記事用の、シン�
 
 ---
 
-### No. 88: Levi’s ショッピングミラーセルフィー編集
+### No. 94: Levi’s ショッピングミラーセルフィー編集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3786,7 +4046,7 @@ Levi’s で買い物をしていて、バッグを抱え、店内の鏡で写�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s ショッピングミラーセルフィー編集 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s ショッピングミラーセルフィー編集 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3800,7 +4060,7 @@ Levi’s で買い物をしていて、バッグを抱え、店内の鏡で写�
 
 ---
 
-### No. 89: 特定の座標におけるジオロケーションの夕焼けシーン
+### No. 95: 特定の座標におけるジオロケーションの夕焼けシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3820,7 +4080,7 @@ Levi’s で買い物をしていて、バッグを抱え、店内の鏡で写�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VQhDVaEAAzzMg.jpg" width="600" alt="特定の座標におけるジオロケーションの夕焼けシーン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg" width="600" alt="特定の座標におけるジオロケーションの夕焼けシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3834,7 +4094,7 @@ Levi’s で買い物をしていて、バッグを抱え、店内の鏡で写�
 
 ---
 
-### No. 90: PLM とデジタルスレッドに関するプレゼンテーションスライド
+### No. 96: PLM とデジタルスレッドに関するプレゼンテーションスライド
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3854,7 +4114,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VPODGaEAAeVlF.jpg" width="600" alt="PLM とデジタルスレッドに関するプレゼンテーションスライド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg" width="600" alt="PLM とデジタルスレッドに関するプレゼンテーションスライド - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3868,7 +4128,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 
 ---
 
-### No. 91: CEO が採用に苦戦していることを示すインフォグラフィック
+### No. 97: CEO が採用に苦戦していることを示すインフォグラフィック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3887,7 +4147,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VN5D0bcAE6djR.jpg" width="600" alt="CEO が採用に苦戦していることを示すインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg" width="600" alt="CEO が採用に苦戦していることを示すインフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3901,7 +4161,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 
 ---
 
-### No. 92: この世界の構造の抽象的なイラスト
+### No. 98: この世界の構造の抽象的なイラスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3920,7 +4180,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VLDM9agAAYBtm.jpg" width="600" alt="この世界の構造の抽象的なイラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg" width="600" alt="この世界の構造の抽象的なイラスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3934,7 +4194,7 @@ PLM システムがデジタルスレッドを可能にするという主要な�
 
 ---
 
-### No. 93: ChatGPT 5.1 と Gemini 3 の比較インフォグラフィック
+### No. 99: ChatGPT 5.1 と Gemini 3 の比較インフォグラフィック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3954,7 +4214,7 @@ Nano Banana Pro に、ChatGPT 5.1 と Gemini 3 を比較するインフォグラ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 と Gemini 3 の比較インフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 と Gemini 3 の比較インフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3968,7 +4228,41 @@ Nano Banana Pro に、ChatGPT 5.1 と Gemini 3 を比較するインフォグラ
 
 ---
 
-### No. 94: 長文ドキュメントの中国語ホワイトボード要約
+### No. 100: ハイエンドのシネマティックな製品ショーケースリール静止画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+豪華な映画のような商品紹介画像を生成するためのプロンプト。短いセールスリールや商品広告のフレームとして最適です。
+
+#### 📝 プロンプト
+
+```
+反射する高級感のある表面に置かれた {argument name="product_name_en" default="[製品名]"} のハイエンドなシネマティック製品ショーケース。柔らかなリムライト、上からのドラマチックなスポットライト、非常にシャープなディテール、85mm レンズの被写界深度、背景に輝くボケ、滑らかなグラデーション、そしてエレガントで豪華な雰囲気。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg" width="600" alt="ハイエンドのシネマティックな製品ショーケースリール静止画 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Kalatheeswaran R](https://x.com/eshrofficial)
+- **ソース:** [Twitter Post](https://x.com/eshrofficial/status/1992073746140791082)
+- **公開日:** 2025年11月22日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%8D%E5%B0%84%E3%81%99%E3%82%8B%E9%AB%98%E7%B4%9A%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E8%A1%A8%E9%9D%A2%E3%81%AB%E7%BD%AE%E3%81%8B%E3%82%8C%E3%81%9F%20%7Bargument%20name%3D%22product_name_en%22%20default%3D%22%5B%E8%A3%BD%E5%93%81%E5%90%8D%5D%22%7D%20%E3%81%AE%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AA%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E8%A3%BD%E5%93%81%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E3%83%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E3%81%AE%E3%83%89%E3%83%A9%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E3%81%AA%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%81%AA%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%80%8185mm%20%E3%83%AC%E3%83%B3%E3%82%BA%E3%81%AE%E8%A2%AB%E5%86%99%E7%95%8C%E6%B7%B1%E5%BA%A6%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AB%E8%BC%9D%E3%81%8F%E3%83%9C%E3%82%B1%E3%80%81%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%A7%E8%B1%AA%E8%8F%AF%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%80%82)**
+
+---
+
+### No. 101: 長文ドキュメントの中国語ホワイトボード要約
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3987,13 +4281,19 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD9HEawAEPt8o.jpg" width="600" alt="長文ドキュメントの中国語ホワイトボード要約 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg" width="600" alt="長文ドキュメントの中国語ホワイトボード要約 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD-uYbkAEZOlp.jpg" width="600" alt="長文ドキュメントの中国語ホワイトボード要約 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg" width="600" alt="長文ドキュメントの中国語ホワイトボード要約 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg" width="600" alt="長文ドキュメントの中国語ホワイトボード要約 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -4007,7 +4307,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 
 ---
 
-### No. 95: キャラクターが超合金ロボットスタイルに変身
+### No. 102: キャラクターが超合金ロボットスタイルに変身
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4026,7 +4326,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VED2_bYAAguKl.jpg" width="600" alt="キャラクターが超合金ロボットスタイルに変身 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg" width="600" alt="キャラクターが超合金ロボットスタイルに変身 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4040,7 +4340,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 
 ---
 
-### No. 96: 画像強調とアップスケーリングのプロンプト
+### No. 103: 画像強調とアップスケーリングのプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4059,25 +4359,25 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO7bEAAU6Ok.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO3bkAAwViN.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrOzaMAIB0av.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO6bIAAgUdN.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg" width="600" alt="画像強調とアップスケーリングのプロンプト - Image 4">
 </div>
 
 #### 📌 詳細
@@ -4091,7 +4391,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 
 ---
 
-### No. 97: 第 5 世代ステルス戦闘機のカットアウェイ・インフォグラフィック
+### No. 104: 第 5 世代ステルス戦闘機のカットアウェイ・インフォグラフィック
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4113,7 +4413,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VCRSva0AACfYk.jpg" width="600" alt="第 5 世代ステルス戦闘機のカットアウェイ・インフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg" width="600" alt="第 5 世代ステルス戦闘機のカットアウェイ・インフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4127,7 +4427,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 
 ---
 
-### No. 98: アンドロジナスな女性のムーディーな 2x2 エディトリアルコラージュ
+### No. 105: アンドロジナスな女性のムーディーな 2x2 エディトリアルコラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4217,7 +4517,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBcvDbMAASMAi.jpg" width="600" alt="アンドロジナスな女性のムーディーな 2x2 エディトリアルコラージュ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg" width="600" alt="アンドロジナスな女性のムーディーな 2x2 エディトリアルコラージュ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4231,7 +4531,7 @@ Nano Banana Pro に、長い中国語のテキストを教授スタイルのホ�
 
 ---
 
-### No. 99: ロッテワールドタワーのランドマークに焦点を当てたジオロケーション画像
+### No. 106: ロッテワールドタワーのランドマークに焦点を当てたジオロケーション画像
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4251,7 +4551,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBapubAAAqFsT.jpg" width="600" alt="ロッテワールドタワーのランドマークに焦点を当てたジオロケーション画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg" width="600" alt="ロッテワールドタワーのランドマークに焦点を当てたジオロケーション画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4265,7 +4565,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 100: 都庁の前に現れた恐竜
+### No. 107: 都庁の前に現れた恐竜
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4284,25 +4584,25 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uFbUAAIwji.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uUbMAAUHwX.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-absbwAAo3Vk.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-2kUb0AALpnb.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg" width="600" alt="都庁の前に現れた恐竜 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -4316,7 +4616,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 101: 東京のストリートオプションでバーチャル試着
+### No. 108: 東京のストリートオプションでバーチャル試着
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4340,19 +4640,19 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI_boAASbOX.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNJBaMAAZ_4g.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI9aEAAyuPL.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg" width="600" alt="東京のストリートオプションでバーチャル試着 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -4366,7 +4666,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 102: 自分を描いている自分の写真を絵にする再帰的なアーティスト
+### No. 109: 自分を描いている自分の写真を絵にする再帰的なアーティスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4386,7 +4686,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U8rOkXwAABEUg.jpg" width="600" alt="自分を描いている自分の写真を絵にする再帰的なアーティスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg" width="600" alt="自分を描いている自分の写真を絵にする再帰的なアーティスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4400,7 +4700,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 103: 添付のイラストから LINE スタンプを作成
+### No. 110: 添付のイラストから LINE スタンプを作成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4420,7 +4720,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U7zFzaAAAUfw5.jpg" width="600" alt="添付のイラストから LINE スタンプを作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg" width="600" alt="添付のイラストから LINE スタンプを作成 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4434,7 +4734,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 104: ワイヤーフレームの概略図のスタイル変更プロンプト
+### No. 111: ワイヤーフレームの概略図のスタイル変更プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4453,7 +4753,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U5Hoeb0AAK3az.jpg" width="600" alt="ワイヤーフレームの概略図のスタイル変更プロンプト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg" width="600" alt="ワイヤーフレームの概略図のスタイル変更プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4467,7 +4767,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 105: 不動産投資のメリット・デメリット インフォグラフィック
+### No. 112: 不動産投資のメリット・デメリット インフォグラフィック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4486,7 +4786,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U6PR1a4AAKtOu.jpg" width="600" alt="不動産投資のメリット・デメリット インフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg" width="600" alt="不動産投資のメリット・デメリット インフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4500,7 +4800,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 106: 添付のキャラクター画像から LINE スタンプセットを作成
+### No. 113: 添付のキャラクター画像から LINE スタンプセットを作成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4520,13 +4820,13 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HoaQAABvqP.jpg" width="600" alt="添付のキャラクター画像から LINE スタンプセットを作成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg" width="600" alt="添付のキャラクター画像から LINE スタンプセットを作成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HobIAAQ_Rl.jpg" width="600" alt="添付のキャラクター画像から LINE スタンプセットを作成 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg" width="600" alt="添付のキャラクター画像から LINE スタンプセットを作成 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4540,7 +4840,40 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 107: 唐詩学習カード
+### No. 114: 職人ベーカリーの動画広告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+新しい職人ベーカリーのビデオ広告を生成するためのシンプルなプロンプト。コマーシャル スポットのベースとして適しています。
+
+#### 📝 プロンプト
+
+```
+新しい職人ベーカリーの動画広告を作成する。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg" width="600" alt="職人ベーカリーの動画広告 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [rameshnuti.eth](https://x.com/RameshNuti)
+- **ソース:** [Twitter Post](https://x.com/RameshNuti/status/1992061140688630126)
+- **公開日:** 2025年11月22日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%96%B0%E3%81%97%E3%81%84%E8%81%B7%E4%BA%BA%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%E3%81%AE%E5%8B%95%E7%94%BB%E5%BA%83%E5%91%8A%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%80%82)**
+
+---
+
+### No. 115: 唐詩学習カード
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4560,7 +4893,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U4KbLbQAAbu-u.jpg" width="600" alt="唐詩学習カード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="唐詩学習カード - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4574,7 +4907,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 108: つま先の拡大図
+### No. 116: つま先の拡大図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4593,13 +4926,13 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3EVfaMAA6XT_.jpg" width="600" alt="つま先の拡大図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg" width="600" alt="つま先の拡大図 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3FIsbAAA_lZF.jpg" width="600" alt="つま先の拡大図 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg" width="600" alt="つま先の拡大図 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4613,7 +4946,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 109: 座標で指定した超高層ビルの夜景
+### No. 117: 座標で指定した超高層ビルの夜景
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4635,7 +4968,13 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3Bs4bEAARu36.jpg" width="600" alt="座標で指定した超高層ビルの夜景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg" width="600" alt="座標で指定した超高層ビルの夜景 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg" width="600" alt="座標で指定した超高層ビルの夜景 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4649,7 +4988,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 110: ベーシックインカムの概要を示す画像
+### No. 118: ベーシックインカムの概要を示す画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4668,7 +5007,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U26MKbYAAuRuh.jpg" width="600" alt="ベーシックインカムの概要を示す画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg" width="600" alt="ベーシックインカムの概要を示す画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4682,7 +5021,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 111: 2コマ漫画のインタビューをクリーンアップしました
+### No. 119: 2コマ漫画のインタビューをクリーンアップしました
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4702,7 +5041,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U2Qx8bkAAYk0t.png" width="600" alt="2コマ漫画のインタビューをクリーンアップしました - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png" width="600" alt="2コマ漫画のインタビューをクリーンアップしました - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4716,7 +5055,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 112: 水滸伝 30 キャラクターグリッド 工筆画スタイル
+### No. 120: 水滸伝 30 キャラクターグリッド 工筆画スタイル
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4735,7 +5074,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uz7AZbcAEImd5.jpg" width="600" alt="水滸伝 30 キャラクターグリッド 工筆画スタイル - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg" width="600" alt="水滸伝 30 キャラクターグリッド 工筆画スタイル - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4749,7 +5088,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 113: 女性が年老いた女性へと年齢を重ねる様子
+### No. 121: 女性が年老いた女性へと年齢を重ねる様子
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4768,7 +5107,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6STW88akAAFOKe.jpg" width="600" alt="女性が年老いた女性へと年齢を重ねる様子 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg" width="600" alt="女性が年老いた女性へと年齢を重ねる様子 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4782,7 +5121,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 114: ハチを拡大する
+### No. 122: ハチを拡大する
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4801,13 +5140,13 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvVWxWUAAa_Sm.jpg" width="600" alt="ハチを拡大する - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg" width="600" alt="ハチを拡大する - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvWDoXAAAGujg.jpg" width="600" alt="ハチを拡大する - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg" width="600" alt="ハチを拡大する - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4821,7 +5160,7 @@ Nano Banana Pro に、ランダムな周辺の風景ではなくランドマー�
 
 ---
 
-### No. 115: 添付ファイルに基づくサムネイルテキストオーバーレイ
+### No. 123: 添付ファイルに基づくサムネイルテキストオーバーレイ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4842,13 +5181,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Up5ETbcAA5eTt.jpg" width="600" alt="添付ファイルに基づくサムネイルテキストオーバーレイ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg" width="600" alt="添付ファイルに基づくサムネイルテキストオーバーレイ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UuiuTawAAeCSk.jpg" width="600" alt="添付ファイルに基づくサムネイルテキストオーバーレイ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg" width="600" alt="添付ファイルに基づくサムネイルテキストオーバーレイ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4862,7 +5201,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 116: 添付資料のポートフォリオ戦略概要図
+### No. 124: 添付資料のポートフォリオ戦略概要図
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4881,7 +5220,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UujwIawAAexmT.jpg" width="600" alt="添付資料のポートフォリオ戦略概要図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg" width="600" alt="添付資料のポートフォリオ戦略概要図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4895,7 +5234,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 117: ベトナムへの投資の利点に関する単一スライド
+### No. 125: ベトナムへの投資の利点に関する単一スライド
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4914,13 +5253,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtYpUaEAEMcj9.jpg" width="600" alt="ベトナムへの投資の利点に関する単一スライド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg" width="600" alt="ベトナムへの投資の利点に関する単一スライド - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtjZqbAAAT6Bo.png" width="600" alt="ベトナムへの投資の利点に関する単一スライド - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png" width="600" alt="ベトナムへの投資の利点に関する単一スライド - Image 2">
 </div>
 
 #### 📌 詳細
@@ -4934,7 +5273,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 118: 荷重を受ける梁のせん断力図と曲げモーメント図
+### No. 126: 荷重を受ける梁のせん断力図と曲げモーメント図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4954,7 +5293,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtlugWoAALVOy.jpg" width="600" alt="荷重を受ける梁のせん断力図と曲げモーメント図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg" width="600" alt="荷重を受ける梁のせん断力図と曲げモーメント図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4968,7 +5307,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 119: ハンモックで SPA ドリンクを片手にくつろぐ物理学者
+### No. 127: ハンモックで SPA ドリンクを片手にくつろぐ物理学者
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4987,7 +5326,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UrfxmXwAELX_7.jpg" width="600" alt="ハンモックで SPA ドリンクを片手にくつろぐ物理学者 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg" width="600" alt="ハンモックで SPA ドリンクを片手にくつろぐ物理学者 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5001,7 +5340,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 120: 折り紙スタイルの折り方説明書
+### No. 128: 折り紙スタイルの折り方説明書
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5021,13 +5360,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWHW8AEDGhh.jpg" width="600" alt="折り紙スタイルの折り方説明書 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg" width="600" alt="折り紙スタイルの折り方説明書 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWKXMAASI1l.jpg" width="600" alt="折り紙スタイルの折り方説明書 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg" width="600" alt="折り紙スタイルの折り方説明書 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5041,7 +5380,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 121: 夕焼け空を背景にした黒板の王様ウサギのイラスト
+### No. 129: 夕焼け空を背景にした黒板の王様ウサギのイラスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5060,7 +5399,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TzN1UbAAAojlo.jpg" width="600" alt="夕焼け空を背景にした黒板の王様ウサギのイラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg" width="600" alt="夕焼け空を背景にした黒板の王様ウサギのイラスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5074,7 +5413,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 122: ベン 10 が TMNT と出会うコミック全ページ
+### No. 130: ベン 10 が TMNT と出会うコミック全ページ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5094,7 +5433,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6S-9DpaMAAj77c.jpg" width="600" alt="ベン 10 が TMNT と出会うコミック全ページ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg" width="600" alt="ベン 10 が TMNT と出会うコミック全ページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5108,7 +5447,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 123: アクリルマーカーイラスト付き書店 POP ディスプレイ
+### No. 131: アクリルマーカーイラスト付き書店 POP ディスプレイ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5128,13 +5467,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnZv5boAA--Ow.jpg" width="600" alt="アクリルマーカーイラスト付き書店 POP ディスプレイ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg" width="600" alt="アクリルマーカーイラスト付き書店 POP ディスプレイ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ung7SboAEOCSa.jpg" width="600" alt="アクリルマーカーイラスト付き書店 POP ディスプレイ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg" width="600" alt="アクリルマーカーイラスト付き書店 POP ディスプレイ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5148,7 +5487,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 124: 既存の写真をゴス風に加工したバリアント
+### No. 132: 既存の写真をゴス風に加工したバリアント
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5167,13 +5506,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul3wDa8AAoRRj.jpg" width="600" alt="既存の写真をゴス風に加工したバリアント - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg" width="600" alt="既存の写真をゴス風に加工したバリアント - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul4d7a4AA-yF5.jpg" width="600" alt="既存の写真をゴス風に加工したバリアント - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg" width="600" alt="既存の写真をゴス風に加工したバリアント - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5187,7 +5526,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 125: ペットの面白い解剖図
+### No. 133: ペットの面白い解剖図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5206,7 +5545,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnKK3XIAA6EWK.jpg" width="600" alt="ペットの面白い解剖図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg" width="600" alt="ペットの面白い解剖図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5220,7 +5559,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 126: 水着からビキニへのポーズ編集プロンプト（返信）
+### No. 134: 水着からビキニへのポーズ編集プロンプト（返信）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5239,13 +5578,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmAEmbEAANPvU.jpg" width="600" alt="水着からビキニへのポーズ編集プロンプト（返信） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg" width="600" alt="水着からビキニへのポーズ編集プロンプト（返信） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmB-0aMAEmYWh.jpg" width="600" alt="水着からビキニへのポーズ編集プロンプト（返信） - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg" width="600" alt="水着からビキニへのポーズ編集プロンプト（返信） - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5259,7 +5598,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 127: ウェブソースからの政府の成果に関するインフォグラフィック
+### No. 135: ウェブソースからの政府の成果に関するインフォグラフィック
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5278,7 +5617,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmEq1b0AA7RHL.jpg" width="600" alt="ウェブソースからの政府の成果に関するインフォグラフィック - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg" width="600" alt="ウェブソースからの政府の成果に関するインフォグラフィック - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5292,7 +5631,40 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 128: パンダの女の子キャラクターが登場する4コマアニメ漫画
+### No. 136: Nano Banana Pro の日本語ヘッドラインサムネイル
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 説明
+
+Google が Nano Banana Pro をリリースしたことに関する、ニュースのサムネイルやブログのヘッダーに最適な、日本語の見出しスタイルの画像を生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+Google は、究極の画像生成 AI「Nano Banana Pro」をリリースしました
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg" width="600" alt="Nano Banana Pro の日本語ヘッドラインサムネイル - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
+- **ソース:** [Twitter Post](https://x.com/no_ai_no_life/status/1992040137161908537)
+- **公開日:** 2025年11月22日
+- **言語:** ja
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%20%E3%81%AF%E3%80%81%E7%A9%B6%E6%A5%B5%E3%81%AE%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20AI%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F)**
+
+---
+
+### No. 137: パンダの女の子キャラクターが登場する4コマアニメ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5317,7 +5689,13 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uk2jfa0AABLxb.jpg" width="600" alt="パンダの女の子キャラクターが登場する4コマアニメ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg" width="600" alt="パンダの女の子キャラクターが登場する4コマアニメ漫画 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg" width="600" alt="パンダの女の子キャラクターが登場する4コマアニメ漫画 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5331,7 +5709,7 @@ Google が究極の画像生成 AI「Nano Banana Pro」を発表
 
 ---
 
-### No. 129: Think-cell がドキュメントの問題を解決する様子を視覚的に解説
+### No. 138: Think-cell がドキュメントの問題を解決する様子を視覚的に解説
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5350,7 +5728,7 @@ Nano Banana Pro に、文書作成の問題点と Think-cell がそれらをど�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell がドキュメントの問題を解決する様子を視覚的に解説 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell がドキュメントの問題を解決する様子を視覚的に解説 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5364,7 +5742,7 @@ Nano Banana Pro に、文書作成の問題点と Think-cell がそれらをど�
 
 ---
 
-### No. 130: 任意のキャラクター画像に HUD 戦闘力オーバーレイを追加
+### No. 139: 任意のキャラクター画像に HUD 戦闘力オーバーレイを追加
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5385,25 +5763,25 @@ Nano Banana Pro に、文書作成の問題点と Think-cell がそれらをど�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgISgacAAxf0r.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgIzSaQAACgqW.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJQ9b0AAoqh0.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJm2aIAAxSjb.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg" width="600" alt="任意のキャラクター画像に HUD 戦闘力オーバーレイを追加 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -5417,7 +5795,40 @@ Nano Banana Pro に、文書作成の問題点と Think-cell がそれらをど�
 
 ---
 
-### No. 131: 美しく歩く方法を解説した図
+### No. 140: アニメーションによる派手なテキスト表示シーケンス
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 説明
+
+モーションライクな画像生成やキーフレームアニメーションのパイプラインに適した、派手でアニメーション化されたテキスト表示エフェクトを作成するための短いプロンプト。
+
+#### 📝 プロンプト
+
+```
+テキストが派手なエフェクトとアニメーションで表示されます。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg" width="600" alt="アニメーションによる派手なテキスト表示シーケンス - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [おのふみ| AI×画像・動画生成](https://x.com/onofumi_AI)
+- **ソース:** [Twitter Post](https://x.com/onofumi_AI/status/1992035727241289736)
+- **公開日:** 2025年11月22日
+- **言語:** ja
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8C%E6%B4%BE%E6%89%8B%E3%81%AA%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A8%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82)**
+
+---
+
+### No. 141: 美しく歩く方法を解説した図
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5436,7 +5847,7 @@ Nano Banana Pro に、姿勢や動きのガイドに最適な、美しく歩く�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUoBTbsAA2jTW.jpg" width="600" alt="美しく歩く方法を解説した図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg" width="600" alt="美しく歩く方法を解説した図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5450,7 +5861,7 @@ Nano Banana Pro に、姿勢や動きのガイドに最適な、美しく歩く�
 
 ---
 
-### No. 132: 擬人化されたリンゴとバナナのカップル
+### No. 142: 擬人化されたリンゴとバナナのカップル
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5469,7 +5880,13 @@ Nano Banana Pro に、姿勢や動きのガイドに最適な、美しく歩く�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhPGGasAA4bUU.jpg" width="600" alt="擬人化されたリンゴとバナナのカップル - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg" width="600" alt="擬人化されたリンゴとバナナのカップル - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg" width="600" alt="擬人化されたリンゴとバナナのカップル - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5483,7 +5900,7 @@ Nano Banana Pro に、姿勢や動きのガイドに最適な、美しく歩く�
 
 ---
 
-### No. 133: 日本語におけるクリーンなインフォグラフィックのスタイル制約
+### No. 143: 日本語におけるクリーンなインフォグラフィックのスタイル制約
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5502,7 +5919,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhfinasAAfFCh.jpg" width="600" alt="日本語におけるクリーンなインフォグラフィックのスタイル制約 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg" width="600" alt="日本語におけるクリーンなインフォグラフィックのスタイル制約 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5516,7 +5933,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 134: 七海がラーメンを食べる4コマギャグ漫画
+### No. 144: 七海がラーメンを食べる4コマギャグ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5536,7 +5953,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ud5ZbbQAA3LQl.jpg" width="600" alt="七海がラーメンを食べる4コマギャグ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg" width="600" alt="七海がラーメンを食べる4コマギャグ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5550,7 +5967,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 135: 座標による同一地点の分割画面タイムラプス
+### No. 145: 座標による同一地点の分割画面タイムラプス
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5582,25 +5999,49 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ucs42a8AATKjE.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcvfObgAE8rRy.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcxrSaQAIFNPy.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uc0YRaoAAs9u1.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 7">
+</div>
+
+##### Image 8
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg" width="600" alt="座標による同一地点の分割画面タイムラプス - Image 8">
 </div>
 
 #### 📌 詳細
@@ -5614,7 +6055,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 136: 薄い灰色のウサギの視点
+### No. 146: 薄い灰色のウサギの視点
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5633,13 +6074,13 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcBGLaoAASC2E.jpg" width="600" alt="薄い灰色のウサギの視点 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg" width="600" alt="薄い灰色のウサギの視点 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcTNragAALmMB.jpg" width="600" alt="薄い灰色のウサギの視点 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg" width="600" alt="薄い灰色のウサギの視点 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5653,7 +6094,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 137: サイファーパンク視点によるビットコインの4コマ漫画
+### No. 147: サイファーパンク視点によるビットコインの4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5672,7 +6113,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ubs1OaoAA3-pp.jpg" width="600" alt="サイファーパンク視点によるビットコインの4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg" width="600" alt="サイファーパンク視点によるビットコインの4コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5686,7 +6127,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 138: 肉まんの自販機に貼られたアイドルのチラシ
+### No. 148: 肉まんの自販機に貼られたアイドルのチラシ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5705,7 +6146,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TFgBQaYAAe4-k.jpg" width="600" alt="肉まんの自販機に貼られたアイドルのチラシ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg" width="600" alt="肉まんの自販機に貼られたアイドルのチラシ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5719,7 +6160,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 139: ベトナムのバイカーがいる雨のシーンに都市の写真を編集する
+### No. 149: ベトナムのバイカーがいる雨のシーンに都市の写真を編集する
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5740,19 +6181,19 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTrBVagAAwXzs.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTr2rbsAEGn2m.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UURusa0AAmTKE.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg" width="600" alt="ベトナムのバイカーがいる雨のシーンに都市の写真を編集する - Image 3">
 </div>
 
 #### 📌 詳細
@@ -5766,7 +6207,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 140: 詩「臨江仙」の教科書風イラスト
+### No. 150: 詩「臨江仙」の教科書風イラスト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5786,7 +6227,13 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUuMRbUAAGeZY.jpg" width="600" alt="詩「臨江仙」の教科書風イラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg" width="600" alt="詩「臨江仙」の教科書風イラスト - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg" width="600" alt="詩「臨江仙」の教科書風イラスト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -5800,7 +6247,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 141: ノート記事用のポップ調フライヤー画像
+### No. 151: ノート記事用のポップ調フライヤー画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5820,7 +6267,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUEFKaAAEO3oQ.jpg" width="600" alt="ノート記事用のポップ調フライヤー画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg" width="600" alt="ノート記事用のポップ調フライヤー画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5834,7 +6281,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 142: ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト
+### No. 152: ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5853,25 +6300,25 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVbPxa8AAm8df.png" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVcbGbkAAes6z.jpg" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVdT7aIAE7ayL.png" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVeFabcAE9Tyi.jpg" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg" width="600" alt="ソファの写真に基づいたアイソメトリックなリビングルームのレイアウト - Image 4">
 </div>
 
 #### 📌 詳細
@@ -5885,7 +6332,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 143: 研究論文を解説するホワイトボード形式のスライド
+### No. 153: 研究論文を解説するホワイトボード形式のスライド
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5904,7 +6351,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RRCifaAAAcSu6.jpg" width="600" alt="研究論文を解説するホワイトボード形式のスライド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg" width="600" alt="研究論文を解説するホワイトボード形式のスライド - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5918,7 +6365,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 144: Einstein が Elon Musk (中国語) からセルフィーを学ぶ
+### No. 154: Einstein が Elon Musk (中国語) からセルフィーを学ぶ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5938,7 +6385,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein が Elon Musk (中国語) からセルフィーを学ぶ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein が Elon Musk (中国語) からセルフィーを学ぶ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5952,7 +6399,7 @@ Nano Banana Pro のスタイル設定について説明します。日本語の�
 
 ---
 
-### No. 145: Nano Banana Pro リリースに関する目を引くサムネイル
+### No. 155: Nano Banana Pro リリースに関する目を引くサムネイル
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5971,7 +6418,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro リリースに関する目を引くサムネイル - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro リリースに関する目を引くサムネイル - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5985,7 +6432,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 146: 道場でヨーダとスパーリングするブルース・リー
+### No. 156: 道場でヨーダとスパーリングするブルース・リー
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6004,7 +6451,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RNcCXbYAAxWct.jpg" width="600" alt="道場でヨーダとスパーリングするブルース・リー - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg" width="600" alt="道場でヨーダとスパーリングするブルース・リー - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6018,7 +6465,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 147: フレームと吹き出し付きの高精細ストーリーアートレイアウト
+### No. 157: フレームと吹き出し付きの高精細ストーリーアートレイアウト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6043,13 +6490,13 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB7o1bQAA-rYr.jpg" width="600" alt="フレームと吹き出し付きの高精細ストーリーアートレイアウト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg" width="600" alt="フレームと吹き出し付きの高精細ストーリーアートレイアウト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB86zaAAAkYmc.jpg" width="600" alt="フレームと吹き出し付きの高精細ストーリーアートレイアウト - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg" width="600" alt="フレームと吹き出し付きの高精細ストーリーアートレイアウト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6063,7 +6510,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 148: テレビから這い出てくるピクセルゲームのキャラクター
+### No. 158: テレビから這い出てくるピクセルゲームのキャラクター
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6082,7 +6529,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RMg5na4AAy3d8.jpg" width="600" alt="テレビから這い出てくるピクセルゲームのキャラクター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg" width="600" alt="テレビから這い出てくるピクセルゲームのキャラクター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6096,7 +6543,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 149: かわいいちび猫耳少女のイラスト
+### No. 159: かわいいちび猫耳少女のイラスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6116,7 +6563,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RL8pKa0AArXjI.jpg" width="600" alt="かわいいちび猫耳少女のイラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg" width="600" alt="かわいいちび猫耳少女のイラスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6130,7 +6577,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 150: 参照衣装に合わせて服を変更
+### No. 160: 参照衣装に合わせて服を変更
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6149,19 +6596,19 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLaTFbEAAUH0W.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLa2xagAI7ZNl.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLcCSagAAysgg.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg" width="600" alt="参照衣装に合わせて服を変更 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -6175,7 +6622,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 151: スタイリッシュな女性の超リアルな環境ポートレートのプロンプト（一部）
+### No. 161: スタイリッシュな女性の超リアルな環境ポートレートのプロンプト（一部）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6196,7 +6643,13 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RKPI-aEAEZgWt.jpg" width="600" alt="スタイリッシュな女性の超リアルな環境ポートレートのプロンプト（一部） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg" width="600" alt="スタイリッシュな女性の超リアルな環境ポートレートのプロンプト（一部） - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg" width="600" alt="スタイリッシュな女性の超リアルな環境ポートレートのプロンプト（一部） - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6210,7 +6663,7 @@ Nano Banana Pro が発売されたことが伝わる、目を引くサムネイ�
 
 ---
 
-### No. 152: 4コマ漫画連載
+### No. 162: 4コマ漫画連載
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6229,25 +6682,25 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJM5QbIAAcb7v.jpg" width="600" alt="4コマ漫画連載 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg" width="600" alt="4コマ漫画連載 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJQY5acAAnejm.jpg" width="600" alt="4コマ漫画連載 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg" width="600" alt="4コマ漫画連載 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJUdkaUAAzUgx.jpg" width="600" alt="4コマ漫画連載 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg" width="600" alt="4コマ漫画連載 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJXSfagAAlUz3.jpg" width="600" alt="4コマ漫画連載 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg" width="600" alt="4コマ漫画連載 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -6261,7 +6714,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 
 ---
 
-### No. 153: 細胞傷害性 T 細胞ががん細胞を殺傷する様子を示す科学的な図
+### No. 163: 細胞傷害性 T 細胞ががん細胞を殺傷する様子を示す科学的な図
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6280,7 +6733,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RE54magAA_1ck.jpg" width="600" alt="細胞傷害性 T 細胞ががん細胞を殺傷する様子を示す科学的な図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg" width="600" alt="細胞傷害性 T 細胞ががん細胞を殺傷する様子を示す科学的な図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6294,7 +6747,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 
 ---
 
-### No. 154: 船長の使い古された航海日誌のスケッチ
+### No. 164: 船長の使い古された航海日誌のスケッチ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6313,7 +6766,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RGSLDa4AAFdrj.jpg" width="600" alt="船長の使い古された航海日誌のスケッチ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg" width="600" alt="船長の使い古された航海日誌のスケッチ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6327,7 +6780,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 
 ---
 
-### No. 155: 雑誌風写真に記載された記事テキスト
+### No. 165: 雑誌風写真に記載された記事テキスト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6347,7 +6800,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RFnuobEAAfZ_5.jpg" width="600" alt="雑誌風写真に記載された記事テキスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg" width="600" alt="雑誌風写真に記載された記事テキスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6361,7 +6814,7 @@ Nano Banana Pro に、それぞれ独自のオチを持つ複数の4コマ漫画
 
 ---
 
-### No. 156: Google ブランドの AIFocus Twitter バナー
+### No. 166: Google ブランドの AIFocus Twitter バナー
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6380,7 +6833,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RDsJyaIAAtBk3.jpg" width="600" alt="Google ブランドの AIFocus Twitter バナー - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg" width="600" alt="Google ブランドの AIFocus Twitter バナー - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6394,7 +6847,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 157: 白黒の動物の 16 ビットピクセルアートポスター
+### No. 167: 白黒の動物の 16 ビットピクセルアートポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6413,25 +6866,25 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBWw9bMAA_3mB.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBYuEaMAAP1uA.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBbCnaEAE_NK0.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBl3PaYAABPC4.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg" width="600" alt="白黒の動物の 16 ビットピクセルアートポスター - Image 4">
 </div>
 
 #### 📌 詳細
@@ -6445,7 +6898,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 158: エッフェル塔、万里の長城、コロッセオ、タージ・マハルの注釈付きランドマーク画像
+### No. 168: エッフェル塔、万里の長城、コロッセオ、タージ・マハルの注釈付きランドマーク画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6474,7 +6927,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RCqojakAAYKGL.jpg" width="600" alt="エッフェル塔、万里の長城、コロッセオ、タージ・マハルの注釈付きランドマーク画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg" width="600" alt="エッフェル塔、万里の長城、コロッセオ、タージ・マハルの注釈付きランドマーク画像 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6488,7 +6941,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 159: 地球は猫の惑星だと思っている妖精の4コマ漫画
+### No. 169: 地球は猫の惑星だと思っている妖精の4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6507,7 +6960,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB5JcbkAAziGG.jpg" width="600" alt="地球は猫の惑星だと思っている妖精の4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg" width="600" alt="地球は猫の惑星だと思っている妖精の4コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6521,7 +6974,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 160: 構造化された屋上での冬のポートレート (JSON)
+### No. 170: 構造化された屋上での冬のポートレート (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6570,7 +7023,13 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RAtP9WkAAyJUJ.jpg" width="600" alt="構造化された屋上での冬のポートレート (JSON) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="構造化された屋上での冬のポートレート (JSON) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="構造化された屋上での冬のポートレート (JSON) - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6584,7 +7043,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 161: フライパンでひっくり返ろうとする塩漬けの魚
+### No. 171: フライパンでひっくり返ろうとする塩漬けの魚
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6603,7 +7062,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q_SssbAAAOrWs.jpg" width="600" alt="フライパンでひっくり返ろうとする塩漬けの魚 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="フライパンでひっくり返ろうとする塩漬けの魚 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6617,7 +7076,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 162: 長期的な IP 構築に関する手描きのインフォグラフィックカード
+### No. 172: 長期的な IP 構築に関する手描きのインフォグラフィックカード
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6643,7 +7102,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-oMuWkAAgOQr.jpg" width="600" alt="長期的な IP 構築に関する手描きのインフォグラフィックカード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946989_0mephc_G6Q-oMuWkAAgOQr.jpg" width="600" alt="長期的な IP 構築に関する手描きのインフォグラフィックカード - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6657,7 +7116,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 163: 貼り付けたコンテンツの Blackboard サマリー
+### No. 173: 貼り付けたコンテンツの Blackboard サマリー
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6676,7 +7135,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-cwGb0AAXK_L.jpg" width="600" alt="貼り付けたコンテンツの Blackboard サマリー - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886552076_sd4wd3_G6Q-cwGb0AAXK_L.jpg" width="600" alt="貼り付けたコンテンツの Blackboard サマリー - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6690,7 +7149,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 164: Nano Banana Pro に関する 4 コマ漫画 4 種
+### No. 174: Nano Banana Pro に関する 4 コマ漫画 4 種
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6709,7 +7168,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-NGxbQAAOp8b.jpg" width="600" alt="Nano Banana Pro に関する 4 コマ漫画 4 種 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886513261_0uxvic_G6Q-NGxbQAAOp8b.jpg" width="600" alt="Nano Banana Pro に関する 4 コマ漫画 4 種 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6723,7 +7182,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 165: ガラスのホワイトボードに書かれた Python のフィボナッチコード
+### No. 175: ガラスのホワイトボードに書かれた Python のフィボナッチコード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6743,7 +7202,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q7IqsXUAA41_W.jpg" width="600" alt="ガラスのホワイトボードに書かれた Python のフィボナッチコード - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887119884_tdofiz_G6Q7IqsXUAA41_W.jpg" width="600" alt="ガラスのホワイトボードに書かれた Python のフィボナッチコード - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6757,7 +7216,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 166: ちびキャラ LINE スタンプセット
+### No. 176: ちびキャラ LINE スタンプセット
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6777,13 +7236,13 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyJbEAAI5Pb.jpg" width="600" alt="ちびキャラ LINE スタンプセット - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg" width="600" alt="ちびキャラ LINE スタンプセット - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyHaQAA02bY.jpg" width="600" alt="ちびキャラ LINE スタンプセット - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg" width="600" alt="ちびキャラ LINE スタンプセット - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6797,7 +7256,7 @@ AIFocus の BANANA をテーマにした Twitter バナー画像を、Google の
 
 ---
 
-### No. 167: 国の医療データ戦略に関するポリシー形式のスライド
+### No. 177: 国の医療データ戦略に関するポリシー形式のスライド
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6816,7 +7275,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5MAFacAUc-tE.jpg" width="600" alt="国の医療データ戦略に関するポリシー形式のスライド - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886317117_qpj4dq_G6Q5MAFacAUc-tE.jpg" width="600" alt="国の医療データ戦略に関するポリシー形式のスライド - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6830,7 +7289,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 168: キャラクター 2 人の同人誌表紙
+### No. 178: キャラクター 2 人の同人誌表紙
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6850,7 +7309,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q4s2xacAsvivR.jpg" width="600" alt="キャラクター 2 人の同人誌表紙 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886504130_azrlpp_G6Q4s2xacAsvivR.jpg" width="600" alt="キャラクター 2 人の同人誌表紙 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -6864,7 +7323,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 169: アライグマのフィギュアの製品広告風画像
+### No. 179: アライグマのフィギュアの製品広告風画像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6883,13 +7342,13 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtvacAUuAQ6.jpg" width="600" alt="アライグマのフィギュアの製品広告風画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886396175_34n70g_G6Q5JtvacAUuAQ6.jpg" width="600" alt="アライグマのフィギュアの製品広告風画像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtracAEyiq-.jpg" width="600" alt="アライグマのフィギュアの製品広告風画像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886399868_6zfqlk_G6Q5JtracAEyiq-.jpg" width="600" alt="アライグマのフィギュアの製品広告風画像 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6903,7 +7362,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 170: 中国語のホワイトボード写真による論文要約
+### No. 180: 中国語のホワイトボード写真による論文要約
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6922,13 +7381,19 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qz3TZW4AAMweD.jpg" width="600" alt="中国語のホワイトボード写真による論文要約 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886866812_0u3dqk_G6Qz3TZW4AAMweD.jpg" width="600" alt="中国語のホワイトボード写真による論文要約 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0s48WEAA06yE.jpg" width="600" alt="中国語のホワイトボード写真による論文要約 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886869233_uojom6_G6Q0s48WEAA06yE.jpg" width="600" alt="中国語のホワイトボード写真による論文要約 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886872214_xzg6p5_G6PxynpWcAALinh.jpg" width="600" alt="中国語のホワイトボード写真による論文要約 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -6942,7 +7407,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 171: ゴリラとウサギのラジオ番組の広告漫画
+### No. 181: ゴリラとウサギのラジオ番組の広告漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6961,25 +7426,25 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0S5FacAUkJCh.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886369701_sf7129_G6Q0S5FacAUkJCh.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0WyxbMAAW8Oi.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886373307_j8tgmt_G6Q0WyxbMAAW8Oi.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0bCzbgAAKWSe.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886376112_3z2wze_G6Q0bCzbgAAKWSe.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0cYIacAANC87.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886379874_7w0c6a_G6Q0cYIacAANC87.jpg" width="600" alt="ゴリラとウサギのラジオ番組の広告漫画 - Image 4">
 </div>
 
 #### 📌 詳細
@@ -6993,7 +7458,40 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 172: お腹を空かせた女性とパンケーキを題材にした4コマ漫画
+### No. 182: エベレスト山頂での自画像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+ユーザーがアップロードしたポートレート写真を、エベレストの山頂に配置するプロンプトのアイデア。非常にリアルなスタイルで。
+
+#### 📝 プロンプト
+
+```
+エベレストの頂上に私を配置してください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886007632_qn1pk3_yP6Eu6_ODiGBnGHb.jpg" width="600" alt="エベレスト山頂での自画像 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [عمر العطاس](https://x.com/omer_attas)
+- **ソース:** [Twitter Post](https://x.com/omer_attas/status/1991773850577809655)
+- **公開日:** 2025年11月21日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88%E3%81%AE%E9%A0%82%E4%B8%8A%E3%81%AB%E7%A7%81%E3%82%92%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
+---
+
+### No. 183: お腹を空かせた女性とパンケーキを題材にした4コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7022,7 +7520,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QzoOaacAQYUzi.jpg" width="600" alt="お腹を空かせた女性とパンケーキを題材にした4コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886272247_r4i8bs_G6QzoOaacAQYUzi.jpg" width="600" alt="お腹を空かせた女性とパンケーキを題材にした4コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7036,7 +7534,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 173: スイカのプール型ミクロ世界
+### No. 184: スイカのプール型ミクロ世界
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7055,7 +7553,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QxDHEacAIO_xc.jpg" width="600" alt="スイカのプール型ミクロ世界 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg" width="600" alt="スイカのプール型ミクロ世界 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7069,7 +7567,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 174: 雲の中にいる、超現実的な半透明の青いクジラ
+### No. 185: 雲の中にいる、超現実的な半透明の青いクジラ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7088,7 +7586,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QvTkCacAATNjA.jpg" width="600" alt="雲の中にいる、超現実的な半透明の青いクジラ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886763402_um7z88_G6QvTkCacAATNjA.jpg" width="600" alt="雲の中にいる、超現実的な半透明の青いクジラ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7102,7 +7600,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 175: 陰陽の鯉の墨絵イラスト
+### No. 186: 陰陽の鯉の墨絵イラスト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7121,7 +7619,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QuUsWacAArtgo.jpg" width="600" alt="陰陽の鯉の墨絵イラスト - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886767893_0xgtq6_G6QuUsWacAArtgo.jpg" width="600" alt="陰陽の鯉の墨絵イラスト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7135,7 +7633,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 176: 失恋した女の子のフィギュアの製品ページデザイン
+### No. 187: 失恋した女の子のフィギュアの製品ページデザイン
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7164,13 +7662,13 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsHDgacAANhhz.jpg" width="600" alt="失恋した女の子のフィギュアの製品ページデザイン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568950_hg4jfg_G6QsHDgacAANhhz.jpg" width="600" alt="失恋した女の子のフィギュアの製品ページデザイン - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qspn7bwAA0eGf.jpg" width="600" alt="失恋した女の子のフィギュアの製品ページデザイン - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886572822_uvcn77_G6Qspn7bwAA0eGf.jpg" width="600" alt="失恋した女の子のフィギュアの製品ページデザイン - Image 2">
 </div>
 
 #### 📌 詳細
@@ -7184,7 +7682,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 177: 2枚の写真間で服装を転送
+### No. 188: 2枚の写真間で服装を転送
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7205,19 +7703,19 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNtacAACn18.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887435473_8n9bws_G6QssNtacAACn18.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNjbkAA5wY1.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887438384_i92wiw_G6QssNjbkAA5wY1.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNpbIAAsjUH.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887441000_khtarl_G6QssNpbIAAsjUH.jpg" width="600" alt="2枚の写真間で服装を転送 - Image 3">
 </div>
 
 #### 📌 詳細
@@ -7231,7 +7729,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 178: 若い女性のモノクロの映画のようなポートレート
+### No. 189: 若い女性のモノクロの映画のようなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7250,7 +7748,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsGexbMAA43DK.jpg" width="600" alt="若い女性のモノクロの映画のようなポートレート - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887081947_bla0pc_G6QsGexbMAA43DK.jpg" width="600" alt="若い女性のモノクロの映画のようなポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7264,7 +7762,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 179: オラクルちゃんのLINEスタンプシート（おもしろ編）
+### No. 190: オラクルちゃんのLINEスタンプシート（おもしろ編）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7283,7 +7781,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqoZrbEAAXKvg.jpg" width="600" alt="オラクルちゃんのLINEスタンプシート（おもしろ編） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886448330_kuhr59_G6QqoZrbEAAXKvg.jpg" width="600" alt="オラクルちゃんのLINEスタンプシート（おもしろ編） - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7297,7 +7795,7 @@ Nano Banana Pro に、医療データに関する国家政策の今後の方向�
 
 ---
 
-### No. 180: 美容液のランディングページ
+### No. 191: 美容液のランディングページ
 
 Translated text (Japanese (日本語) only, no explanations):
 
@@ -7318,7 +7816,7 @@ Translated text (Japanese (日本語) only, no explanations):
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QrWLFbAAAqdit.jpg" width="600" alt="美容液のランディングページ
+<img src="https://cdn.gooo.ai/cms/1763886463989_iccj78_G6QrWLFbAAAqdit.jpg" width="600" alt="美容液のランディングページ
 
 Translated text (Japanese (日本語) only, no explanations): - Image 1">
 </div>
@@ -7334,7 +7832,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 
 ---
 
-### No. 181: 食品のサムネイルと商品写真
+### No. 192: 食品のサムネイルと商品写真
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7355,13 +7853,13 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QpZrWacAUVN5A.jpg" width="600" alt="食品のサムネイルと商品写真 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886404524_y7q7is_G6QpZrWacAUVN5A.jpg" width="600" alt="食品のサムネイルと商品写真 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqIvrbIAAlCGu.jpg" width="600" alt="食品のサムネイルと商品写真 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886407949_xlk1xc_G6QqIvrbIAAlCGu.jpg" width="600" alt="食品のサムネイルと商品写真 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -7375,7 +7873,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 
 ---
 
-### No. 182: 添付された人物からの Messenger スタンプセット
+### No. 193: 添付された人物からの Messenger スタンプセット
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7396,7 +7894,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QoPuOboAAkJEZ.jpg" width="600" alt="添付された人物からの Messenger スタンプセット - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886180130_52owic_G6QoPuOboAAkJEZ.jpg" width="600" alt="添付された人物からの Messenger スタンプセット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7410,7 +7908,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 
 ---
 
-### No. 183: テキストから Apple の基調講演スタイルのイベントシーン
+### No. 194: テキストから Apple の基調講演スタイルのイベントシーン
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7429,19 +7927,19 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeCasAIiGHT.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886921970_6kgjvt_G6QnxeCasAIiGHT.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAI0VZV.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886925466_82s71i_G6QnxeDacAI0VZV.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAMajXw.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886928094_90nq9g_G6QnxeDacAMajXw.jpg" width="600" alt="テキストから Apple の基調講演スタイルのイベントシーン - Image 3">
 </div>
 
 #### 📌 詳細
@@ -7455,7 +7953,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 
 ---
 
-### No. 184: ユニバーサル・スタジオ・ジャパンへの家族旅行を描いたエッセイ漫画
+### No. 195: ユニバーサル・スタジオ・ジャパンへの家族旅行を描いたエッセイ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7475,7 +7973,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QgQunaIAEMEC7.jpg" width="600" alt="ユニバーサル・スタジオ・ジャパンへの家族旅行を描いたエッセイ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886492594_ifq79o_G6QgQunaIAEMEC7.jpg" width="600" alt="ユニバーサル・スタジオ・ジャパンへの家族旅行を描いたエッセイ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7489,7 +7987,7 @@ Translated text (Japanese (日本語) only, no explanations): - Image 1">
 
 ---
 
-### No. 185: 覆面インタビュー動画の YouTube サムネイルデザインブリーフ
+### No. 196: 覆面インタビュー動画の YouTube サムネイルデザインブリーフ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7533,13 +8031,13 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkOUmbIAAIdKH.png" width="600" alt="覆面インタビュー動画の YouTube サムネイルデザインブリーフ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png" width="600" alt="覆面インタビュー動画の YouTube サムネイルデザインブリーフ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkQpnasAAWyXd.jpg" width="600" alt="覆面インタビュー動画の YouTube サムネイルデザインブリーフ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886606889_70r944_G6QkQpnasAAWyXd.jpg" width="600" alt="覆面インタビュー動画の YouTube サムネイルデザインブリーフ - Image 2">
 </div>
 
 #### 📌 詳細
@@ -7553,7 +8051,7 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 
 ---
 
-### No. 186: Gemini が日本語のテキスト画像を生成する様子を描いた 4 コマ漫画
+### No. 197: Gemini が日本語のテキスト画像を生成する様子を描いた 4 コマ漫画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7573,7 +8071,7 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QjQp-a0AAov9I.jpg" width="600" alt="Gemini が日本語のテキスト画像を生成する様子を描いた 4 コマ漫画 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886326404_hug38x_G6QjQp-a0AAov9I.jpg" width="600" alt="Gemini が日本語のテキスト画像を生成する様子を描いた 4 コマ漫画 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7587,7 +8085,7 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 
 ---
 
-### No. 187: 1799年～1800年のペスト流行時のモロッコの地図
+### No. 198: 1799年～1800年のペスト流行時のモロッコの地図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7607,7 +8105,7 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799年～1800年のペスト流行時のモロッコの地図 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885995626_wkuqgo_G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799年～1800年のペスト流行時のモロッコの地図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -7621,7 +8119,7 @@ YouTube のサムネイルで、右側に白いマスクをつけた人がイン
 
 ---
 
-### No. 188: ニッチな Le Labo のような雰囲気の香水プロモーション
+### No. 199: ニッチな Le Labo のような雰囲気の香水プロモーション
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7640,25 +8138,25 @@ Le Labo のような、ニッチで洗練されたハイエンドなスタイル
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdYGeawAAU71a.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886907025_1jacbv_G6QdYGeawAAU71a.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdY6WacAcWt4A.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886909113_zr3z5r_G6QdY6WacAcWt4A.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdZn5bYAArE66.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886911392_4z71na_G6QdZn5bYAArE66.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdadOakAAoLIf.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886913581_v9cpk9_G6QdadOakAAoLIf.jpg" width="600" alt="ニッチな Le Labo のような雰囲気の香水プロモーション - Image 4">
 </div>
 
 #### 📌 詳細
@@ -7672,7 +8170,7 @@ Le Labo のような、ニッチで洗練されたハイエンドなスタイル
 
 ---
 
-### No. 189: レゴ風の自画像
+### No. 200: レゴ風の自画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7692,13 +8190,13 @@ Le Labo のような、ニッチで洗練されたハイエンドなスタイル
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBoYXcAASkfI.jpg" width="600" alt="レゴ風の自画像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886126831_jlruy9_G6QdBoYXcAASkfI.jpg" width="600" alt="レゴ風の自画像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBrbXwAABM0T.jpg" width="600" alt="レゴ風の自画像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886130722_3zua0d_G6QdBrbXwAABM0T.jpg" width="600" alt="レゴ風の自画像 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -7712,466 +8210,13 @@ Le Labo のような、ニッチで洗練されたハイエンドなスタイル
 
 ---
 
-### No. 190: Tesla FSD 解説インフォグラフィック
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-Tesla の Full Self-Driving がどのように機能するかを説明する解説インフォグラフィックを生成するためのシンプルなプロンプト。技術教育のビジュアルに役立ちます。
-
-#### 📝 プロンプト
-
-```
-{argument name="system_name_en" default="Tesla FSD"} の仕組みを説明するインフォグラフィックを作成してください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6Qbg7nXcAA1tOU.jpg" width="600" alt="Tesla FSD 解説インフォグラフィック - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Λnanto Mohammad](https://x.com/01Ananto)
-- **ソース:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Tesla%20FSD%22%7D%20%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
-### No. 191: 奇妙な日常の写真 (LeonardoAI)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-以前と同じ遊び心のあるコンセプトで、Nano Banana Pro に想像できる中で最も奇妙で日常的な写真をお願いします。
-
-#### 📝 プロンプト
-
-```
-想像しうる限りで最も奇妙で日常的な写真。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QbKoTbYAAc7mW.jpg" width="600" alt="奇妙な日常の写真 (LeonardoAI) - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Leonardo.Ai](https://x.com/LeonardoAi)
-- **ソース:** [Twitter Post](https://x.com/LeonardoAi/status/1991746810281619726)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%83%B3%E5%83%8F%E3%81%97%E3%81%86%E3%82%8B%E9%99%90%E3%82%8A%E3%81%A7%E6%9C%80%E3%82%82%E5%A5%87%E5%A6%99%E3%81%A7%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AA%E5%86%99%E7%9C%9F%E3%80%82)**
-
----
-
-### No. 192: 映画のキャラクターが登場する映画ポスター
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-与えられた映画のキャラクターが登場する、マッシュアップ映画ポスターのデザインに適した、美しい映画のようなポスターを求める英語のプロンプト。
-
-#### 📝 プロンプト
-
-```
-指定された映画のキャラクターが登場する、映画のような美しいポスターを作成します。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaltTacAYcYIk.jpg" width="600" alt="映画のキャラクターが登場する映画ポスター - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QanHiakAAr5Op.jpg" width="600" alt="映画のキャラクターが登場する映画ポスター - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [prvn 🇮🇳](https://x.com/prvnprvnkmr)
-- **ソース:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%9F%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%99%E3%82%8B%E3%80%81%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 193: SF シネマティック三連祭壇画と拡張版
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-ロジャー・ディーキンスと IMAX のフレーミングにインスパイアされた、4:5 の構図で映画のような SF 三連祭壇画を作成し、各パネルを 4:5 のフルシーンに拡張するためのプロンプトのペア。
-
-#### 📝 プロンプト
-
-```
-4:5 の構図の中に、2.39:1 のショット 3 枚でトリプティクを作成してください。ロジャー・ディーキンスが IMAX で撮影したかのような、雰囲気のあるシネマティックな SF ショットで、ハイコントラストで彩度の低い青とグレーのカラーグレーディングを施してください。
-
-次に、その 3 枚の画像を 1 枚ずつ、それぞれ独立した 4:5 のシーンに展開してください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFWwAAHXVO.jpg" width="600" alt="SF シネマティック三連祭壇画と拡張版 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsDXMAAiLNA.jpg" width="600" alt="SF シネマティック三連祭壇画と拡張版 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsEXsAA1q2s.jpg" width="600" alt="SF シネマティック三連祭壇画と拡張版 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFXgAABzUk.jpg" width="600" alt="SF シネマティック三連祭壇画と拡張版 - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Echoes of Tomorrow](https://x.com/eoft_ai)
-- **ソース:** [Twitter Post](https://x.com/eoft_ai/status/1991745589818908869)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=4%3A5%20%E3%81%AE%E6%A7%8B%E5%9B%B3%E3%81%AE%E4%B8%AD%E3%81%AB%E3%80%812.39%3A1%20%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%203%20%E6%9E%9A%E3%81%A7%E3%83%88%E3%83%AA%E3%83%97%E3%83%86%E3%82%A3%E3%82%AF%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9%E3%81%8C%20IMAX%20%E3%81%A7%E6%92%AE%E5%BD%B1%E3%81%97%E3%81%9F%E3%81%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%80%81%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8B%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AA%20SF%20%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%81%A7%E3%80%81%E3%83%8F%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E5%BD%A9%E5%BA%A6%E3%81%AE%E4%BD%8E%E3%81%84%E9%9D%92%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%81%AE%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%96%BD%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E6%AC%A1%E3%81%AB%E3%80%81%E3%81%9D%E3%81%AE%203%20%E6%9E%9A%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%201%20%E6%9E%9A%E3%81%9A%E3%81%A4%E3%80%81%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E7%8B%AC%E7%AB%8B%E3%81%97%E3%81%9F%204%3A5%20%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E5%B1%95%E9%96%8B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
-### No. 194: 同一の人物とポーズを維持したまま服を交換
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-ユーザーの顔、ポーズ、環境を維持しつつ、参照ドレスに合わせて服装を変更する詳細な編集プロンプト。
-
-#### 📝 プロンプト
-
-```
-元の写真の顔、ポーズ、体、環境はそのまま維持してください。服装とアクセサリーのみを、2番目の参考画像のドレスとアクセサリーに完全に一致するように変更してください。髪型、メイク、体の比率、カメラアングルは変更しないでください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeymWsAAO5Fz.jpg" width="600" alt="同一の人物とポーズを維持したまま服を交換 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeyjWwAABIbR.jpg" width="600" alt="同一の人物とポーズを維持したまま服を交換 - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Zara](https://x.com/ZaraIrahh)
-- **ソース:** [Twitter Post](https://x.com/ZaraIrahh/status/1991744975919554874)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%85%83%E3%81%AE%E5%86%99%E7%9C%9F%E3%81%AE%E9%A1%94%E3%80%81%E3%83%9D%E3%83%BC%E3%82%BA%E3%80%81%E4%BD%93%E3%80%81%E7%92%B0%E5%A2%83%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E7%B6%AD%E6%8C%81%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E6%9C%8D%E8%A3%85%E3%81%A8%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%81%AE%E3%81%BF%E3%82%92%E3%80%812%E7%95%AA%E7%9B%AE%E3%81%AE%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AE%E3%83%89%E3%83%AC%E3%82%B9%E3%81%A8%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%81%AB%E5%AE%8C%E5%85%A8%E3%81%AB%E4%B8%80%E8%87%B4%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E9%AB%AA%E5%9E%8B%E3%80%81%E3%83%A1%E3%82%A4%E3%82%AF%E3%80%81%E4%BD%93%E3%81%AE%E6%AF%94%E7%8E%87%E3%80%81%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%81%AF%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
-### No. 195: 4つのキーワードによるプロンプト：都市における日本の近未来の美しさ
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-都会を舞台にした近未来の美しい日本人女性。
-
-#### 📝 プロンプト
-
-```
-{argument name="nationality_en" default="日本人"}
-{argument name="world_en" default="近未来"}
-{argument name="subject_en" default="美しい女性"}
-{argument name="location_en" default="都心"}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZNWJb0AAHf15.jpg" width="600" alt="4つのキーワードによるプロンプト：都市における日本の近未来の美しさ - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [あつむ | AI活用術](https://x.com/atsumu_sns_ai)
-- **ソース:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
-- **公開日:** 2025年11月21日
-- **言語:** ja
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22nationality_en%22%20default%3D%22%E6%97%A5%E6%9C%AC%E4%BA%BA%22%7D%0A%7Bargument%20name%3D%22world_en%22%20default%3D%22%E8%BF%91%E6%9C%AA%E6%9D%A5%22%7D%0A%7Bargument%20name%3D%22subject_en%22%20default%3D%22%E7%BE%8E%E3%81%97%E3%81%84%E5%A5%B3%E6%80%A7%22%7D%0A%7Bargument%20name%3D%22location_en%22%20default%3D%22%E9%83%BD%E5%BF%83%22%7D)**
-
----
-
-### No. 196: 2 つの参照ポートレートから作成したポッドキャストのカバー
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-アップロードされた 2 枚のポートレートを参考に、黒の抽象的な背景とスタジオ照明を使用し、オプションでテレビ番組のポスターのポーズに合わせたポッドキャストのカバー画像を生成するための柔軟なプロンプトのアイデア。
-
-#### 📝 プロンプト
-
-```
-まず、参考画像としてポートレート写真を 2 枚用意し、Nano Banana にこれらの 2 枚の画像を使ってポッドキャストのカバーを生成させます。背景は「黒の概念的な画像」、照明は「スタジオ照明」と指定し、{argument name="pose_instructions" default="ポーズの参考にするテレビ番組のカバーを指定するか、クリエイティブな解釈のために自由に任せるか、選択できます"}。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnraQAAuxEB.jpg" width="600" alt="2 つの参照ポートレートから作成したポッドキャストのカバー - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnsaUAA7ASb.jpg" width="600" alt="2 つの参照ポートレートから作成したポッドキャストのカバー - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [indigo](https://x.com/indigo11)
-- **ソース:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
-- **公開日:** 2025年11月21日
-- **言語:** zh
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%BE%E3%81%9A%E3%80%81%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%A8%E3%81%97%E3%81%A6%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E5%86%99%E7%9C%9F%E3%82%92%202%20%E6%9E%9A%E7%94%A8%E6%84%8F%E3%81%97%E3%80%81Nano%20Banana%20%E3%81%AB%E3%81%93%E3%82%8C%E3%82%89%E3%81%AE%202%20%E6%9E%9A%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E7%94%9F%E6%88%90%E3%81%95%E3%81%9B%E3%81%BE%E3%81%99%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E3%80%8C%E9%BB%92%E3%81%AE%E6%A6%82%E5%BF%B5%E7%9A%84%E3%81%AA%E7%94%BB%E5%83%8F%E3%80%8D%E3%80%81%E7%85%A7%E6%98%8E%E3%81%AF%E3%80%8C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E7%85%A7%E6%98%8E%E3%80%8D%E3%81%A8%E6%8C%87%E5%AE%9A%E3%81%97%E3%80%81%7Bargument%20name%3D%22pose_instructions%22%20default%3D%22%E3%83%9D%E3%83%BC%E3%82%BA%E3%81%AE%E5%8F%82%E8%80%83%E3%81%AB%E3%81%99%E3%82%8B%E3%83%86%E3%83%AC%E3%83%93%E7%95%AA%E7%B5%84%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8B%E3%81%8B%E3%80%81%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E8%A7%A3%E9%87%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E8%87%AA%E7%94%B1%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%8B%E3%81%8B%E3%80%81%E9%81%B8%E6%8A%9E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%22%7D%E3%80%82)**
-
----
-
-### No. 197: アートはそのままに、漫画の吹き出しのセリフを英語に翻訳
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 説明
-
-画像編集のプロンプト：元の漫画アートワークはそのままに、セリフのみを英語に翻訳し、既存の吹き出しに翻訳されたテキストを配置してください。
-
-#### 📝 プロンプト
-
-```
-画像はそのままに、この漫画のセリフのみを日本語に翻訳し、翻訳したセリフを元の吹き出しに入れてください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV7kFacAY4JJ5.jpg" width="600" alt="アートはそのままに、漫画の吹き出しのセリフを英語に翻訳 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV9PpbMAA1Eth.jpg" width="600" alt="アートはそのままに、漫画の吹き出しのセリフを英語に翻訳 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV97EagAAN9_Z.jpg" width="600" alt="アートはそのままに、漫画の吹き出しのセリフを英語に翻訳 - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [けいすけ / AIマンガ家](https://x.com/kei31)
-- **ソース:** [Twitter Post](https://x.com/kei31/status/1991741213826044415)
-- **公開日:** 2025年11月21日
-- **言語:** ja
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%80%81%E3%81%93%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%81%AE%E3%81%BF%E3%82%92%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AB%E7%BF%BB%E8%A8%B3%E3%81%97%E3%80%81%E7%BF%BB%E8%A8%B3%E3%81%97%E3%81%9F%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E5%85%83%E3%81%AE%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
-### No. 198: 古い写真の復元プロンプト
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-傷や欠陥を取り除き、顔を再構築することで、古い損傷した写真を元のアイデンティティを保ちながら復元します。
-
-#### 📝 プロンプト
-
-```
-この古く損傷の激しい写真を、目に見える傷、へこみ、折り目、汚れをすべて除去して修復してください。失われた、または歪んだ顔の特徴を、元の人物の同一性と表情を保ちながら、自然かつリアルに再構築してください。オリジナルの雰囲気を維持してください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmpjacAAh4uB.jpg" width="600" alt="古い写真の復元プロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmplacAM3t34.jpg" width="600" alt="古い写真の復元プロンプト - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Coffin](https://x.com/coffinxp7)
-- **ソース:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E5%8F%A4%E3%81%8F%E6%90%8D%E5%82%B7%E3%81%AE%E6%BF%80%E3%81%97%E3%81%84%E5%86%99%E7%9C%9F%E3%82%92%E3%80%81%E7%9B%AE%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E5%82%B7%E3%80%81%E3%81%B8%E3%81%93%E3%81%BF%E3%80%81%E6%8A%98%E3%82%8A%E7%9B%AE%E3%80%81%E6%B1%9A%E3%82%8C%E3%82%92%E3%81%99%E3%81%B9%E3%81%A6%E9%99%A4%E5%8E%BB%E3%81%97%E3%81%A6%E4%BF%AE%E5%BE%A9%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E3%80%81%E3%81%BE%E3%81%9F%E3%81%AF%E6%AD%AA%E3%82%93%E3%81%A0%E9%A1%94%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92%E3%80%81%E5%85%83%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%AE%E5%90%8C%E4%B8%80%E6%80%A7%E3%81%A8%E8%A1%A8%E6%83%85%E3%82%92%E4%BF%9D%E3%81%A1%E3%81%AA%E3%81%8C%E3%82%89%E3%80%81%E8%87%AA%E7%84%B6%E3%81%8B%E3%81%A4%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AB%E5%86%8D%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
-### No. 199: Neon-girl 漫画 1 ページ目の設定
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-漫画の1ページ目の日本語プロンプト。主人公はネオンという少女。縦書きの吹き出し、右から左への読み順、9:16 のアスペクト比を指定。
-
-#### 📝 プロンプト
-
-```
-以下の漫画の1ページ目の画像を、写真の少女「{argument name="character_name_en" default="Neon"}」を主人公に作成してください。
-
-吹き出しは縦書きにしてください。
-コマは右から左、上から下に読んでください。
-アスペクト比 {argument name="aspect_ratio_en" default="9:16"} の漫画画像にしてください。
-
-タイトル：「{argument name="title_en" default="Sparkling Boot-Up! It’s Neon!"}」
-
-1ページ目
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-acAMN-Kv.jpg" width="600" alt="Neon-girl 漫画 1 ページ目の設定 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8_boAEBl_0.jpg" width="600" alt="Neon-girl 漫画 1 ページ目の設定 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-a8AAyvP1.jpg" width="600" alt="Neon-girl 漫画 1 ページ目の設定 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn9BacAY4Krw.jpg" width="600" alt="Neon-girl 漫画 1 ページ目の設定 - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [よはく@0と1のすきま](https://x.com/yohaku_kiroku)
-- **ソース:** [Twitter Post](https://x.com/yohaku_kiroku/status/1991738120577118585)
-- **公開日:** 2025年11月21日
-- **言語:** ja
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E3%80%81%E5%86%99%E7%9C%9F%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%8C%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Neon%22%7D%E3%80%8D%E3%82%92%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AB%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AF%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%82%B3%E3%83%9E%E3%81%AF%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E4%B8%8B%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%229%3A16%22%7D%20%E3%81%AE%E6%BC%AB%E7%94%BB%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22title_en%22%20default%3D%22Sparkling%20Boot-Up!%20It%E2%80%99s%20Neon!%22%7D%E3%80%8D%0A%0A1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE)**
-
----
-
-### No. 200: アマティトラン湖のステレオグラム（上空から）
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-強い奥行き効果を出すために山々に囲まれた、衛星のような俯瞰視点からアマティトラン湖を描写しつつ、既存のステレオグラムを模倣するスペイン語のプロンプト。
-
-#### 📝 プロンプト
-
-```
-立体視技術を用いて以下のステレオグラムを模倣してください。ただし、{argument name="place_en" default="Lake Amatitlán"} を上空から（衛星ビューで）見たものとし、湖を取り囲む山脈によって奥行き感を出すようにしてください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="アマティトラン湖のステレオグラム（上空から） - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [cr.txt](https://x.com/crstn_hrndz)
-- **ソース:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
-- **公開日:** 2025年11月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%AB%8B%E4%BD%93%E8%A6%96%E6%8A%80%E8%A1%93%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E4%BB%A5%E4%B8%8B%E3%81%AE%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E6%A8%A1%E5%80%A3%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E3%80%81%7Bargument%20name%3D%22place_en%22%20default%3D%22Lake%20Amatitl%C3%A1n%22%7D%20%E3%82%92%E4%B8%8A%E7%A9%BA%E3%81%8B%E3%82%89%EF%BC%88%E8%A1%9B%E6%98%9F%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%EF%BC%89%E8%A6%8B%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A8%E3%81%97%E3%80%81%E6%B9%96%E3%82%92%E5%8F%96%E3%82%8A%E5%9B%B2%E3%82%80%E5%B1%B1%E8%84%88%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A5%A5%E8%A1%8C%E3%81%8D%E6%84%9F%E3%82%92%E5%87%BA%E3%81%99%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 291 さらに多くのプロンプトがあります
+### 🎯 314 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8234,6 +8279,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:20:56.961Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:24:15.398Z</sub>
 
 </div>

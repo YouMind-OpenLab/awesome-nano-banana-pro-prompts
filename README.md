@@ -80,9 +80,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **496** |
+| 📝 Total Prompts | **519** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:20:40 PM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:24:12 PM UTC** |
 
 </div>
 
@@ -113,25 +113,25 @@ A wide quote card featuring a famous person, with a brown background and a light
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 4">
 </div>
 
 #### 📌 Details
@@ -165,7 +165,7 @@ Generate a map of Germany in watercolor style, on which all federal states are l
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RIeSZXgAA7cOf.jpg" width="700" alt="Watercolor map of Germany with labeled states - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Watercolor map of Germany with labeled states - Image 1">
 </div>
 
 #### 📌 Details
@@ -216,7 +216,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBYReawAAcp2x.jpg" width="700" alt="Train-ad style book advertisement image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Train-ad style book advertisement image - Image 1">
 </div>
 
 #### 📌 Details
@@ -250,7 +250,7 @@ Dream diary. A pink Kirby lying asleep on a star, blowing rainbow-colored bubble
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RHoGna4AArBDN.jpg" width="700" alt="Dream diary with Kirby blowing bubbles - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Dream diary with Kirby blowing bubbles - Image 1">
 </div>
 
 #### 📌 Details
@@ -353,7 +353,7 @@ Mirror selfie in an otaku-style computer corner, blue color tone.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G23i3sJW0AASGUw.jpg" width="700" alt="Detailed mirror-selfie otaku room scene - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Detailed mirror-selfie otaku room scene - Image 1">
 </div>
 
 #### 📌 Details
@@ -391,7 +391,7 @@ Create an image at {argument name="coordinates_en" default="34°36’07’’S 5
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jfqdVWgAADyla.jpg" width="600" alt="Historical moment at specific coordinates (1994) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg" width="600" alt="Historical moment at specific coordinates (1994) - Image 1">
 </div>
 
 #### 📌 Details
@@ -405,7 +405,41 @@ Create an image at {argument name="coordinates_en" default="34°36’07’’S 5
 
 ---
 
-### No. 2: F1 VIP fan hyper-realistic selfie edit
+### No. 2: Claymation day phases infographic for kids
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for generating a whimsical claymation-style infographic that explains the phases of the day to a six-year-old, ideal for educational visuals or animated explainers.
+
+#### 📝 Prompt
+
+```
+Create an infographic that explains the phases of the day, perfect for a {argument name="child_age" default="6-year-old"}, in the style of distinctive claymation with wide expressive mouths, googly eyes, and charming humor. Matte clay textures, handcrafted props, and warm, practical set lighting define the look.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Claymation day phases infographic for kids - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Jaclyn Konzelmann](https://x.com/jacalulu)
+- **Source:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
+- **Published:** November 24, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20infographic%20that%20explains%20the%20phases%20of%20the%20day%2C%20perfect%20for%20a%20%7Bargument%20name%3D%22child_age%22%20default%3D%226-year-old%22%7D%2C%20in%20the%20style%20of%20distinctive%20claymation%20with%20wide%20expressive%20mouths%2C%20googly%20eyes%2C%20and%20charming%20humor.%20Matte%20clay%20textures%2C%20handcrafted%20props%2C%20and%20warm%2C%20practical%20set%20lighting%20define%20the%20look.)**
+
+---
+
+### No. 3: F1 VIP fan hyper-realistic selfie edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -450,19 +484,19 @@ Important:
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP fan hyper-realistic selfie edit - Image 3">
 </div>
 
 #### 📌 Details
@@ -476,7 +510,7 @@ Important:
 
 ---
 
-### No. 3: LINE-style Q-version emoji portrait grid
+### No. 4: LINE-style Q-version emoji portrait grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,19 +535,19 @@ The final image should be 4K resolution with a {argument name="aspect_ratio_en" 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6i09XKXsAAzHUd.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fE-98aoAA_MAV.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE-style Q-version emoji portrait grid - Image 3">
 </div>
 
 #### 📌 Details
@@ -527,7 +561,41 @@ The final image should be 4K resolution with a {argument name="aspect_ratio_en" 
 
 ---
 
-### No. 4: Hand-drawn isometric landmark schematic
+### No. 5: Time-travel scene with coordinates and date
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for generating a realistic scene at specific geographic coordinates and historical time, useful for visualizing past events at exact locations.
+
+#### 📝 Prompt
+
+```
+Create an image that corresponds to the following moment: {argument name="coordinates_en" default="31.7785° N, 35.2296° E"}, {argument name="date_en" default="April 3, 33 CE"}, {argument name="time_en" default="15:00 hours"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg" width="600" alt="Time-travel scene with coordinates and date - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Alex dc](https://x.com/Alex_dc)
+- **Source:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
+- **Published:** November 24, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20that%20corresponds%20to%20the%20following%20moment%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%22April%203%2C%2033%20CE%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20hours%22%7D)**
+
+---
+
+### No. 6: Hand-drawn isometric landmark schematic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -547,7 +615,7 @@ Create a hand-drawn isometric schematic diagram of {argument name="landmark_en" 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6inJYdXcAAtK84.jpg" width="600" alt="Hand-drawn isometric landmark schematic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="Hand-drawn isometric landmark schematic - Image 1">
 </div>
 
 #### 📌 Details
@@ -561,7 +629,7 @@ Create a hand-drawn isometric schematic diagram of {argument name="landmark_en" 
 
 ---
 
-### No. 5: Cinematic black-and-white portrait of a woman
+### No. 7: Cinematic black-and-white portrait of a woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -580,13 +648,13 @@ A realistic black-and-white photograph of a young woman with long, dark hair, cl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ikg5OaQAAkDPZ.jpg" width="600" alt="Cinematic black-and-white portrait of a woman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg" width="600" alt="Cinematic black-and-white portrait of a woman - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6WBeaoAAgc4V.jpg" width="600" alt="Cinematic black-and-white portrait of a woman - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg" width="600" alt="Cinematic black-and-white portrait of a woman - Image 2">
 </div>
 
 #### 📌 Details
@@ -600,7 +668,7 @@ A realistic black-and-white photograph of a young woman with long, dark hair, cl
 
 ---
 
-### No. 6: Fridge-scan recipe infographic
+### No. 8: Fridge-scan recipe infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -620,13 +688,13 @@ Scan what’s inside the {argument name="container_en" default="fridge"} and sug
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_OXQAApGxR.jpg" width="600" alt="Fridge-scan recipe infographic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Fridge-scan recipe infographic - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_GXIAAmzY2.jpg" width="600" alt="Fridge-scan recipe infographic - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Fridge-scan recipe infographic - Image 2">
 </div>
 
 #### 📌 Details
@@ -640,7 +708,7 @@ Scan what’s inside the {argument name="container_en" default="fridge"} and sug
 
 ---
 
-### No. 7: Knolling-style exploded flat-lay photo
+### No. 9: Knolling-style exploded flat-lay photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -660,7 +728,7 @@ Ultra-realistic 8K flat-lay photo in strict knolling style. A top-down 90º shot
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling-style exploded flat-lay photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling-style exploded flat-lay photo - Image 1">
 </div>
 
 #### 📌 Details
@@ -674,7 +742,7 @@ Ultra-realistic 8K flat-lay photo in strict knolling style. A top-down 90º shot
 
 ---
 
-### No. 8: Swiss alpine winter portrait of a young man
+### No. 10: Swiss alpine winter portrait of a young man
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -703,7 +771,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hyPKpaUAAvSa0.jpg" width="600" alt="Swiss alpine winter portrait of a young man - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg" width="600" alt="Swiss alpine winter portrait of a young man - Image 1">
 </div>
 
 #### 📌 Details
@@ -717,7 +785,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 
 ---
 
-### No. 9: Marvel-style comic storyboard of a heroine
+### No. 11: Marvel-style comic storyboard of a heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -736,13 +804,13 @@ Several comic panels in Marvel style with vibrant colors. A heroine with a red c
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaa3W4AAF5I5.jpg" width="600" alt="Marvel-style comic storyboard of a heroine - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="Marvel-style comic storyboard of a heroine - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaynXYAIVFuu.jpg" width="600" alt="Marvel-style comic storyboard of a heroine - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="Marvel-style comic storyboard of a heroine - Image 2">
 </div>
 
 #### 📌 Details
@@ -756,7 +824,7 @@ Several comic panels in Marvel style with vibrant colors. A heroine with a red c
 
 ---
 
-### No. 10: Cinematic rooftop portrait from reference photos
+### No. 12: Cinematic rooftop portrait from reference photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -775,7 +843,13 @@ Hyper-realistic 9:16 overhead shot of the man from the attached image (I upload 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnW9PWkAA411C.jpg" width="600" alt="Cinematic rooftop portrait from reference photos - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg" width="600" alt="Cinematic rooftop portrait from reference photos - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg" width="600" alt="Cinematic rooftop portrait from reference photos - Image 2">
 </div>
 
 #### 📌 Details
@@ -789,7 +863,40 @@ Hyper-realistic 9:16 overhead shot of the man from the attached image (I upload 
 
 ---
 
-### No. 11: Technical exploded view diagram of a device
+### No. 13: Cartoon version of an existing image
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt for converting a provided image into a coherent cartoon-style version while preserving its structure and details.
+
+#### 📝 Prompt
+
+```
+Generate a cartoon version of this image. Maintain the consistency and coherence of the image
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg" width="600" alt="Cartoon version of an existing image - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Fran Actúa](https://x.com/Fran_actua)
+- **Source:** [Twitter Post](https://x.com/Fran_actua/status/1992935615399108798)
+- **Published:** November 24, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20cartoon%20version%20of%20this%20image.%20Maintain%20the%20consistency%20and%20coherence%20of%20the%20image)**
+
+---
+
+### No. 14: Technical exploded view diagram of a device
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -809,7 +916,7 @@ Create a technical exploded view diagram of a {argument name="subject_en" defaul
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6qKtWUAAqVz1.jpg" width="600" alt="Technical exploded view diagram of a device - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg" width="600" alt="Technical exploded view diagram of a device - Image 1">
 </div>
 
 #### 📌 Details
@@ -823,7 +930,7 @@ Create a technical exploded view diagram of a {argument name="subject_en" defaul
 
 ---
 
-### No. 12: Futuristic facial age-checker infographic portrait
+### No. 15: Futuristic facial age-checker infographic portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -862,13 +969,13 @@ Overall style: futuristic AI-guided skincare analysis, minimalistic, premium edi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g1yJ9WIAAaRg0.jpg" width="600" alt="Futuristic facial age-checker infographic portrait - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg" width="600" alt="Futuristic facial age-checker infographic portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WdE9OWYAASxko.jpg" width="600" alt="Futuristic facial age-checker infographic portrait - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg" width="600" alt="Futuristic facial age-checker infographic portrait - Image 2">
 </div>
 
 #### 📌 Details
@@ -882,7 +989,7 @@ Overall style: futuristic AI-guided skincare analysis, minimalistic, premium edi
 
 ---
 
-### No. 13: Manga-style Chinese comic storyboard generator
+### No. 16: Manga-style Chinese comic storyboard generator
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +1016,7 @@ Do not output analysis, directly output the paneled manga images, and use Chines
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g0DNNaQAAX57_.jpg" width="600" alt="Manga-style Chinese comic storyboard generator - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg" width="600" alt="Manga-style Chinese comic storyboard generator - Image 1">
 </div>
 
 #### 📌 Details
@@ -923,7 +1030,40 @@ Do not output analysis, directly output the paneled manga images, and use Chines
 
 ---
 
-### No. 14: Vintage engineering exploded view of Zhuge repeating crossbow
+### No. 17: Behind-the-scenes filming setup visualization
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt to generate a realistic diagram-like image showing camera and lighting placement for filming a given scene, with elements clearly labeled.
+
+#### 📝 Prompt
+
+```
+Generate a realistic image that shows where the camera and lights are placed to film this scene and label all the elements that appear
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="Behind-the-scenes filming setup visualization - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [MΛRC VIDΛL](https://x.com/marcvidal)
+- **Source:** [Twitter Post](https://x.com/marcvidal/status/1992882958785741226)
+- **Published:** November 24, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20realistic%20image%20that%20shows%20where%20the%20camera%20and%20lights%20are%20placed%20to%20film%20this%20scene%20and%20label%20all%20the%20elements%20that%20appear)**
+
+---
+
+### No. 18: Vintage engineering exploded view of Zhuge repeating crossbow
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +1083,7 @@ Please create a vintage-style engineering exploded view diagram of the {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fqDcAasAABUU-.jpg" width="600" alt="Vintage engineering exploded view of Zhuge repeating crossbow - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg" width="600" alt="Vintage engineering exploded view of Zhuge repeating crossbow - Image 1">
 </div>
 
 #### 📌 Details
@@ -957,7 +1097,7 @@ Please create a vintage-style engineering exploded view diagram of the {argument
 
 ---
 
-### No. 15: Vintage cookbook-style recipe illustration
+### No. 19: Vintage cookbook-style recipe illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,13 +1117,13 @@ Turn this {argument name="dish_en" default="ramen"} into a cute recipe page with
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__W8AAoTR_.jpg" width="600" alt="Vintage cookbook-style recipe illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg" width="600" alt="Vintage cookbook-style recipe illustration - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__WsAATonO.jpg" width="600" alt="Vintage cookbook-style recipe illustration - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg" width="600" alt="Vintage cookbook-style recipe illustration - Image 2">
 </div>
 
 #### 📌 Details
@@ -997,7 +1137,7 @@ Turn this {argument name="dish_en" default="ramen"} into a cute recipe page with
 
 ---
 
-### No. 16: Cinematic multi-panel sequence for IT
+### No. 20: Cinematic multi-panel sequence for IT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1017,13 +1157,13 @@ Create a cinematic sequence using multiple widescreen panel grids to tell the st
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6f_WMXa8AAb2Rn.jpg" width="600" alt="Cinematic multi-panel sequence for IT - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="Cinematic multi-panel sequence for IT - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6cgXctW4AAbDuy.jpg" width="600" alt="Cinematic multi-panel sequence for IT - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="Cinematic multi-panel sequence for IT - Image 2">
 </div>
 
 #### 📌 Details
@@ -1037,7 +1177,7 @@ Create a cinematic sequence using multiple widescreen panel grids to tell the st
 
 ---
 
-### No. 17: Editorial denim portrait preserving face identity
+### No. 21: Editorial denim portrait preserving face identity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1116,13 +1256,13 @@ A JSON-style prompt for creating an 8K editorial fashion portrait of a person in
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMXfbQAABUWE.jpg" width="600" alt="Editorial denim portrait preserving face identity - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="Editorial denim portrait preserving face identity - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMYaaoAA9ko6.jpg" width="600" alt="Editorial denim portrait preserving face identity - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="Editorial denim portrait preserving face identity - Image 2">
 </div>
 
 #### 📌 Details
@@ -1136,7 +1276,7 @@ A JSON-style prompt for creating an 8K editorial fashion portrait of a person in
 
 ---
 
-### No. 18: Childlike crayon-style family camping drawing
+### No. 22: Childlike crayon-style family camping drawing
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1160,7 +1300,7 @@ Change the drawing into a style like an elementary school student’s crayon dra
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6aTZUyasAAi6u8.jpg" width="600" alt="Childlike crayon-style family camping drawing - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg" width="600" alt="Childlike crayon-style family camping drawing - Image 1">
 </div>
 
 #### 📌 Details
@@ -1174,7 +1314,7 @@ Change the drawing into a style like an elementary school student’s crayon dra
 
 ---
 
-### No. 19: Grid of four camera angles from reference image
+### No. 23: Grid of four camera angles from reference image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1194,13 +1334,13 @@ Create a grid of four different camera angles of {argument name="reference_en" d
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XGckTacAAtoxg.jpg" width="600" alt="Grid of four camera angles from reference image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg" width="600" alt="Grid of four camera angles from reference image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XHXoHa0AAbZY1.jpg" width="600" alt="Grid of four camera angles from reference image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg" width="600" alt="Grid of four camera angles from reference image - Image 2">
 </div>
 
 #### 📌 Details
@@ -1214,7 +1354,7 @@ Create a grid of four different camera angles of {argument name="reference_en" d
 
 ---
 
-### No. 20: Edit moon position and change painting style
+### No. 24: Edit moon position and change painting style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1233,13 +1373,13 @@ Move the moon that is painted in the background of the woman to the left side fr
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCQjTbcAABemP.jpg" width="600" alt="Edit moon position and change painting style - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg" width="600" alt="Edit moon position and change painting style - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCSvNbMAArO0f.jpg" width="600" alt="Edit moon position and change painting style - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg" width="600" alt="Edit moon position and change painting style - Image 2">
 </div>
 
 #### 📌 Details
@@ -1253,7 +1393,7 @@ Move the moon that is painted in the background of the woman to the left side fr
 
 ---
 
-### No. 21: Major event at given coordinates
+### No. 25: Major event at given coordinates
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1273,7 +1413,7 @@ Create an image of the major event that happened at these coordinates: {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCycxaAAA8aHp.jpg" width="600" alt="Major event at given coordinates - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg" width="600" alt="Major event at given coordinates - Image 1">
 </div>
 
 #### 📌 Details
@@ -1287,7 +1427,7 @@ Create an image of the major event that happened at these coordinates: {argument
 
 ---
 
-### No. 22: Infographic about the Jackson Laboratory
+### No. 26: Infographic about the Jackson Laboratory
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1307,7 +1447,7 @@ Infographic about {argument name="topic_en" default="the Jackson Laboratory"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XAjaYWYAA6Jro.jpg" width="600" alt="Infographic about the Jackson Laboratory - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg" width="600" alt="Infographic about the Jackson Laboratory - Image 1">
 </div>
 
 #### 📌 Details
@@ -1321,7 +1461,7 @@ Infographic about {argument name="topic_en" default="the Jackson Laboratory"}.
 
 ---
 
-### No. 23: Web page design from reference wireframe
+### No. 27: Web page design from reference wireframe
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1480,7 @@ Please create a design based on the text in the reference image. Ignore the layo
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W2E7sbwAAvjZV.jpg" width="600" alt="Web page design from reference wireframe - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg" width="600" alt="Web page design from reference wireframe - Image 1">
 </div>
 
 #### 📌 Details
@@ -1354,7 +1494,7 @@ Please create a design based on the text in the reference image. Ignore the layo
 
 ---
 
-### No. 24: Cute Shima-enaga LINE sticker set
+### No. 28: Cute Shima-enaga LINE sticker set
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1373,7 +1513,7 @@ Design 12 LINE stickers themed around a deformed, cute Shima-enaga bird. Vary th
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W0A72akAAjDPX.jpg" width="600" alt="Cute Shima-enaga LINE sticker set - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg" width="600" alt="Cute Shima-enaga LINE sticker set - Image 1">
 </div>
 
 #### 📌 Details
@@ -1387,7 +1527,45 @@ Design 12 LINE stickers themed around a deformed, cute Shima-enaga bird. Vary th
 
 ---
 
-### No. 25: Infographic about Google’s early years
+### No. 29: Realistic character design sheet from a photo
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+A long Japanese prompt for generating a realistic film-ready character design sheet from a photo, including turnaround views, expression sheet, and pose sheet, then removing the original person image.
+
+#### 📝 Prompt
+
+```
+Please create a detailed character design sheet of the person in this photo. It will be used in a live-action movie, so be careful not to make it look like anime-style artwork. Be sure to structure it with the following three character elements:
+ - A turnaround (three-view) sheet showing the character from multiple angles
+ - An expression sheet showing basic emotional states such as joy, sadness, anger, surprise, fear, and neutral
+ - A pose sheet showing typical actions, such as the character running, jumping, laughing, and crying
+
+Once it is created, remove the original image of the person.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg" width="600" alt="Realistic character design sheet from a photo - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Creative.Edge CL+](https://x.com/commonstyle)
+- **Source:** [Twitter Post](https://x.com/commonstyle/status/1992194502438899878)
+- **Published:** November 22, 2025
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20a%20detailed%20character%20design%20sheet%20of%20the%20person%20in%20this%20photo.%20It%20will%20be%20used%20in%20a%20live-action%20movie%2C%20so%20be%20careful%20not%20to%20make%20it%20look%20like%20anime-style%20artwork.%20Be%20sure%20to%20structure%20it%20with%20the%20following%20three%20character%20elements%3A%0A%20-%20A%20turnaround%20(three-view)%20sheet%20showing%20the%20character%20from%20multiple%20angles%0A%20-%20An%20expression%20sheet%20showing%20basic%20emotional%20states%20such%20as%20joy%2C%20sadness%2C%20anger%2C%20surprise%2C%20fear%2C%20and%20neutral%0A%20-%20A%20pose%20sheet%20showing%20typical%20actions%2C%20such%20as%20the%20character%20running%2C%20jumping%2C%20laughing%2C%20and%20crying%0A%0AOnce%20it%20is%20created%2C%20remove%20the%20original%20image%20of%20the%20person.)**
+
+---
+
+### No. 30: Infographic about Google’s early years
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1406,7 +1584,7 @@ Please create an infographic about Google’s early years and its major mileston
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WVfU7bEAAZIB7.jpg" width="600" alt="Infographic about Google’s early years - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg" width="600" alt="Infographic about Google’s early years - Image 1">
 </div>
 
 #### 📌 Details
@@ -1420,7 +1598,7 @@ Please create an infographic about Google’s early years and its major mileston
 
 ---
 
-### No. 26: Sprite sheet for 2D NES platformer
+### No. 31: Sprite sheet for 2D NES platformer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1439,7 +1617,7 @@ Create a sprite sheet for a 2D NES platforming game, including enemies and NPCs.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwNlQWcAAaPsj.jpg" width="600" alt="Sprite sheet for 2D NES platformer - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg" width="600" alt="Sprite sheet for 2D NES platformer - Image 1">
 </div>
 
 #### 📌 Details
@@ -1453,7 +1631,7 @@ Create a sprite sheet for a 2D NES platforming game, including enemies and NPCs.
 
 ---
 
-### No. 27: Paint scheme comparison image
+### No. 32: Paint scheme comparison image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1472,7 +1650,19 @@ So that I can do a paint simulation, make a single image that lets me compare se
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwWI2asAASozn.jpg" width="600" alt="Paint scheme comparison image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg" width="600" alt="Paint scheme comparison image - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg" width="600" alt="Paint scheme comparison image - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg" width="600" alt="Paint scheme comparison image - Image 3">
 </div>
 
 #### 📌 Details
@@ -1486,7 +1676,7 @@ So that I can do a paint simulation, make a single image that lets me compare se
 
 ---
 
-### No. 28: Action scene from reference photos and sketch
+### No. 33: Action scene from reference photos and sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1506,25 +1696,25 @@ Use the man photo as if he is slipping off the building edge, the woman is reach
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9NbMAAFlEE.jpg" width="600" alt="Action scene from reference photos and sketch - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg" width="600" alt="Action scene from reference photos and sketch - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9JaAAAdU5-.jpg" width="600" alt="Action scene from reference photos and sketch - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg" width="600" alt="Action scene from reference photos and sketch - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9cbAAArAvk.jpg" width="600" alt="Action scene from reference photos and sketch - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg" width="600" alt="Action scene from reference photos and sketch - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9Pa8AA58u2.jpg" width="600" alt="Action scene from reference photos and sketch - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg" width="600" alt="Action scene from reference photos and sketch - Image 4">
 </div>
 
 #### 📌 Details
@@ -1538,7 +1728,7 @@ Use the man photo as if he is slipping off the building edge, the woman is reach
 
 ---
 
-### No. 29: Edo-style woodblock print ninja character
+### No. 34: Edo-style woodblock print ninja character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1558,7 +1748,7 @@ An image of a woodblock print, in the style of the Edo period, showing a charact
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvEPhaMAAaxci.jpg" width="600" alt="Edo-style woodblock print ninja character - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg" width="600" alt="Edo-style woodblock print ninja character - Image 1">
 </div>
 
 #### 📌 Details
@@ -1572,7 +1762,7 @@ An image of a woodblock print, in the style of the Edo period, showing a charact
 
 ---
 
-### No. 30: Candid series of Indonesian president photos
+### No. 35: Candid series of Indonesian president photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1592,13 +1782,13 @@ Generate a series of six candid, documentary-style photos of {argument name="per
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WhmStboAARYf4.jpg" width="600" alt="Candid series of Indonesian president photos - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg" width="600" alt="Candid series of Indonesian president photos - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WieZebgAARJvP.jpg" width="600" alt="Candid series of Indonesian president photos - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg" width="600" alt="Candid series of Indonesian president photos - Image 2">
 </div>
 
 #### 📌 Details
@@ -1612,7 +1802,7 @@ Generate a series of six candid, documentary-style photos of {argument name="per
 
 ---
 
-### No. 31: 90s version of a website via style transfer
+### No. 36: 90s version of a website via style transfer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1631,19 +1821,19 @@ Create a 90s version of my website.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wr0C8asAAS2QA.jpg" width="600" alt="90s version of a website via style transfer - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg" width="600" alt="90s version of a website via style transfer - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wsp5Ra0AAveFv.jpg" width="600" alt="90s version of a website via style transfer - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg" width="600" alt="90s version of a website via style transfer - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WtEjmasAAiAd_.jpg" width="600" alt="90s version of a website via style transfer - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg" width="600" alt="90s version of a website via style transfer - Image 3">
 </div>
 
 #### 📌 Details
@@ -1657,7 +1847,7 @@ Create a 90s version of my website.
 
 ---
 
-### No. 32: Turn Netflix screen into a western version
+### No. 37: Turn Netflix screen into a western version
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1676,7 +1866,7 @@ Turn the whole Netflix screen into a western version.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UXjFSXYAAmV7I.jpg" width="600" alt="Turn Netflix screen into a western version - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg" width="600" alt="Turn Netflix screen into a western version - Image 1">
 </div>
 
 #### 📌 Details
@@ -1690,7 +1880,7 @@ Turn the whole Netflix screen into a western version.
 
 ---
 
-### No. 33: Thumbnail design prompt for articles or content
+### No. 38: Thumbnail design prompt for articles or content
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1716,19 +1906,19 @@ First, output three design option images.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wju8sa8AEnTqT.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjxYGasAEMU1x.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wjz_gbsAAdLWB.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg" width="600" alt="Thumbnail design prompt for articles or content - Image 3">
 </div>
 
 #### 📌 Details
@@ -1742,7 +1932,7 @@ First, output three design option images.
 
 ---
 
-### No. 34: Clothing separated on the bed
+### No. 39: Clothing separated on the bed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1761,13 +1951,13 @@ Lay out each piece of her clothing separately on the bed.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmWG4awAAOfG8.jpg" width="600" alt="Clothing separated on the bed - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg" width="600" alt="Clothing separated on the bed - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmXAvaoAA_wYG.jpg" width="600" alt="Clothing separated on the bed - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg" width="600" alt="Clothing separated on the bed - Image 2">
 </div>
 
 #### 📌 Details
@@ -1781,7 +1971,7 @@ Lay out each piece of her clothing separately on the bed.
 
 ---
 
-### No. 35: Naive doodle-style subject illustration
+### No. 40: Naive doodle-style subject illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1801,7 +1991,7 @@ A doodle‑style illustration of {argument name="subject_en" default="[subject]"
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wl2YxbsAARB2b.jpg" width="600" alt="Naive doodle-style subject illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg" width="600" alt="Naive doodle-style subject illustration - Image 1">
 </div>
 
 #### 📌 Details
@@ -1815,7 +2005,7 @@ A doodle‑style illustration of {argument name="subject_en" default="[subject]"
 
 ---
 
-### No. 36: Simple action movie scene
+### No. 41: Simple action movie scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1834,7 +2024,7 @@ Make an action movie scene.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjiYjb0AAO-x8.jpg" width="600" alt="Simple action movie scene - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg" width="600" alt="Simple action movie scene - Image 1">
 </div>
 
 #### 📌 Details
@@ -1848,7 +2038,7 @@ Make an action movie scene.
 
 ---
 
-### No. 37: Chalkboard-style AI news summary
+### No. 42: Chalkboard-style AI news summary
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1869,7 +2059,13 @@ Search results from Grok
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WfVvIbAAEgvYg.jpg" width="600" alt="Chalkboard-style AI news summary - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="600" alt="Chalkboard-style AI news summary - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="600" alt="Chalkboard-style AI news summary - Image 2">
 </div>
 
 #### 📌 Details
@@ -1883,7 +2079,7 @@ Search results from Grok
 
 ---
 
-### No. 38: Photorealistic naan bread pun image
+### No. 43: Photorealistic naan bread pun image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1903,25 +2099,25 @@ A 1:1 aspect ratio photorealistic close‑up image of freshly baked naan. On the
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8tagAAf17W.jpg" width="600" alt="Photorealistic naan bread pun image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg" width="600" alt="Photorealistic naan bread pun image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8sawAADz5E.jpg" width="600" alt="Photorealistic naan bread pun image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg" width="600" alt="Photorealistic naan bread pun image - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8paIAEOFnb.jpg" width="600" alt="Photorealistic naan bread pun image - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg" width="600" alt="Photorealistic naan bread pun image - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8ua4AAXFz_.jpg" width="600" alt="Photorealistic naan bread pun image - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg" width="600" alt="Photorealistic naan bread pun image - Image 4">
 </div>
 
 #### 📌 Details
@@ -1935,7 +2131,7 @@ A 1:1 aspect ratio photorealistic close‑up image of freshly baked naan. On the
 
 ---
 
-### No. 39: Food photo turned into creature-style nutrition poster
+### No. 44: Food photo turned into creature-style nutrition poster
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1954,13 +2150,13 @@ Reconstruct the ingredients from the reference image as living creatures. Arrang
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaqgMaQAAxwpf.jpg" width="600" alt="Food photo turned into creature-style nutrition poster - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg" width="600" alt="Food photo turned into creature-style nutrition poster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaronbsAE5UJo.jpg" width="600" alt="Food photo turned into creature-style nutrition poster - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg" width="600" alt="Food photo turned into creature-style nutrition poster - Image 2">
 </div>
 
 #### 📌 Details
@@ -1974,7 +2170,7 @@ Reconstruct the ingredients from the reference image as living creatures. Arrang
 
 ---
 
-### No. 40: Japanese gyaru magazine spread on school uniforms
+### No. 45: Japanese gyaru magazine spread on school uniforms
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1993,7 +2189,7 @@ A Japanese gyaru magazine feature page about styling school uniforms.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WYLU0bwAAvl24.jpg" width="600" alt="Japanese gyaru magazine spread on school uniforms - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg" width="600" alt="Japanese gyaru magazine spread on school uniforms - Image 1">
 </div>
 
 #### 📌 Details
@@ -2007,7 +2203,7 @@ A Japanese gyaru magazine feature page about styling school uniforms.
 
 ---
 
-### No. 41: Yu-Gi-Oh magic card from text theme
+### No. 46: Yu-Gi-Oh magic card from text theme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2027,13 +2223,13 @@ Design a Yu‑Gi‑Oh! magic card. Draw the illustration in the style of officia
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtQFa4AAW5Q3.jpg" width="600" alt="Yu-Gi-Oh magic card from text theme - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg" width="600" alt="Yu-Gi-Oh magic card from text theme - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtBQa0AE0H0y.jpg" width="600" alt="Yu-Gi-Oh magic card from text theme - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg" width="600" alt="Yu-Gi-Oh magic card from text theme - Image 2">
 </div>
 
 #### 📌 Details
@@ -2047,7 +2243,7 @@ Design a Yu‑Gi‑Oh! magic card. Draw the illustration in the style of officia
 
 ---
 
-### No. 42: Two-shot of AI partner hugging from behind
+### No. 47: Two-shot of AI partner hugging from behind
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2066,7 +2262,7 @@ Generate a scene where the character from the second image is hugging the person
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTI9uaoAAkuNO.jpg" width="600" alt="Two-shot of AI partner hugging from behind - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg" width="600" alt="Two-shot of AI partner hugging from behind - Image 1">
 </div>
 
 #### 📌 Details
@@ -2080,7 +2276,7 @@ Generate a scene where the character from the second image is hugging the person
 
 ---
 
-### No. 43: 4-panel comic about embedded engineer struggles
+### No. 48: 4-panel comic about embedded engineer struggles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2099,13 +2295,13 @@ Generate a 4‑panel comic about the hardships of an embedded engineer.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRtuRaAAMLWHU.jpg" width="600" alt="4-panel comic about embedded engineer struggles - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg" width="600" alt="4-panel comic about embedded engineer struggles - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRu0saEAA3qeK.jpg" width="600" alt="4-panel comic about embedded engineer struggles - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg" width="600" alt="4-panel comic about embedded engineer struggles - Image 2">
 </div>
 
 #### 📌 Details
@@ -2119,7 +2315,7 @@ Generate a 4‑panel comic about the hardships of an embedded engineer.
 
 ---
 
-### No. 44: Where’s Waldo-style LOTR in the Shire
+### No. 49: Where’s Waldo-style LOTR in the Shire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2139,7 +2335,7 @@ A Where’s Waldo-style image showing all {argument name="franchise_en" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WQrOdWIAANLiE.jpg" width="600" alt="Where’s Waldo-style LOTR in the Shire - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg" width="600" alt="Where’s Waldo-style LOTR in the Shire - Image 1">
 </div>
 
 #### 📌 Details
@@ -2153,7 +2349,7 @@ A Where’s Waldo-style image showing all {argument name="franchise_en" default=
 
 ---
 
-### No. 45: Rock band poster with consistent faces
+### No. 50: Rock band poster with consistent faces
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2173,7 +2369,13 @@ Make a rock band poster with these people. Keep the faces consistent. Add "{argu
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WO0TCXQAAXVBN.jpg" width="600" alt="Rock band poster with consistent faces - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="Rock band poster with consistent faces - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="Rock band poster with consistent faces - Image 2">
 </div>
 
 #### 📌 Details
@@ -2187,7 +2389,7 @@ Make a rock band poster with these people. Keep the faces consistent. Add "{argu
 
 ---
 
-### No. 46: Monochrome tough-guy LINE stickers
+### No. 51: Monochrome tough-guy LINE stickers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2206,7 +2408,7 @@ Using the character in the attached image, create 16 black‑and‑white LINE st
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WOJgBbsAAHKyK.jpg" width="600" alt="Monochrome tough-guy LINE stickers - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg" width="600" alt="Monochrome tough-guy LINE stickers - Image 1">
 </div>
 
 #### 📌 Details
@@ -2220,7 +2422,7 @@ Using the character in the attached image, create 16 black‑and‑white LINE st
 
 ---
 
-### No. 47: Cinematic illustration of a poem
+### No. 52: Cinematic illustration of a poem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2240,7 +2442,7 @@ Create a single cinematic illustration that visually represents the following po
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIPlLaQAA-tE7.jpg" width="600" alt="Cinematic illustration of a poem - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg" width="600" alt="Cinematic illustration of a poem - Image 1">
 </div>
 
 #### 📌 Details
@@ -2254,7 +2456,7 @@ Create a single cinematic illustration that visually represents the following po
 
 ---
 
-### No. 48: Cute handwritten notes over a photo
+### No. 53: Cute handwritten notes over a photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2273,7 +2475,7 @@ Write as many cute handwritten notes and highlights as possible on the photo!
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIjoEaQAAUqb1.jpg" width="600" alt="Cute handwritten notes over a photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg" width="600" alt="Cute handwritten notes over a photo - Image 1">
 </div>
 
 #### 📌 Details
@@ -2287,7 +2489,7 @@ Write as many cute handwritten notes and highlights as possible on the photo!
 
 ---
 
-### No. 49: Clothing laid out separately on a bed
+### No. 54: Clothing laid out separately on a bed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2306,19 +2508,19 @@ Give each piece of her clothing separately on the bed.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WDzG1bkAA2XxH.jpg" width="600" alt="Clothing laid out separately on a bed - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg" width="600" alt="Clothing laid out separately on a bed - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD2ILasAAVUmp.jpg" width="600" alt="Clothing laid out separately on a bed - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg" width="600" alt="Clothing laid out separately on a bed - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD3PCbgAE-WtM.jpg" width="600" alt="Clothing laid out separately on a bed - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg" width="600" alt="Clothing laid out separately on a bed - Image 3">
 </div>
 
 #### 📌 Details
@@ -2332,7 +2534,7 @@ Give each piece of her clothing separately on the bed.
 
 ---
 
-### No. 50: Photorealistic render from illustration
+### No. 55: Photorealistic render from illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2351,13 +2553,13 @@ Raw photo based on image, photorealistic, highly detailed, 8K UHD, realistic tex
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC-FgbIAArVU_.jpg" width="600" alt="Photorealistic render from illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg" width="600" alt="Photorealistic render from illustration - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC_WSaQAAxX_J.jpg" width="600" alt="Photorealistic render from illustration - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg" width="600" alt="Photorealistic render from illustration - Image 2">
 </div>
 
 #### 📌 Details
@@ -2371,7 +2573,7 @@ Raw photo based on image, photorealistic, highly detailed, 8K UHD, realistic tex
 
 ---
 
-### No. 51: Cinematic 3D logo with auto-assigned texture
+### No. 56: Cinematic 3D logo with auto-assigned texture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2394,25 +2596,25 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaKWYAAc2oH.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaXWMAEAcnS.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaWXwAE3TpL.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WClZeXwAARoPn.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg" width="600" alt="Cinematic 3D logo with auto-assigned texture - Image 4">
 </div>
 
 #### 📌 Details
@@ -2426,7 +2628,7 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 
 ---
 
-### No. 52: Shoe pattern pieces layout
+### No. 57: Shoe pattern pieces layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,13 +2647,13 @@ Create an image showing the individual pattern pieces of this shoe, each separat
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBpkZagAAdxBJ.jpg" width="600" alt="Shoe pattern pieces layout - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg" width="600" alt="Shoe pattern pieces layout - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBtabbAAAa2bi.jpg" width="600" alt="Shoe pattern pieces layout - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg" width="600" alt="Shoe pattern pieces layout - Image 2">
 </div>
 
 #### 📌 Details
@@ -2465,7 +2667,7 @@ Create an image showing the individual pattern pieces of this shoe, each separat
 
 ---
 
-### No. 53: Silksong 4-panel comic from uploaded character
+### No. 58: Silksong 4-panel comic from uploaded character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2485,7 +2687,7 @@ Using the character from the uploaded image, explain the game {argument name="ga
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Silksong 4-panel comic from uploaded character - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Silksong 4-panel comic from uploaded character - Image 1">
 </div>
 
 #### 📌 Details
@@ -2499,7 +2701,7 @@ Using the character from the uploaded image, explain the game {argument name="ga
 
 ---
 
-### No. 54: Turn a social bio into a NES cartridge cover
+### No. 59: Turn a social bio into a NES cartridge cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2518,7 +2720,7 @@ Analyze my bio and come up with a video game that would represent me if I were a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WAh8pXgAA72ua.jpg" width="600" alt="Turn a social bio into a NES cartridge cover - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg" width="600" alt="Turn a social bio into a NES cartridge cover - Image 1">
 </div>
 
 #### 📌 Details
@@ -2532,7 +2734,7 @@ Analyze my bio and come up with a video game that would represent me if I were a
 
 ---
 
-### No. 55: Anime-style seated portrait from face image
+### No. 60: Anime-style seated portrait from face image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2551,13 +2753,13 @@ Based on this image, can you generate a digital illustration, leaning toward ani
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcxbUAE1FpF.jpg" width="600" alt="Anime-style seated portrait from face image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg" width="600" alt="Anime-style seated portrait from face image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcybMAAv6BU.jpg" width="600" alt="Anime-style seated portrait from face image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg" width="600" alt="Anime-style seated portrait from face image - Image 2">
 </div>
 
 #### 📌 Details
@@ -2571,7 +2773,41 @@ Based on this image, can you generate a digital illustration, leaning toward ani
 
 ---
 
-### No. 56: Multiple characters in one basket
+### No. 61: ID verification character with visible passport
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for creating a character image where the subject clearly displays their passport to the camera for identity verification, with customizable name, affiliation, and birthday on the ID.
+
+#### 📝 Prompt
+
+```
+Make the character in the image hold their passport while sitting in front of a computer, showing the ID clearly to the camera to prove they are a real person. The ID information should be clearly visible, with the name {argument name="name_en" default="[NAME]"}, the affiliation {argument name="affiliation_en" default="[YOUR DATA]"}, and the birthday {argument name="birthday_en" default="[YOUR DATE]"}. All other details can be random and fictional.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg" width="600" alt="ID verification character with visible passport - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [KANA](https://x.com/KanaWorks_AI)
+- **Source:** [Twitter Post](https://x.com/KanaWorks_AI/status/1992138041675395358)
+- **Published:** November 22, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20the%20character%20in%20the%20image%20hold%20their%20passport%20while%20sitting%20in%20front%20of%20a%20computer%2C%20showing%20the%20ID%20clearly%20to%20the%20camera%20to%20prove%20they%20are%20a%20real%20person.%20The%20ID%20information%20should%20be%20clearly%20visible%2C%20with%20the%20name%20%7Bargument%20name%3D%22name_en%22%20default%3D%22%5BNAME%5D%22%7D%2C%20the%20affiliation%20%7Bargument%20name%3D%22affiliation_en%22%20default%3D%22%5BYOUR%20DATA%5D%22%7D%2C%20and%20the%20birthday%20%7Bargument%20name%3D%22birthday_en%22%20default%3D%22%5BYOUR%20DATE%5D%22%7D.%20All%20other%20details%20can%20be%20random%20and%20fictional.)**
+
+---
+
+### No. 62: Multiple characters in one basket
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2590,7 +2826,7 @@ put all of them into one basket
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V7YsJXsAAiJ-g.jpg" width="600" alt="Multiple characters in one basket - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg" width="600" alt="Multiple characters in one basket - Image 1">
 </div>
 
 #### 📌 Details
@@ -2604,7 +2840,7 @@ put all of them into one basket
 
 ---
 
-### No. 57: High-detail IT careers infographic (Thai/English mix)
+### No. 63: High-detail IT careers infographic (Thai/English mix)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2623,25 +2859,25 @@ Create a very high-detail infographic image that describes IT careers or IT jobs
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTNawAAooML.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTebcAApYb7.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTKaAAAhpoZ.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eThbsAAWJFi.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg" width="600" alt="High-detail IT careers infographic (Thai/English mix) - Image 4">
 </div>
 
 #### 📌 Details
@@ -2655,7 +2891,7 @@ Create a very high-detail infographic image that describes IT careers or IT jobs
 
 ---
 
-### No. 58: Single diagram image summarizing text (Japanese)
+### No. 64: Single diagram image summarizing text (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2674,7 +2910,7 @@ Summarize it into a single diagram image.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5jRXbAAAhXIp.jpg" width="600" alt="Single diagram image summarizing text (Japanese) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg" width="600" alt="Single diagram image summarizing text (Japanese) - Image 1">
 </div>
 
 #### 📌 Details
@@ -2688,7 +2924,7 @@ Summarize it into a single diagram image.
 
 ---
 
-### No. 59: Shoulder-stretch infographic for neck and shoulder stiffness
+### No. 65: Shoulder-stretch infographic for neck and shoulder stiffness
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2708,7 +2944,7 @@ Please create an illustration-style diagram about “{argument name="topic_en" d
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V4UTDaEAA-cwu.jpg" width="600" alt="Shoulder-stretch infographic for neck and shoulder stiffness - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg" width="600" alt="Shoulder-stretch infographic for neck and shoulder stiffness - Image 1">
 </div>
 
 #### 📌 Details
@@ -2722,7 +2958,7 @@ Please create an illustration-style diagram about “{argument name="topic_en" d
 
 ---
 
-### No. 60: Hyperrealistic glass pork belly on a grill
+### No. 66: Hyperrealistic glass pork belly on a grill
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2741,13 +2977,13 @@ A hyperrealistic photo of glass-made samgyeopsal placed on a grill.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx0FwaEAAH6Jf.jpg" width="600" alt="Hyperrealistic glass pork belly on a grill - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg" width="600" alt="Hyperrealistic glass pork belly on a grill - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx365acAANsFq.jpg" width="600" alt="Hyperrealistic glass pork belly on a grill - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg" width="600" alt="Hyperrealistic glass pork belly on a grill - Image 2">
 </div>
 
 #### 📌 Details
@@ -2761,7 +2997,7 @@ A hyperrealistic photo of glass-made samgyeopsal placed on a grill.
 
 ---
 
-### No. 61: Simpsons-style rocket-banana hybrid
+### No. 67: Simpsons-style rocket-banana hybrid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2780,7 +3016,7 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V1MuOa8AA2Qq6.jpg" width="600" alt="Simpsons-style rocket-banana hybrid - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg" width="600" alt="Simpsons-style rocket-banana hybrid - Image 1">
 </div>
 
 #### 📌 Details
@@ -2794,7 +3030,7 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 
 ---
 
-### No. 62: Recipe breakdown and food photoshoot
+### No. 68: Recipe breakdown and food photoshoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2813,13 +3049,13 @@ Make a detailed recipe for this dish with all the ingredient names and their raw
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VwFfTaUAA1Gw9.jpg" width="600" alt="Recipe breakdown and food photoshoot - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg" width="600" alt="Recipe breakdown and food photoshoot - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V0U-Za0AEAm6H.jpg" width="600" alt="Recipe breakdown and food photoshoot - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg" width="600" alt="Recipe breakdown and food photoshoot - Image 2">
 </div>
 
 #### 📌 Details
@@ -2833,7 +3069,7 @@ Make a detailed recipe for this dish with all the ingredient names and their raw
 
 ---
 
-### No. 63: Text-to-mindmap graphic
+### No. 69: Text-to-mindmap graphic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2861,7 +3097,7 @@ Make it feel like my thoughts are being organized.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VyZDHa4AETYFj.jpg" width="600" alt="Text-to-mindmap graphic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg" width="600" alt="Text-to-mindmap graphic - Image 1">
 </div>
 
 #### 📌 Details
@@ -2875,7 +3111,7 @@ Make it feel like my thoughts are being organized.
 
 ---
 
-### No. 64: Squatty Potty whiteboard instructions
+### No. 70: Squatty Potty whiteboard instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2894,7 +3130,7 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty whiteboard instructions - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty whiteboard instructions - Image 1">
 </div>
 
 #### 📌 Details
@@ -2908,7 +3144,7 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 
 ---
 
-### No. 65: VTuber-style street-fashion thumbnail from a city photo
+### No. 71: VTuber-style street-fashion thumbnail from a city photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2932,7 +3168,7 @@ Start image generation.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvZytaoAAIGKt.jpg" width="600" alt="VTuber-style street-fashion thumbnail from a city photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg" width="600" alt="VTuber-style street-fashion thumbnail from a city photo - Image 1">
 </div>
 
 #### 📌 Details
@@ -2946,7 +3182,7 @@ Start image generation.
 
 ---
 
-### No. 66: Whiteboard-style simple diagram from text
+### No. 72: Whiteboard-style simple diagram from text
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2973,7 +3209,7 @@ Make the size 16:9 and design a clean diagram that is easy to view on a smartpho
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vuv_hboAALHXx.jpg" width="600" alt="Whiteboard-style simple diagram from text - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg" width="600" alt="Whiteboard-style simple diagram from text - Image 1">
 </div>
 
 #### 📌 Details
@@ -2987,7 +3223,7 @@ Make the size 16:9 and design a clean diagram that is easy to view on a smartpho
 
 ---
 
-### No. 67: MrBeast-style thumbnail about Epstein files
+### No. 73: MrBeast-style thumbnail about Epstein files
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3006,7 +3242,7 @@ A MrBeast‑style YouTube thumbnail, but it’s Donald Trump and the video is wh
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VucuKXcAAphIA.jpg" width="600" alt="MrBeast-style thumbnail about Epstein files - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg" width="600" alt="MrBeast-style thumbnail about Epstein files - Image 1">
 </div>
 
 #### 📌 Details
@@ -3020,7 +3256,7 @@ A MrBeast‑style YouTube thumbnail, but it’s Donald Trump and the video is wh
 
 ---
 
-### No. 68: High-angle fairy grunge idol in cluttered closet
+### No. 74: High-angle fairy grunge idol in cluttered closet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3044,19 +3280,31 @@ Negative prompt: minimalism, clean floor, bright daylight, cold lighting, organi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGawW0AACHQW.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGauWYAAZNir.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGatW8AAFsGz.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg" width="600" alt="High-angle fairy grunge idol in cluttered closet - Image 5">
 </div>
 
 #### 📌 Details
@@ -3070,7 +3318,7 @@ Negative prompt: minimalism, clean floor, bright daylight, cold lighting, organi
 
 ---
 
-### No. 69: LINE sticker sheet from an attached image
+### No. 75: LINE sticker sheet from an attached image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3089,13 +3337,13 @@ Create LINE stickers. Turn the attached image into a chibi character and make 16
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtZ20bsAAtBRG.jpg" width="600" alt="LINE sticker sheet from an attached image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg" width="600" alt="LINE sticker sheet from an attached image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VteK4bwAA81uj.jpg" width="600" alt="LINE sticker sheet from an attached image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg" width="600" alt="LINE sticker sheet from an attached image - Image 2">
 </div>
 
 #### 📌 Details
@@ -3109,7 +3357,7 @@ Create LINE stickers. Turn the attached image into a chibi character and make 16
 
 ---
 
-### No. 70: Trompe l'oeil subject stepping out of social media screen
+### No. 76: Trompe l'oeil subject stepping out of social media screen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3129,7 +3377,7 @@ Trompe l'oeil illusion of {argument name="subject_en" default="a subject"} in {a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtN7haMAAlkVQ.jpg" width="600" alt="Trompe l'oeil subject stepping out of social media screen - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg" width="600" alt="Trompe l'oeil subject stepping out of social media screen - Image 1">
 </div>
 
 #### 📌 Details
@@ -3143,7 +3391,7 @@ Trompe l'oeil illusion of {argument name="subject_en" default="a subject"} in {a
 
 ---
 
-### No. 71: Ultra-realistic Roronoa Zoro portrait
+### No. 77: Ultra-realistic Roronoa Zoro portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3162,7 +3410,7 @@ Ultra-realistic Roronoa Zoro portrait.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vrv6ebcAA1QDR.jpg" width="600" alt="Ultra-realistic Roronoa Zoro portrait - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg" width="600" alt="Ultra-realistic Roronoa Zoro portrait - Image 1">
 </div>
 
 #### 📌 Details
@@ -3176,7 +3424,7 @@ Ultra-realistic Roronoa Zoro portrait.
 
 ---
 
-### No. 72: Unpack items from bag onto bed haul shot
+### No. 78: Unpack items from bag onto bed haul shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3195,7 +3443,7 @@ Unpack the items from the bag and place them on the bed, with some of them scatt
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VmQGgboAAhXu0.jpg" width="600" alt="Unpack items from bag onto bed haul shot - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg" width="600" alt="Unpack items from bag onto bed haul shot - Image 1">
 </div>
 
 #### 📌 Details
@@ -3209,7 +3457,7 @@ Unpack the items from the bag and place them on the bed, with some of them scatt
 
 ---
 
-### No. 73: GTA 5 online action scene
+### No. 79: GTA 5 online action scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3228,7 +3476,7 @@ Create a picture of GTA 5 Online where a person is shooting a car.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 online action scene - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 online action scene - Image 1">
 </div>
 
 #### 📌 Details
@@ -3242,7 +3490,7 @@ Create a picture of GTA 5 Online where a person is shooting a car.
 
 ---
 
-### No. 74: Four-panel comic about a clumsy elf
+### No. 80: Four-panel comic about a clumsy elf
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3262,7 +3510,7 @@ Let’s create a 4-panel manga with Nano Banana Pro: “{argument name="title_en
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VkQxjasAADXZn.jpg" width="600" alt="Four-panel comic about a clumsy elf - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg" width="600" alt="Four-panel comic about a clumsy elf - Image 1">
 </div>
 
 #### 📌 Details
@@ -3276,7 +3524,7 @@ Let’s create a 4-panel manga with Nano Banana Pro: “{argument name="title_en
 
 ---
 
-### No. 75: Hyper faithful image remaster
+### No. 81: Hyper faithful image remaster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3295,13 +3543,13 @@ Create a hyper faithful remaster of this image.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjaZVb0AEcg6u.jpg" width="600" alt="Hyper faithful image remaster - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg" width="600" alt="Hyper faithful image remaster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjabLasAER1YB.jpg" width="600" alt="Hyper faithful image remaster - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg" width="600" alt="Hyper faithful image remaster - Image 2">
 </div>
 
 #### 📌 Details
@@ -3315,7 +3563,7 @@ Create a hyper faithful remaster of this image.
 
 ---
 
-### No. 76: Famicom game box, cartridge, manual, and CRT screen (Japanese)
+### No. 82: Famicom game box, cartridge, manual, and CRT screen (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3334,7 +3582,7 @@ Create the Famicom game box, cartridge, and manual for the game "Karakuri Ninja 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VhdElbUAAHA16.jpg" width="600" alt="Famicom game box, cartridge, manual, and CRT screen (Japanese) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg" width="600" alt="Famicom game box, cartridge, manual, and CRT screen (Japanese) - Image 1">
 </div>
 
 #### 📌 Details
@@ -3348,7 +3596,7 @@ Create the Famicom game box, cartridge, and manual for the game "Karakuri Ninja 
 
 ---
 
-### No. 77: Color comic of a character getting energized by barbecue
+### No. 83: Color comic of a character getting energized by barbecue
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3367,7 +3615,7 @@ Please create a color comic in which this character eats yakiniku (grilled meat)
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vf5zebUAA1jF6.jpg" width="600" alt="Color comic of a character getting energized by barbecue - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg" width="600" alt="Color comic of a character getting energized by barbecue - Image 1">
 </div>
 
 #### 📌 Details
@@ -3381,7 +3629,7 @@ Please create a color comic in which this character eats yakiniku (grilled meat)
 
 ---
 
-### No. 78: Infographic from reference info with classic Japanese font
+### No. 84: Infographic from reference info with classic Japanese font
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3408,7 +3656,13 @@ Reference information:
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VfCbmbYAAMdys.jpg" width="600" alt="Infographic from reference info with classic Japanese font - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg" width="600" alt="Infographic from reference info with classic Japanese font - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg" width="600" alt="Infographic from reference info with classic Japanese font - Image 2">
 </div>
 
 #### 📌 Details
@@ -3422,7 +3676,7 @@ Reference information:
 
 ---
 
-### No. 79: Rabbits wearing identical clothes
+### No. 85: Rabbits wearing identical clothes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3441,13 +3695,13 @@ The rabbits also wear the same clothes
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbpLNaIAAdLa6.jpg" width="600" alt="Rabbits wearing identical clothes - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg" width="600" alt="Rabbits wearing identical clothes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbqP6awAEREKD.jpg" width="600" alt="Rabbits wearing identical clothes - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg" width="600" alt="Rabbits wearing identical clothes - Image 2">
 </div>
 
 #### 📌 Details
@@ -3461,7 +3715,7 @@ The rabbits also wear the same clothes
 
 ---
 
-### No. 80: Coffee drinks infographic
+### No. 86: Coffee drinks infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3480,7 +3734,7 @@ Create an infographic showing different coffee drinks…
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZ_xEWcAA6OQ4.jpg" width="600" alt="Coffee drinks infographic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg" width="600" alt="Coffee drinks infographic - Image 1">
 </div>
 
 #### 📌 Details
@@ -3494,7 +3748,7 @@ Create an infographic showing different coffee drinks…
 
 ---
 
-### No. 81: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
+### No. 87: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3518,13 +3772,13 @@ Title: {argument name="title_en" default="In-depth guide to Google's new AI: Nan
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizUagAAPrC4.jpg" width="600" alt="Hand-drawn style header image introducing Nano Banana Pro (Japanese) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg" width="600" alt="Hand-drawn style header image introducing Nano Banana Pro (Japanese) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizHaQAAH_4W.jpg" width="600" alt="Hand-drawn style header image introducing Nano Banana Pro (Japanese) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg" width="600" alt="Hand-drawn style header image introducing Nano Banana Pro (Japanese) - Image 2">
 </div>
 
 #### 📌 Details
@@ -3538,7 +3792,7 @@ Title: {argument name="title_en" default="In-depth guide to Google's new AI: Nan
 
 ---
 
-### No. 82: Hand-drawn style header image prompt from photo
+### No. 88: Hand-drawn style header image prompt from photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3561,13 +3815,13 @@ Title text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiROagAAqsIh.jpg" width="600" alt="Hand-drawn style header image prompt from photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="600" alt="Hand-drawn style header image prompt from photo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiRWaIAA_9x5.jpg" width="600" alt="Hand-drawn style header image prompt from photo - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="600" alt="Hand-drawn style header image prompt from photo - Image 2">
 </div>
 
 #### 📌 Details
@@ -3581,7 +3835,7 @@ Title text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’�
 
 ---
 
-### No. 83: Header image with uploaded person introducing Nano Banana Pro
+### No. 89: Header image with uploaded person introducing Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3605,13 +3859,13 @@ Title: “{argument name="title_en" default="In-depth guide to Google’s new AI
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvVa8AAJ0dR.jpg" width="600" alt="Header image with uploaded person introducing Nano Banana Pro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg" width="600" alt="Header image with uploaded person introducing Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvebEAAUwYy.jpg" width="600" alt="Header image with uploaded person introducing Nano Banana Pro - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg" width="600" alt="Header image with uploaded person introducing Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Details
@@ -3625,7 +3879,7 @@ Title: “{argument name="title_en" default="In-depth guide to Google’s new AI
 
 ---
 
-### No. 84: Luxurious header image with uploaded person for Nano Banana Pro article
+### No. 90: Luxurious header image with uploaded person for Nano Banana Pro article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3649,7 +3903,7 @@ Title: “{argument name="title_en" default="In-depth guide to Google’s new AI
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhD9asAAqjHi.jpg" width="600" alt="Luxurious header image with uploaded person for Nano Banana Pro article - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg" width="600" alt="Luxurious header image with uploaded person for Nano Banana Pro article - Image 1">
 </div>
 
 #### 📌 Details
@@ -3663,7 +3917,7 @@ Title: “{argument name="title_en" default="In-depth guide to Google’s new AI
 
 ---
 
-### No. 85: LINE sticker sheet for standing doll character (Japanese)
+### No. 91: LINE sticker sheet for standing doll character (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3682,13 +3936,13 @@ Using this standing doll character, create an index image showing 4x3 = 12 diffe
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOz1bgAAKknE.jpg" width="600" alt="LINE sticker sheet for standing doll character (Japanese) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg" width="600" alt="LINE sticker sheet for standing doll character (Japanese) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOmlaEAAiRg2.jpg" width="600" alt="LINE sticker sheet for standing doll character (Japanese) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg" width="600" alt="LINE sticker sheet for standing doll character (Japanese) - Image 2">
 </div>
 
 #### 📌 Details
@@ -3702,7 +3956,7 @@ Using this standing doll character, create an index image showing 4x3 = 12 diffe
 
 ---
 
-### No. 86: Translucent seawater whale in the clouds
+### No. 92: Translucent seawater whale in the clouds
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3721,7 +3975,13 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VUGHGakAAbKve.jpg" width="600" alt="Translucent seawater whale in the clouds - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg" width="600" alt="Translucent seawater whale in the clouds - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg" width="600" alt="Translucent seawater whale in the clouds - Image 2">
 </div>
 
 #### 📌 Details
@@ -3735,7 +3995,7 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 
 ---
 
-### No. 87: Portfolio image for a fictional web designer
+### No. 93: Portfolio image for a fictional web designer
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3754,7 +4014,7 @@ Create a portfolio image for a fictional web designer.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRlhea8AA2VC8.jpg" width="600" alt="Portfolio image for a fictional web designer - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg" width="600" alt="Portfolio image for a fictional web designer - Image 1">
 </div>
 
 #### 📌 Details
@@ -3768,7 +4028,7 @@ Create a portfolio image for a fictional web designer.
 
 ---
 
-### No. 88: Levi’s shopping mirror selfie edit
+### No. 94: Levi’s shopping mirror selfie edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3788,7 +4048,7 @@ Make it look like I am shopping at Levi’s holding bags, taking a picture in th
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s shopping mirror selfie edit - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s shopping mirror selfie edit - Image 1">
 </div>
 
 #### 📌 Details
@@ -3802,7 +4062,7 @@ Make it look like I am shopping at Levi’s holding bags, taking a picture in th
 
 ---
 
-### No. 89: Geolocation sunset scene at specific coordinates
+### No. 95: Geolocation sunset scene at specific coordinates
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3822,7 +4082,7 @@ Create an image of {argument name="coordinates_en" default="7°36′28″S 110°
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VQhDVaEAAzzMg.jpg" width="600" alt="Geolocation sunset scene at specific coordinates - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg" width="600" alt="Geolocation sunset scene at specific coordinates - Image 1">
 </div>
 
 #### 📌 Details
@@ -3836,7 +4096,7 @@ Create an image of {argument name="coordinates_en" default="7°36′28″S 110°
 
 ---
 
-### No. 90: Presentation slide about PLM and digital thread
+### No. 96: Presentation slide about PLM and digital thread
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3856,7 +4116,7 @@ With the title “{argument name="title_en" default="Why PLM systems are essenti
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VPODGaEAAeVlF.jpg" width="600" alt="Presentation slide about PLM and digital thread - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg" width="600" alt="Presentation slide about PLM and digital thread - Image 1">
 </div>
 
 #### 📌 Details
@@ -3870,7 +4130,7 @@ With the title “{argument name="title_en" default="Why PLM systems are essenti
 
 ---
 
-### No. 91: Infographic about a CEO struggling with hiring
+### No. 97: Infographic about a CEO struggling with hiring
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3889,7 +4149,7 @@ Create an infographic illustrating the situation of a company president who is s
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VN5D0bcAE6djR.jpg" width="600" alt="Infographic about a CEO struggling with hiring - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg" width="600" alt="Infographic about a CEO struggling with hiring - Image 1">
 </div>
 
 #### 📌 Details
@@ -3903,7 +4163,7 @@ Create an infographic illustrating the situation of a company president who is s
 
 ---
 
-### No. 92: Abstract illustration of the structure of this world
+### No. 98: Abstract illustration of the structure of this world
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3922,7 +4182,7 @@ Draw an illustration that succinctly represents the structure of this world.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VLDM9agAAYBtm.jpg" width="600" alt="Abstract illustration of the structure of this world - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg" width="600" alt="Abstract illustration of the structure of this world - Image 1">
 </div>
 
 #### 📌 Details
@@ -3936,7 +4196,7 @@ Draw an illustration that succinctly represents the structure of this world.
 
 ---
 
-### No. 93: Infographic comparing ChatGPT 5.1 and Gemini 3
+### No. 99: Infographic comparing ChatGPT 5.1 and Gemini 3
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3956,7 +4216,7 @@ Turn the comparison between {argument name="model_1_en" default="ChatGPT 5.1"} a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VI_4ibIAEwhIw.jpg" width="600" alt="Infographic comparing ChatGPT 5.1 and Gemini 3 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg" width="600" alt="Infographic comparing ChatGPT 5.1 and Gemini 3 - Image 1">
 </div>
 
 #### 📌 Details
@@ -3970,7 +4230,41 @@ Turn the comparison between {argument name="model_1_en" default="ChatGPT 5.1"} a
 
 ---
 
-### No. 94: Chinese whiteboard summary of long documents
+### No. 100: High-end cinematic product showcase reel still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for generating a luxurious cinematic product showcase image, ideal as frames for short sales reels or product ads.
+
+#### 📝 Prompt
+
+```
+A high-end cinematic product showcase of {argument name="product_name_en" default="[Product Name]"}, placed on a reflective premium surface, with soft rim lighting, a dramatic spotlight from above, ultra sharp details, an 85mm lens depth of field, glowing bokeh in the background, smooth gradients, and an elegant luxury feel.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg" width="600" alt="High-end cinematic product showcase reel still - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Kalatheeswaran R](https://x.com/eshrofficial)
+- **Source:** [Twitter Post](https://x.com/eshrofficial/status/1992073746140791082)
+- **Published:** November 22, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20high-end%20cinematic%20product%20showcase%20of%20%7Bargument%20name%3D%22product_name_en%22%20default%3D%22%5BProduct%20Name%5D%22%7D%2C%20placed%20on%20a%20reflective%20premium%20surface%2C%20with%20soft%20rim%20lighting%2C%20a%20dramatic%20spotlight%20from%20above%2C%20ultra%20sharp%20details%2C%20an%2085mm%20lens%20depth%20of%20field%2C%20glowing%20bokeh%20in%20the%20background%2C%20smooth%20gradients%2C%20and%20an%20elegant%20luxury%20feel.)**
+
+---
+
+### No. 101: Chinese whiteboard summary of long documents
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3989,13 +4283,19 @@ Convert this long text material into a Chinese professor-style whiteboard image 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD9HEawAEPt8o.jpg" width="600" alt="Chinese whiteboard summary of long documents - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg" width="600" alt="Chinese whiteboard summary of long documents - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD-uYbkAEZOlp.jpg" width="600" alt="Chinese whiteboard summary of long documents - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg" width="600" alt="Chinese whiteboard summary of long documents - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg" width="600" alt="Chinese whiteboard summary of long documents - Image 3">
 </div>
 
 #### 📌 Details
@@ -4009,7 +4309,7 @@ Convert this long text material into a Chinese professor-style whiteboard image 
 
 ---
 
-### No. 95: Character transformed into superalloy robot style
+### No. 102: Character transformed into superalloy robot style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4028,7 +4328,7 @@ Turn this character into a superalloy-style robot.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VED2_bYAAguKl.jpg" width="600" alt="Character transformed into superalloy robot style - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg" width="600" alt="Character transformed into superalloy robot style - Image 1">
 </div>
 
 #### 📌 Details
@@ -4042,7 +4342,7 @@ Turn this character into a superalloy-style robot.
 
 ---
 
-### No. 96: Image enhancement and upscaling prompt
+### No. 103: Image enhancement and upscaling prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4061,25 +4361,25 @@ Enhance and upscale the image while keeping the composition and colors identical
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO7bEAAU6Ok.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO3bkAAwViN.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrOzaMAIB0av.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO6bIAAgUdN.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg" width="600" alt="Image enhancement and upscaling prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -4093,7 +4393,7 @@ Enhance and upscale the image while keeping the composition and colors identical
 
 ---
 
-### No. 97: Cutaway infographic of a 5th generation stealth fighter jet
+### No. 104: Cutaway infographic of a 5th generation stealth fighter jet
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4115,7 +4415,7 @@ The key requirement is that it must be a cutaway, a cutaway.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VCRSva0AACfYk.jpg" width="600" alt="Cutaway infographic of a 5th generation stealth fighter jet - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg" width="600" alt="Cutaway infographic of a 5th generation stealth fighter jet - Image 1">
 </div>
 
 #### 📌 Details
@@ -4129,7 +4429,7 @@ The key requirement is that it must be a cutaway, a cutaway.
 
 ---
 
-### No. 98: Moody 2x2 editorial collage of an androgynous woman
+### No. 105: Moody 2x2 editorial collage of an androgynous woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4219,7 +4519,7 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBcvDbMAASMAi.jpg" width="600" alt="Moody 2x2 editorial collage of an androgynous woman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg" width="600" alt="Moody 2x2 editorial collage of an androgynous woman - Image 1">
 </div>
 
 #### 📌 Details
@@ -4233,7 +4533,7 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 
 ---
 
-### No. 99: Lotte World Tower landmark-focused geolocation image
+### No. 106: Lotte World Tower landmark-focused geolocation image
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4253,7 +4553,7 @@ Create an image of {argument name="coordinates_en" default="37° 30' 40.4424'' N
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBapubAAAqFsT.jpg" width="600" alt="Lotte World Tower landmark-focused geolocation image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg" width="600" alt="Lotte World Tower landmark-focused geolocation image - Image 1">
 </div>
 
 #### 📌 Details
@@ -4267,7 +4567,7 @@ Create an image of {argument name="coordinates_en" default="37° 30' 40.4424'' N
 
 ---
 
-### No. 100: Dinosaur appearing in front of Tokyo Metropolitan Government Building
+### No. 107: Dinosaur appearing in front of Tokyo Metropolitan Government Building
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4286,25 +4586,25 @@ Make this dinosaur appear in front of the Tokyo Metropolitan Government Building
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uFbUAAIwji.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uUbMAAUHwX.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-absbwAAo3Vk.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-2kUb0AALpnb.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg" width="600" alt="Dinosaur appearing in front of Tokyo Metropolitan Government Building - Image 4">
 </div>
 
 #### 📌 Details
@@ -4318,7 +4618,7 @@ Make this dinosaur appear in front of the Tokyo Metropolitan Government Building
 
 ---
 
-### No. 101: Virtual outfit try-on with Tokyo street option
+### No. 108: Virtual outfit try-on with Tokyo street option
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4342,19 +4642,19 @@ The background is optional, either neutral or a {argument name="background_locat
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI_boAASbOX.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNJBaMAAZ_4g.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI9aEAAyuPL.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg" width="600" alt="Virtual outfit try-on with Tokyo street option - Image 3">
 </div>
 
 #### 📌 Details
@@ -4368,7 +4668,7 @@ The background is optional, either neutral or a {argument name="background_locat
 
 ---
 
-### No. 102: Recursive artist painting a photo of himself painting
+### No. 109: Recursive artist painting a photo of himself painting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4388,7 +4688,7 @@ An amateur photograph from {argument name="year_en" default="1998"} of a middle-
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U8rOkXwAABEUg.jpg" width="600" alt="Recursive artist painting a photo of himself painting - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg" width="600" alt="Recursive artist painting a photo of himself painting - Image 1">
 </div>
 
 #### 📌 Details
@@ -4402,7 +4702,7 @@ An amateur photograph from {argument name="year_en" default="1998"} of a middle-
 
 ---
 
-### No. 103: LINE sticker set from an attached illustration
+### No. 110: LINE sticker set from an attached illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4722,7 @@ Turn the illustration in the attached image into a character. Create LINE sticke
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U7zFzaAAAUfw5.jpg" width="600" alt="LINE sticker set from an attached illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg" width="600" alt="LINE sticker set from an attached illustration - Image 1">
 </div>
 
 #### 📌 Details
@@ -4436,7 +4736,7 @@ Turn the illustration in the attached image into a character. Create LINE sticke
 
 ---
 
-### No. 104: Wireframe schematic restyle prompt
+### No. 111: Wireframe schematic restyle prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4455,7 +4755,7 @@ make this a blue glowing 3D wireframe over a black background. Add red wireframe
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U5Hoeb0AAK3az.jpg" width="600" alt="Wireframe schematic restyle prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg" width="600" alt="Wireframe schematic restyle prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -4469,7 +4769,7 @@ make this a blue glowing 3D wireframe over a black background. Add red wireframe
 
 ---
 
-### No. 105: Pros and cons of real estate investment infographic
+### No. 112: Pros and cons of real estate investment infographic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4488,7 +4788,7 @@ Create an image showing the advantages and disadvantages of real estate investme
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U6PR1a4AAKtOu.jpg" width="600" alt="Pros and cons of real estate investment infographic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg" width="600" alt="Pros and cons of real estate investment infographic - Image 1">
 </div>
 
 #### 📌 Details
@@ -4502,7 +4802,7 @@ Create an image showing the advantages and disadvantages of real estate investme
 
 ---
 
-### No. 106: LINE sticker set from an attached character image
+### No. 113: LINE sticker set from an attached character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4522,13 +4822,13 @@ I want you to create LINE stickers using the character in the attached image. Ma
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HoaQAABvqP.jpg" width="600" alt="LINE sticker set from an attached character image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg" width="600" alt="LINE sticker set from an attached character image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HobIAAQ_Rl.jpg" width="600" alt="LINE sticker set from an attached character image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg" width="600" alt="LINE sticker set from an attached character image - Image 2">
 </div>
 
 #### 📌 Details
@@ -4542,7 +4842,40 @@ I want you to create LINE stickers using the character in the attached image. Ma
 
 ---
 
-### No. 107: Tang poetry learning cards
+### No. 114: Artisan bakery video ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A simple prompt for generating a video advertisement for a new artisan bakery, suitable as a base for commercial spots.
+
+#### 📝 Prompt
+
+```
+Create a video ad for a new artisan bakery.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg" width="600" alt="Artisan bakery video ad - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [rameshnuti.eth](https://x.com/RameshNuti)
+- **Source:** [Twitter Post](https://x.com/RameshNuti/status/1992061140688630126)
+- **Published:** November 22, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20video%20ad%20for%20a%20new%20artisan%20bakery.)**
+
+---
+
+### No. 115: Tang poetry learning cards
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4562,7 +4895,7 @@ Create {argument name="poem_count_en" default="10"} learning cards for famous Ta
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang poetry learning cards - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang poetry learning cards - Image 1">
 </div>
 
 #### 📌 Details
@@ -4576,7 +4909,7 @@ Create {argument name="poem_count_en" default="10"} learning cards for famous Ta
 
 ---
 
-### No. 108: Zoom-in detail on toes
+### No. 116: Zoom-in detail on toes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4595,13 +4928,13 @@ Zoom in on the toes.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3EVfaMAA6XT_.jpg" width="600" alt="Zoom-in detail on toes - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg" width="600" alt="Zoom-in detail on toes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3FIsbAAA_lZF.jpg" width="600" alt="Zoom-in detail on toes - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg" width="600" alt="Zoom-in detail on toes - Image 2">
 </div>
 
 #### 📌 Details
@@ -4615,7 +4948,7 @@ Zoom in on the toes.
 
 ---
 
-### No. 109: Night view of skyscraper via coordinates
+### No. 117: Night view of skyscraper via coordinates
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4637,7 +4970,13 @@ Create an image of {argument name="coordinates_2_en" default="37° 30' 40.4424''
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3Bs4bEAARu36.jpg" width="600" alt="Night view of skyscraper via coordinates - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg" width="600" alt="Night view of skyscraper via coordinates - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg" width="600" alt="Night view of skyscraper via coordinates - Image 2">
 </div>
 
 #### 📌 Details
@@ -4651,7 +4990,7 @@ Create an image of {argument name="coordinates_2_en" default="37° 30' 40.4424''
 
 ---
 
-### No. 110: Image summarizing basic income
+### No. 118: Image summarizing basic income
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4670,7 +5009,7 @@ Create an image that summarizes the concept of basic income.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U26MKbYAAuRuh.jpg" width="600" alt="Image summarizing basic income - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg" width="600" alt="Image summarizing basic income - Image 1">
 </div>
 
 #### 📌 Details
@@ -4684,7 +5023,7 @@ Create an image that summarizes the concept of basic income.
 
 ---
 
-### No. 111: Cleaned-up two-panel interview comic
+### No. 119: Cleaned-up two-panel interview comic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4704,7 +5043,7 @@ Could you clean up the whole comic by horizontally flipping the second panel, an
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U2Qx8bkAAYk0t.png" width="600" alt="Cleaned-up two-panel interview comic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png" width="600" alt="Cleaned-up two-panel interview comic - Image 1">
 </div>
 
 #### 📌 Details
@@ -4718,7 +5057,7 @@ Could you clean up the whole comic by horizontally flipping the second panel, an
 
 ---
 
-### No. 112: Water Margin top 30 characters grid in gongbi style
+### No. 120: Water Margin top 30 characters grid in gongbi style
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4737,7 +5076,7 @@ Generate an image of the top 30 characters from "Water Margin" in a grid format,
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uz7AZbcAEImd5.jpg" width="600" alt="Water Margin top 30 characters grid in gongbi style - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg" width="600" alt="Water Margin top 30 characters grid in gongbi style - Image 1">
 </div>
 
 #### 📌 Details
@@ -4751,7 +5090,7 @@ Generate an image of the top 30 characters from "Water Margin" in a grid format,
 
 ---
 
-### No. 113: Age progression of a woman into an old lady
+### No. 121: Age progression of a woman into an old lady
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4770,7 +5109,7 @@ Generate an image of the adult woman from the first picture as an old lady. Make
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6STW88akAAFOKe.jpg" width="600" alt="Age progression of a woman into an old lady - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg" width="600" alt="Age progression of a woman into an old lady - Image 1">
 </div>
 
 #### 📌 Details
@@ -4784,7 +5123,7 @@ Generate an image of the adult woman from the first picture as an old lady. Make
 
 ---
 
-### No. 114: Zoom in on a bee
+### No. 122: Zoom in on a bee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4803,13 +5142,13 @@ Zoom in on the bee
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvVWxWUAAa_Sm.jpg" width="600" alt="Zoom in on a bee - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg" width="600" alt="Zoom in on a bee - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvWDoXAAAGujg.jpg" width="600" alt="Zoom in on a bee - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg" width="600" alt="Zoom in on a bee - Image 2">
 </div>
 
 #### 📌 Details
@@ -4823,7 +5162,7 @@ Zoom in on the bee
 
 ---
 
-### No. 115: Thumbnail text overlay based on attachment
+### No. 123: Thumbnail text overlay based on attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4845,13 +5184,13 @@ Based on the attached image, include the following content. Keep it within two l
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Up5ETbcAA5eTt.jpg" width="600" alt="Thumbnail text overlay based on attachment - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg" width="600" alt="Thumbnail text overlay based on attachment - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UuiuTawAAeCSk.jpg" width="600" alt="Thumbnail text overlay based on attachment - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg" width="600" alt="Thumbnail text overlay based on attachment - Image 2">
 </div>
 
 #### 📌 Details
@@ -4865,7 +5204,7 @@ Based on the attached image, include the following content. Keep it within two l
 
 ---
 
-### No. 116: Portfolio strategy overview diagram from attachment
+### No. 124: Portfolio strategy overview diagram from attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4884,7 +5223,7 @@ The attachment is my portfolio as an individual investor. Please create an overv
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UujwIawAAexmT.jpg" width="600" alt="Portfolio strategy overview diagram from attachment - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg" width="600" alt="Portfolio strategy overview diagram from attachment - Image 1">
 </div>
 
 #### 📌 Details
@@ -4898,7 +5237,7 @@ The attachment is my portfolio as an individual investor. Please create an overv
 
 ---
 
-### No. 117: Single-slide about advantages of investing in Vietnam
+### No. 125: Single-slide about advantages of investing in Vietnam
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4917,13 +5256,13 @@ Turn the advantages of investing in Vietnam into a single slide.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtYpUaEAEMcj9.jpg" width="600" alt="Single-slide about advantages of investing in Vietnam - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg" width="600" alt="Single-slide about advantages of investing in Vietnam - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtjZqbAAAT6Bo.png" width="600" alt="Single-slide about advantages of investing in Vietnam - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png" width="600" alt="Single-slide about advantages of investing in Vietnam - Image 2">
 </div>
 
 #### 📌 Details
@@ -4937,7 +5276,7 @@ Turn the advantages of investing in Vietnam into a single slide.
 
 ---
 
-### No. 118: Shear and moment diagram for a loaded beam
+### No. 126: Shear and moment diagram for a loaded beam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4957,7 +5296,7 @@ A shear and moment diagram for a simply supported beam with a uniform load of {a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtlugWoAALVOy.jpg" width="600" alt="Shear and moment diagram for a loaded beam - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg" width="600" alt="Shear and moment diagram for a loaded beam - Image 1">
 </div>
 
 #### 📌 Details
@@ -4971,7 +5310,7 @@ A shear and moment diagram for a simply supported beam with a uniform load of {a
 
 ---
 
-### No. 119: Physicist relaxing in a hammock with SPA drink
+### No. 127: Physicist relaxing in a hammock with SPA drink
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4990,7 +5329,7 @@ A physicist on a hammock, with a glass and an S.P.A. Only their legs without sho
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UrfxmXwAELX_7.jpg" width="600" alt="Physicist relaxing in a hammock with SPA drink - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg" width="600" alt="Physicist relaxing in a hammock with SPA drink - Image 1">
 </div>
 
 #### 📌 Details
@@ -5004,7 +5343,7 @@ A physicist on a hammock, with a glass and an S.P.A. Only their legs without sho
 
 ---
 
-### No. 120: Origami-style step-by-step folding instructions
+### No. 128: Origami-style step-by-step folding instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5024,13 +5363,13 @@ Create a {argument name="grid_layout_en" default="2 by 3"} grid of step-by-step 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWHW8AEDGhh.jpg" width="600" alt="Origami-style step-by-step folding instructions - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg" width="600" alt="Origami-style step-by-step folding instructions - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWKXMAASI1l.jpg" width="600" alt="Origami-style step-by-step folding instructions - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg" width="600" alt="Origami-style step-by-step folding instructions - Image 2">
 </div>
 
 #### 📌 Details
@@ -5044,7 +5383,7 @@ Create a {argument name="grid_layout_en" default="2 by 3"} grid of step-by-step 
 
 ---
 
-### No. 121: Chalkboard king rabbit illustration at sunset
+### No. 129: Chalkboard king rabbit illustration at sunset
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5063,7 +5402,7 @@ On the classroom blackboard, draw a chalk illustration of a rabbit king and also
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TzN1UbAAAojlo.jpg" width="600" alt="Chalkboard king rabbit illustration at sunset - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg" width="600" alt="Chalkboard king rabbit illustration at sunset - Image 1">
 </div>
 
 #### 📌 Details
@@ -5077,7 +5416,7 @@ On the classroom blackboard, draw a chalk illustration of a rabbit king and also
 
 ---
 
-### No. 122: Ben 10 meets TMNT full comic page
+### No. 130: Ben 10 meets TMNT full comic page
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5097,7 +5436,7 @@ A full comic page bringing {argument name="character_1_en" default="Ben 10"} int
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10 meets TMNT full comic page - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10 meets TMNT full comic page - Image 1">
 </div>
 
 #### 📌 Details
@@ -5111,7 +5450,7 @@ A full comic page bringing {argument name="character_1_en" default="Ben 10"} int
 
 ---
 
-### No. 123: Bookstore POP display with acrylic marker illustration
+### No. 131: Bookstore POP display with acrylic marker illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5131,13 +5470,13 @@ Draw the illustration with acrylic markers, using various colors of acrylic mark
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnZv5boAA--Ow.jpg" width="600" alt="Bookstore POP display with acrylic marker illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg" width="600" alt="Bookstore POP display with acrylic marker illustration - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ung7SboAEOCSa.jpg" width="600" alt="Bookstore POP display with acrylic marker illustration - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg" width="600" alt="Bookstore POP display with acrylic marker illustration - Image 2">
 </div>
 
 #### 📌 Details
@@ -5151,7 +5490,7 @@ Draw the illustration with acrylic markers, using various colors of acrylic mark
 
 ---
 
-### No. 124: Goth makeover variant of existing photo
+### No. 132: Goth makeover variant of existing photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5170,13 +5509,13 @@ Redo this as though this person was into goth music at the time.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul3wDa8AAoRRj.jpg" width="600" alt="Goth makeover variant of existing photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg" width="600" alt="Goth makeover variant of existing photo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul4d7a4AA-yF5.jpg" width="600" alt="Goth makeover variant of existing photo - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg" width="600" alt="Goth makeover variant of existing photo - Image 2">
 </div>
 
 #### 📌 Details
@@ -5190,7 +5529,7 @@ Redo this as though this person was into goth music at the time.
 
 ---
 
-### No. 125: Funny anatomical diagram of a pet
+### No. 133: Funny anatomical diagram of a pet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5209,7 +5548,7 @@ make a funny anatomical diagram of this pet, with humorous annotations
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnKK3XIAA6EWK.jpg" width="600" alt="Funny anatomical diagram of a pet - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg" width="600" alt="Funny anatomical diagram of a pet - Image 1">
 </div>
 
 #### 📌 Details
@@ -5223,7 +5562,7 @@ make a funny anatomical diagram of this pet, with humorous annotations
 
 ---
 
-### No. 126: Swimsuit to bikini pose-edit prompt (reply)
+### No. 134: Swimsuit to bikini pose-edit prompt (reply)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5242,13 +5581,13 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmAEmbEAANPvU.jpg" width="600" alt="Swimsuit to bikini pose-edit prompt (reply) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg" width="600" alt="Swimsuit to bikini pose-edit prompt (reply) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmB-0aMAEmYWh.jpg" width="600" alt="Swimsuit to bikini pose-edit prompt (reply) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg" width="600" alt="Swimsuit to bikini pose-edit prompt (reply) - Image 2">
 </div>
 
 #### 📌 Details
@@ -5262,7 +5601,7 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 
 ---
 
-### No. 127: Government results infographic from web sources
+### No. 135: Government results infographic from web sources
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5281,7 +5620,7 @@ I want an infographic showing the achievements and issues of the Takaichi admini
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmEq1b0AA7RHL.jpg" width="600" alt="Government results infographic from web sources - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg" width="600" alt="Government results infographic from web sources - Image 1">
 </div>
 
 #### 📌 Details
@@ -5295,7 +5634,40 @@ I want an infographic showing the achievements and issues of the Takaichi admini
 
 ---
 
-### No. 128: Four-panel anime manga with panda-girl character
+### No. 136: Japanese headline thumbnail about Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+A prompt to generate a Japanese headline-style image about Google releasing Nano Banana Pro, ideal for news thumbnails or blog headers.
+
+#### 📝 Prompt
+
+```
+Google has released the ultimate image generation AI ‘Nano Banana Pro’
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg" width="600" alt="Japanese headline thumbnail about Nano Banana Pro - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
+- **Source:** [Twitter Post](https://x.com/no_ai_no_life/status/1992040137161908537)
+- **Published:** November 22, 2025
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%20has%20released%20the%20ultimate%20image%20generation%20AI%20%E2%80%98Nano%20Banana%20Pro%E2%80%99)**
+
+---
+
+### No. 137: Four-panel anime manga with panda-girl character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5320,7 +5692,13 @@ Generate a four-panel manga in a typical Japanese anime style. The image is a ve
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uk2jfa0AABLxb.jpg" width="600" alt="Four-panel anime manga with panda-girl character - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg" width="600" alt="Four-panel anime manga with panda-girl character - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg" width="600" alt="Four-panel anime manga with panda-girl character - Image 2">
 </div>
 
 #### 📌 Details
@@ -5334,7 +5712,7 @@ Generate a four-panel manga in a typical Japanese anime style. The image is a ve
 
 ---
 
-### No. 129: Visual explanation of Think-cell solving document issues
+### No. 138: Visual explanation of Think-cell solving document issues
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5353,7 +5731,7 @@ Create an image that explains the problems of document creation and what Think-c
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UktiRaIAAwucu.jpg" width="600" alt="Visual explanation of Think-cell solving document issues - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg" width="600" alt="Visual explanation of Think-cell solving document issues - Image 1">
 </div>
 
 #### 📌 Details
@@ -5367,7 +5745,7 @@ Create an image that explains the problems of document creation and what Think-c
 
 ---
 
-### No. 130: HUD battle power overlay for any character image
+### No. 139: HUD battle power overlay for any character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5388,25 +5766,25 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgISgacAAxf0r.jpg" width="600" alt="HUD battle power overlay for any character image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg" width="600" alt="HUD battle power overlay for any character image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgIzSaQAACgqW.jpg" width="600" alt="HUD battle power overlay for any character image - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg" width="600" alt="HUD battle power overlay for any character image - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJQ9b0AAoqh0.jpg" width="600" alt="HUD battle power overlay for any character image - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg" width="600" alt="HUD battle power overlay for any character image - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJm2aIAAxSjb.jpg" width="600" alt="HUD battle power overlay for any character image - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg" width="600" alt="HUD battle power overlay for any character image - Image 4">
 </div>
 
 #### 📌 Details
@@ -5420,7 +5798,40 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 ---
 
-### No. 131: Diagram explaining how to walk beautifully
+### No. 140: Animated flashy text reveal sequence
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+Short prompt to create flashy, animated text reveal effects suitable for motion-like image generation or keyframe animation pipelines.
+
+#### 📝 Prompt
+
+```
+The text appears with flashy effects and animation.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg" width="600" alt="Animated flashy text reveal sequence - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [おのふみ| AI×画像・動画生成](https://x.com/onofumi_AI)
+- **Source:** [Twitter Post](https://x.com/onofumi_AI/status/1992035727241289736)
+- **Published:** November 22, 2025
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20text%20appears%20with%20flashy%20effects%20and%20animation.)**
+
+---
+
+### No. 141: Diagram explaining how to walk beautifully
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5439,7 +5850,7 @@ Create a diagram showing how to walk beautifully.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUoBTbsAA2jTW.jpg" width="600" alt="Diagram explaining how to walk beautifully - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg" width="600" alt="Diagram explaining how to walk beautifully - Image 1">
 </div>
 
 #### 📌 Details
@@ -5453,7 +5864,7 @@ Create a diagram showing how to walk beautifully.
 
 ---
 
-### No. 132: Anthropomorphized apple and banana couple
+### No. 142: Anthropomorphized apple and banana couple
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5472,7 +5883,13 @@ A married couple not as humans, but as an anthropomorphized apple and banana.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhPGGasAA4bUU.jpg" width="600" alt="Anthropomorphized apple and banana couple - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg" width="600" alt="Anthropomorphized apple and banana couple - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg" width="600" alt="Anthropomorphized apple and banana couple - Image 2">
 </div>
 
 #### 📌 Details
@@ -5486,7 +5903,7 @@ A married couple not as humans, but as an anthropomorphized apple and banana.
 
 ---
 
-### No. 133: Clean infographic style constraints in Japanese
+### No. 143: Clean infographic style constraints in Japanese
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5505,7 +5922,7 @@ Use extremely little text and focus on graphical expression. Suppress Japanese c
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhfinasAAfFCh.jpg" width="600" alt="Clean infographic style constraints in Japanese - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg" width="600" alt="Clean infographic style constraints in Japanese - Image 1">
 </div>
 
 #### 📌 Details
@@ -5519,7 +5936,7 @@ Use extremely little text and focus on graphical expression. Suppress Japanese c
 
 ---
 
-### No. 134: 4-panel Japanese gag manga about Nanami eating ramen
+### No. 144: 4-panel Japanese gag manga about Nanami eating ramen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5539,7 +5956,7 @@ Create a Japanese 4-panel gag manga showing this young Japanese woman, “{argum
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ud5ZbbQAA3LQl.jpg" width="600" alt="4-panel Japanese gag manga about Nanami eating ramen - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg" width="600" alt="4-panel Japanese gag manga about Nanami eating ramen - Image 1">
 </div>
 
 #### 📌 Details
@@ -5553,7 +5970,7 @@ Create a Japanese 4-panel gag manga showing this young Japanese woman, “{argum
 
 ---
 
-### No. 135: Split-screen time-lapse of same location by coordinates
+### No. 145: Split-screen time-lapse of same location by coordinates
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5587,25 +6004,49 @@ Each era should feel natural and together form a side-by-side time comparison im
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ucs42a8AATKjE.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcvfObgAE8rRy.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcxrSaQAIFNPy.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uc0YRaoAAs9u1.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 7">
+</div>
+
+##### Image 8
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg" width="600" alt="Split-screen time-lapse of same location by coordinates - Image 8">
 </div>
 
 #### 📌 Details
@@ -5619,7 +6060,7 @@ Each era should feel natural and together form a side-by-side time comparison im
 
 ---
 
-### No. 136: POV from a light gray rabbit
+### No. 146: POV from a light gray rabbit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5638,13 +6079,13 @@ Light gray rabbit's point-of-view shot
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcBGLaoAASC2E.jpg" width="600" alt="POV from a light gray rabbit - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg" width="600" alt="POV from a light gray rabbit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcTNragAALmMB.jpg" width="600" alt="POV from a light gray rabbit - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg" width="600" alt="POV from a light gray rabbit - Image 2">
 </div>
 
 #### 📌 Details
@@ -5658,7 +6099,7 @@ Light gray rabbit's point-of-view shot
 
 ---
 
-### No. 137: Four-panel manga about Bitcoin from cypherpunk view
+### No. 147: Four-panel manga about Bitcoin from cypherpunk view
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5677,7 +6118,7 @@ Create a Japanese four-panel manga in which the character from the reference ima
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ubs1OaoAA3-pp.jpg" width="600" alt="Four-panel manga about Bitcoin from cypherpunk view - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg" width="600" alt="Four-panel manga about Bitcoin from cypherpunk view - Image 1">
 </div>
 
 #### 📌 Details
@@ -5691,7 +6132,7 @@ Create a Japanese four-panel manga in which the character from the reference ima
 
 ---
 
-### No. 138: Idol flyer stuck on a steamed bun vending machine
+### No. 148: Idol flyer stuck on a steamed bun vending machine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5710,7 +6151,7 @@ Take the image of the hand-drawn-style idol character flyer and visually depict 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TFgBQaYAAe4-k.jpg" width="600" alt="Idol flyer stuck on a steamed bun vending machine - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg" width="600" alt="Idol flyer stuck on a steamed bun vending machine - Image 1">
 </div>
 
 #### 📌 Details
@@ -5724,7 +6165,7 @@ Take the image of the hand-drawn-style idol character flyer and visually depict 
 
 ---
 
-### No. 139: Edit city photo into rainy scene with Vietnamese bikers
+### No. 149: Edit city photo into rainy scene with Vietnamese bikers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5745,19 +6186,19 @@ When it rains, Vietnamese people wear raincoats and ride motorbikes.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTrBVagAAwXzs.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTr2rbsAEGn2m.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UURusa0AAmTKE.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg" width="600" alt="Edit city photo into rainy scene with Vietnamese bikers - Image 3">
 </div>
 
 #### 📌 Details
@@ -5771,7 +6212,7 @@ When it rains, Vietnamese people wear raincoats and ride motorbikes.
 
 ---
 
-### No. 140: Textbook-style illustration for the poem “Linjiangxian”
+### No. 150: Textbook-style illustration for the poem “Linjiangxian”
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5791,7 +6232,13 @@ Generate a textbook-style teaching illustration for {argument name="poem_title_e
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUuMRbUAAGeZY.jpg" width="600" alt="Textbook-style illustration for the poem “Linjiangxian” - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg" width="600" alt="Textbook-style illustration for the poem “Linjiangxian” - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg" width="600" alt="Textbook-style illustration for the poem “Linjiangxian” - Image 2">
 </div>
 
 #### 📌 Details
@@ -5805,7 +6252,7 @@ Generate a textbook-style teaching illustration for {argument name="poem_title_e
 
 ---
 
-### No. 141: Pop-style flyer image for a note article
+### No. 151: Pop-style flyer image for a note article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5825,7 +6272,7 @@ Create a pop-style flyer image to introduce this Note article. Set the aspect ra
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUEFKaAAEO3oQ.jpg" width="600" alt="Pop-style flyer image for a note article - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg" width="600" alt="Pop-style flyer image for a note article - Image 1">
 </div>
 
 #### 📌 Details
@@ -5839,7 +6286,7 @@ Create a pop-style flyer image to introduce this Note article. Set the aspect ra
 
 ---
 
-### No. 142: Isometric living room layout based on a sofa photo
+### No. 152: Isometric living room layout based on a sofa photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5858,25 +6305,25 @@ Create a living room layout that suits this sofa. Make it a room in a single-sto
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVbPxa8AAm8df.png" width="600" alt="Isometric living room layout based on a sofa photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png" width="600" alt="Isometric living room layout based on a sofa photo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVcbGbkAAes6z.jpg" width="600" alt="Isometric living room layout based on a sofa photo - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg" width="600" alt="Isometric living room layout based on a sofa photo - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVdT7aIAE7ayL.png" width="600" alt="Isometric living room layout based on a sofa photo - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png" width="600" alt="Isometric living room layout based on a sofa photo - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVeFabcAE9Tyi.jpg" width="600" alt="Isometric living room layout based on a sofa photo - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg" width="600" alt="Isometric living room layout based on a sofa photo - Image 4">
 </div>
 
 #### 📌 Details
@@ -5890,7 +6337,7 @@ Create a living room layout that suits this sofa. Make it a room in a single-sto
 
 ---
 
-### No. 143: Whiteboard-style slide explaining a research paper
+### No. 153: Whiteboard-style slide explaining a research paper
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5909,7 +6356,7 @@ Convert this paper into a Chinese professor-style whiteboard image to help me un
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RRCifaAAAcSu6.jpg" width="600" alt="Whiteboard-style slide explaining a research paper - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg" width="600" alt="Whiteboard-style slide explaining a research paper - Image 1">
 </div>
 
 #### 📌 Details
@@ -5923,7 +6370,7 @@ Convert this paper into a Chinese professor-style whiteboard image to help me un
 
 ---
 
-### No. 144: Einstein learning selfies from Elon Musk (Chinese)
+### No. 154: Einstein learning selfies from Elon Musk (Chinese)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5943,7 +6390,7 @@ Albert Einstein, with messy hair, stares at a smartphone in confusion, trying to
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein learning selfies from Elon Musk (Chinese) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein learning selfies from Elon Musk (Chinese) - Image 1">
 </div>
 
 #### 📌 Details
@@ -5957,7 +6404,7 @@ Albert Einstein, with messy hair, stares at a smartphone in confusion, trying to
 
 ---
 
-### No. 145: Eye-catching thumbnail about Nano Banana Pro release
+### No. 155: Eye-catching thumbnail about Nano Banana Pro release
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5976,7 +6423,7 @@ Create an eye-catching thumbnail that conveys that Nano Banana Pro has come out.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RPUmsbMAAUqMe.jpg" width="600" alt="Eye-catching thumbnail about Nano Banana Pro release - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg" width="600" alt="Eye-catching thumbnail about Nano Banana Pro release - Image 1">
 </div>
 
 #### 📌 Details
@@ -5990,7 +6437,7 @@ Create an eye-catching thumbnail that conveys that Nano Banana Pro has come out.
 
 ---
 
-### No. 146: Bruce Lee sparring with Yoda in a dojo
+### No. 156: Bruce Lee sparring with Yoda in a dojo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6009,7 +6456,7 @@ Bruce Lee, wearing a yellow jumpsuit, is having a friendly sparring match with M
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RNcCXbYAAxWct.jpg" width="600" alt="Bruce Lee sparring with Yoda in a dojo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg" width="600" alt="Bruce Lee sparring with Yoda in a dojo - Image 1">
 </div>
 
 #### 📌 Details
@@ -6023,7 +6470,7 @@ Bruce Lee, wearing a yellow jumpsuit, is having a friendly sparring match with M
 
 ---
 
-### No. 147: High-detail story-art layout with frames and speech bubbles
+### No. 157: High-detail story-art layout with frames and speech bubbles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6048,13 +6495,13 @@ Faithfully reproduce the art style of the reference image, with delicate linewor
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB7o1bQAA-rYr.jpg" width="600" alt="High-detail story-art layout with frames and speech bubbles - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg" width="600" alt="High-detail story-art layout with frames and speech bubbles - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB86zaAAAkYmc.jpg" width="600" alt="High-detail story-art layout with frames and speech bubbles - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg" width="600" alt="High-detail story-art layout with frames and speech bubbles - Image 2">
 </div>
 
 #### 📌 Details
@@ -6068,7 +6515,7 @@ Faithfully reproduce the art style of the reference image, with delicate linewor
 
 ---
 
-### No. 148: Pixel game character climbing out of TV
+### No. 158: Pixel game character climbing out of TV
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6087,7 +6534,7 @@ A pixelated video game character is trying to climb out of the TV screen into th
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RMg5na4AAy3d8.jpg" width="600" alt="Pixel game character climbing out of TV - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg" width="600" alt="Pixel game character climbing out of TV - Image 1">
 </div>
 
 #### 📌 Details
@@ -6101,7 +6548,7 @@ A pixelated video game character is trying to climb out of the TV screen into th
 
 ---
 
-### No. 149: Cute chibi cat-eared girl illustration
+### No. 159: Cute chibi cat-eared girl illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6121,7 +6568,7 @@ Generate an illustration of a cute cat-eared girl. Make her in a chibi style, we
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RL8pKa0AArXjI.jpg" width="600" alt="Cute chibi cat-eared girl illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg" width="600" alt="Cute chibi cat-eared girl illustration - Image 1">
 </div>
 
 #### 📌 Details
@@ -6135,7 +6582,7 @@ Generate an illustration of a cute cat-eared girl. Make her in a chibi style, we
 
 ---
 
-### No. 150: Change clothing to match reference outfit
+### No. 160: Change clothing to match reference outfit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6154,19 +6601,19 @@ Take the clothing from the reference and change my clothing to match it
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLaTFbEAAUH0W.jpg" width="600" alt="Change clothing to match reference outfit - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg" width="600" alt="Change clothing to match reference outfit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLa2xagAI7ZNl.jpg" width="600" alt="Change clothing to match reference outfit - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg" width="600" alt="Change clothing to match reference outfit - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLcCSagAAysgg.jpg" width="600" alt="Change clothing to match reference outfit - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg" width="600" alt="Change clothing to match reference outfit - Image 3">
 </div>
 
 #### 📌 Details
@@ -6180,7 +6627,7 @@ Take the clothing from the reference and change my clothing to match it
 
 ---
 
-### No. 151: Hyper-realistic environmental portrait of stylish woman prompt (partial)
+### No. 161: Hyper-realistic environmental portrait of stylish woman prompt (partial)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6200,7 +6647,13 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RKPI-aEAEZgWt.jpg" width="600" alt="Hyper-realistic environmental portrait of stylish woman prompt (partial) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg" width="600" alt="Hyper-realistic environmental portrait of stylish woman prompt (partial) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg" width="600" alt="Hyper-realistic environmental portrait of stylish woman prompt (partial) - Image 2">
 </div>
 
 #### 📌 Details
@@ -6214,7 +6667,7 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 
 ---
 
-### No. 152: Connected series of four-panel manga strips
+### No. 162: Connected series of four-panel manga strips
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6233,25 +6686,25 @@ Create four pages of four-panel manga. Give each four-panel strip its own punchl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJM5QbIAAcb7v.jpg" width="600" alt="Connected series of four-panel manga strips - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg" width="600" alt="Connected series of four-panel manga strips - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJQY5acAAnejm.jpg" width="600" alt="Connected series of four-panel manga strips - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg" width="600" alt="Connected series of four-panel manga strips - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJUdkaUAAzUgx.jpg" width="600" alt="Connected series of four-panel manga strips - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg" width="600" alt="Connected series of four-panel manga strips - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJXSfagAAlUz3.jpg" width="600" alt="Connected series of four-panel manga strips - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg" width="600" alt="Connected series of four-panel manga strips - Image 4">
 </div>
 
 #### 📌 Details
@@ -6265,7 +6718,7 @@ Create four pages of four-panel manga. Give each four-panel strip its own punchl
 
 ---
 
-### No. 153: Scientific diagram of cytotoxic T cells killing cancer cells
+### No. 163: Scientific diagram of cytotoxic T cells killing cancer cells
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6284,7 +6737,7 @@ Use a finely crafted scientific paper-style diagram to depict the process by whi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RE54magAA_1ck.jpg" width="600" alt="Scientific diagram of cytotoxic T cells killing cancer cells - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg" width="600" alt="Scientific diagram of cytotoxic T cells killing cancer cells - Image 1">
 </div>
 
 #### 📌 Details
@@ -6298,7 +6751,7 @@ Use a finely crafted scientific paper-style diagram to depict the process by whi
 
 ---
 
-### No. 154: Captain’s worn sailing log sketch
+### No. 164: Captain’s worn sailing log sketch
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6317,7 +6770,7 @@ A worn-out captain’s sailing log. A sketch depicting Luffy stretching his rubb
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RGSLDa4AAFdrj.jpg" width="600" alt="Captain’s worn sailing log sketch - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg" width="600" alt="Captain’s worn sailing log sketch - Image 1">
 </div>
 
 #### 📌 Details
@@ -6331,7 +6784,7 @@ A worn-out captain’s sailing log. A sketch depicting Luffy stretching his rubb
 
 ---
 
-### No. 155: Magazine-style photo containing given article text
+### No. 165: Magazine-style photo containing given article text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6351,7 +6804,7 @@ Please copy this passage of text verbatim into a photo of a beautiful magazine a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RFnuobEAAfZ_5.jpg" width="600" alt="Magazine-style photo containing given article text - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg" width="600" alt="Magazine-style photo containing given article text - Image 1">
 </div>
 
 #### 📌 Details
@@ -6365,7 +6818,7 @@ Please copy this passage of text verbatim into a photo of a beautiful magazine a
 
 ---
 
-### No. 156: AIFocus Twitter banner with Google branding
+### No. 166: AIFocus Twitter banner with Google branding
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6384,7 +6837,7 @@ Draw a BANANA-themed Twitter banner image for AIFocus that matches Google’s br
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RDsJyaIAAtBk3.jpg" width="600" alt="AIFocus Twitter banner with Google branding - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg" width="600" alt="AIFocus Twitter banner with Google branding - Image 1">
 </div>
 
 #### 📌 Details
@@ -6398,7 +6851,7 @@ Draw a BANANA-themed Twitter banner image for AIFocus that matches Google’s br
 
 ---
 
-### No. 157: 16-bit pixel art poster of black-and-white animals
+### No. 167: 16-bit pixel art poster of black-and-white animals
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6417,25 +6870,25 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBWw9bMAA_3mB.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBYuEaMAAP1uA.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBbCnaEAE_NK0.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBl3PaYAABPC4.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg" width="600" alt="16-bit pixel art poster of black-and-white animals - Image 4">
 </div>
 
 #### 📌 Details
@@ -6449,7 +6902,7 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 
 ---
 
-### No. 158: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
+### No. 168: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6478,7 +6931,7 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RCqojakAAYKGL.jpg" width="600" alt="Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg" width="600" alt="Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal - Image 1">
 </div>
 
 #### 📌 Details
@@ -6492,7 +6945,7 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 
 ---
 
-### No. 159: Four-panel manga of a fairy who thinks Earth is a cat planet
+### No. 169: Four-panel manga of a fairy who thinks Earth is a cat planet
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6511,7 +6964,7 @@ Draw a four-panel manga in which a fairy comes down from the heavens to Earth. B
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB5JcbkAAziGG.jpg" width="600" alt="Four-panel manga of a fairy who thinks Earth is a cat planet - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg" width="600" alt="Four-panel manga of a fairy who thinks Earth is a cat planet - Image 1">
 </div>
 
 #### 📌 Details
@@ -6525,7 +6978,7 @@ Draw a four-panel manga in which a fairy comes down from the heavens to Earth. B
 
 ---
 
-### No. 160: Structured rooftop winter portrait (JSON)
+### No. 170: Structured rooftop winter portrait (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6574,7 +7027,13 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RAtP9WkAAyJUJ.jpg" width="600" alt="Structured rooftop winter portrait (JSON) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="Structured rooftop winter portrait (JSON) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="Structured rooftop winter portrait (JSON) - Image 2">
 </div>
 
 #### 📌 Details
@@ -6588,7 +7047,7 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 
 ---
 
-### No. 161: Salted fish trying to flip in a pan
+### No. 171: Salted fish trying to flip in a pan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6607,7 +7066,7 @@ A salted fish lies in a frying pan, trying hard to flip over, but even after fli
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q_SssbAAAOrWs.jpg" width="600" alt="Salted fish trying to flip in a pan - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="Salted fish trying to flip in a pan - Image 1">
 </div>
 
 #### 📌 Details
@@ -6621,7 +7080,7 @@ A salted fish lies in a frying pan, trying hard to flip over, but even after fli
 
 ---
 
-### No. 162: Hand-drawn infographic card about long-term IP building
+### No. 172: Hand-drawn infographic card about long-term IP building
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6647,7 +7106,7 @@ The theme is: “{argument name="theme" default="Building a personal IP is a lon
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-oMuWkAAgOQr.jpg" width="600" alt="Hand-drawn infographic card about long-term IP building - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946989_0mephc_G6Q-oMuWkAAgOQr.jpg" width="600" alt="Hand-drawn infographic card about long-term IP building - Image 1">
 </div>
 
 #### 📌 Details
@@ -6661,7 +7120,7 @@ The theme is: “{argument name="theme" default="Building a personal IP is a lon
 
 ---
 
-### No. 163: Blackboard summary of pasted content
+### No. 173: Blackboard summary of pasted content
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6680,7 +7139,7 @@ Please clearly summarize the following content on a single blackboard.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-cwGb0AAXK_L.jpg" width="600" alt="Blackboard summary of pasted content - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886552076_sd4wd3_G6Q-cwGb0AAXK_L.jpg" width="600" alt="Blackboard summary of pasted content - Image 1">
 </div>
 
 #### 📌 Details
@@ -6694,7 +7153,7 @@ Please clearly summarize the following content on a single blackboard.
 
 ---
 
-### No. 164: 4 types of 4‑panel manga about Nano Banana Pro
+### No. 174: 4 types of 4‑panel manga about Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6714,7 +7173,7 @@ Please create a Japanese 4‑panel manga featuring the male and female character
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-NGxbQAAOp8b.jpg" width="600" alt="4 types of 4‑panel manga about Nano Banana Pro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886513261_0uxvic_G6Q-NGxbQAAOp8b.jpg" width="600" alt="4 types of 4‑panel manga about Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -6728,7 +7187,7 @@ Please create a Japanese 4‑panel manga featuring the male and female character
 
 ---
 
-### No. 165: Python Fibonacci code on glass whiteboard
+### No. 175: Python Fibonacci code on glass whiteboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6748,7 +7207,7 @@ Create a photo of {argument name="programming_language_en" default="Python"} cod
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q7IqsXUAA41_W.jpg" width="600" alt="Python Fibonacci code on glass whiteboard - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887119884_tdofiz_G6Q7IqsXUAA41_W.jpg" width="600" alt="Python Fibonacci code on glass whiteboard - Image 1">
 </div>
 
 #### 📌 Details
@@ -6762,7 +7221,7 @@ Create a photo of {argument name="programming_language_en" default="Python"} cod
 
 ---
 
-### No. 166: Chibi character LINE stickers set
+### No. 176: Chibi character LINE stickers set
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6782,13 +7241,13 @@ Turn the character in the attached image into a chibi character. Create LINE sti
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Chibi character LINE stickers set - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Chibi character LINE stickers set - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyHaQAA02bY.jpg" width="600" alt="Chibi character LINE stickers set - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg" width="600" alt="Chibi character LINE stickers set - Image 2">
 </div>
 
 #### 📌 Details
@@ -6802,7 +7261,7 @@ Turn the character in the attached image into a chibi character. Create LINE sti
 
 ---
 
-### No. 167: Policy-style slide about national medical data strategy
+### No. 177: Policy-style slide about national medical data strategy
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6821,7 +7280,7 @@ After researching the future direction of national policy on medical data, pleas
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5MAFacAUc-tE.jpg" width="600" alt="Policy-style slide about national medical data strategy - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886317117_qpj4dq_G6Q5MAFacAUc-tE.jpg" width="600" alt="Policy-style slide about national medical data strategy - Image 1">
 </div>
 
 #### 📌 Details
@@ -6835,7 +7294,7 @@ After researching the future direction of national policy on medical data, pleas
 
 ---
 
-### No. 168: Doujinshi cover from two characters
+### No. 178: Doujinshi cover from two characters
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6855,7 +7314,7 @@ The cover of a doujinshi featuring {argument name="number_of_characters_en" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q4s2xacAsvivR.jpg" width="600" alt="Doujinshi cover from two characters - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886504130_azrlpp_G6Q4s2xacAsvivR.jpg" width="600" alt="Doujinshi cover from two characters - Image 1">
 </div>
 
 #### 📌 Details
@@ -6869,7 +7328,7 @@ The cover of a doujinshi featuring {argument name="number_of_characters_en" defa
 
 ---
 
-### No. 169: Product ad-style image for a raccoon figure
+### No. 179: Product ad-style image for a raccoon figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6888,13 +7347,13 @@ An advertisement for the figure in this image. The text must be in Japanese. The
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtvacAUuAQ6.jpg" width="600" alt="Product ad-style image for a raccoon figure - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886396175_34n70g_G6Q5JtvacAUuAQ6.jpg" width="600" alt="Product ad-style image for a raccoon figure - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtracAEyiq-.jpg" width="600" alt="Product ad-style image for a raccoon figure - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886399868_6zfqlk_G6Q5JtracAEyiq-.jpg" width="600" alt="Product ad-style image for a raccoon figure - Image 2">
 </div>
 
 #### 📌 Details
@@ -6908,7 +7367,7 @@ An advertisement for the figure in this image. The text must be in Japanese. The
 
 ---
 
-### No. 170: Paper summary as Chinese whiteboard photo
+### No. 180: Paper summary as Chinese whiteboard photo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6927,13 +7386,19 @@ Summarize this paper and turn it into a Chinese whiteboard-style photo.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qz3TZW4AAMweD.jpg" width="600" alt="Paper summary as Chinese whiteboard photo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886866812_0u3dqk_G6Qz3TZW4AAMweD.jpg" width="600" alt="Paper summary as Chinese whiteboard photo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0s48WEAA06yE.jpg" width="600" alt="Paper summary as Chinese whiteboard photo - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886869233_uojom6_G6Q0s48WEAA06yE.jpg" width="600" alt="Paper summary as Chinese whiteboard photo - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886872214_xzg6p5_G6PxynpWcAALinh.jpg" width="600" alt="Paper summary as Chinese whiteboard photo - Image 3">
 </div>
 
 #### 📌 Details
@@ -6947,7 +7412,7 @@ Summarize this paper and turn it into a Chinese whiteboard-style photo.
 
 ---
 
-### No. 171: Ad manga for a radio show with a gorilla and rabbit
+### No. 181: Ad manga for a radio show with a gorilla and rabbit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6966,25 +7431,25 @@ Use the attached images of the gorilla and the rabbit. Create an advertisement m
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0S5FacAUkJCh.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886369701_sf7129_G6Q0S5FacAUkJCh.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0WyxbMAAW8Oi.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886373307_j8tgmt_G6Q0WyxbMAAW8Oi.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0bCzbgAAKWSe.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886376112_3z2wze_G6Q0bCzbgAAKWSe.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0cYIacAANC87.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886379874_7w0c6a_G6Q0cYIacAANC87.jpg" width="600" alt="Ad manga for a radio show with a gorilla and rabbit - Image 4">
 </div>
 
 #### 📌 Details
@@ -6998,7 +7463,40 @@ Use the attached images of the gorilla and the rabbit. Create an advertisement m
 
 ---
 
-### No. 172: Four-panel manga about a hungry woman and pancakes
+### No. 182: Self-portrait on top of Mount Everest
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt idea for placing an uploaded portrait photo of the user on the summit of Mount Everest in a highly realistic style.
+
+#### 📝 Prompt
+
+```
+Place me on the summit of Everest.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886007632_qn1pk3_yP6Eu6_ODiGBnGHb.jpg" width="600" alt="Self-portrait on top of Mount Everest - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [عمر العطاس](https://x.com/omer_attas)
+- **Source:** [Twitter Post](https://x.com/omer_attas/status/1991773850577809655)
+- **Published:** November 21, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Place%20me%20on%20the%20summit%20of%20Everest.)**
+
+---
+
+### No. 183: Four-panel manga about a hungry woman and pancakes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7027,7 +7525,7 @@ The woman is {argument name="nationality_en" default="Japanese"}. She has a brig
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QzoOaacAQYUzi.jpg" width="600" alt="Four-panel manga about a hungry woman and pancakes - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886272247_r4i8bs_G6QzoOaacAQYUzi.jpg" width="600" alt="Four-panel manga about a hungry woman and pancakes - Image 1">
 </div>
 
 #### 📌 Details
@@ -7041,7 +7539,7 @@ The woman is {argument name="nationality_en" default="Japanese"}. She has a brig
 
 ---
 
-### No. 173: Watermelon swimming pool micro-world
+### No. 184: Watermelon swimming pool micro-world
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7060,7 +7558,7 @@ A cross-sectional view of a giant watermelon. The red flesh is actually a swimmi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QxDHEacAIO_xc.jpg" width="600" alt="Watermelon swimming pool micro-world - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg" width="600" alt="Watermelon swimming pool micro-world - Image 1">
 </div>
 
 #### 📌 Details
@@ -7074,7 +7572,7 @@ A cross-sectional view of a giant watermelon. The red flesh is actually a swimmi
 
 ---
 
-### No. 174: Surreal translucent blue whale in the clouds
+### No. 185: Surreal translucent blue whale in the clouds
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7093,7 +7591,7 @@ At golden hour, a huge, semi-transparent blue whale swims through a sea of white
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QvTkCacAATNjA.jpg" width="600" alt="Surreal translucent blue whale in the clouds - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886763402_um7z88_G6QvTkCacAATNjA.jpg" width="600" alt="Surreal translucent blue whale in the clouds - Image 1">
 </div>
 
 #### 📌 Details
@@ -7107,7 +7605,7 @@ At golden hour, a huge, semi-transparent blue whale swims through a sea of white
 
 ---
 
-### No. 175: Yin-yang koi ink illustration
+### No. 186: Yin-yang koi ink illustration
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7126,7 +7624,7 @@ Two koi fish swim in the water, forming a perfect yin-yang Taiji pattern. One fi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QuUsWacAArtgo.jpg" width="600" alt="Yin-yang koi ink illustration - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886767893_0xgtq6_G6QuUsWacAArtgo.jpg" width="600" alt="Yin-yang koi ink illustration - Image 1">
 </div>
 
 #### 📌 Details
@@ -7140,7 +7638,7 @@ Two koi fish swim in the water, forming a perfect yin-yang Taiji pattern. One fi
 
 ---
 
-### No. 176: Figure-style product page design for a heartbreak girl figure
+### No. 187: Figure-style product page design for a heartbreak girl figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7169,13 +7667,13 @@ Prototype sculptor: {argument name="sculptor_name_en" default="Tennen"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsHDgacAANhhz.jpg" width="600" alt="Figure-style product page design for a heartbreak girl figure - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568950_hg4jfg_G6QsHDgacAANhhz.jpg" width="600" alt="Figure-style product page design for a heartbreak girl figure - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qspn7bwAA0eGf.jpg" width="600" alt="Figure-style product page design for a heartbreak girl figure - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886572822_uvcn77_G6Qspn7bwAA0eGf.jpg" width="600" alt="Figure-style product page design for a heartbreak girl figure - Image 2">
 </div>
 
 #### 📌 Details
@@ -7189,7 +7687,7 @@ Prototype sculptor: {argument name="sculptor_name_en" default="Tennen"}.
 
 ---
 
-### No. 177: Outfit transfer between two photos
+### No. 188: Outfit transfer between two photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7210,19 +7708,19 @@ take the clothes from image 1 and put them on the person in image 2. make sure t
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNtacAACn18.jpg" width="600" alt="Outfit transfer between two photos - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887435473_8n9bws_G6QssNtacAACn18.jpg" width="600" alt="Outfit transfer between two photos - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNjbkAA5wY1.jpg" width="600" alt="Outfit transfer between two photos - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887438384_i92wiw_G6QssNjbkAA5wY1.jpg" width="600" alt="Outfit transfer between two photos - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNpbIAAsjUH.jpg" width="600" alt="Outfit transfer between two photos - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887441000_khtarl_G6QssNpbIAAsjUH.jpg" width="600" alt="Outfit transfer between two photos - Image 3">
 </div>
 
 #### 📌 Details
@@ -7236,7 +7734,7 @@ take the clothes from image 1 and put them on the person in image 2. make sure t
 
 ---
 
-### No. 178: Monochrome cinematic portrait of young woman
+### No. 189: Monochrome cinematic portrait of young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7255,7 +7753,7 @@ A cinematic, ultra-realistic monochrome portrait of a young woman with expressiv
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsGexbMAA43DK.jpg" width="600" alt="Monochrome cinematic portrait of young woman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887081947_bla0pc_G6QsGexbMAA43DK.jpg" width="600" alt="Monochrome cinematic portrait of young woman - Image 1">
 </div>
 
 #### 📌 Details
@@ -7269,7 +7767,7 @@ A cinematic, ultra-realistic monochrome portrait of a young woman with expressiv
 
 ---
 
-### No. 179: Humorous LINE sticker sheet for Oracle-chan
+### No. 190: Humorous LINE sticker sheet for Oracle-chan
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7288,7 +7786,7 @@ Using the character in the attached image, please create an index image showing 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqoZrbEAAXKvg.jpg" width="600" alt="Humorous LINE sticker sheet for Oracle-chan - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886448330_kuhr59_G6QqoZrbEAAXKvg.jpg" width="600" alt="Humorous LINE sticker sheet for Oracle-chan - Image 1">
 </div>
 
 #### 📌 Details
@@ -7302,7 +7800,7 @@ Using the character in the attached image, please create an index image showing 
 
 ---
 
-### No. 180: Landing page for a beauty serum
+### No. 191: Landing page for a beauty serum
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7321,7 +7819,7 @@ Create a landing page for a beauty serum.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QrWLFbAAAqdit.jpg" width="600" alt="Landing page for a beauty serum - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886463989_iccj78_G6QrWLFbAAAqdit.jpg" width="600" alt="Landing page for a beauty serum - Image 1">
 </div>
 
 #### 📌 Details
@@ -7335,7 +7833,7 @@ Create a landing page for a beauty serum.
 
 ---
 
-### No. 181: Food thumbnails and product shots
+### No. 192: Food thumbnails and product shots
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7356,13 +7854,13 @@ Make the background white and turn it into a product photo.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QpZrWacAUVN5A.jpg" width="600" alt="Food thumbnails and product shots - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886404524_y7q7is_G6QpZrWacAUVN5A.jpg" width="600" alt="Food thumbnails and product shots - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqIvrbIAAlCGu.jpg" width="600" alt="Food thumbnails and product shots - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886407949_xlk1xc_G6QqIvrbIAAlCGu.jpg" width="600" alt="Food thumbnails and product shots - Image 2">
 </div>
 
 #### 📌 Details
@@ -7376,7 +7874,7 @@ Make the background white and turn it into a product photo.
 
 ---
 
-### No. 182: Messenger sticker set from attached person
+### No. 193: Messenger sticker set from attached person
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7397,7 +7895,7 @@ Create a set of messenger-app stickers based on the attached person. Each should
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QoPuOboAAkJEZ.jpg" width="600" alt="Messenger sticker set from attached person - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886180130_52owic_G6QoPuOboAAkJEZ.jpg" width="600" alt="Messenger sticker set from attached person - Image 1">
 </div>
 
 #### 📌 Details
@@ -7411,7 +7909,7 @@ Create a set of messenger-app stickers based on the attached person. Each should
 
 ---
 
-### No. 183: Apple keynote-style event scene from text
+### No. 194: Apple keynote-style event scene from text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7430,19 +7928,19 @@ Generate a photo based on some text: a grand Apple keynote event scene, with man
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeCasAIiGHT.jpg" width="600" alt="Apple keynote-style event scene from text - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886921970_6kgjvt_G6QnxeCasAIiGHT.jpg" width="600" alt="Apple keynote-style event scene from text - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAI0VZV.jpg" width="600" alt="Apple keynote-style event scene from text - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886925466_82s71i_G6QnxeDacAI0VZV.jpg" width="600" alt="Apple keynote-style event scene from text - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAMajXw.jpg" width="600" alt="Apple keynote-style event scene from text - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886928094_90nq9g_G6QnxeDacAMajXw.jpg" width="600" alt="Apple keynote-style event scene from text - Image 3">
 </div>
 
 #### 📌 Details
@@ -7456,7 +7954,7 @@ Generate a photo based on some text: a grand Apple keynote event scene, with man
 
 ---
 
-### No. 184: Essay-style manga about a family trip to Universal Studios
+### No. 195: Essay-style manga about a family trip to Universal Studios
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7476,7 +7974,7 @@ Create a manga where the attached character suddenly decides to go to Universal 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QgQunaIAEMEC7.jpg" width="600" alt="Essay-style manga about a family trip to Universal Studios - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886492594_ifq79o_G6QgQunaIAEMEC7.jpg" width="600" alt="Essay-style manga about a family trip to Universal Studios - Image 1">
 </div>
 
 #### 📌 Details
@@ -7490,7 +7988,7 @@ Create a manga where the attached character suddenly decides to go to Universal 
 
 ---
 
-### No. 185: YouTube thumbnail design brief for a masked interview video
+### No. 196: YouTube thumbnail design brief for a masked interview video
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7533,13 +8031,13 @@ conversations go on forever” (stretch across the full width)
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkOUmbIAAIdKH.png" width="600" alt="YouTube thumbnail design brief for a masked interview video - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png" width="600" alt="YouTube thumbnail design brief for a masked interview video - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkQpnasAAWyXd.jpg" width="600" alt="YouTube thumbnail design brief for a masked interview video - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886606889_70r944_G6QkQpnasAAWyXd.jpg" width="600" alt="YouTube thumbnail design brief for a masked interview video - Image 2">
 </div>
 
 #### 📌 Details
@@ -7553,7 +8051,7 @@ conversations go on forever” (stretch across the full width)
 
 ---
 
-### No. 186: 4-panel manga about Gemini generating Japanese text images
+### No. 197: 4-panel manga about Gemini generating Japanese text images
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7573,7 +8071,7 @@ Create a 4-panel manga featuring the attached character. The character sees on t
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QjQp-a0AAov9I.jpg" width="600" alt="4-panel manga about Gemini generating Japanese text images - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886326404_hug38x_G6QjQp-a0AAov9I.jpg" width="600" alt="4-panel manga about Gemini generating Japanese text images - Image 1">
 </div>
 
 #### 📌 Details
@@ -7587,7 +8085,7 @@ Create a 4-panel manga featuring the attached character. The character sees on t
 
 ---
 
-### No. 187: Map of Morocco during the 1799–1800 plague
+### No. 198: Map of Morocco during the 1799–1800 plague
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7607,7 +8105,7 @@ Give me a map of {argument name="region_en" default="Morocco"} in {argument name
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qd7KhWgAE7EvF.jpg" width="600" alt="Map of Morocco during the 1799–1800 plague - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885995626_wkuqgo_G6Qd7KhWgAE7EvF.jpg" width="600" alt="Map of Morocco during the 1799–1800 plague - Image 1">
 </div>
 
 #### 📌 Details
@@ -7621,7 +8119,7 @@ Give me a map of {argument name="region_en" default="Morocco"} in {argument name
 
 ---
 
-### No. 188: Perfume promo with niche Le Labo-like feel
+### No. 199: Perfume promo with niche Le Labo-like feel
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7640,25 +8138,25 @@ It should convey a niche, tasteful sense of high-end style, similar to the feel 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdYGeawAAU71a.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886907025_1jacbv_G6QdYGeawAAU71a.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdY6WacAcWt4A.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886909113_zr3z5r_G6QdY6WacAcWt4A.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdZn5bYAArE66.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886911392_4z71na_G6QdZn5bYAArE66.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdadOakAAoLIf.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886913581_v9cpk9_G6QdadOakAAoLIf.jpg" width="600" alt="Perfume promo with niche Le Labo-like feel - Image 4">
 </div>
 
 #### 📌 Details
@@ -7672,7 +8170,7 @@ It should convey a niche, tasteful sense of high-end style, similar to the feel 
 
 ---
 
-### No. 189: Lego-style self portrait
+### No. 200: Lego-style self portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7692,13 +8190,13 @@ Turn me into a {argument name="subject_en" default="Lego"} character.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBoYXcAASkfI.jpg" width="600" alt="Lego-style self portrait - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886126831_jlruy9_G6QdBoYXcAASkfI.jpg" width="600" alt="Lego-style self portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBrbXwAABM0T.jpg" width="600" alt="Lego-style self portrait - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886130722_3zua0d_G6QdBrbXwAABM0T.jpg" width="600" alt="Lego-style self portrait - Image 2">
 </div>
 
 #### 📌 Details
@@ -7712,466 +8210,13 @@ Turn me into a {argument name="subject_en" default="Lego"} character.
 
 ---
 
-### No. 190: Tesla FSD explainer infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A simple prompt to generate an explanatory infographic about how Tesla Full Self-Driving works, useful for technical education visuals.
-
-#### 📝 Prompt
-
-```
-Make an infographic that explains how {argument name="system_name_en" default="Tesla FSD"} works.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6Qbg7nXcAA1tOU.jpg" width="600" alt="Tesla FSD explainer infographic - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Λnanto Mohammad](https://x.com/01Ananto)
-- **Source:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20infographic%20that%20explains%20how%20%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Tesla%20FSD%22%7D%20works.)**
-
----
-
-### No. 191: Weird mundane photo (LeonardoAI)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Same playful concept as before, asking Nano Banana Pro for the weirdest mundane-looking photo it can imagine.
-
-#### 📝 Prompt
-
-```
-The most weird mundane photo you can imagine.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QbKoTbYAAc7mW.jpg" width="600" alt="Weird mundane photo (LeonardoAI) - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Leonardo.Ai](https://x.com/LeonardoAi)
-- **Source:** [Twitter Post](https://x.com/LeonardoAi/status/1991746810281619726)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20most%20weird%20mundane%20photo%20you%20can%20imagine.)**
-
----
-
-### No. 192: Cinematic poster with movie characters
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-An English prompt asking for a beautiful cinematic poster containing characters from given movies, suitable for mash-up film poster designs.
-
-#### 📝 Prompt
-
-```
-Create a beautiful poster containing characters from the given movies, a cinematic poster.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaltTacAYcYIk.jpg" width="600" alt="Cinematic poster with movie characters - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QanHiakAAr5Op.jpg" width="600" alt="Cinematic poster with movie characters - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [prvn 🇮🇳](https://x.com/prvnprvnkmr)
-- **Source:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20beautiful%20poster%20containing%20characters%20from%20the%20given%20movies%2C%20a%20cinematic%20poster.)**
-
----
-
-### No. 193: Sci-fi cinematic triptych and expansions
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A pair of prompts to create a cinematic sci-fi triptych in a 4:5 composition and then expand each panel into full 4:5 scenes, inspired by Roger Deakins and IMAX framing.
-
-#### 📝 Prompt
-
-```
-Create a triptych of three 2.39:1 shots within a 4:5 composition. Make them cinematic, science-fiction shots with an atmospheric feel, as if shot by Roger Deakins in IMAX, with high contrast and desaturated blue and gray color grading.
-
-Then expand the three images one by one into three separate 4:5 scenes.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFWwAAHXVO.jpg" width="600" alt="Sci-fi cinematic triptych and expansions - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsDXMAAiLNA.jpg" width="600" alt="Sci-fi cinematic triptych and expansions - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsEXsAA1q2s.jpg" width="600" alt="Sci-fi cinematic triptych and expansions - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFXgAABzUk.jpg" width="600" alt="Sci-fi cinematic triptych and expansions - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Echoes of Tomorrow](https://x.com/eoft_ai)
-- **Source:** [Twitter Post](https://x.com/eoft_ai/status/1991745589818908869)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20triptych%20of%20three%202.39%3A1%20shots%20within%20a%204%3A5%20composition.%20Make%20them%20cinematic%2C%20science-fiction%20shots%20with%20an%20atmospheric%20feel%2C%20as%20if%20shot%20by%20Roger%20Deakins%20in%20IMAX%2C%20with%20high%20contrast%20and%20desaturated%20blue%20and%20gray%20color%20grading.%0A%0AThen%20expand%20the%20three%20images%20one%20by%20one%20into%20three%20separate%204%3A5%20scenes.)**
-
----
-
-### No. 194: Replace clothing while keeping identity and pose
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed editing prompt that keeps the user’s face, pose, and environment while changing clothing to match a reference dress.
-
-#### 📝 Prompt
-
-```
-Keep my exact face, pose, body, and environment from my original photo. Change ONLY the clothing and accessories so they match the dress and accessories from the second reference image with full accuracy. Do not alter my hairstyle, makeup, body proportions, or camera angle.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeymWsAAO5Fz.jpg" width="600" alt="Replace clothing while keeping identity and pose - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeyjWwAABIbR.jpg" width="600" alt="Replace clothing while keeping identity and pose - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Zara](https://x.com/ZaraIrahh)
-- **Source:** [Twitter Post](https://x.com/ZaraIrahh/status/1991744975919554874)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20my%20exact%20face%2C%20pose%2C%20body%2C%20and%20environment%20from%20my%20original%20photo.%20Change%20ONLY%20the%20clothing%20and%20accessories%20so%20they%20match%20the%20dress%20and%20accessories%20from%20the%20second%20reference%20image%20with%20full%20accuracy.%20Do%20not%20alter%20my%20hairstyle%2C%20makeup%2C%20body%20proportions%2C%20or%20camera%20angle.)**
-
----
-
-### No. 195: Four-keyword prompt: Japanese near-future beauty in the city
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A minimal Japanese prompt made of four words to generate a near-future beautiful Japanese woman in an urban setting.
-
-#### 📝 Prompt
-
-```
-{argument name="nationality_en" default="Japanese"}
-{argument name="world_en" default="near future"}
-{argument name="subject_en" default="beautiful woman"}
-{argument name="location_en" default="city center"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZNWJb0AAHf15.jpg" width="600" alt="Four-keyword prompt: Japanese near-future beauty in the city - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [あつむ | AI活用術](https://x.com/atsumu_sns_ai)
-- **Source:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
-- **Published:** November 21, 2025
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22nationality_en%22%20default%3D%22Japanese%22%7D%0A%7Bargument%20name%3D%22world_en%22%20default%3D%22near%20future%22%7D%0A%7Bargument%20name%3D%22subject_en%22%20default%3D%22beautiful%20woman%22%7D%0A%7Bargument%20name%3D%22location_en%22%20default%3D%22city%20center%22%7D)**
-
----
-
-### No. 196: Podcast cover from two reference portraits
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A flexible prompt idea for generating a podcast cover using two uploaded portraits as references, with a black conceptual background and studio lighting, optionally matching poses from TV show posters.
-
-#### 📝 Prompt
-
-```
-First take two portrait photos as reference images, then have Nano Banana use these two images to generate a podcast cover. Specify the background as a “black conceptual image” and the lighting as “studio lighting,” and {argument name="pose_instructions" default="you can specify a TV show cover to reference for the pose, or leave it free for creative interpretation"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnraQAAuxEB.jpg" width="600" alt="Podcast cover from two reference portraits - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnsaUAA7ASb.jpg" width="600" alt="Podcast cover from two reference portraits - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [indigo](https://x.com/indigo11)
-- **Source:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
-- **Published:** November 21, 2025
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=First%20take%20two%20portrait%20photos%20as%20reference%20images%2C%20then%20have%20Nano%20Banana%20use%20these%20two%20images%20to%20generate%20a%20podcast%20cover.%20Specify%20the%20background%20as%20a%20%E2%80%9Cblack%20conceptual%20image%E2%80%9D%20and%20the%20lighting%20as%20%E2%80%9Cstudio%20lighting%2C%E2%80%9D%20and%20%7Bargument%20name%3D%22pose_instructions%22%20default%3D%22you%20can%20specify%20a%20TV%20show%20cover%20to%20reference%20for%20the%20pose%2C%20or%20leave%20it%20free%20for%20creative%20interpretation%22%7D.)**
-
----
-
-### No. 197: Keep art, translate manga speech to English in original balloons
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Description
-
-A prompt for image editing: keep the original manga artwork, translate only the dialogue into English, and place the translated text into the existing speech balloons.
-
-#### 📝 Prompt
-
-```
-Keep the image as it is, translate only this manga’s dialogue into English, and place the translated lines into the original speech balloons.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV7kFacAY4JJ5.jpg" width="600" alt="Keep art, translate manga speech to English in original balloons - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV9PpbMAA1Eth.jpg" width="600" alt="Keep art, translate manga speech to English in original balloons - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV97EagAAN9_Z.jpg" width="600" alt="Keep art, translate manga speech to English in original balloons - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Author:** [けいすけ / AIマンガ家](https://x.com/kei31)
-- **Source:** [Twitter Post](https://x.com/kei31/status/1991741213826044415)
-- **Published:** November 21, 2025
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20the%20image%20as%20it%20is%2C%20translate%20only%20this%20manga%E2%80%99s%20dialogue%20into%20English%2C%20and%20place%20the%20translated%20lines%20into%20the%20original%20speech%20balloons.)**
-
----
-
-### No. 198: Old photo restoration prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Restores an old, heavily damaged photograph by removing defects and reconstructing faces while keeping the original identity intact.
-
-#### 📝 Prompt
-
-```
-Restore this old, heavily damaged photo by removing all visible scratches, dents, folds, and stains. Reconstruct missing or distorted facial features naturally and realistically while preserving the original identity and expressions of the person. Maintain the authentic
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmpjacAAh4uB.jpg" width="600" alt="Old photo restoration prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmplacAM3t34.jpg" width="600" alt="Old photo restoration prompt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Coffin](https://x.com/coffinxp7)
-- **Source:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Restore%20this%20old%2C%20heavily%20damaged%20photo%20by%20removing%20all%20visible%20scratches%2C%20dents%2C%20folds%2C%20and%20stains.%20Reconstruct%20missing%20or%20distorted%20facial%20features%20naturally%20and%20realistically%20while%20preserving%20the%20original%20identity%20and%20expressions%20of%20the%20person.%20Maintain%20the%20authentic)**
-
----
-
-### No. 199: Neon-girl manga page 1 setup
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical Japanese text bubbles, right-to-left reading order, and 9:16 aspect ratio.
-
-#### 📝 Prompt
-
-```
-Please create the image for page 1 of the following manga featuring the girl in the picture, "{argument name="character_name_en" default="Neon"}."
-
-Speech bubbles should be vertical.
-Panels are read from right to left, top to bottom.
-Make it a manga image with an {argument name="aspect_ratio_en" default="9:16"} size.
-
-Title: "{argument name="title_en" default="Sparkling Boot-Up! It’s Neon!"}"
-
-Page 1
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-acAMN-Kv.jpg" width="600" alt="Neon-girl manga page 1 setup - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8_boAEBl_0.jpg" width="600" alt="Neon-girl manga page 1 setup - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-a8AAyvP1.jpg" width="600" alt="Neon-girl manga page 1 setup - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn9BacAY4Krw.jpg" width="600" alt="Neon-girl manga page 1 setup - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [よはく@0と1のすきま](https://x.com/yohaku_kiroku)
-- **Source:** [Twitter Post](https://x.com/yohaku_kiroku/status/1991738120577118585)
-- **Published:** November 21, 2025
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20the%20image%20for%20page%201%20of%20the%20following%20manga%20featuring%20the%20girl%20in%20the%20picture%2C%20%22%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Neon%22%7D.%22%0A%0ASpeech%20bubbles%20should%20be%20vertical.%0APanels%20are%20read%20from%20right%20to%20left%2C%20top%20to%20bottom.%0AMake%20it%20a%20manga%20image%20with%20an%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%229%3A16%22%7D%20size.%0A%0ATitle%3A%20%22%7Bargument%20name%3D%22title_en%22%20default%3D%22Sparkling%20Boot-Up!%20It%E2%80%99s%20Neon!%22%7D%22%0A%0APage%201)**
-
----
-
-### No. 200: Stereogram of Amatitlán Lake from above
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A Spanish prompt to mimic an existing stereogram while depicting Lake Amatitlán from a satellite-like top view, surrounded by mountains for a strong depth effect.
-
-#### 📝 Prompt
-
-```
-Imitate the following stereogram using stereoscopy technique, but with {argument name="place_en" default="Lake Amatitlán"} seen from above (satellite view) and with the mountain range surrounding the lake to create a sense of depth.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="Stereogram of Amatitlán Lake from above - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [cr.txt](https://x.com/crstn_hrndz)
-- **Source:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
-- **Published:** November 21, 2025
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imitate%20the%20following%20stereogram%20using%20stereoscopy%20technique%2C%20but%20with%20%7Bargument%20name%3D%22place_en%22%20default%3D%22Lake%20Amatitl%C3%A1n%22%7D%20seen%20from%20above%20(satellite%20view)%20and%20with%20the%20mountain%20range%20surrounding%20the%20lake%20to%20create%20a%20sense%20of%20depth.)**
-
----
-
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 291 more prompts not shown here
+### 🎯 314 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8234,6 +8279,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:20:40.598Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:24:12.256Z</sub>
 
 </div>

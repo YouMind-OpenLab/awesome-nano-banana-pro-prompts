@@ -80,9 +80,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **496** |
+| 📝 提示詞總數 | **519** |
 | ⭐ 精選 | **5** |
-| 🔄 最後更新 | **2025年11月27日 星期四 中午12:20:51 [UTC]** |
+| 🔄 最後更新 | **2025年11月27日 星期四 中午12:24:14 [UTC]** |
 
 </div>
 
@@ -113,25 +113,25 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="寬版引言卡，附人像及中英文字樣自訂功能 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -165,7 +165,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RIeSZXgAA7cOf.jpg" width="700" alt="德國水彩地圖，附各邦標籤 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="德國水彩地圖，附各邦標籤 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -216,7 +216,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBYReawAAcp2x.jpg" width="700" alt="火車廣告風格的書籍廣告圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="火車廣告風格的書籍廣告圖片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -250,7 +250,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RHoGna4AArBDN.jpg" width="700" alt="夢想日記：卡比吹泡泡 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="夢想日記：卡比吹泡泡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -353,7 +353,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G23i3sJW0AASGUw.jpg" width="700" alt="詳細的鏡中自拍御宅族房間場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="詳細的鏡中自拍御宅族房間場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -391,7 +391,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jfqdVWgAADyla.jpg" width="600" alt="特定座標的歷史時刻 (1994) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg" width="600" alt="特定座標的歷史時刻 (1994) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -405,7 +405,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 2: F1 VIP 粉絲超逼真自拍編輯
+### No. 2: 給孩子們看的黏土動畫日相圖資訊圖表
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於生成異想天開的黏土動畫風格資訊圖表的提示，該圖表向六歲兒童解釋一天的各個階段，非常適合教育視覺效果或動畫解說。
+
+#### 📝 提示詞
+
+```
+製作一個資訊圖表，解釋一天的不同階段，非常適合 {argument name="child_age" default="6 歲的兒童"}。風格為獨特的黏土動畫，具有誇張的表情嘴巴、大大的卡通眼睛和迷人的幽默感。啞光黏土紋理、手工製作的道具和溫暖實用的場景燈光是其主要特色。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="給孩子們看的黏土動畫日相圖資訊圖表 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jaclyn Konzelmann](https://x.com/jacalulu)
+- **來源:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%80%8B%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%A7%A3%E9%87%8B%E4%B8%80%E5%A4%A9%E7%9A%84%E4%B8%8D%E5%90%8C%E9%9A%8E%E6%AE%B5%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%81%A9%E5%90%88%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20%E6%AD%B2%E7%9A%84%E5%85%92%E7%AB%A5%22%7D%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E7%8D%A8%E7%89%B9%E7%9A%84%E9%BB%8F%E5%9C%9F%E5%8B%95%E7%95%AB%EF%BC%8C%E5%85%B7%E6%9C%89%E8%AA%87%E5%BC%B5%E7%9A%84%E8%A1%A8%E6%83%85%E5%98%B4%E5%B7%B4%E3%80%81%E5%A4%A7%E5%A4%A7%E7%9A%84%E5%8D%A1%E9%80%9A%E7%9C%BC%E7%9D%9B%E5%92%8C%E8%BF%B7%E4%BA%BA%E7%9A%84%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%E5%95%9E%E5%85%89%E9%BB%8F%E5%9C%9F%E7%B4%8B%E7%90%86%E3%80%81%E6%89%8B%E5%B7%A5%E8%A3%BD%E4%BD%9C%E7%9A%84%E9%81%93%E5%85%B7%E5%92%8C%E6%BA%AB%E6%9A%96%E5%AF%A6%E7%94%A8%E7%9A%84%E5%A0%B4%E6%99%AF%E7%87%88%E5%85%89%E6%98%AF%E5%85%B6%E4%B8%BB%E8%A6%81%E7%89%B9%E8%89%B2%E3%80%82)**
+
+---
+
+### No. 3: F1 VIP 粉絲超逼真自拍編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -450,19 +484,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP 粉絲超逼真自拍編輯 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -476,7 +510,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 3: LINE 風格 Q 版表情符號肖像網格
+### No. 4: LINE 風格 Q 版表情符號肖像網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,19 +535,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6i09XKXsAAzHUd.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fE-98aoAA_MAV.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE 風格 Q 版表情符號肖像網格 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -527,7 +561,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 4: 手繪等距地標示意圖
+### No. 5: 帶有座標和日期的時光旅行場景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於在特定地理座標和歷史時間生成逼真場景的提示，有助於在確切位置視覺化過去的事件。
+
+#### 📝 提示詞
+
+```
+請根據以下時刻建立一張圖像：{argument name="coordinates_en" default="31.7785° N, 35.2296° E"}、{argument name="date_en" default="April 3, 33 CE"}、{argument name="time_en" default="15:00 hours"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg" width="600" alt="帶有座標和日期的時光旅行場景 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Alex dc](https://x.com/Alex_dc)
+- **來源:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E6%A0%B9%E6%93%9A%E4%BB%A5%E4%B8%8B%E6%99%82%E5%88%BB%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%BC%B5%E5%9C%96%E5%83%8F%EF%BC%9A%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%E3%80%81%7Bargument%20name%3D%22date_en%22%20default%3D%22April%203%2C%2033%20CE%22%7D%E3%80%81%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20hours%22%7D)**
+
+---
+
+### No. 6: 手繪等距地標示意圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -547,7 +615,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6inJYdXcAAtK84.jpg" width="600" alt="手繪等距地標示意圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="手繪等距地標示意圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -561,7 +629,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 5: 一位女性的電影感黑白肖像
+### No. 7: 一位女性的電影感黑白肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -580,13 +648,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ikg5OaQAAkDPZ.jpg" width="600" alt="一位女性的電影感黑白肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg" width="600" alt="一位女性的電影感黑白肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6WBeaoAAgc4V.jpg" width="600" alt="一位女性的電影感黑白肖像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg" width="600" alt="一位女性的電影感黑白肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -600,7 +668,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 6: 冰箱掃描食譜資訊圖表
+### No. 8: 冰箱掃描食譜資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -620,13 +688,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_OXQAApGxR.jpg" width="600" alt="冰箱掃描食譜資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="冰箱掃描食譜資訊圖表 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_GXIAAmzY2.jpg" width="600" alt="冰箱掃描食譜資訊圖表 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="冰箱掃描食譜資訊圖表 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -640,7 +708,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 7: Knolling 風格的爆炸式平拍照片
+### No. 9: Knolling 風格的爆炸式平拍照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -660,7 +728,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling 風格的爆炸式平拍照片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling 風格的爆炸式平拍照片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -674,7 +742,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 8: 瑞士阿爾卑斯山冬季年輕男子肖像
+### No. 10: 瑞士阿爾卑斯山冬季年輕男子肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -703,7 +771,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hyPKpaUAAvSa0.jpg" width="600" alt="瑞士阿爾卑斯山冬季年輕男子肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg" width="600" alt="瑞士阿爾卑斯山冬季年輕男子肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -717,7 +785,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 9: 女英雄的漫威風格漫畫分鏡圖
+### No. 11: 女英雄的漫威風格漫畫分鏡圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -736,13 +804,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaa3W4AAF5I5.jpg" width="600" alt="女英雄的漫威風格漫畫分鏡圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="女英雄的漫威風格漫畫分鏡圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaynXYAIVFuu.jpg" width="600" alt="女英雄的漫威風格漫畫分鏡圖 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="女英雄的漫威風格漫畫分鏡圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -756,7 +824,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 10: 根據參考照片繪製的電影感屋頂肖像
+### No. 12: 根據參考照片繪製的電影感屋頂肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -775,7 +843,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnW9PWkAA411C.jpg" width="600" alt="根據參考照片繪製的電影感屋頂肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg" width="600" alt="根據參考照片繪製的電影感屋頂肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg" width="600" alt="根據參考照片繪製的電影感屋頂肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -789,7 +863,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 11: 裝置的技術分解圖
+### No. 13: 現有圖像的卡通版本
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+將提供的圖像轉換為連貫的卡通風格版本，同時保留其結構和細節的提示。
+
+#### 📝 提示詞
+
+```
+產生此圖像的卡通版本。保持圖像的一致性和連貫性。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg" width="600" alt="現有圖像的卡通版本 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Fran Actúa](https://x.com/Fran_actua)
+- **來源:** [Twitter Post](https://x.com/Fran_actua/status/1992935615399108798)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%A2%E7%94%9F%E6%AD%A4%E5%9C%96%E5%83%8F%E7%9A%84%E5%8D%A1%E9%80%9A%E7%89%88%E6%9C%AC%E3%80%82%E4%BF%9D%E6%8C%81%E5%9C%96%E5%83%8F%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C%E9%80%A3%E8%B2%AB%E6%80%A7%E3%80%82)**
+
+---
+
+### No. 14: 裝置的技術分解圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -809,7 +916,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6qKtWUAAqVz1.jpg" width="600" alt="裝置的技術分解圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg" width="600" alt="裝置的技術分解圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -823,7 +930,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 12: 未來感十足的臉部年齡檢查器資訊圖表肖像
+### No. 15: 未來感十足的臉部年齡檢查器資訊圖表肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -862,13 +969,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g1yJ9WIAAaRg0.jpg" width="600" alt="未來感十足的臉部年齡檢查器資訊圖表肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg" width="600" alt="未來感十足的臉部年齡檢查器資訊圖表肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WdE9OWYAASxko.jpg" width="600" alt="未來感十足的臉部年齡檢查器資訊圖表肖像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg" width="600" alt="未來感十足的臉部年齡檢查器資訊圖表肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -882,7 +989,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 13: 漫畫風格的中文漫畫分鏡圖生成器
+### No. 16: 漫畫風格的中文漫畫分鏡圖生成器
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +1016,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g0DNNaQAAX57_.jpg" width="600" alt="漫畫風格的中文漫畫分鏡圖生成器 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg" width="600" alt="漫畫風格的中文漫畫分鏡圖生成器 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -923,7 +1030,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 14: 諸葛連弩的復古工程爆炸圖
+### No. 17: 幕後拍攝場景設定視覺化
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個用於生成逼真圖表式圖像的提示，顯示拍攝特定場景時的攝影機和燈光擺放位置，並清楚標示各個元素。
+
+#### 📝 提示詞
+
+```
+生成一張寫實的圖像，顯示攝影機和燈光在拍攝此場景時的擺放位置，並標示所有出現的元素。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="幕後拍攝場景設定視覺化 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [MΛRC VIDΛL](https://x.com/marcvidal)
+- **來源:** [Twitter Post](https://x.com/marcvidal/status/1992882958785741226)
+- **發布時間:** 2025年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E5%AF%AB%E5%AF%A6%E7%9A%84%E5%9C%96%E5%83%8F%EF%BC%8C%E9%A1%AF%E7%A4%BA%E6%94%9D%E5%BD%B1%E6%A9%9F%E5%92%8C%E7%87%88%E5%85%89%E5%9C%A8%E6%8B%8D%E6%94%9D%E6%AD%A4%E5%A0%B4%E6%99%AF%E6%99%82%E7%9A%84%E6%93%BA%E6%94%BE%E4%BD%8D%E7%BD%AE%EF%BC%8C%E4%B8%A6%E6%A8%99%E7%A4%BA%E6%89%80%E6%9C%89%E5%87%BA%E7%8F%BE%E7%9A%84%E5%85%83%E7%B4%A0%E3%80%82)**
+
+---
+
+### No. 18: 諸葛連弩的復古工程爆炸圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +1083,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fqDcAasAABUU-.jpg" width="600" alt="諸葛連弩的復古工程爆炸圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg" width="600" alt="諸葛連弩的復古工程爆炸圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -957,7 +1097,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 15: 復古食譜風格的食譜插畫
+### No. 19: 復古食譜風格的食譜插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,13 +1117,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__W8AAoTR_.jpg" width="600" alt="復古食譜風格的食譜插畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg" width="600" alt="復古食譜風格的食譜插畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__WsAATonO.jpg" width="600" alt="復古食譜風格的食譜插畫 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg" width="600" alt="復古食譜風格的食譜插畫 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -997,7 +1137,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 16: IT 電影式多面板序列
+### No. 20: IT 電影式多面板序列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1017,13 +1157,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6f_WMXa8AAb2Rn.jpg" width="600" alt="IT 電影式多面板序列 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="IT 電影式多面板序列 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6cgXctW4AAbDuy.jpg" width="600" alt="IT 電影式多面板序列 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="IT 電影式多面板序列 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1037,7 +1177,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 17: 編輯丹寧肖像，保留臉部識別
+### No. 21: 編輯丹寧肖像，保留臉部識別
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1116,13 +1256,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMXfbQAABUWE.jpg" width="600" alt="編輯丹寧肖像，保留臉部識別 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="編輯丹寧肖像，保留臉部識別 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMYaaoAA9ko6.jpg" width="600" alt="編輯丹寧肖像，保留臉部識別 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="編輯丹寧肖像，保留臉部識別 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1136,7 +1276,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 18: 孩童蠟筆風格的家庭露營圖畫
+### No. 22: 孩童蠟筆風格的家庭露營圖畫
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1160,7 +1300,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6aTZUyasAAi6u8.jpg" width="600" alt="孩童蠟筆風格的家庭露營圖畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg" width="600" alt="孩童蠟筆風格的家庭露營圖畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1174,7 +1314,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 19: 參考影像中的四個攝影機角度網格
+### No. 23: 參考影像中的四個攝影機角度網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1194,13 +1334,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XGckTacAAtoxg.jpg" width="600" alt="參考影像中的四個攝影機角度網格 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg" width="600" alt="參考影像中的四個攝影機角度網格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XHXoHa0AAbZY1.jpg" width="600" alt="參考影像中的四個攝影機角度網格 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg" width="600" alt="參考影像中的四個攝影機角度網格 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1214,7 +1354,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 20: 編輯月亮位置並更改繪畫風格
+### No. 24: 編輯月亮位置並更改繪畫風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1233,13 +1373,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCQjTbcAABemP.jpg" width="600" alt="編輯月亮位置並更改繪畫風格 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg" width="600" alt="編輯月亮位置並更改繪畫風格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCSvNbMAArO0f.jpg" width="600" alt="編輯月亮位置並更改繪畫風格 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg" width="600" alt="編輯月亮位置並更改繪畫風格 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1253,7 +1393,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 在指定座標發生的重大事件
+### No. 25: 在指定座標發生的重大事件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1273,7 +1413,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCycxaAAA8aHp.jpg" width="600" alt="在指定座標發生的重大事件 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg" width="600" alt="在指定座標發生的重大事件 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1287,7 +1427,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 傑克森實驗室資訊圖表
+### No. 26: 傑克森實驗室資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1307,7 +1447,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XAjaYWYAA6Jro.jpg" width="600" alt="傑克森實驗室資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg" width="600" alt="傑克森實驗室資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1321,7 +1461,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 依據參考線框圖進行網頁設計
+### No. 27: 依據參考線框圖進行網頁設計
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1480,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W2E7sbwAAvjZV.jpg" width="600" alt="依據參考線框圖進行網頁設計 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg" width="600" alt="依據參考線框圖進行網頁設計 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1354,7 +1494,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 可愛長尾山雀 LINE 貼圖組
+### No. 28: 可愛長尾山雀 LINE 貼圖組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1373,7 +1513,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W0A72akAAjDPX.jpg" width="600" alt="可愛長尾山雀 LINE 貼圖組 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg" width="600" alt="可愛長尾山雀 LINE 貼圖組 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1387,7 +1527,45 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: Google 早期歲月資訊圖表
+### No. 29: 根據照片設計逼真的人物角色表單
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一個用於從照片生成逼真、可供電影使用的角色設計表（包括轉向視圖、表情表和姿勢表），然後移除原始人物圖像的日文長提示。
+
+#### 📝 提示詞
+
+```
+請根據這張照片中的人物，建立一份詳細的角色設計表。這將用於真人電影，因此請注意不要使其看起來像動漫風格的藝術作品。請務必包含以下三個角色元素：
+ - 一份轉向（三視圖）表，從多個角度展示角色
+ - 一份表情表，展示基本情緒狀態，例如喜悅、悲傷、憤怒、驚訝、恐懼和中性
+ - 一份姿勢表，展示典型動作，例如角色跑步、跳躍、大笑和哭泣
+
+建立完成後，請移除原始人物圖像。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg" width="600" alt="根據照片設計逼真的人物角色表單 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Creative.Edge CL+](https://x.com/commonstyle)
+- **來源:** [Twitter Post](https://x.com/commonstyle/status/1992194502438899878)
+- **發布時間:** 2025年11月22日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E6%A0%B9%E6%93%9A%E9%80%99%E5%BC%B5%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%EF%BC%8C%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%BB%BD%E8%A9%B3%E7%B4%B0%E7%9A%84%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88%E8%A1%A8%E3%80%82%E9%80%99%E5%B0%87%E7%94%A8%E6%96%BC%E7%9C%9F%E4%BA%BA%E9%9B%BB%E5%BD%B1%EF%BC%8C%E5%9B%A0%E6%AD%A4%E8%AB%8B%E6%B3%A8%E6%84%8F%E4%B8%8D%E8%A6%81%E4%BD%BF%E5%85%B6%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E5%8B%95%E6%BC%AB%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81%E3%80%82%E8%AB%8B%E5%8B%99%E5%BF%85%E5%8C%85%E5%90%AB%E4%BB%A5%E4%B8%8B%E4%B8%89%E5%80%8B%E8%A7%92%E8%89%B2%E5%85%83%E7%B4%A0%EF%BC%9A%0A%20-%20%E4%B8%80%E4%BB%BD%E8%BD%89%E5%90%91%EF%BC%88%E4%B8%89%E8%A6%96%E5%9C%96%EF%BC%89%E8%A1%A8%EF%BC%8C%E5%BE%9E%E5%A4%9A%E5%80%8B%E8%A7%92%E5%BA%A6%E5%B1%95%E7%A4%BA%E8%A7%92%E8%89%B2%0A%20-%20%E4%B8%80%E4%BB%BD%E8%A1%A8%E6%83%85%E8%A1%A8%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%9F%BA%E6%9C%AC%E6%83%85%E7%B7%92%E7%8B%80%E6%85%8B%EF%BC%8C%E4%BE%8B%E5%A6%82%E5%96%9C%E6%82%85%E3%80%81%E6%82%B2%E5%82%B7%E3%80%81%E6%86%A4%E6%80%92%E3%80%81%E9%A9%9A%E8%A8%9D%E3%80%81%E6%81%90%E6%87%BC%E5%92%8C%E4%B8%AD%E6%80%A7%0A%20-%20%E4%B8%80%E4%BB%BD%E5%A7%BF%E5%8B%A2%E8%A1%A8%EF%BC%8C%E5%B1%95%E7%A4%BA%E5%85%B8%E5%9E%8B%E5%8B%95%E4%BD%9C%EF%BC%8C%E4%BE%8B%E5%A6%82%E8%A7%92%E8%89%B2%E8%B7%91%E6%AD%A5%E3%80%81%E8%B7%B3%E8%BA%8D%E3%80%81%E5%A4%A7%E7%AC%91%E5%92%8C%E5%93%AD%E6%B3%A3%0A%0A%E5%BB%BA%E7%AB%8B%E5%AE%8C%E6%88%90%E5%BE%8C%EF%BC%8C%E8%AB%8B%E7%A7%BB%E9%99%A4%E5%8E%9F%E5%A7%8B%E4%BA%BA%E7%89%A9%E5%9C%96%E5%83%8F%E3%80%82)**
+
+---
+
+### No. 30: Google 早期歲月資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1406,7 +1584,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WVfU7bEAAZIB7.jpg" width="600" alt="Google 早期歲月資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg" width="600" alt="Google 早期歲月資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1420,7 +1598,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 2D NES 平台遊戲的 Sprite sheet
+### No. 31: 2D NES 平台遊戲的 Sprite sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1439,7 +1617,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES 平台遊戲的 Sprite sheet - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES 平台遊戲的 Sprite sheet - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1453,7 +1631,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 塗裝方案比較圖
+### No. 32: 塗裝方案比較圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1472,7 +1650,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwWI2asAASozn.jpg" width="600" alt="塗裝方案比較圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg" width="600" alt="塗裝方案比較圖 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg" width="600" alt="塗裝方案比較圖 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg" width="600" alt="塗裝方案比較圖 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -1486,7 +1676,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 根據參考照片和草圖繪製動作場景
+### No. 33: 根據參考照片和草圖繪製動作場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1506,25 +1696,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9NbMAAFlEE.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9JaAAAdU5-.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9cbAAArAvk.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9Pa8AA58u2.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg" width="600" alt="根據參考照片和草圖繪製動作場景 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1538,7 +1728,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 江戶風格木刻版畫忍者角色
+### No. 34: 江戶風格木刻版畫忍者角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1558,7 +1748,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvEPhaMAAaxci.jpg" width="600" alt="江戶風格木刻版畫忍者角色 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg" width="600" alt="江戶風格木刻版畫忍者角色 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1572,7 +1762,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 印尼總統系列寫實照片
+### No. 35: 印尼總統系列寫實照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1592,13 +1782,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WhmStboAARYf4.jpg" width="600" alt="印尼總統系列寫實照片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg" width="600" alt="印尼總統系列寫實照片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WieZebgAARJvP.jpg" width="600" alt="印尼總統系列寫實照片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg" width="600" alt="印尼總統系列寫實照片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1612,7 +1802,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 透過風格轉換打造 90 年代風格的網站
+### No. 36: 透過風格轉換打造 90 年代風格的網站
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1631,19 +1821,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wr0C8asAAS2QA.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wsp5Ra0AAveFv.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WtEjmasAAiAd_.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg" width="600" alt="透過風格轉換打造 90 年代風格的網站 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -1657,7 +1847,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 將 Netflix 螢幕變成西方版本
+### No. 37: 將 Netflix 螢幕變成西方版本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1676,7 +1866,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UXjFSXYAAmV7I.jpg" width="600" alt="將 Netflix 螢幕變成西方版本 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg" width="600" alt="將 Netflix 螢幕變成西方版本 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1690,7 +1880,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 33: 文章或內容的縮圖設計提示
+### No. 38: 文章或內容的縮圖設計提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1716,19 +1906,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wju8sa8AEnTqT.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjxYGasAEMU1x.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wjz_gbsAAdLWB.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg" width="600" alt="文章或內容的縮圖設計提示 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -1742,7 +1932,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: 床上散落的衣物
+### No. 39: 床上散落的衣物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1761,13 +1951,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmWG4awAAOfG8.jpg" width="600" alt="床上散落的衣物 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg" width="600" alt="床上散落的衣物 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmXAvaoAA_wYG.jpg" width="600" alt="床上散落的衣物 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg" width="600" alt="床上散落的衣物 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1781,7 +1971,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 35: 天真塗鴉風格的主題插畫
+### No. 40: 天真塗鴉風格的主題插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1801,7 +1991,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wl2YxbsAARB2b.jpg" width="600" alt="天真塗鴉風格的主題插畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg" width="600" alt="天真塗鴉風格的主題插畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1815,7 +2005,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 36: 簡單的動作電影場景
+### No. 41: 簡單的動作電影場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1834,7 +2024,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjiYjb0AAO-x8.jpg" width="600" alt="簡單的動作電影場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg" width="600" alt="簡單的動作電影場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1848,7 +2038,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 37: 黑板風格的 AI 新聞摘要
+### No. 42: 黑板風格的 AI 新聞摘要
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1869,7 +2059,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WfVvIbAAEgvYg.jpg" width="600" alt="黑板風格的 AI 新聞摘要 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="600" alt="黑板風格的 AI 新聞摘要 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="600" alt="黑板風格的 AI 新聞摘要 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1883,7 +2079,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 38: 逼真的烤餅（naan bread）雙關語圖片
+### No. 43: 逼真的烤餅（naan bread）雙關語圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1903,25 +2099,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8tagAAf17W.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8sawAADz5E.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8paIAEOFnb.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8ua4AAXFz_.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg" width="600" alt="逼真的烤餅（naan bread）雙關語圖片 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1935,7 +2131,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 39: 食物照片變身生物風格營養海報
+### No. 44: 食物照片變身生物風格營養海報
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1954,13 +2150,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaqgMaQAAxwpf.jpg" width="600" alt="食物照片變身生物風格營養海報 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg" width="600" alt="食物照片變身生物風格營養海報 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaronbsAE5UJo.jpg" width="600" alt="食物照片變身生物風格營養海報 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg" width="600" alt="食物照片變身生物風格營養海報 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1974,7 +2170,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 40: 日本辣妹雜誌校服特輯
+### No. 45: 日本辣妹雜誌校服特輯
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1993,7 +2189,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WYLU0bwAAvl24.jpg" width="600" alt="日本辣妹雜誌校服特輯 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg" width="600" alt="日本辣妹雜誌校服特輯 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2007,7 +2203,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 41: 遊戲王魔法卡文字主題
+### No. 46: 遊戲王魔法卡文字主題
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2027,13 +2223,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtQFa4AAW5Q3.jpg" width="600" alt="遊戲王魔法卡文字主題 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg" width="600" alt="遊戲王魔法卡文字主題 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtBQa0AE0H0y.jpg" width="600" alt="遊戲王魔法卡文字主題 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg" width="600" alt="遊戲王魔法卡文字主題 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2047,7 +2243,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 42: AI 夥伴從後方擁抱的兩人鏡頭
+### No. 47: AI 夥伴從後方擁抱的兩人鏡頭
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2066,7 +2262,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTI9uaoAAkuNO.jpg" width="600" alt="AI 夥伴從後方擁抱的兩人鏡頭 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg" width="600" alt="AI 夥伴從後方擁抱的兩人鏡頭 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2080,7 +2276,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 43: 關於嵌入式工程師困境的四格漫畫
+### No. 48: 關於嵌入式工程師困境的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2099,13 +2295,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRtuRaAAMLWHU.jpg" width="600" alt="關於嵌入式工程師困境的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg" width="600" alt="關於嵌入式工程師困境的四格漫畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRu0saEAA3qeK.jpg" width="600" alt="關於嵌入式工程師困境的四格漫畫 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg" width="600" alt="關於嵌入式工程師困境的四格漫畫 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2119,7 +2315,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 44: 夏爾中的威利在哪裡風格《魔戒》
+### No. 49: 夏爾中的威利在哪裡風格《魔戒》
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2138,7 +2334,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WQrOdWIAANLiE.jpg" width="600" alt="夏爾中的威利在哪裡風格《魔戒》 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg" width="600" alt="夏爾中的威利在哪裡風格《魔戒》 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2152,7 +2348,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 45: 搖滾樂團海報，臉部特徵一致
+### No. 50: 搖滾樂團海報，臉部特徵一致
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2172,7 +2368,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WO0TCXQAAXVBN.jpg" width="600" alt="搖滾樂團海報，臉部特徵一致 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="搖滾樂團海報，臉部特徵一致 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="搖滾樂團海報，臉部特徵一致 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2186,7 +2388,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 46: 黑白硬漢 LINE 貼圖
+### No. 51: 黑白硬漢 LINE 貼圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2205,7 +2407,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WOJgBbsAAHKyK.jpg" width="600" alt="黑白硬漢 LINE 貼圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg" width="600" alt="黑白硬漢 LINE 貼圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2219,7 +2421,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 47: 詩歌的電影式演繹
+### No. 52: 詩歌的電影式演繹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2239,7 +2441,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIPlLaQAA-tE7.jpg" width="600" alt="詩歌的電影式演繹 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg" width="600" alt="詩歌的電影式演繹 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2253,7 +2455,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 48: 照片上的可愛手寫筆記
+### No. 53: 照片上的可愛手寫筆記
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2272,7 +2474,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIjoEaQAAUqb1.jpg" width="600" alt="照片上的可愛手寫筆記 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg" width="600" alt="照片上的可愛手寫筆記 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2286,7 +2488,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 49: 衣服分開平鋪在床上
+### No. 54: 衣服分開平鋪在床上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2305,19 +2507,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WDzG1bkAA2XxH.jpg" width="600" alt="衣服分開平鋪在床上 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg" width="600" alt="衣服分開平鋪在床上 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD2ILasAAVUmp.jpg" width="600" alt="衣服分開平鋪在床上 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg" width="600" alt="衣服分開平鋪在床上 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD3PCbgAE-WtM.jpg" width="600" alt="衣服分開平鋪在床上 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg" width="600" alt="衣服分開平鋪在床上 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -2331,7 +2533,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 50: 從插畫生成寫實渲染圖
+### No. 55: 從插畫生成寫實渲染圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2350,13 +2552,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC-FgbIAArVU_.jpg" width="600" alt="從插畫生成寫實渲染圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg" width="600" alt="從插畫生成寫實渲染圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC_WSaQAAxX_J.jpg" width="600" alt="從插畫生成寫實渲染圖 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg" width="600" alt="從插畫生成寫實渲染圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2370,7 +2572,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 51: 具備自動紋理分配的電影級 3D 標誌
+### No. 56: 具備自動紋理分配的電影級 3D 標誌
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2393,25 +2595,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaKWYAAc2oH.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaXWMAEAcnS.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaWXwAE3TpL.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WClZeXwAARoPn.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg" width="600" alt="具備自動紋理分配的電影級 3D 標誌 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2425,7 +2627,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 52: 鞋樣版型排版
+### No. 57: 鞋樣版型排版
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2444,13 +2646,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBpkZagAAdxBJ.jpg" width="600" alt="鞋樣版型排版 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg" width="600" alt="鞋樣版型排版 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBtabbAAAa2bi.jpg" width="600" alt="鞋樣版型排版 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg" width="600" alt="鞋樣版型排版 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2464,7 +2666,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 53: Silksong 角色上傳的四格漫畫
+### No. 58: Silksong 角色上傳的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2484,7 +2686,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Silksong 角色上傳的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Silksong 角色上傳的四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2498,7 +2700,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 54: 將社群簡介轉化為 NES 卡匣封面
+### No. 59: 將社群簡介轉化為 NES 卡匣封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2517,7 +2719,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WAh8pXgAA72ua.jpg" width="600" alt="將社群簡介轉化為 NES 卡匣封面 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg" width="600" alt="將社群簡介轉化為 NES 卡匣封面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2531,7 +2733,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 55: 動漫風格坐姿肖像，根據臉部圖像生成
+### No. 60: 動漫風格坐姿肖像，根據臉部圖像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2550,13 +2752,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcxbUAE1FpF.jpg" width="600" alt="動漫風格坐姿肖像，根據臉部圖像生成 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg" width="600" alt="動漫風格坐姿肖像，根據臉部圖像生成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcybMAAv6BU.jpg" width="600" alt="動漫風格坐姿肖像，根據臉部圖像生成 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg" width="600" alt="動漫風格坐姿肖像，根據臉部圖像生成 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2570,7 +2772,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 56: 一籃子多個字元
+### No. 61: 顯示護照的身份驗證角色
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於建立角色圖像的提示，其中主體向鏡頭清晰展示其護照以進行身份驗證，護照上的姓名、所屬機構和生日可自訂。
+
+#### 📝 提示詞
+
+```
+讓圖片中的人物坐在電腦前，手持護照，將證件清晰地展示給鏡頭，以證明他們是真實人物。證件資訊應清晰可見，包括姓名 {argument name="name_en" default="[NAME]"}、所屬機構 {argument name="affiliation_en" default="[YOUR DATA]"} 和出生日期 {argument name="birthday_en" default="[YOUR DATE]"}。所有其他細節都可以是隨機和虛構的。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg" width="600" alt="顯示護照的身份驗證角色 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [KANA](https://x.com/KanaWorks_AI)
+- **來源:** [Twitter Post](https://x.com/KanaWorks_AI/status/1992138041675395358)
+- **發布時間:** 2025年11月22日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AE%93%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E5%9D%90%E5%9C%A8%E9%9B%BB%E8%85%A6%E5%89%8D%EF%BC%8C%E6%89%8B%E6%8C%81%E8%AD%B7%E7%85%A7%EF%BC%8C%E5%B0%87%E8%AD%89%E4%BB%B6%E6%B8%85%E6%99%B0%E5%9C%B0%E5%B1%95%E7%A4%BA%E7%B5%A6%E9%8F%A1%E9%A0%AD%EF%BC%8C%E4%BB%A5%E8%AD%89%E6%98%8E%E4%BB%96%E5%80%91%E6%98%AF%E7%9C%9F%E5%AF%A6%E4%BA%BA%E7%89%A9%E3%80%82%E8%AD%89%E4%BB%B6%E8%B3%87%E8%A8%8A%E6%87%89%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%A7%93%E5%90%8D%20%7Bargument%20name%3D%22name_en%22%20default%3D%22%5BNAME%5D%22%7D%E3%80%81%E6%89%80%E5%B1%AC%E6%A9%9F%E6%A7%8B%20%7Bargument%20name%3D%22affiliation_en%22%20default%3D%22%5BYOUR%20DATA%5D%22%7D%20%E5%92%8C%E5%87%BA%E7%94%9F%E6%97%A5%E6%9C%9F%20%7Bargument%20name%3D%22birthday_en%22%20default%3D%22%5BYOUR%20DATE%5D%22%7D%E3%80%82%E6%89%80%E6%9C%89%E5%85%B6%E4%BB%96%E7%B4%B0%E7%AF%80%E9%83%BD%E5%8F%AF%E4%BB%A5%E6%98%AF%E9%9A%A8%E6%A9%9F%E5%92%8C%E8%99%9B%E6%A7%8B%E7%9A%84%E3%80%82)**
+
+---
+
+### No. 62: 一籃子多個字元
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2589,7 +2825,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V7YsJXsAAiJ-g.jpg" width="600" alt="一籃子多個字元 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg" width="600" alt="一籃子多個字元 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2603,7 +2839,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 57: 高細節 IT 職涯資訊圖表（泰文/英文混合）
+### No. 63: 高細節 IT 職涯資訊圖表（泰文/英文混合）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2622,25 +2858,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTNawAAooML.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTebcAApYb7.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTKaAAAhpoZ.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eThbsAAWJFi.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg" width="600" alt="高細節 IT 職涯資訊圖表（泰文/英文混合） - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2654,7 +2890,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 58: 總結文字的單一圖表圖像 (日文)
+### No. 64: 總結文字的單一圖表圖像 (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2673,7 +2909,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5jRXbAAAhXIp.jpg" width="600" alt="總結文字的單一圖表圖像 (日文) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg" width="600" alt="總結文字的單一圖表圖像 (日文) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2687,7 +2923,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 59: 舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表
+### No. 65: 舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2707,7 +2943,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V4UTDaEAA-cwu.jpg" width="600" alt="舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg" width="600" alt="舒緩頸部和肩部僵硬的肩部伸展運動資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2721,7 +2957,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 60: 烤架上的超擬真玻璃五花肉
+### No. 66: 烤架上的超擬真玻璃五花肉
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2740,13 +2976,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx0FwaEAAH6Jf.jpg" width="600" alt="烤架上的超擬真玻璃五花肉 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg" width="600" alt="烤架上的超擬真玻璃五花肉 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx365acAANsFq.jpg" width="600" alt="烤架上的超擬真玻璃五花肉 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg" width="600" alt="烤架上的超擬真玻璃五花肉 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2760,7 +2996,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 61: 辛普森風格的火箭香蕉混合體
+### No. 67: 辛普森風格的火箭香蕉混合體
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2779,7 +3015,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V1MuOa8AA2Qq6.jpg" width="600" alt="辛普森風格的火箭香蕉混合體 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg" width="600" alt="辛普森風格的火箭香蕉混合體 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2793,7 +3029,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 62: 食譜分解與美食攝影
+### No. 68: 食譜分解與美食攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2812,13 +3048,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VwFfTaUAA1Gw9.jpg" width="600" alt="食譜分解與美食攝影 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg" width="600" alt="食譜分解與美食攝影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V0U-Za0AEAm6H.jpg" width="600" alt="食譜分解與美食攝影 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg" width="600" alt="食譜分解與美食攝影 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2832,7 +3068,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 63: 文字轉心智圖
+### No. 69: 文字轉心智圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2860,7 +3096,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VyZDHa4AETYFj.jpg" width="600" alt="文字轉心智圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg" width="600" alt="文字轉心智圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2874,7 +3110,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 64: Squatty Potty 白板說明
+### No. 70: Squatty Potty 白板說明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2893,7 +3129,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty 白板說明 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty 白板說明 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2907,7 +3143,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 65: 從城市照片中擷取 VTuber 風格的街頭時尚縮圖
+### No. 71: 從城市照片中擷取 VTuber 風格的街頭時尚縮圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2931,7 +3167,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvZytaoAAIGKt.jpg" width="600" alt="從城市照片中擷取 VTuber 風格的街頭時尚縮圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg" width="600" alt="從城市照片中擷取 VTuber 風格的街頭時尚縮圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2945,7 +3181,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 66: 從文字建立白板風格的簡單圖表
+### No. 72: 從文字建立白板風格的簡單圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2972,7 +3208,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vuv_hboAALHXx.jpg" width="600" alt="從文字建立白板風格的簡單圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg" width="600" alt="從文字建立白板風格的簡單圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2986,7 +3222,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 67: MrBeast 風格的愛潑斯坦檔案縮圖
+### No. 73: MrBeast 風格的愛潑斯坦檔案縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3005,7 +3241,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VucuKXcAAphIA.jpg" width="600" alt="MrBeast 風格的愛潑斯坦檔案縮圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg" width="600" alt="MrBeast 風格的愛潑斯坦檔案縮圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3019,7 +3255,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 68: 雜亂衣櫥中的高角度仙女頹廢偶像
+### No. 74: 雜亂衣櫥中的高角度仙女頹廢偶像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3043,19 +3279,31 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGawW0AACHQW.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGauWYAAZNir.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGatW8AAFsGz.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg" width="600" alt="雜亂衣櫥中的高角度仙女頹廢偶像 - Image 5">
 </div>
 
 #### 📌 詳情
@@ -3069,7 +3317,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 69: LINE 貼圖集 (來自附加圖片)
+### No. 75: LINE 貼圖集 (來自附加圖片)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3088,13 +3336,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtZ20bsAAtBRG.jpg" width="600" alt="LINE 貼圖集 (來自附加圖片) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg" width="600" alt="LINE 貼圖集 (來自附加圖片) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VteK4bwAA81uj.jpg" width="600" alt="LINE 貼圖集 (來自附加圖片) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg" width="600" alt="LINE 貼圖集 (來自附加圖片) - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3108,7 +3356,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 70: 從社群媒體螢幕中走出的「Trompe l'oeil」主題
+### No. 76: 從社群媒體螢幕中走出的「Trompe l'oeil」主題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3128,7 +3376,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtN7haMAAlkVQ.jpg" width="600" alt="從社群媒體螢幕中走出的「Trompe l'oeil」主題 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg" width="600" alt="從社群媒體螢幕中走出的「Trompe l'oeil」主題 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3142,7 +3390,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 71: 超逼真羅羅亞·索隆肖像
+### No. 77: 超逼真羅羅亞·索隆肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3161,7 +3409,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vrv6ebcAA1QDR.jpg" width="600" alt="超逼真羅羅亞·索隆肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg" width="600" alt="超逼真羅羅亞·索隆肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3175,7 +3423,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 72: 將包內物品倒在床上展示
+### No. 78: 將包內物品倒在床上展示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3194,7 +3442,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VmQGgboAAhXu0.jpg" width="600" alt="將包內物品倒在床上展示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg" width="600" alt="將包內物品倒在床上展示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3208,7 +3456,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 73: 《俠盜獵車手 5》線上動作場景
+### No. 79: 《俠盜獵車手 5》線上動作場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3227,7 +3475,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vm1c1XcAA45mc.jpg" width="600" alt="《俠盜獵車手 5》線上動作場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg" width="600" alt="《俠盜獵車手 5》線上動作場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3241,7 +3489,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 74: 關於一個笨手笨腳的精靈的四格漫畫
+### No. 80: 關於一個笨手笨腳的精靈的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3261,7 +3509,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VkQxjasAADXZn.jpg" width="600" alt="關於一個笨手笨腳的精靈的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg" width="600" alt="關於一個笨手笨腳的精靈的四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3275,7 +3523,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 75: 超高擬真影像重製
+### No. 81: 超高擬真影像重製
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3294,13 +3542,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjaZVb0AEcg6u.jpg" width="600" alt="超高擬真影像重製 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg" width="600" alt="超高擬真影像重製 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjabLasAER1YB.jpg" width="600" alt="超高擬真影像重製 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg" width="600" alt="超高擬真影像重製 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3314,7 +3562,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 76: 紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文）
+### No. 82: 紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3333,7 +3581,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VhdElbUAAHA16.jpg" width="600" alt="紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg" width="600" alt="紅白機遊戲盒、卡匣、說明書和 CRT 螢幕（日文） - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3347,7 +3595,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 77: 角色因燒烤而充滿活力的彩色漫畫
+### No. 83: 角色因燒烤而充滿活力的彩色漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3366,7 +3614,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vf5zebUAA1jF6.jpg" width="600" alt="角色因燒烤而充滿活力的彩色漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg" width="600" alt="角色因燒烤而充滿活力的彩色漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3380,7 +3628,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 78: 參考資訊圖表，採用經典日式字體
+### No. 84: 參考資訊圖表，採用經典日式字體
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3407,7 +3655,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VfCbmbYAAMdys.jpg" width="600" alt="參考資訊圖表，採用經典日式字體 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg" width="600" alt="參考資訊圖表，採用經典日式字體 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg" width="600" alt="參考資訊圖表，採用經典日式字體 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3421,7 +3675,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 79: 穿著相同服裝的兔子
+### No. 85: 穿著相同服裝的兔子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3440,13 +3694,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbpLNaIAAdLa6.jpg" width="600" alt="穿著相同服裝的兔子 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg" width="600" alt="穿著相同服裝的兔子 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbqP6awAEREKD.jpg" width="600" alt="穿著相同服裝的兔子 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg" width="600" alt="穿著相同服裝的兔子 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3460,7 +3714,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 80: 咖啡飲品資訊圖表
+### No. 86: 咖啡飲品資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3479,7 +3733,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZ_xEWcAA6OQ4.jpg" width="600" alt="咖啡飲品資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg" width="600" alt="咖啡飲品資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3493,7 +3747,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 81: 手繪風格的標題圖片，介紹 Nano Banana Pro (日文)
+### No. 87: 手繪風格的標題圖片，介紹 Nano Banana Pro (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,13 +3771,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizUagAAPrC4.jpg" width="600" alt="手繪風格的標題圖片，介紹 Nano Banana Pro (日文) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg" width="600" alt="手繪風格的標題圖片，介紹 Nano Banana Pro (日文) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizHaQAAH_4W.jpg" width="600" alt="手繪風格的標題圖片，介紹 Nano Banana Pro (日文) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg" width="600" alt="手繪風格的標題圖片，介紹 Nano Banana Pro (日文) - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3537,7 +3791,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 82: 手繪風格標題圖片提示，源自照片
+### No. 88: 手繪風格標題圖片提示，源自照片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3560,13 +3814,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiROagAAqsIh.jpg" width="600" alt="手繪風格標題圖片提示，源自照片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="600" alt="手繪風格標題圖片提示，源自照片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiRWaIAA_9x5.jpg" width="600" alt="手繪風格標題圖片提示，源自照片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="600" alt="手繪風格標題圖片提示，源自照片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3580,7 +3834,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 83: 上傳人物介紹 Nano Banana Pro 的標題圖片
+### No. 89: 上傳人物介紹 Nano Banana Pro 的標題圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3604,13 +3858,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvVa8AAJ0dR.jpg" width="600" alt="上傳人物介紹 Nano Banana Pro 的標題圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg" width="600" alt="上傳人物介紹 Nano Banana Pro 的標題圖片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvebEAAUwYy.jpg" width="600" alt="上傳人物介紹 Nano Banana Pro 的標題圖片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg" width="600" alt="上傳人物介紹 Nano Banana Pro 的標題圖片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3624,7 +3878,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 84: 為 Nano Banana Pro 文章上傳了人物的奢華標題圖片
+### No. 90: 為 Nano Banana Pro 文章上傳了人物的奢華標題圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3648,7 +3902,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhD9asAAqjHi.jpg" width="600" alt="為 Nano Banana Pro 文章上傳了人物的奢華標題圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg" width="600" alt="為 Nano Banana Pro 文章上傳了人物的奢華標題圖片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3662,7 +3916,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 85: LINE 貼圖：站立式娃娃角色 (日文)
+### No. 91: LINE 貼圖：站立式娃娃角色 (日文)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3681,13 +3935,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOz1bgAAKknE.jpg" width="600" alt="LINE 貼圖：站立式娃娃角色 (日文) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg" width="600" alt="LINE 貼圖：站立式娃娃角色 (日文) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOmlaEAAiRg2.jpg" width="600" alt="LINE 貼圖：站立式娃娃角色 (日文) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg" width="600" alt="LINE 貼圖：站立式娃娃角色 (日文) - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3701,7 +3955,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 86: 雲端上的半透明海水鯨魚
+### No. 92: 雲端上的半透明海水鯨魚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3720,7 +3974,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VUGHGakAAbKve.jpg" width="600" alt="雲端上的半透明海水鯨魚 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg" width="600" alt="雲端上的半透明海水鯨魚 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg" width="600" alt="雲端上的半透明海水鯨魚 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3734,7 +3994,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 87: 虛構網頁設計師的作品集圖片
+### No. 93: 虛構網頁設計師的作品集圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3753,7 +4013,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRlhea8AA2VC8.jpg" width="600" alt="虛構網頁設計師的作品集圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg" width="600" alt="虛構網頁設計師的作品集圖片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3767,7 +4027,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 88: Levi’s 試衣鏡自拍編輯
+### No. 94: Levi’s 試衣鏡自拍編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3787,7 +4047,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s 試衣鏡自拍編輯 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s 試衣鏡自拍編輯 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3801,7 +4061,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 89: 特定座標的地理定位日落場景
+### No. 95: 特定座標的地理定位日落場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3821,7 +4081,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VQhDVaEAAzzMg.jpg" width="600" alt="特定座標的地理定位日落場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg" width="600" alt="特定座標的地理定位日落場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3835,7 +4095,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 90: 關於 PLM 和數位主線的簡報投影片
+### No. 96: 關於 PLM 和數位主線的簡報投影片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3855,7 +4115,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VPODGaEAAeVlF.jpg" width="600" alt="關於 PLM 和數位主線的簡報投影片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg" width="600" alt="關於 PLM 和數位主線的簡報投影片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3869,7 +4129,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 91: 執行長在招聘方面遇到的困境資訊圖表
+### No. 97: 執行長在招聘方面遇到的困境資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3888,7 +4148,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VN5D0bcAE6djR.jpg" width="600" alt="執行長在招聘方面遇到的困境資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg" width="600" alt="執行長在招聘方面遇到的困境資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3902,7 +4162,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 92: 這個世界的結構抽象圖
+### No. 98: 這個世界的結構抽象圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3921,7 +4181,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VLDM9agAAYBtm.jpg" width="600" alt="這個世界的結構抽象圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg" width="600" alt="這個世界的結構抽象圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3935,7 +4195,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 93: ChatGPT 5.1 和 Gemini 3 比較資訊圖表
+### No. 99: ChatGPT 5.1 和 Gemini 3 比較資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3955,7 +4215,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 和 Gemini 3 比較資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 和 Gemini 3 比較資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3969,7 +4229,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 94: 長文件中文白板摘要
+### No. 100: 高階電影級產品展示短片靜態畫面
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於生成奢華電影級產品展示圖像的提示，非常適合做為短銷售影片或產品廣告的畫面。
+
+#### 📝 提示詞
+
+```
+一款高階電影級的產品展示，展示著 {argument name="product_name_en" default="[產品名稱]"}，置於反光的高級表面上，搭配柔和的邊緣照明、上方投射的戲劇性聚光燈、超清晰的細節、85mm 鏡頭的景深、背景中發光的散景、平滑的漸變，以及優雅奢華的質感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg" width="600" alt="高階電影級產品展示短片靜態畫面 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Kalatheeswaran R](https://x.com/eshrofficial)
+- **來源:** [Twitter Post](https://x.com/eshrofficial/status/1992073746140791082)
+- **發布時間:** 2025年11月22日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%AC%BE%E9%AB%98%E9%9A%8E%E9%9B%BB%E5%BD%B1%E7%B4%9A%E7%9A%84%E7%94%A2%E5%93%81%E5%B1%95%E7%A4%BA%EF%BC%8C%E5%B1%95%E7%A4%BA%E8%91%97%20%7Bargument%20name%3D%22product_name_en%22%20default%3D%22%5B%E7%94%A2%E5%93%81%E5%90%8D%E7%A8%B1%5D%22%7D%EF%BC%8C%E7%BD%AE%E6%96%BC%E5%8F%8D%E5%85%89%E7%9A%84%E9%AB%98%E7%B4%9A%E8%A1%A8%E9%9D%A2%E4%B8%8A%EF%BC%8C%E6%90%AD%E9%85%8D%E6%9F%94%E5%92%8C%E7%9A%84%E9%82%8A%E7%B7%A3%E7%85%A7%E6%98%8E%E3%80%81%E4%B8%8A%E6%96%B9%E6%8A%95%E5%B0%84%E7%9A%84%E6%88%B2%E5%8A%87%E6%80%A7%E8%81%9A%E5%85%89%E7%87%88%E3%80%81%E8%B6%85%E6%B8%85%E6%99%B0%E7%9A%84%E7%B4%B0%E7%AF%80%E3%80%8185mm%20%E9%8F%A1%E9%A0%AD%E7%9A%84%E6%99%AF%E6%B7%B1%E3%80%81%E8%83%8C%E6%99%AF%E4%B8%AD%E7%99%BC%E5%85%89%E7%9A%84%E6%95%A3%E6%99%AF%E3%80%81%E5%B9%B3%E6%BB%91%E7%9A%84%E6%BC%B8%E8%AE%8A%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%84%AA%E9%9B%85%E5%A5%A2%E8%8F%AF%E7%9A%84%E8%B3%AA%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 101: 長文件中文白板摘要
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3988,13 +4282,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD9HEawAEPt8o.jpg" width="600" alt="長文件中文白板摘要 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg" width="600" alt="長文件中文白板摘要 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD-uYbkAEZOlp.jpg" width="600" alt="長文件中文白板摘要 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg" width="600" alt="長文件中文白板摘要 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg" width="600" alt="長文件中文白板摘要 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -4008,7 +4308,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 95: 角色轉化為超級合金機器人風格
+### No. 102: 角色轉化為超級合金機器人風格
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4027,7 +4327,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VED2_bYAAguKl.jpg" width="600" alt="角色轉化為超級合金機器人風格 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg" width="600" alt="角色轉化為超級合金機器人風格 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4041,7 +4341,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 96: 圖片增強與放大提示
+### No. 103: 圖片增強與放大提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4060,25 +4360,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO7bEAAU6Ok.jpg" width="600" alt="圖片增強與放大提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg" width="600" alt="圖片增強與放大提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO3bkAAwViN.jpg" width="600" alt="圖片增強與放大提示 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg" width="600" alt="圖片增強與放大提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrOzaMAIB0av.jpg" width="600" alt="圖片增強與放大提示 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg" width="600" alt="圖片增強與放大提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO6bIAAgUdN.jpg" width="600" alt="圖片增強與放大提示 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg" width="600" alt="圖片增強與放大提示 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -4092,7 +4392,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 97: 第五代匿蹤戰鬥機剖面資訊圖
+### No. 104: 第五代匿蹤戰鬥機剖面資訊圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4114,7 +4414,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VCRSva0AACfYk.jpg" width="600" alt="第五代匿蹤戰鬥機剖面資訊圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg" width="600" alt="第五代匿蹤戰鬥機剖面資訊圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4128,7 +4428,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 98: 一位雌雄同體女性的 Moody 2x2 編輯拼貼畫
+### No. 105: 一位雌雄同體女性的 Moody 2x2 編輯拼貼畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4218,7 +4518,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBcvDbMAASMAi.jpg" width="600" alt="一位雌雄同體女性的 Moody 2x2 編輯拼貼畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg" width="600" alt="一位雌雄同體女性的 Moody 2x2 編輯拼貼畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4232,7 +4532,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 99: 樂天世界大廈地標定位圖像
+### No. 106: 樂天世界大廈地標定位圖像
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4252,7 +4552,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBapubAAAqFsT.jpg" width="600" alt="樂天世界大廈地標定位圖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg" width="600" alt="樂天世界大廈地標定位圖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4266,7 +4566,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 100: 恐龍現身東京都廳舍前
+### No. 107: 恐龍現身東京都廳舍前
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4285,25 +4585,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uFbUAAIwji.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uUbMAAUHwX.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-absbwAAo3Vk.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-2kUb0AALpnb.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg" width="600" alt="恐龍現身東京都廳舍前 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -4317,7 +4617,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 101: 虛擬試穿，搭配東京街頭風格選項
+### No. 108: 虛擬試穿，搭配東京街頭風格選項
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4341,19 +4641,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI_boAASbOX.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNJBaMAAZ_4g.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI9aEAAyuPL.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg" width="600" alt="虛擬試穿，搭配東京街頭風格選項 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -4367,7 +4667,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 102: 遞迴藝術家繪製自己繪畫的照片
+### No. 109: 遞迴藝術家繪製自己繪畫的照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4387,7 +4687,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U8rOkXwAABEUg.jpg" width="600" alt="遞迴藝術家繪製自己繪畫的照片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg" width="600" alt="遞迴藝術家繪製自己繪畫的照片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4401,7 +4701,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 103: 從附帶的插圖中製作 LINE 貼圖組
+### No. 110: 從附帶的插圖中製作 LINE 貼圖組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4421,7 +4721,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U7zFzaAAAUfw5.jpg" width="600" alt="從附帶的插圖中製作 LINE 貼圖組 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg" width="600" alt="從附帶的插圖中製作 LINE 貼圖組 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4435,7 +4735,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 104: 線框圖重新設計提示
+### No. 111: 線框圖重新設計提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4454,7 +4754,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U5Hoeb0AAK3az.jpg" width="600" alt="線框圖重新設計提示 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg" width="600" alt="線框圖重新設計提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4468,7 +4768,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 105: 房地產投資的優缺點資訊圖表
+### No. 112: 房地產投資的優缺點資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4487,7 +4787,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U6PR1a4AAKtOu.jpg" width="600" alt="房地產投資的優缺點資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg" width="600" alt="房地產投資的優缺點資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4501,7 +4801,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 106: 從附加的角色圖片製作 LINE 貼圖組
+### No. 113: 從附加的角色圖片製作 LINE 貼圖組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4521,13 +4821,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HoaQAABvqP.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HobIAAQ_Rl.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg" width="600" alt="從附加的角色圖片製作 LINE 貼圖組 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4541,7 +4841,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 107: 唐詩學習卡
+### No. 114: 手工麵包店影片廣告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個用於為新成立的手工麵包店生成影片廣告的簡單提示，適合做為商業廣告的基礎。
+
+#### 📝 提示詞
+
+```
+為一家新的手工麵包店製作影片廣告。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg" width="600" alt="手工麵包店影片廣告 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [rameshnuti.eth](https://x.com/RameshNuti)
+- **來源:** [Twitter Post](https://x.com/RameshNuti/status/1992061140688630126)
+- **發布時間:** 2025年11月22日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%82%BA%E4%B8%80%E5%AE%B6%E6%96%B0%E7%9A%84%E6%89%8B%E5%B7%A5%E9%BA%B5%E5%8C%85%E5%BA%97%E8%A3%BD%E4%BD%9C%E5%BD%B1%E7%89%87%E5%BB%A3%E5%91%8A%E3%80%82)**
+
+---
+
+### No. 115: 唐詩學習卡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4561,7 +4894,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U4KbLbQAAbu-u.jpg" width="600" alt="唐詩學習卡 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="唐詩學習卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4575,7 +4908,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 108: 腳趾特寫細節
+### No. 116: 腳趾特寫細節
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4594,13 +4927,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3EVfaMAA6XT_.jpg" width="600" alt="腳趾特寫細節 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg" width="600" alt="腳趾特寫細節 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3FIsbAAA_lZF.jpg" width="600" alt="腳趾特寫細節 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg" width="600" alt="腳趾特寫細節 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4614,7 +4947,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 109: 透過座標觀看摩天大樓夜景
+### No. 117: 透過座標觀看摩天大樓夜景
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4636,7 +4969,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3Bs4bEAARu36.jpg" width="600" alt="透過座標觀看摩天大樓夜景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg" width="600" alt="透過座標觀看摩天大樓夜景 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg" width="600" alt="透過座標觀看摩天大樓夜景 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4650,7 +4989,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 110: 基本收入摘要圖
+### No. 118: 基本收入摘要圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4669,7 +5008,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U26MKbYAAuRuh.jpg" width="600" alt="基本收入摘要圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg" width="600" alt="基本收入摘要圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4683,7 +5022,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 111: 清理過的兩格面試漫畫
+### No. 119: 清理過的兩格面試漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4703,7 +5042,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U2Qx8bkAAYk0t.png" width="600" alt="清理過的兩格面試漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png" width="600" alt="清理過的兩格面試漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4717,7 +5056,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 112: 水滸傳 30 位主要人物工筆畫網格圖
+### No. 120: 水滸傳 30 位主要人物工筆畫網格圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4736,7 +5075,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uz7AZbcAEImd5.jpg" width="600" alt="水滸傳 30 位主要人物工筆畫網格圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg" width="600" alt="水滸傳 30 位主要人物工筆畫網格圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4750,7 +5089,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 113: 一位女性老化成老婦的過程
+### No. 121: 一位女性老化成老婦的過程
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4769,7 +5108,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6STW88akAAFOKe.jpg" width="600" alt="一位女性老化成老婦的過程 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg" width="600" alt="一位女性老化成老婦的過程 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4783,7 +5122,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 114: 放大蜜蜂
+### No. 122: 放大蜜蜂
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4802,13 +5141,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvVWxWUAAa_Sm.jpg" width="600" alt="放大蜜蜂 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg" width="600" alt="放大蜜蜂 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvWDoXAAAGujg.jpg" width="600" alt="放大蜜蜂 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg" width="600" alt="放大蜜蜂 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4822,7 +5161,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 115: 根據附件的縮圖文字疊加
+### No. 123: 根據附件的縮圖文字疊加
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4841,13 +5180,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Up5ETbcAA5eTt.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UuiuTawAAeCSk.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg" width="600" alt="根據附件的縮圖文字疊加 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4861,7 +5200,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 116: 投資組合策略概覽圖 (來自附件)
+### No. 124: 投資組合策略概覽圖 (來自附件)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4880,7 +5219,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UujwIawAAexmT.jpg" width="600" alt="投資組合策略概覽圖 (來自附件) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg" width="600" alt="投資組合策略概覽圖 (來自附件) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4894,7 +5233,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 117: 投資越南的優勢
+### No. 125: 投資越南的優勢
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4913,13 +5252,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtYpUaEAEMcj9.jpg" width="600" alt="投資越南的優勢 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg" width="600" alt="投資越南的優勢 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtjZqbAAAT6Bo.png" width="600" alt="投資越南的優勢 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png" width="600" alt="投資越南的優勢 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4933,7 +5272,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 118: 受力樑的剪力與彎矩圖
+### No. 126: 受力樑的剪力與彎矩圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4953,7 +5292,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtlugWoAALVOy.jpg" width="600" alt="受力樑的剪力與彎矩圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg" width="600" alt="受力樑的剪力與彎矩圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4967,7 +5306,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 119: 物理學家在吊床上喝著 SPA 飲品放鬆身心
+### No. 127: 物理學家在吊床上喝著 SPA 飲品放鬆身心
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4986,7 +5325,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UrfxmXwAELX_7.jpg" width="600" alt="物理學家在吊床上喝著 SPA 飲品放鬆身心 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg" width="600" alt="物理學家在吊床上喝著 SPA 飲品放鬆身心 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5000,7 +5339,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 120: 摺紙風格的逐步摺疊說明
+### No. 128: 摺紙風格的逐步摺疊說明
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5020,13 +5359,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWHW8AEDGhh.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWKXMAASI1l.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg" width="600" alt="摺紙風格的逐步摺疊說明 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5040,7 +5379,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 121: 夕陽下的黑板國王兔插圖
+### No. 129: 夕陽下的黑板國王兔插圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5059,7 +5398,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TzN1UbAAAojlo.jpg" width="600" alt="夕陽下的黑板國王兔插圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg" width="600" alt="夕陽下的黑板國王兔插圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5073,7 +5412,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 122: Ben 10 遇上 TMNT 完整漫畫頁
+### No. 130: Ben 10 遇上 TMNT 完整漫畫頁
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5093,7 +5432,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10 遇上 TMNT 完整漫畫頁 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10 遇上 TMNT 完整漫畫頁 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5107,7 +5446,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 123: 書店 POP 展示牌與壓克力麥克筆插畫
+### No. 131: 書店 POP 展示牌與壓克力麥克筆插畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5127,13 +5466,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnZv5boAA--Ow.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ung7SboAEOCSa.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg" width="600" alt="書店 POP 展示牌與壓克力麥克筆插畫 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5147,7 +5486,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 124: 現有照片的哥德式改造變體
+### No. 132: 現有照片的哥德式改造變體
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5166,13 +5505,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul3wDa8AAoRRj.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul4d7a4AA-yF5.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg" width="600" alt="現有照片的哥德式改造變體 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5186,7 +5525,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 125: 寵物趣味解剖圖
+### No. 133: 寵物趣味解剖圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5205,7 +5544,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnKK3XIAA6EWK.jpg" width="600" alt="寵物趣味解剖圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg" width="600" alt="寵物趣味解剖圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5219,7 +5558,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 126: 泳裝轉比基尼姿勢編輯提示（回覆）
+### No. 134: 泳裝轉比基尼姿勢編輯提示（回覆）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5238,13 +5577,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmAEmbEAANPvU.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmB-0aMAEmYWh.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg" width="600" alt="泳裝轉比基尼姿勢編輯提示（回覆） - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5258,7 +5597,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 127: 來自網路資源的政府結果資訊圖表
+### No. 135: 來自網路資源的政府結果資訊圖表
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5277,7 +5616,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmEq1b0AA7RHL.jpg" width="600" alt="來自網路資源的政府結果資訊圖表 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg" width="600" alt="來自網路資源的政府結果資訊圖表 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5291,7 +5630,40 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 128: 四格漫畫：熊貓女孩角色
+### No. 136: Nano Banana Pro 的日本頭條縮圖
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+一個用於生成日式標題風格圖片的提示，內容關於 Google 發布 Nano Banana Pro，非常適合新聞縮圖或部落格標頭。
+
+#### 📝 提示詞
+
+```
+Google 發布了終極圖像生成 AI「Nano Banana Pro」
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg" width="600" alt="Nano Banana Pro 的日本頭條縮圖 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
+- **來源:** [Twitter Post](https://x.com/no_ai_no_life/status/1992040137161908537)
+- **發布時間:** 2025年11月22日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%20%E7%99%BC%E5%B8%83%E4%BA%86%E7%B5%82%E6%A5%B5%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%20AI%E3%80%8CNano%20Banana%20Pro%E3%80%8D)**
+
+---
+
+### No. 137: 四格漫畫：熊貓女孩角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5316,7 +5688,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uk2jfa0AABLxb.jpg" width="600" alt="四格漫畫：熊貓女孩角色 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg" width="600" alt="四格漫畫：熊貓女孩角色 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg" width="600" alt="四格漫畫：熊貓女孩角色 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5330,7 +5708,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 129: Think-cell 解決文件問題的視覺化說明
+### No. 138: Think-cell 解決文件問題的視覺化說明
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5349,7 +5727,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell 解決文件問題的視覺化說明 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell 解決文件問題的視覺化說明 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5363,7 +5741,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 130: 任何角色圖像的 HUD 戰力疊加
+### No. 139: 任何角色圖像的 HUD 戰力疊加
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5384,25 +5762,25 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgISgacAAxf0r.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgIzSaQAACgqW.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJQ9b0AAoqh0.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJm2aIAAxSjb.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg" width="600" alt="任何角色圖像的 HUD 戰力疊加 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5416,7 +5794,40 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 131: 優雅步行的圖解說明
+### No. 140: 動畫閃爍文字揭示序列
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+用於建立華麗、動畫文字顯示效果的簡短提示，適用於動態影像生成或關鍵影格動畫流程。
+
+#### 📝 提示詞
+
+```
+文字以華麗的特效和動畫呈現。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg" width="600" alt="動畫閃爍文字揭示序列 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [おのふみ| AI×画像・動画生成](https://x.com/onofumi_AI)
+- **來源:** [Twitter Post](https://x.com/onofumi_AI/status/1992035727241289736)
+- **發布時間:** 2025年11月22日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%96%87%E5%AD%97%E4%BB%A5%E8%8F%AF%E9%BA%97%E7%9A%84%E7%89%B9%E6%95%88%E5%92%8C%E5%8B%95%E7%95%AB%E5%91%88%E7%8F%BE%E3%80%82)**
+
+---
+
+### No. 141: 優雅步行的圖解說明
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5435,7 +5846,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUoBTbsAA2jTW.jpg" width="600" alt="優雅步行的圖解說明 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg" width="600" alt="優雅步行的圖解說明 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5449,7 +5860,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 132: 擬人化的蘋果和香蕉情侶
+### No. 142: 擬人化的蘋果和香蕉情侶
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5468,7 +5879,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhPGGasAA4bUU.jpg" width="600" alt="擬人化的蘋果和香蕉情侶 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg" width="600" alt="擬人化的蘋果和香蕉情侶 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg" width="600" alt="擬人化的蘋果和香蕉情侶 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5482,7 +5899,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 133: 日文簡潔資訊圖表風格限制
+### No. 143: 日文簡潔資訊圖表風格限制
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5501,7 +5918,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhfinasAAfFCh.jpg" width="600" alt="日文簡潔資訊圖表風格限制 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg" width="600" alt="日文簡潔資訊圖表風格限制 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5515,7 +5932,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 134: 關於七海吃拉麵的四格日式搞笑漫畫
+### No. 144: 關於七海吃拉麵的四格日式搞笑漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5535,7 +5952,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ud5ZbbQAA3LQl.jpg" width="600" alt="關於七海吃拉麵的四格日式搞笑漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg" width="600" alt="關於七海吃拉麵的四格日式搞笑漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5549,7 +5966,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 135: 相同座標位置的分割畫面縮時攝影
+### No. 145: 相同座標位置的分割畫面縮時攝影
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5583,25 +6000,49 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ucs42a8AATKjE.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcvfObgAE8rRy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcxrSaQAIFNPy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uc0YRaoAAs9u1.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 7">
+</div>
+
+##### Image 8
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg" width="600" alt="相同座標位置的分割畫面縮時攝影 - Image 8">
 </div>
 
 #### 📌 詳情
@@ -5615,7 +6056,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 136: 淺灰色兔子視角
+### No. 146: 淺灰色兔子視角
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5634,13 +6075,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcBGLaoAASC2E.jpg" width="600" alt="淺灰色兔子視角 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg" width="600" alt="淺灰色兔子視角 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcTNragAALmMB.jpg" width="600" alt="淺灰色兔子視角 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg" width="600" alt="淺灰色兔子視角 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5654,7 +6095,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 137: 從賽博龐克（cypherpunk）視角看比特幣的四格漫畫
+### No. 147: 從賽博龐克（cypherpunk）視角看比特幣的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5673,7 +6114,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ubs1OaoAA3-pp.jpg" width="600" alt="從賽博龐克（cypherpunk）視角看比特幣的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg" width="600" alt="從賽博龐克（cypherpunk）視角看比特幣的四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5687,7 +6128,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 138: 偶像傳單貼在饅頭販賣機上
+### No. 148: 偶像傳單貼在饅頭販賣機上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5706,7 +6147,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TFgBQaYAAe4-k.jpg" width="600" alt="偶像傳單貼在饅頭販賣機上 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg" width="600" alt="偶像傳單貼在饅頭販賣機上 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5720,7 +6161,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 139: 將城市照片編輯成有越南騎士的下雨場景
+### No. 149: 將城市照片編輯成有越南騎士的下雨場景
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5741,19 +6182,19 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTrBVagAAwXzs.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTr2rbsAEGn2m.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UURusa0AAmTKE.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg" width="600" alt="將城市照片編輯成有越南騎士的下雨場景 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -5767,7 +6208,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 140: 《臨江仙》詩詞課本式插圖
+### No. 150: 《臨江仙》詩詞課本式插圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5787,7 +6228,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUuMRbUAAGeZY.jpg" width="600" alt="《臨江仙》詩詞課本式插圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg" width="600" alt="《臨江仙》詩詞課本式插圖 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg" width="600" alt="《臨江仙》詩詞課本式插圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5801,7 +6248,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 141: 流行風格的傳單圖片，用於筆記文章
+### No. 151: 流行風格的傳單圖片，用於筆記文章
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5821,7 +6268,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUEFKaAAEO3oQ.jpg" width="600" alt="流行風格的傳單圖片，用於筆記文章 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg" width="600" alt="流行風格的傳單圖片，用於筆記文章 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5835,7 +6282,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 142: 根據沙發照片繪製的等距客廳佈局
+### No. 152: 根據沙發照片繪製的等距客廳佈局
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5854,25 +6301,25 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVbPxa8AAm8df.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVcbGbkAAes6z.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVdT7aIAE7ayL.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVeFabcAE9Tyi.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg" width="600" alt="根據沙發照片繪製的等距客廳佈局 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5886,7 +6333,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 143: 白板風格投影片，解釋研究論文
+### No. 153: 白板風格投影片，解釋研究論文
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5905,7 +6352,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RRCifaAAAcSu6.jpg" width="600" alt="白板風格投影片，解釋研究論文 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg" width="600" alt="白板風格投影片，解釋研究論文 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5919,7 +6366,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 144: Einstein 向 Elon Musk 學習自拍 (中文)
+### No. 154: Einstein 向 Elon Musk 學習自拍 (中文)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5939,7 +6386,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein 向 Elon Musk 學習自拍 (中文) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein 向 Elon Musk 學習自拍 (中文) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5953,7 +6400,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 145: Nano Banana Pro 發布的吸睛縮圖
+### No. 155: Nano Banana Pro 發布的吸睛縮圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5972,7 +6419,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro 發布的吸睛縮圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro 發布的吸睛縮圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5986,7 +6433,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 146: 李小龍在道場與尤達大師切磋武藝
+### No. 156: 李小龍在道場與尤達大師切磋武藝
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6005,7 +6452,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RNcCXbYAAxWct.jpg" width="600" alt="李小龍在道場與尤達大師切磋武藝 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg" width="600" alt="李小龍在道場與尤達大師切磋武藝 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6019,7 +6466,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 147: 帶有畫格和對話框的精緻故事藝術排版
+### No. 157: 帶有畫格和對話框的精緻故事藝術排版
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6044,13 +6491,13 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB7o1bQAA-rYr.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB86zaAAAkYmc.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg" width="600" alt="帶有畫格和對話框的精緻故事藝術排版 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6064,7 +6511,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 148: 像素遊戲角色從電視中爬出來
+### No. 158: 像素遊戲角色從電視中爬出來
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6083,7 +6530,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RMg5na4AAy3d8.jpg" width="600" alt="像素遊戲角色從電視中爬出來 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg" width="600" alt="像素遊戲角色從電視中爬出來 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6097,7 +6544,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 149: 可愛的 Q 版貓耳女孩插圖
+### No. 159: 可愛的 Q 版貓耳女孩插圖
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6117,7 +6564,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RL8pKa0AArXjI.jpg" width="600" alt="可愛的 Q 版貓耳女孩插圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg" width="600" alt="可愛的 Q 版貓耳女孩插圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6131,7 +6578,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 150: 將服裝變更為符合參考服裝
+### No. 160: 將服裝變更為符合參考服裝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6150,19 +6597,19 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLaTFbEAAUH0W.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLa2xagAI7ZNl.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLcCSagAAysgg.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg" width="600" alt="將服裝變更為符合參考服裝 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -6176,7 +6623,7 @@ Google 推出終極圖像生成 AI「Nano Banana Pro」
 
 ---
 
-### No. 151: 時尚女性超寫實環境肖像提示（部分）
+### No. 161: 時尚女性超寫實環境肖像提示（部分）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6195,7 +6642,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RKPI-aEAEZgWt.jpg" width="600" alt="時尚女性超寫實環境肖像提示（部分） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg" width="600" alt="時尚女性超寫實環境肖像提示（部分） - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg" width="600" alt="時尚女性超寫實環境肖像提示（部分） - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6209,7 +6662,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 152: 四格漫畫系列
+### No. 162: 四格漫畫系列
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6228,25 +6681,25 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJM5QbIAAcb7v.jpg" width="600" alt="四格漫畫系列 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg" width="600" alt="四格漫畫系列 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJQY5acAAnejm.jpg" width="600" alt="四格漫畫系列 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg" width="600" alt="四格漫畫系列 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJUdkaUAAzUgx.jpg" width="600" alt="四格漫畫系列 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg" width="600" alt="四格漫畫系列 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJXSfagAAlUz3.jpg" width="600" alt="四格漫畫系列 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg" width="600" alt="四格漫畫系列 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -6260,7 +6713,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 153: 細胞毒性 T 細胞殺死癌細胞的科學圖解
+### No. 163: 細胞毒性 T 細胞殺死癌細胞的科學圖解
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6279,7 +6732,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RE54magAA_1ck.jpg" width="600" alt="細胞毒性 T 細胞殺死癌細胞的科學圖解 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg" width="600" alt="細胞毒性 T 細胞殺死癌細胞的科學圖解 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6293,7 +6746,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 154: 船長磨損的航海日誌草圖
+### No. 164: 船長磨損的航海日誌草圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6312,7 +6765,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RGSLDa4AAFdrj.jpg" width="600" alt="船長磨損的航海日誌草圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg" width="600" alt="船長磨損的航海日誌草圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6326,7 +6779,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 155: 雜誌風格的照片，內含指定文章文字
+### No. 165: 雜誌風格的照片，內含指定文章文字
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6346,7 +6799,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RFnuobEAAfZ_5.jpg" width="600" alt="雜誌風格的照片，內含指定文章文字 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg" width="600" alt="雜誌風格的照片，內含指定文章文字 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6360,7 +6813,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 156: AIFocus Twitter 橫幅（含 Google 品牌標誌）
+### No. 166: AIFocus Twitter 橫幅（含 Google 品牌標誌）
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6379,7 +6832,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RDsJyaIAAtBk3.jpg" width="600" alt="AIFocus Twitter 橫幅（含 Google 品牌標誌） - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg" width="600" alt="AIFocus Twitter 橫幅（含 Google 品牌標誌） - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6393,7 +6846,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 157: 黑白動物的 16 位元像素藝術海報
+### No. 167: 黑白動物的 16 位元像素藝術海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6412,25 +6865,25 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBWw9bMAA_3mB.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBYuEaMAAP1uA.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBbCnaEAE_NK0.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBl3PaYAABPC4.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg" width="600" alt="黑白動物的 16 位元像素藝術海報 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -6444,7 +6897,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 158: 艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像
+### No. 168: 艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6473,7 +6926,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RCqojakAAYKGL.jpg" width="600" alt="艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg" width="600" alt="艾菲爾鐵塔、萬里長城、羅馬競技場、泰姬瑪哈陵的標註地標圖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6487,7 +6940,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 159: 地球是貓咪星球？四格漫畫中的小仙子這樣認為。
+### No. 169: 地球是貓咪星球？四格漫畫中的小仙子這樣認為。
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6506,7 +6959,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB5JcbkAAziGG.jpg" width="600" alt="地球是貓咪星球？四格漫畫中的小仙子這樣認為。 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg" width="600" alt="地球是貓咪星球？四格漫畫中的小仙子這樣認為。 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6520,7 +6973,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 160: 結構化屋頂冬季肖像 (JSON)
+### No. 170: 結構化屋頂冬季肖像 (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6569,7 +7022,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RAtP9WkAAyJUJ.jpg" width="600" alt="結構化屋頂冬季肖像 (JSON) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="結構化屋頂冬季肖像 (JSON) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="結構化屋頂冬季肖像 (JSON) - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6583,7 +7042,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 161: 鹹魚翻生
+### No. 171: 鹹魚翻生
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6602,7 +7061,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q_SssbAAAOrWs.jpg" width="600" alt="鹹魚翻生 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="鹹魚翻生 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6616,7 +7075,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 162: 手繪資訊圖卡：關於長期 IP 建立
+### No. 172: 手繪資訊圖卡：關於長期 IP 建立
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6642,7 +7101,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-oMuWkAAgOQr.jpg" width="600" alt="手繪資訊圖卡：關於長期 IP 建立 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946989_0mephc_G6Q-oMuWkAAgOQr.jpg" width="600" alt="手繪資訊圖卡：關於長期 IP 建立 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6656,7 +7115,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 163: 貼上內容的 Blackboard 摘要
+### No. 173: 貼上內容的 Blackboard 摘要
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6675,7 +7134,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-cwGb0AAXK_L.jpg" width="600" alt="貼上內容的 Blackboard 摘要 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886552076_sd4wd3_G6Q-cwGb0AAXK_L.jpg" width="600" alt="貼上內容的 Blackboard 摘要 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6689,7 +7148,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 164: 關於 Nano Banana Pro 的 4 種四格漫畫
+### No. 174: 關於 Nano Banana Pro 的 4 種四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6709,7 +7168,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-NGxbQAAOp8b.jpg" width="600" alt="關於 Nano Banana Pro 的 4 種四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886513261_0uxvic_G6Q-NGxbQAAOp8b.jpg" width="600" alt="關於 Nano Banana Pro 的 4 種四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6723,7 +7182,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 165: 玻璃白板上的 Python 費波那契數列程式碼
+### No. 175: 玻璃白板上的 Python 費波那契數列程式碼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6743,7 +7202,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q7IqsXUAA41_W.jpg" width="600" alt="玻璃白板上的 Python 費波那契數列程式碼 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887119884_tdofiz_G6Q7IqsXUAA41_W.jpg" width="600" alt="玻璃白板上的 Python 費波那契數列程式碼 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6757,7 +7216,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 166: Q 版角色 LINE 貼圖套組
+### No. 176: Q 版角色 LINE 貼圖套組
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6777,13 +7236,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Q 版角色 LINE 貼圖套組 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Q 版角色 LINE 貼圖套組 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyHaQAA02bY.jpg" width="600" alt="Q 版角色 LINE 貼圖套組 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg" width="600" alt="Q 版角色 LINE 貼圖套組 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6797,7 +7256,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 167: 國家醫療數據策略政策風格投影片
+### No. 177: 國家醫療數據策略政策風格投影片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6816,7 +7275,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5MAFacAUc-tE.jpg" width="600" alt="國家醫療數據策略政策風格投影片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886317117_qpj4dq_G6Q5MAFacAUc-tE.jpg" width="600" alt="國家醫療數據策略政策風格投影片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6830,7 +7289,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 168: 兩位角色的同人誌封面
+### No. 178: 兩位角色的同人誌封面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6850,7 +7309,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q4s2xacAsvivR.jpg" width="600" alt="兩位角色的同人誌封面 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886504130_azrlpp_G6Q4s2xacAsvivR.jpg" width="600" alt="兩位角色的同人誌封面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6864,7 +7323,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 169: 浣熊公仔的產品廣告圖片
+### No. 179: 浣熊公仔的產品廣告圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6883,13 +7342,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtvacAUuAQ6.jpg" width="600" alt="浣熊公仔的產品廣告圖片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886396175_34n70g_G6Q5JtvacAUuAQ6.jpg" width="600" alt="浣熊公仔的產品廣告圖片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtracAEyiq-.jpg" width="600" alt="浣熊公仔的產品廣告圖片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886399868_6zfqlk_G6Q5JtracAEyiq-.jpg" width="600" alt="浣熊公仔的產品廣告圖片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6903,7 +7362,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 170: 論文摘要，以中文白板照片呈現
+### No. 180: 論文摘要，以中文白板照片呈現
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6922,13 +7381,19 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qz3TZW4AAMweD.jpg" width="600" alt="論文摘要，以中文白板照片呈現 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886866812_0u3dqk_G6Qz3TZW4AAMweD.jpg" width="600" alt="論文摘要，以中文白板照片呈現 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0s48WEAA06yE.jpg" width="600" alt="論文摘要，以中文白板照片呈現 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886869233_uojom6_G6Q0s48WEAA06yE.jpg" width="600" alt="論文摘要，以中文白板照片呈現 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886872214_xzg6p5_G6PxynpWcAALinh.jpg" width="600" alt="論文摘要，以中文白板照片呈現 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -6942,7 +7407,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 171: 電台節目廣告漫畫：大猩猩與兔子
+### No. 181: 電台節目廣告漫畫：大猩猩與兔子
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6961,25 +7426,25 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0S5FacAUkJCh.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886369701_sf7129_G6Q0S5FacAUkJCh.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0WyxbMAAW8Oi.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886373307_j8tgmt_G6Q0WyxbMAAW8Oi.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0bCzbgAAKWSe.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886376112_3z2wze_G6Q0bCzbgAAKWSe.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0cYIacAANC87.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886379874_7w0c6a_G6Q0cYIacAANC87.jpg" width="600" alt="電台節目廣告漫畫：大猩猩與兔子 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -6993,7 +7458,40 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 172: 關於一位飢餓的女士和鬆餅的四格漫畫
+### No. 182: 在珠穆朗瑪峰頂的自畫像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個提示構想，用於將使用者上傳的肖像照片以高度寫實的風格放置在珠穆朗瑪峰頂。
+
+#### 📝 提示詞
+
+```
+把我放在珠穆朗瑪峰頂。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886007632_qn1pk3_yP6Eu6_ODiGBnGHb.jpg" width="600" alt="在珠穆朗瑪峰頂的自畫像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [عمر العطاس](https://x.com/omer_attas)
+- **來源:** [Twitter Post](https://x.com/omer_attas/status/1991773850577809655)
+- **發布時間:** 2025年11月21日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8A%8A%E6%88%91%E6%94%BE%E5%9C%A8%E7%8F%A0%E7%A9%86%E6%9C%97%E7%91%AA%E5%B3%B0%E9%A0%82%E3%80%82)**
+
+---
+
+### No. 183: 關於一位飢餓的女士和鬆餅的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7022,7 +7520,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QzoOaacAQYUzi.jpg" width="600" alt="關於一位飢餓的女士和鬆餅的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886272247_r4i8bs_G6QzoOaacAQYUzi.jpg" width="600" alt="關於一位飢餓的女士和鬆餅的四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7036,7 +7534,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 173: 西瓜泳池微觀世界
+### No. 184: 西瓜泳池微觀世界
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7055,7 +7553,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QxDHEacAIO_xc.jpg" width="600" alt="西瓜泳池微觀世界 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg" width="600" alt="西瓜泳池微觀世界 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7069,7 +7567,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 174: 雲端中超現實的半透明藍鯨
+### No. 185: 雲端中超現實的半透明藍鯨
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7088,7 +7586,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QvTkCacAATNjA.jpg" width="600" alt="雲端中超現實的半透明藍鯨 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886763402_um7z88_G6QvTkCacAATNjA.jpg" width="600" alt="雲端中超現實的半透明藍鯨 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7102,7 +7600,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 175: 陰陽錦鯉水墨插畫
+### No. 186: 陰陽錦鯉水墨插畫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7121,7 +7619,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QuUsWacAArtgo.jpg" width="600" alt="陰陽錦鯉水墨插畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886767893_0xgtq6_G6QuUsWacAArtgo.jpg" width="600" alt="陰陽錦鯉水墨插畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7135,7 +7633,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 176: 心碎女孩公仔的公仔風格產品頁面設計
+### No. 187: 心碎女孩公仔的公仔風格產品頁面設計
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7164,13 +7662,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsHDgacAANhhz.jpg" width="600" alt="心碎女孩公仔的公仔風格產品頁面設計 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568950_hg4jfg_G6QsHDgacAANhhz.jpg" width="600" alt="心碎女孩公仔的公仔風格產品頁面設計 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qspn7bwAA0eGf.jpg" width="600" alt="心碎女孩公仔的公仔風格產品頁面設計 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886572822_uvcn77_G6Qspn7bwAA0eGf.jpg" width="600" alt="心碎女孩公仔的公仔風格產品頁面設計 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7184,7 +7682,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 177: 兩張照片之間的服裝轉移
+### No. 188: 兩張照片之間的服裝轉移
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7205,19 +7703,19 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNtacAACn18.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887435473_8n9bws_G6QssNtacAACn18.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNjbkAA5wY1.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887438384_i92wiw_G6QssNjbkAA5wY1.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNpbIAAsjUH.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887441000_khtarl_G6QssNpbIAAsjUH.jpg" width="600" alt="兩張照片之間的服裝轉移 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -7231,7 +7729,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 178: 年輕女性的單色電影肖像
+### No. 189: 年輕女性的單色電影肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7250,7 +7748,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsGexbMAA43DK.jpg" width="600" alt="年輕女性的單色電影肖像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887081947_bla0pc_G6QsGexbMAA43DK.jpg" width="600" alt="年輕女性的單色電影肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7264,7 +7762,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 179: Oracle-chan 幽默 LINE 貼圖包
+### No. 190: Oracle-chan 幽默 LINE 貼圖包
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7283,7 +7781,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqoZrbEAAXKvg.jpg" width="600" alt="Oracle-chan 幽默 LINE 貼圖包 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886448330_kuhr59_G6QqoZrbEAAXKvg.jpg" width="600" alt="Oracle-chan 幽默 LINE 貼圖包 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7297,7 +7795,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 180: 高效精華液登陸頁面
+### No. 191: 高效精華液登陸頁面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7316,7 +7814,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QrWLFbAAAqdit.jpg" width="600" alt="高效精華液登陸頁面 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886463989_iccj78_G6QrWLFbAAAqdit.jpg" width="600" alt="高效精華液登陸頁面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7330,7 +7828,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 181: 食物縮圖和產品照片
+### No. 192: 食物縮圖和產品照片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7351,13 +7849,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QpZrWacAUVN5A.jpg" width="600" alt="食物縮圖和產品照片 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886404524_y7q7is_G6QpZrWacAUVN5A.jpg" width="600" alt="食物縮圖和產品照片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqIvrbIAAlCGu.jpg" width="600" alt="食物縮圖和產品照片 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886407949_xlk1xc_G6QqIvrbIAAlCGu.jpg" width="600" alt="食物縮圖和產品照片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7371,7 +7869,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 182: 來自附上聯絡人的 Messenger 貼圖包
+### No. 193: 來自附上聯絡人的 Messenger 貼圖包
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7392,7 +7890,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QoPuOboAAkJEZ.jpg" width="600" alt="來自附上聯絡人的 Messenger 貼圖包 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886180130_52owic_G6QoPuOboAAkJEZ.jpg" width="600" alt="來自附上聯絡人的 Messenger 貼圖包 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7406,7 +7904,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 183: 文字中的 Apple 主題演講風格活動場景
+### No. 194: 文字中的 Apple 主題演講風格活動場景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7425,19 +7923,19 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeCasAIiGHT.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886921970_6kgjvt_G6QnxeCasAIiGHT.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAI0VZV.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886925466_82s71i_G6QnxeDacAI0VZV.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAMajXw.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886928094_90nq9g_G6QnxeDacAMajXw.jpg" width="600" alt="文字中的 Apple 主題演講風格活動場景 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -7451,7 +7949,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 184: 關於一家人環球影城之旅的散文式漫畫
+### No. 195: 關於一家人環球影城之旅的散文式漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7471,7 +7969,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QgQunaIAEMEC7.jpg" width="600" alt="關於一家人環球影城之旅的散文式漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886492594_ifq79o_G6QgQunaIAEMEC7.jpg" width="600" alt="關於一家人環球影城之旅的散文式漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7485,7 +7983,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 185: 蒙面訪談影片的 YouTube 縮圖設計簡報
+### No. 196: 蒙面訪談影片的 YouTube 縮圖設計簡報
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7528,13 +8026,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkOUmbIAAIdKH.png" width="600" alt="蒙面訪談影片的 YouTube 縮圖設計簡報 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png" width="600" alt="蒙面訪談影片的 YouTube 縮圖設計簡報 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkQpnasAAWyXd.jpg" width="600" alt="蒙面訪談影片的 YouTube 縮圖設計簡報 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886606889_70r944_G6QkQpnasAAWyXd.jpg" width="600" alt="蒙面訪談影片的 YouTube 縮圖設計簡報 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7548,7 +8046,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 186: 關於 Gemini 生成日文文字圖像的四格漫畫
+### No. 197: 關於 Gemini 生成日文文字圖像的四格漫畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7568,7 +8066,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QjQp-a0AAov9I.jpg" width="600" alt="關於 Gemini 生成日文文字圖像的四格漫畫 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886326404_hug38x_G6QjQp-a0AAov9I.jpg" width="600" alt="關於 Gemini 生成日文文字圖像的四格漫畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7582,7 +8080,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 187: 1799 年至 1800 年鼠疫期間的摩洛哥地圖
+### No. 198: 1799 年至 1800 年鼠疫期間的摩洛哥地圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7602,7 +8100,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799 年至 1800 年鼠疫期間的摩洛哥地圖 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885995626_wkuqgo_G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799 年至 1800 年鼠疫期間的摩洛哥地圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7616,7 +8114,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 188: 小眾香水促銷，營造 Le Labo 般的氛圍
+### No. 199: 小眾香水促銷，營造 Le Labo 般的氛圍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7635,25 +8133,25 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdYGeawAAU71a.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886907025_1jacbv_G6QdYGeawAAU71a.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdY6WacAcWt4A.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886909113_zr3z5r_G6QdY6WacAcWt4A.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdZn5bYAArE66.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886911392_4z71na_G6QdZn5bYAArE66.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdadOakAAoLIf.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886913581_v9cpk9_G6QdadOakAAoLIf.jpg" width="600" alt="小眾香水促銷，營造 Le Labo 般的氛圍 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -7667,7 +8165,7 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 189: 樂高風格自畫像
+### No. 200: 樂高風格自畫像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7687,13 +8185,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBoYXcAASkfI.jpg" width="600" alt="樂高風格自畫像 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886126831_jlruy9_G6QdBoYXcAASkfI.jpg" width="600" alt="樂高風格自畫像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBrbXwAABM0T.jpg" width="600" alt="樂高風格自畫像 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886130722_3zua0d_G6QdBrbXwAABM0T.jpg" width="600" alt="樂高風格自畫像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7707,466 +8205,13 @@ JSON 格式的提示，描述一位時尚年輕女性在茂密的熱帶竹林中
 
 ---
 
-### No. 190: Tesla FSD 解說資訊圖表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個簡單的提示，用於生成關於 Tesla 全自動輔助駕駛 (Full Self-Driving) 如何運作的解釋性資訊圖表，適用於技術教育視覺內容。
-
-#### 📝 提示詞
-
-```
-製作一個資訊圖表，解釋 {argument name="system_name_en" default="Tesla FSD"} 的運作方式。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6Qbg7nXcAA1tOU.jpg" width="600" alt="Tesla FSD 解說資訊圖表 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Λnanto Mohammad](https://x.com/01Ananto)
-- **來源:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%80%8B%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8%EF%BC%8C%E8%A7%A3%E9%87%8B%20%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Tesla%20FSD%22%7D%20%E7%9A%84%E9%81%8B%E4%BD%9C%E6%96%B9%E5%BC%8F%E3%80%82)**
-
----
-
-### No. 191: 奇怪的平凡照片 (LeonardoAI)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-與之前一樣，以同樣有趣的理念，請 Nano Banana Pro 想像出它能想到的最奇怪、最平凡的照片。
-
-#### 📝 提示詞
-
-```
-你能想像到最奇怪的平凡照片。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QbKoTbYAAc7mW.jpg" width="600" alt="奇怪的平凡照片 (LeonardoAI) - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Leonardo.Ai](https://x.com/LeonardoAi)
-- **來源:** [Twitter Post](https://x.com/LeonardoAi/status/1991746810281619726)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%A0%E8%83%BD%E6%83%B3%E5%83%8F%E5%88%B0%E6%9C%80%E5%A5%87%E6%80%AA%E7%9A%84%E5%B9%B3%E5%87%A1%E7%85%A7%E7%89%87%E3%80%82)**
-
----
-
-### No. 192: 電影角色海報
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個英文提示，要求製作一張精美的電影海報，其中包含來自指定電影的角色，適合用於混搭電影海報設計。
-
-#### 📝 提示詞
-
-```
-製作一張包含指定電影角色的精美海報，一張電影海報。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaltTacAYcYIk.jpg" width="600" alt="電影角色海報 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QanHiakAAr5Op.jpg" width="600" alt="電影角色海報 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [prvn 🇮🇳](https://x.com/prvnprvnkmr)
-- **來源:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%BC%B5%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E9%9B%BB%E5%BD%B1%E8%A7%92%E8%89%B2%E7%9A%84%E7%B2%BE%E7%BE%8E%E6%B5%B7%E5%A0%B1%EF%BC%8C%E4%B8%80%E5%BC%B5%E9%9B%BB%E5%BD%B1%E6%B5%B7%E5%A0%B1%E3%80%82)**
-
----
-
-### No. 193: 科幻電影三部曲及擴充內容
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一組提示，用於創作受 Roger Deakins 和 IMAX 構圖啟發的電影級科幻三聯畫，採用 4:5 構圖，然後將每個畫板擴展為完整的 4:5 場景。
-
-#### 📝 提示詞
-
-```
-創作一個三聯畫，由三個 2.39:1 的鏡頭組成，置於 4:5 的構圖中。讓它們呈現電影般的科幻鏡頭，帶有氛圍感，彷彿由羅傑·狄金斯 (Roger Deakins) 以 IMAX 拍攝，具有高對比度和去飽和的藍灰色調。
-
-然後將這三張圖像逐一擴展成三個獨立的 4:5 場景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFWwAAHXVO.jpg" width="600" alt="科幻電影三部曲及擴充內容 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsDXMAAiLNA.jpg" width="600" alt="科幻電影三部曲及擴充內容 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsEXsAA1q2s.jpg" width="600" alt="科幻電影三部曲及擴充內容 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFXgAABzUk.jpg" width="600" alt="科幻電影三部曲及擴充內容 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Echoes of Tomorrow](https://x.com/eoft_ai)
-- **來源:** [Twitter Post](https://x.com/eoft_ai/status/1991745589818908869)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%89%B5%E4%BD%9C%E4%B8%80%E5%80%8B%E4%B8%89%E8%81%AF%E7%95%AB%EF%BC%8C%E7%94%B1%E4%B8%89%E5%80%8B%202.39%3A1%20%E7%9A%84%E9%8F%A1%E9%A0%AD%E7%B5%84%E6%88%90%EF%BC%8C%E7%BD%AE%E6%96%BC%204%3A5%20%E7%9A%84%E6%A7%8B%E5%9C%96%E4%B8%AD%E3%80%82%E8%AE%93%E5%AE%83%E5%80%91%E5%91%88%E7%8F%BE%E9%9B%BB%E5%BD%B1%E8%88%AC%E7%9A%84%E7%A7%91%E5%B9%BB%E9%8F%A1%E9%A0%AD%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%B0%9B%E5%9C%8D%E6%84%9F%EF%BC%8C%E5%BD%B7%E5%BD%BF%E7%94%B1%E7%BE%85%E5%82%91%C2%B7%E7%8B%84%E9%87%91%E6%96%AF%20(Roger%20Deakins)%20%E4%BB%A5%20IMAX%20%E6%8B%8D%E6%94%9D%EF%BC%8C%E5%85%B7%E6%9C%89%E9%AB%98%E5%B0%8D%E6%AF%94%E5%BA%A6%E5%92%8C%E5%8E%BB%E9%A3%BD%E5%92%8C%E7%9A%84%E8%97%8D%E7%81%B0%E8%89%B2%E8%AA%BF%E3%80%82%0A%0A%E7%84%B6%E5%BE%8C%E5%B0%87%E9%80%99%E4%B8%89%E5%BC%B5%E5%9C%96%E5%83%8F%E9%80%90%E4%B8%80%E6%93%B4%E5%B1%95%E6%88%90%E4%B8%89%E5%80%8B%E7%8D%A8%E7%AB%8B%E7%9A%84%204%3A5%20%E5%A0%B4%E6%99%AF%E3%80%82)**
-
----
-
-### No. 194: 更換服裝同時保持身份和姿勢
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個詳細的編輯提示，在保留使用者臉部、姿勢和環境的同時，將服裝更換為與參考服裝相符。
-
-#### 📝 提示詞
-
-```
-保留我原始照片中的臉部、姿勢、身體和環境。僅更改服裝和配件，使其與第二張參考圖片中的洋裝和配件完全吻合。請勿改變我的髮型、妝容、身體比例或拍攝角度。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeymWsAAO5Fz.jpg" width="600" alt="更換服裝同時保持身份和姿勢 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeyjWwAABIbR.jpg" width="600" alt="更換服裝同時保持身份和姿勢 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Zara](https://x.com/ZaraIrahh)
-- **來源:** [Twitter Post](https://x.com/ZaraIrahh/status/1991744975919554874)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BF%9D%E7%95%99%E6%88%91%E5%8E%9F%E5%A7%8B%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E8%87%89%E9%83%A8%E3%80%81%E5%A7%BF%E5%8B%A2%E3%80%81%E8%BA%AB%E9%AB%94%E5%92%8C%E7%92%B0%E5%A2%83%E3%80%82%E5%83%85%E6%9B%B4%E6%94%B9%E6%9C%8D%E8%A3%9D%E5%92%8C%E9%85%8D%E4%BB%B6%EF%BC%8C%E4%BD%BF%E5%85%B6%E8%88%87%E7%AC%AC%E4%BA%8C%E5%BC%B5%E5%8F%83%E8%80%83%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E6%B4%8B%E8%A3%9D%E5%92%8C%E9%85%8D%E4%BB%B6%E5%AE%8C%E5%85%A8%E5%90%BB%E5%90%88%E3%80%82%E8%AB%8B%E5%8B%BF%E6%94%B9%E8%AE%8A%E6%88%91%E7%9A%84%E9%AB%AE%E5%9E%8B%E3%80%81%E5%A6%9D%E5%AE%B9%E3%80%81%E8%BA%AB%E9%AB%94%E6%AF%94%E4%BE%8B%E6%88%96%E6%8B%8D%E6%94%9D%E8%A7%92%E5%BA%A6%E3%80%82)**
-
----
-
-### No. 195: 四個關鍵字提示：城市中的日本近未來美學
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個由四個詞組成的日文簡短提示，用於生成一位身處都市環境的近未來美麗日本女性。
-
-#### 📝 提示詞
-
-```
-{argument name="nationality_en" default="日本人"}
-{argument name="world_en" default="近未來"}
-{argument name="subject_en" default="美女"}
-{argument name="location_en" default="市中心"}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZNWJb0AAHf15.jpg" width="600" alt="四個關鍵字提示：城市中的日本近未來美學 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [あつむ | AI活用術](https://x.com/atsumu_sns_ai)
-- **來源:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22nationality_en%22%20default%3D%22%E6%97%A5%E6%9C%AC%E4%BA%BA%22%7D%0A%7Bargument%20name%3D%22world_en%22%20default%3D%22%E8%BF%91%E6%9C%AA%E4%BE%86%22%7D%0A%7Bargument%20name%3D%22subject_en%22%20default%3D%22%E7%BE%8E%E5%A5%B3%22%7D%0A%7Bargument%20name%3D%22location_en%22%20default%3D%22%E5%B8%82%E4%B8%AD%E5%BF%83%22%7D)**
-
----
-
-### No. 196: Podcast 封面來自兩張參考肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個靈活的提示構想，用於生成播客封面，使用兩張上傳的人像作為參考，搭配黑色概念背景和攝影棚燈光，可選擇性地匹配電視節目海報中的姿勢。
-
-#### 📝 提示詞
-
-```
-首先拍攝兩張人像照片作為參考圖像，然後讓 Nano Banana 使用這兩張圖像來生成播客封面。將背景指定為「黑色概念圖像」，燈光指定為「攝影棚燈光」，然後{argument name="pose_instructions" default="您可以指定一個電視節目封面作為姿勢參考，或者讓它自由發揮創意詮釋"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnraQAAuxEB.jpg" width="600" alt="Podcast 封面來自兩張參考肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnsaUAA7ASb.jpg" width="600" alt="Podcast 封面來自兩張參考肖像 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [indigo](https://x.com/indigo11)
-- **來源:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
-- **發布時間:** 2025年11月21日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%A6%96%E5%85%88%E6%8B%8D%E6%94%9D%E5%85%A9%E5%BC%B5%E4%BA%BA%E5%83%8F%E7%85%A7%E7%89%87%E4%BD%9C%E7%82%BA%E5%8F%83%E8%80%83%E5%9C%96%E5%83%8F%EF%BC%8C%E7%84%B6%E5%BE%8C%E8%AE%93%20Nano%20Banana%20%E4%BD%BF%E7%94%A8%E9%80%99%E5%85%A9%E5%BC%B5%E5%9C%96%E5%83%8F%E4%BE%86%E7%94%9F%E6%88%90%E6%92%AD%E5%AE%A2%E5%B0%81%E9%9D%A2%E3%80%82%E5%B0%87%E8%83%8C%E6%99%AF%E6%8C%87%E5%AE%9A%E7%82%BA%E3%80%8C%E9%BB%91%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9C%96%E5%83%8F%E3%80%8D%EF%BC%8C%E7%87%88%E5%85%89%E6%8C%87%E5%AE%9A%E7%82%BA%E3%80%8C%E6%94%9D%E5%BD%B1%E6%A3%9A%E7%87%88%E5%85%89%E3%80%8D%EF%BC%8C%E7%84%B6%E5%BE%8C%7Bargument%20name%3D%22pose_instructions%22%20default%3D%22%E6%82%A8%E5%8F%AF%E4%BB%A5%E6%8C%87%E5%AE%9A%E4%B8%80%E5%80%8B%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE%E5%B0%81%E9%9D%A2%E4%BD%9C%E7%82%BA%E5%A7%BF%E5%8B%A2%E5%8F%83%E8%80%83%EF%BC%8C%E6%88%96%E8%80%85%E8%AE%93%E5%AE%83%E8%87%AA%E7%94%B1%E7%99%BC%E6%8F%AE%E5%89%B5%E6%84%8F%E8%A9%AE%E9%87%8B%22%7D%E3%80%82)**
-
----
-
-### No. 197: 保留藝術風格，將漫畫對話翻譯成英文並保留在原始對話框中
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-用於圖像編輯的提示：保留原始漫畫藝術作品，僅將對話翻譯成英文，並將翻譯後的文字放入現有的對話氣球中。
-
-#### 📝 提示詞
-
-```
-請保留圖片原樣，只需將此漫畫的對白翻譯成繁體中文，並將翻譯後的對白放入原始對話框中。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV7kFacAY4JJ5.jpg" width="600" alt="保留藝術風格，將漫畫對話翻譯成英文並保留在原始對話框中 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV9PpbMAA1Eth.jpg" width="600" alt="保留藝術風格，將漫畫對話翻譯成英文並保留在原始對話框中 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV97EagAAN9_Z.jpg" width="600" alt="保留藝術風格，將漫畫對話翻譯成英文並保留在原始對話框中 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [けいすけ / AIマンガ家](https://x.com/kei31)
-- **來源:** [Twitter Post](https://x.com/kei31/status/1991741213826044415)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E4%BF%9D%E7%95%99%E5%9C%96%E7%89%87%E5%8E%9F%E6%A8%A3%EF%BC%8C%E5%8F%AA%E9%9C%80%E5%B0%87%E6%AD%A4%E6%BC%AB%E7%95%AB%E7%9A%84%E5%B0%8D%E7%99%BD%E7%BF%BB%E8%AD%AF%E6%88%90%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%EF%BC%8C%E4%B8%A6%E5%B0%87%E7%BF%BB%E8%AD%AF%E5%BE%8C%E7%9A%84%E5%B0%8D%E7%99%BD%E6%94%BE%E5%85%A5%E5%8E%9F%E5%A7%8B%E5%B0%8D%E8%A9%B1%E6%A1%86%E4%B8%AD%E3%80%82)**
-
----
-
-### No. 198: 舊照片修復提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-修復嚴重損壞的舊照片，在去除瑕疵和重塑臉部的同時，保留原始身份。
-
-#### 📝 提示詞
-
-```
-修復這張老舊且嚴重受損的照片，去除所有可見的刮痕、凹痕、摺痕和污漬。自然且真實地重建缺失或扭曲的臉部特徵，同時保留人物的原始身份和表情。保持真實的
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmpjacAAh4uB.jpg" width="600" alt="舊照片修復提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmplacAM3t34.jpg" width="600" alt="舊照片修復提示 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Coffin](https://x.com/coffinxp7)
-- **來源:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BF%AE%E5%BE%A9%E9%80%99%E5%BC%B5%E8%80%81%E8%88%8A%E4%B8%94%E5%9A%B4%E9%87%8D%E5%8F%97%E6%90%8D%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E5%8E%BB%E9%99%A4%E6%89%80%E6%9C%89%E5%8F%AF%E8%A6%8B%E7%9A%84%E5%88%AE%E7%97%95%E3%80%81%E5%87%B9%E7%97%95%E3%80%81%E6%91%BA%E7%97%95%E5%92%8C%E6%B1%A1%E6%BC%AC%E3%80%82%E8%87%AA%E7%84%B6%E4%B8%94%E7%9C%9F%E5%AF%A6%E5%9C%B0%E9%87%8D%E5%BB%BA%E7%BC%BA%E5%A4%B1%E6%88%96%E6%89%AD%E6%9B%B2%E7%9A%84%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%EF%BC%8C%E5%90%8C%E6%99%82%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E7%9A%84%E5%8E%9F%E5%A7%8B%E8%BA%AB%E4%BB%BD%E5%92%8C%E8%A1%A8%E6%83%85%E3%80%82%E4%BF%9D%E6%8C%81%E7%9C%9F%E5%AF%A6%E7%9A%84)**
-
----
-
-### No. 199: Neon-girl 漫畫第一頁設定
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-關於女孩 Neon 的漫畫第一頁的日語提示，指定垂直日語文字氣泡、從右到左的閱讀順序和 9:16 的長寬比。
-
-#### 📝 提示詞
-
-```
-請為以下漫畫的第一頁建立圖像，其中包含圖片中的女孩「{argument name="character_name_en" default="Neon"}」。
-
-對話框應為垂直。
-分格從右到左、從上到下閱讀。
-請製作一張長寬比為 {argument name="aspect_ratio_en" default="9:16"} 的漫畫圖像。
-
-標題：「{argument name="title_en" default="Sparkling Boot-Up! It’s Neon!"}」
-
-第 1 頁
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-acAMN-Kv.jpg" width="600" alt="Neon-girl 漫畫第一頁設定 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8_boAEBl_0.jpg" width="600" alt="Neon-girl 漫畫第一頁設定 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-a8AAyvP1.jpg" width="600" alt="Neon-girl 漫畫第一頁設定 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn9BacAY4Krw.jpg" width="600" alt="Neon-girl 漫畫第一頁設定 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [よはく@0と1のすきま](https://x.com/yohaku_kiroku)
-- **來源:** [Twitter Post](https://x.com/yohaku_kiroku/status/1991738120577118585)
-- **發布時間:** 2025年11月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E7%82%BA%E4%BB%A5%E4%B8%8B%E6%BC%AB%E7%95%AB%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A0%81%E5%BB%BA%E7%AB%8B%E5%9C%96%E5%83%8F%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E5%90%AB%E5%9C%96%E7%89%87%E4%B8%AD%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8C%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Neon%22%7D%E3%80%8D%E3%80%82%0A%0A%E5%B0%8D%E8%A9%B1%E6%A1%86%E6%87%89%E7%82%BA%E5%9E%82%E7%9B%B4%E3%80%82%0A%E5%88%86%E6%A0%BC%E5%BE%9E%E5%8F%B3%E5%88%B0%E5%B7%A6%E3%80%81%E5%BE%9E%E4%B8%8A%E5%88%B0%E4%B8%8B%E9%96%B1%E8%AE%80%E3%80%82%0A%E8%AB%8B%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%BC%B5%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%229%3A16%22%7D%20%E7%9A%84%E6%BC%AB%E7%95%AB%E5%9C%96%E5%83%8F%E3%80%82%0A%0A%E6%A8%99%E9%A1%8C%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22title_en%22%20default%3D%22Sparkling%20Boot-Up!%20It%E2%80%99s%20Neon!%22%7D%E3%80%8D%0A%0A%E7%AC%AC%201%20%E9%A0%81)**
-
----
-
-### No. 200: 從上方俯瞰阿馬蒂特蘭湖的立體圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個西班牙語提示，用於模仿現有的立體圖，同時從衛星般的俯視角度描繪阿馬蒂特蘭湖，周圍環繞著群山，以產生強烈的深度效果。
-
-#### 📝 提示詞
-
-```
-模仿以下使用立體影像技術的立體圖，但以從上方（衛星視角）看到的 {argument name="place_en" default="Lake Amatitlán"} 為主，並利用環繞湖泊的山脈來營造深度感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="從上方俯瞰阿馬蒂特蘭湖的立體圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [cr.txt](https://x.com/crstn_hrndz)
-- **來源:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
-- **發布時間:** 2025年11月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A8%A1%E4%BB%BF%E4%BB%A5%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%AB%8B%E9%AB%94%E5%BD%B1%E5%83%8F%E6%8A%80%E8%A1%93%E7%9A%84%E7%AB%8B%E9%AB%94%E5%9C%96%EF%BC%8C%E4%BD%86%E4%BB%A5%E5%BE%9E%E4%B8%8A%E6%96%B9%EF%BC%88%E8%A1%9B%E6%98%9F%E8%A6%96%E8%A7%92%EF%BC%89%E7%9C%8B%E5%88%B0%E7%9A%84%20%7Bargument%20name%3D%22place_en%22%20default%3D%22Lake%20Amatitl%C3%A1n%22%7D%20%E7%82%BA%E4%B8%BB%EF%BC%8C%E4%B8%A6%E5%88%A9%E7%94%A8%E7%92%B0%E7%B9%9E%E6%B9%96%E6%B3%8A%E7%9A%84%E5%B1%B1%E8%84%88%E4%BE%86%E7%87%9F%E9%80%A0%E6%B7%B1%E5%BA%A6%E6%84%9F%E3%80%82)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 291 更多提示詞未在此顯示
+### 🎯 314 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8229,6 +8274,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:20:51.617Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:24:14.352Z</sub>
 
 </div>

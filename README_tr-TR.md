@@ -80,9 +80,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **496** |
+| 📝 Toplam İstem | **519** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:22:01 UTC** |
+| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:24:27 UTC** |
 
 </div>
 
@@ -113,25 +113,25 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -165,7 +165,7 @@ Tüm federal eyaletlerin tükenmez kalemle etiketlendiği, suluboya tarzında bi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RIeSZXgAA7cOf.jpg" width="700" alt="Etiketli eyaletleri olan Almanya suluboya haritası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Etiketli eyaletleri olan Almanya suluboya haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -216,7 +216,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBYReawAAcp2x.jpg" width="700" alt="Tren reklamı tarzında kitap reklamı görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Tren reklamı tarzında kitap reklamı görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -250,7 +250,7 @@ Rüya günlüğü. Ağzından gökkuşağı renkli baloncuklar üfleyen, yıldı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RHoGna4AArBDN.jpg" width="700" alt="Kirby'nin baloncuk üflediği rüya günlüğü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Kirby'nin baloncuk üflediği rüya günlüğü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -353,7 +353,7 @@ Otaku tarzı bir bilgisayar köşesinde ayna selfie'si, mavi renk tonu.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G23i3sJW0AASGUw.jpg" width="700" alt="Ayrıntılı ayna-selfie otaku oda sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Ayrıntılı ayna-selfie otaku oda sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -391,7 +391,7 @@ Enlem, boylam ve kesin bir zaman damgası kullanarak belirli bir yer ve zamana a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jfqdVWgAADyla.jpg" width="600" alt="Belirli koordinatlarda tarihi an (1994) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg" width="600" alt="Belirli koordinatlarda tarihi an (1994) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -405,7 +405,41 @@ Enlem, boylam ve kesin bir zaman damgası kullanarak belirli bir yer ve zamana a
 
 ---
 
-### No. 2: F1 VIP taraftar hiper gerçekçi selfie düzenlemesi
+### No. 2: Çocuklar için kil animasyonu günü aşamaları infografiği
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Altı yaşındaki bir çocuğa günün evrelerini açıklayan, eğitimsel görseller veya animasyonlu açıklayıcılar için ideal, tuhaf bir kilden animasyon tarzı infografik oluşturmaya yönelik bir komut istemi.
+
+#### 📝 İstem
+
+```
+Geniş, etkileyici ağızlar, oynak gözler ve büyüleyici bir mizah anlayışıyla, kendine özgü kilden yapılmış animasyon (claymation) tarzında, {argument name="child_age" default="6 yaşındaki"} bir çocuk için günün evrelerini açıklayan bir infografik oluştur. Mat kil dokuları, el yapımı aksesuarlar ve sıcak, pratik set aydınlatması görünümü tanımlasın.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Çocuklar için kil animasyonu günü aşamaları infografiği - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jaclyn Konzelmann](https://x.com/jacalulu)
+- **Kaynak:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
+- **Yayınlandı:** 24 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Geni%C5%9F%2C%20etkileyici%20a%C4%9F%C4%B1zlar%2C%20oynak%20g%C3%B6zler%20ve%20b%C3%BCy%C3%BCleyici%20bir%20mizah%20anlay%C4%B1%C5%9F%C4%B1yla%2C%20kendine%20%C3%B6zg%C3%BC%20kilden%20yap%C4%B1lm%C4%B1%C5%9F%20animasyon%20(claymation)%20tarz%C4%B1nda%2C%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20ya%C5%9F%C4%B1ndaki%22%7D%20bir%20%C3%A7ocuk%20i%C3%A7in%20g%C3%BCn%C3%BCn%20evrelerini%20a%C3%A7%C4%B1klayan%20bir%20infografik%20olu%C5%9Ftur.%20Mat%20kil%20dokular%C4%B1%2C%20el%20yap%C4%B1m%C4%B1%20aksesuarlar%20ve%20s%C4%B1cak%2C%20pratik%20set%20ayd%C4%B1nlatmas%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC%20tan%C4%B1mlas%C4%B1n.)**
+
+---
+
+### No. 3: F1 VIP taraftar hiper gerçekçi selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -450,19 +484,19 @@ Kalite: 8K hiper gerçekçi fotoğraf, yüz ve kıyafet üzerinde keskin odak, a
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="F1 VIP taraftar hiper gerçekçi selfie düzenlemesi - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -476,7 +510,7 @@ Kalite: 8K hiper gerçekçi fotoğraf, yüz ve kıyafet üzerinde keskin odak, a
 
 ---
 
-### No. 3: LINE tarzı Q-versiyon emoji portre ızgarası
+### No. 4: LINE tarzı Q-versiyon emoji portre ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,19 +534,19 @@ Son görsel 16:9 en boy oranına sahip 4K çözünürlükte olmalıdır.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6i09XKXsAAzHUd.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fE-98aoAA_MAV.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg" width="600" alt="LINE tarzı Q-versiyon emoji portre ızgarası - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -526,7 +560,41 @@ Son görsel 16:9 en boy oranına sahip 4K çözünürlükte olmalıdır.
 
 ---
 
-### No. 4: Elle çizilmiş izometrik simge şeması
+### No. 5: Koordinatlar ve tarih içeren zaman yolculuğu sahnesi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Belirli coğrafi koordinatlarda ve tarihsel zamanda gerçekçi bir sahne oluşturmak için bir komut istemi; geçmiş olayları tam konumlarda görselleştirmek için kullanışlıdır.
+
+#### 📝 İstem
+
+```
+Aşağıdaki ana denk gelen bir görsel oluşturun: {argument name="coordinates_en" default="31.7785° N, 35.2296° E"}, {argument name="date_en" default="April 3, 33 CE"}, {argument name="time_en" default="15:00 hours"}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg" width="600" alt="Koordinatlar ve tarih içeren zaman yolculuğu sahnesi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Alex dc](https://x.com/Alex_dc)
+- **Kaynak:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
+- **Yayınlandı:** 24 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=A%C5%9Fa%C4%9F%C4%B1daki%20ana%20denk%20gelen%20bir%20g%C3%B6rsel%20olu%C5%9Fturun%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%22April%203%2C%2033%20CE%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20hours%22%7D)**
+
+---
+
+### No. 6: Elle çizilmiş izometrik simge şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -546,7 +614,7 @@ Kare formatında, el çizimi izometrik dönüm noktası diyagramları oluşturma
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6inJYdXcAAtK84.jpg" width="600" alt="Elle çizilmiş izometrik simge şeması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="Elle çizilmiş izometrik simge şeması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -560,7 +628,7 @@ Kare formatında, el çizimi izometrik dönüm noktası diyagramları oluşturma
 
 ---
 
-### No. 5: Bir kadının sinematik siyah beyaz portresi
+### No. 7: Bir kadının sinematik siyah beyaz portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,13 +647,13 @@ Uzun, koyu renk saçlı genç bir kadının, referans görseldeki öznenin yüz 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ikg5OaQAAkDPZ.jpg" width="600" alt="Bir kadının sinematik siyah beyaz portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg" width="600" alt="Bir kadının sinematik siyah beyaz portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6WBeaoAAgc4V.jpg" width="600" alt="Bir kadının sinematik siyah beyaz portresi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg" width="600" alt="Bir kadının sinematik siyah beyaz portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -599,7 +667,7 @@ Uzun, koyu renk saçlı genç bir kadının, referans görseldeki öznenin yüz 
 
 ---
 
-### No. 6: Buzdolabı tarama tarifi infografiği
+### No. 8: Buzdolabı tarama tarifi infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -619,13 +687,13 @@ Buzdolabının içindekileri basit, adım adım bir yemek tarifi infografiğine 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_OXQAApGxR.jpg" width="600" alt="Buzdolabı tarama tarifi infografiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Buzdolabı tarama tarifi infografiği - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iRr_GXIAAmzY2.jpg" width="600" alt="Buzdolabı tarama tarifi infografiği - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Buzdolabı tarama tarifi infografiği - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -639,7 +707,7 @@ Buzdolabının içindekileri basit, adım adım bir yemek tarifi infografiğine 
 
 ---
 
-### No. 7: Knolling tarzı patlatılmış düz çekim fotoğrafı
+### No. 9: Knolling tarzı patlatılmış düz çekim fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -659,7 +727,7 @@ Sıkı knolling tarzında ultra gerçekçi 8K düz serim fotoğraf. Ekteki görs
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling tarzı patlatılmış düz çekim fotoğrafı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Knolling tarzı patlatılmış düz çekim fotoğrafı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -673,7 +741,7 @@ Sıkı knolling tarzında ultra gerçekçi 8K düz serim fotoğraf. Ekteki görs
 
 ---
 
-### No. 8: Genç bir adamın İsviçre Alpleri'nde kış portresi
+### No. 10: Genç bir adamın İsviçre Alpleri'nde kış portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -702,7 +770,7 @@ Stil: editoryal seyahat portresi, hiper-gerçekçilik, yüksek dinamik aralık, 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hyPKpaUAAvSa0.jpg" width="600" alt="Genç bir adamın İsviçre Alpleri'nde kış portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg" width="600" alt="Genç bir adamın İsviçre Alpleri'nde kış portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -716,7 +784,7 @@ Stil: editoryal seyahat portresi, hiper-gerçekçilik, yüksek dinamik aralık, 
 
 ---
 
-### No. 9: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
+### No. 11: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -735,13 +803,13 @@ Marvel tarzında, canlı renklerde birkaç çizgi roman paneli. Kırmızı peler
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaa3W4AAF5I5.jpg" width="600" alt="Bir kahramanın Marvel tarzı çizgi roman storyboard'u - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="Bir kahramanın Marvel tarzı çizgi roman storyboard'u - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnaynXYAIVFuu.jpg" width="600" alt="Bir kahramanın Marvel tarzı çizgi roman storyboard'u - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="Bir kahramanın Marvel tarzı çizgi roman storyboard'u - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -755,7 +823,7 @@ Marvel tarzında, canlı renklerde birkaç çizgi roman paneli. Kırmızı peler
 
 ---
 
-### No. 10: Referans fotoğraflarından sinematik çatı katı portresi
+### No. 12: Referans fotoğraflarından sinematik çatı katı portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -774,7 +842,13 @@ Ekli görseldeki adamın (kendime ait 2 fotoğraf yüklüyorum) altın saatlerde
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6hnW9PWkAA411C.jpg" width="600" alt="Referans fotoğraflarından sinematik çatı katı portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg" width="600" alt="Referans fotoğraflarından sinematik çatı katı portresi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg" width="600" alt="Referans fotoğraflarından sinematik çatı katı portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -788,7 +862,40 @@ Ekli görseldeki adamın (kendime ait 2 fotoğraf yüklüyorum) altın saatlerde
 
 ---
 
-### No. 11: Bir cihazın teknik patlatılmış görünüm şeması
+### No. 13: Mevcut bir görselin çizgi film versiyonu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Sağlanan bir görüntüyü yapısını ve ayrıntılarını koruyarak tutarlı bir çizgi film tarzı versiyona dönüştürmek için bir istem.
+
+#### 📝 İstem
+
+```
+Bu görüntünün çizgi film versiyonunu oluşturun. Görüntünün tutarlılığını ve bütünlüğünü koruyun.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg" width="600" alt="Mevcut bir görselin çizgi film versiyonu - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Fran Actúa](https://x.com/Fran_actua)
+- **Kaynak:** [Twitter Post](https://x.com/Fran_actua/status/1992935615399108798)
+- **Yayınlandı:** 24 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20g%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20%C3%A7izgi%20film%20versiyonunu%20olu%C5%9Fturun.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1n%C4%B1%20ve%20b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BCn%C3%BC%20koruyun.)**
+
+---
+
+### No. 14: Bir cihazın teknik patlatılmış görünüm şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +915,7 @@ Kare formatta herhangi bir konunun etiketli patlatılmış görünüm diyagramla
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g6qKtWUAAqVz1.jpg" width="600" alt="Bir cihazın teknik patlatılmış görünüm şeması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg" width="600" alt="Bir cihazın teknik patlatılmış görünüm şeması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -822,7 +929,7 @@ Kare formatta herhangi bir konunun etiketli patlatılmış görünüm diyagramla
 
 ---
 
-### No. 12: Fütüristik yüz yaş kontrolü infografik portresi
+### No. 15: Fütüristik yüz yaş kontrolü infografik portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -861,13 +968,13 @@ Genel stil: fütüristik yapay zeka destekli cilt bakımı analizi, minimalist, 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g1yJ9WIAAaRg0.jpg" width="600" alt="Fütüristik yüz yaş kontrolü infografik portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg" width="600" alt="Fütüristik yüz yaş kontrolü infografik portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WdE9OWYAASxko.jpg" width="600" alt="Fütüristik yüz yaş kontrolü infografik portresi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg" width="600" alt="Fütüristik yüz yaş kontrolü infografik portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -881,7 +988,7 @@ Genel stil: fütüristik yapay zeka destekli cilt bakımı analizi, minimalist, 
 
 ---
 
-### No. 13: Manga Tarzı Çin Çizgi Romanı Hikaye Panosu Oluşturucu
+### No. 16: Manga Tarzı Çin Çizgi Romanı Hikaye Panosu Oluşturucu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -908,7 +1015,7 @@ Analiz çıktısı vermeyin, doğrudan panelli manga görsellerini verin ve pane
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6g0DNNaQAAX57_.jpg" width="600" alt="Manga Tarzı Çin Çizgi Romanı Hikaye Panosu Oluşturucu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg" width="600" alt="Manga Tarzı Çin Çizgi Romanı Hikaye Panosu Oluşturucu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -922,7 +1029,40 @@ Analiz çıktısı vermeyin, doğrudan panelli manga görsellerini verin ve pane
 
 ---
 
-### No. 14: Zhuge'nin tekrar eden tatar yayının vintage mühendislik patlatılmış görünümü
+### No. 17: Sahne arkası çekim kurulumu görselleştirme
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Belirli bir sahnenin çekimi için kamera ve ışıklandırma yerleşimini gösteren, öğeleri açıkça etiketlenmiş, gerçekçi, diyagram benzeri bir görüntü oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Bu sahneyi çekmek için kamera ve ışıkların nereye yerleştirildiğini gösteren gerçekçi bir görüntü oluşturun ve görünen tüm öğeleri etiketleyin.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="Sahne arkası çekim kurulumu görselleştirme - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [MΛRC VIDΛL](https://x.com/marcvidal)
+- **Kaynak:** [Twitter Post](https://x.com/marcvidal/status/1992882958785741226)
+- **Yayınlandı:** 24 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20sahneyi%20%C3%A7ekmek%20i%C3%A7in%20kamera%20ve%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%20nereye%20yerle%C5%9Ftirildi%C4%9Fini%20g%C3%B6steren%20ger%C3%A7ek%C3%A7i%20bir%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Fturun%20ve%20g%C3%B6r%C3%BCnen%20t%C3%BCm%20%C3%B6%C4%9Feleri%20etiketleyin.)**
+
+---
+
+### No. 18: Zhuge'nin tekrar eden tatar yayının vintage mühendislik patlatılmış görünümü
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -942,7 +1082,7 @@ Lütfen tüm etiketleri ve metinleri Çince olacak şekilde, {argument name="wea
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6fqDcAasAABUU-.jpg" width="600" alt="Zhuge'nin tekrar eden tatar yayının vintage mühendislik patlatılmış görünümü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg" width="600" alt="Zhuge'nin tekrar eden tatar yayının vintage mühendislik patlatılmış görünümü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -956,7 +1096,7 @@ Lütfen tüm etiketleri ve metinleri Çince olacak şekilde, {argument name="wea
 
 ---
 
-### No. 15: Vintage yemek kitabı tarzı tarif illüstrasyonu
+### No. 19: Vintage yemek kitabı tarzı tarif illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,13 +1116,13 @@ Bu {argument name="dish_en" default="ramen"} yemeğini, el çizimi eski bir yeme
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__W8AAoTR_.jpg" width="600" alt="Vintage yemek kitabı tarzı tarif illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg" width="600" alt="Vintage yemek kitabı tarzı tarif illüstrasyonu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6gVT__WsAATonO.jpg" width="600" alt="Vintage yemek kitabı tarzı tarif illüstrasyonu - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg" width="600" alt="Vintage yemek kitabı tarzı tarif illüstrasyonu - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -996,7 +1136,7 @@ Bu {argument name="dish_en" default="ramen"} yemeğini, el çizimi eski bir yeme
 
 ---
 
-### No. 16: BT için sinematik çok panelli sekans
+### No. 20: BT için sinematik çok panelli sekans
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1016,13 +1156,13 @@ Stephen King'in IT romanından yaratıcı bir senaryoyu betimleyen sinematik, ç
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6f_WMXa8AAb2Rn.jpg" width="600" alt="BT için sinematik çok panelli sekans - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="BT için sinematik çok panelli sekans - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6cgXctW4AAbDuy.jpg" width="600" alt="BT için sinematik çok panelli sekans - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="BT için sinematik çok panelli sekans - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1036,7 +1176,7 @@ Stephen King'in IT romanından yaratıcı bir senaryoyu betimleyen sinematik, ç
 
 ---
 
-### No. 17: Yüz kimliğini koruyan editoryal denim portre
+### No. 21: Yüz kimliğini koruyan editoryal denim portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1115,13 +1255,13 @@ Kot kıyafetli ve kürklü ceketli bir kişinin, yüzü referans fotoğrafla ayn
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMXfbQAABUWE.jpg" width="600" alt="Yüz kimliğini koruyan editoryal denim portre - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="Yüz kimliğini koruyan editoryal denim portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6ffMYaaoAA9ko6.jpg" width="600" alt="Yüz kimliğini koruyan editoryal denim portre - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="Yüz kimliğini koruyan editoryal denim portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1135,7 +1275,7 @@ Kot kıyafetli ve kürklü ceketli bir kişinin, yüzü referans fotoğrafla ayn
 
 ---
 
-### No. 18: Çocuksu pastel boya tarzı aile kamp çizimi
+### No. 22: Çocuksu pastel boya tarzı aile kamp çizimi
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1159,7 +1299,7 @@ Görüntüdeki diğer tüm öğeleri olduğu gibi bırakın ve yalnızca kağıt
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6aTZUyasAAi6u8.jpg" width="600" alt="Çocuksu pastel boya tarzı aile kamp çizimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg" width="600" alt="Çocuksu pastel boya tarzı aile kamp çizimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1173,7 +1313,7 @@ Görüntüdeki diğer tüm öğeleri olduğu gibi bırakın ve yalnızca kağıt
 
 ---
 
-### No. 19: Referans görselden dört kamera açısının ızgarası
+### No. 23: Referans görselden dört kamera açısının ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1193,13 +1333,13 @@ Bir referans görüntüsünün dört farklı kamera açısının bir ızgarasın
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XGckTacAAtoxg.jpg" width="600" alt="Referans görselden dört kamera açısının ızgarası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg" width="600" alt="Referans görselden dört kamera açısının ızgarası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XHXoHa0AAbZY1.jpg" width="600" alt="Referans görselden dört kamera açısının ızgarası - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg" width="600" alt="Referans görselden dört kamera açısının ızgarası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1213,7 +1353,7 @@ Bir referans görüntüsünün dört farklı kamera açısının bir ızgarasın
 
 ---
 
-### No. 20: Ay konumunu düzenle ve resim stilini değiştir
+### No. 24: Ay konumunu düzenle ve resim stilini değiştir
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1232,13 +1372,13 @@ Kadının arka planında resmedilmiş olan ayı, izleyicinin bakış açısında
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCQjTbcAABemP.jpg" width="600" alt="Ay konumunu düzenle ve resim stilini değiştir - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg" width="600" alt="Ay konumunu düzenle ve resim stilini değiştir - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCSvNbMAArO0f.jpg" width="600" alt="Ay konumunu düzenle ve resim stilini değiştir - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg" width="600" alt="Ay konumunu düzenle ve resim stilini değiştir - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1252,7 +1392,7 @@ Kadının arka planında resmedilmiş olan ayı, izleyicinin bakış açısında
 
 ---
 
-### No. 21: Belirtilen koordinatlarda büyük olay
+### No. 25: Belirtilen koordinatlarda büyük olay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1272,7 +1412,7 @@ Belirtilen coğrafi koordinatlarda meydana gelen önemli bir olayın görüntüs
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XCycxaAAA8aHp.jpg" width="600" alt="Belirtilen koordinatlarda büyük olay - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg" width="600" alt="Belirtilen koordinatlarda büyük olay - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1286,7 +1426,7 @@ Belirtilen coğrafi koordinatlarda meydana gelen önemli bir olayın görüntüs
 
 ---
 
-### No. 22: Jackson Laboratuvarı Hakkında Bilgi Grafiği
+### No. 26: Jackson Laboratuvarı Hakkında Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1306,7 +1446,7 @@ Jackson Laboratuvarı hakkındaki bilgileri özetleyen bir infografik oluşturma
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6XAjaYWYAA6Jro.jpg" width="600" alt="Jackson Laboratuvarı Hakkında Bilgi Grafiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg" width="600" alt="Jackson Laboratuvarı Hakkında Bilgi Grafiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1320,7 +1460,7 @@ Jackson Laboratuvarı hakkındaki bilgileri özetleyen bir infografik oluşturma
 
 ---
 
-### No. 23: Referans tel kafesten web sayfası tasarımı
+### No. 27: Referans tel kafesten web sayfası tasarımı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1339,7 +1479,7 @@ Lütfen referans görselindeki metne göre bir tasarım oluşturun. Düzeni göz
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W2E7sbwAAvjZV.jpg" width="600" alt="Referans tel kafesten web sayfası tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg" width="600" alt="Referans tel kafesten web sayfası tasarımı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1353,7 +1493,7 @@ Lütfen referans görselindeki metne göre bir tasarım oluşturun. Düzeni göz
 
 ---
 
-### No. 24: Sevimli Shima-enaga LINE çıkartma seti
+### No. 28: Sevimli Shima-enaga LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1372,7 +1512,7 @@ Lise çağındaki kızlara yönelik, deforme olmuş sevimli bir Shima-enaga kuş
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6W0A72akAAjDPX.jpg" width="600" alt="Sevimli Shima-enaga LINE çıkartma seti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg" width="600" alt="Sevimli Shima-enaga LINE çıkartma seti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1386,7 +1526,45 @@ Lise çağındaki kızlara yönelik, deforme olmuş sevimli bir Shima-enaga kuş
 
 ---
 
-### No. 25: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
+### No. 29: Bir fotoğraftan gerçekçi karakter tasarım sayfası
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Bir fotoğraftan, dönüş görünümleri, ifade sayfası ve poz sayfası dahil olmak üzere gerçekçi, filme hazır bir karakter tasarım sayfası oluşturmak ve ardından orijinal kişi görüntüsünü kaldırmak için uzun bir Japonca komut istemi.
+
+#### 📝 İstem
+
+```
+Lütfen bu fotoğraftaki kişinin ayrıntılı bir karakter tasarım sayfasını oluşturun. Canlı aksiyon bir filmde kullanılacağı için anime tarzı bir çizim gibi görünmemesine dikkat edin. Aşağıdaki üç karakter öğesini kullanarak yapılandırdığınızdan emin olun:
+ - Karakteri birden fazla açıdan gösteren bir dönüş (üç görünüm) sayfası
+ - Neşe, üzüntü, öfke, şaşkınlık, korku ve nötr gibi temel duygusal durumları gösteren bir ifade sayfası
+ - Karakterin koşma, zıplama, gülme ve ağlama gibi tipik eylemlerini gösteren bir poz sayfası
+
+Oluşturulduktan sonra, kişinin orijinal görüntüsünü kaldırın.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg" width="600" alt="Bir fotoğraftan gerçekçi karakter tasarım sayfası - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Creative.Edge CL+](https://x.com/commonstyle)
+- **Kaynak:** [Twitter Post](https://x.com/commonstyle/status/1992194502438899878)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20bu%20foto%C4%9Fraftaki%20ki%C5%9Finin%20ayr%C4%B1nt%C4%B1l%C4%B1%20bir%20karakter%20tasar%C4%B1m%20sayfas%C4%B1n%C4%B1%20olu%C5%9Fturun.%20Canl%C4%B1%20aksiyon%20bir%20filmde%20kullan%C4%B1laca%C4%9F%C4%B1%20i%C3%A7in%20anime%20tarz%C4%B1%20bir%20%C3%A7izim%20gibi%20g%C3%B6r%C3%BCnmemesine%20dikkat%20edin.%20A%C5%9Fa%C4%9F%C4%B1daki%20%C3%BC%C3%A7%20karakter%20%C3%B6%C4%9Fesini%20kullanarak%20yap%C4%B1land%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1zdan%20emin%20olun%3A%0A%20-%20Karakteri%20birden%20fazla%20a%C3%A7%C4%B1dan%20g%C3%B6steren%20bir%20d%C3%B6n%C3%BC%C5%9F%20(%C3%BC%C3%A7%20g%C3%B6r%C3%BCn%C3%BCm)%20sayfas%C4%B1%0A%20-%20Ne%C5%9Fe%2C%20%C3%BCz%C3%BCnt%C3%BC%2C%20%C3%B6fke%2C%20%C5%9Fa%C5%9Fk%C4%B1nl%C4%B1k%2C%20korku%20ve%20n%C3%B6tr%20gibi%20temel%20duygusal%20durumlar%C4%B1%20g%C3%B6steren%20bir%20ifade%20sayfas%C4%B1%0A%20-%20Karakterin%20ko%C5%9Fma%2C%20z%C4%B1plama%2C%20g%C3%BClme%20ve%20a%C4%9Flama%20gibi%20tipik%20eylemlerini%20g%C3%B6steren%20bir%20poz%20sayfas%C4%B1%0A%0AOlu%C5%9Fturulduktan%20sonra%2C%20ki%C5%9Finin%20orijinal%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BC%20kald%C4%B1r%C4%B1n.)**
+
+---
+
+### No. 30: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1405,7 +1583,7 @@ Lütfen Google'ın ilk yılları ve önemli kilometre taşları hakkında bir in
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WVfU7bEAAZIB7.jpg" width="600" alt="Google'ın İlk Yılları Hakkında Bilgilendirici Grafik - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg" width="600" alt="Google'ın İlk Yılları Hakkında Bilgilendirici Grafik - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1419,7 +1597,7 @@ Lütfen Google'ın ilk yılları ve önemli kilometre taşları hakkında bir in
 
 ---
 
-### No. 26: 2D NES platform oyunu için sprite sayfası
+### No. 31: 2D NES platform oyunu için sprite sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1438,7 +1616,7 @@ Düşmanlar ve NPC'ler dahil olmak üzere bir 2D NES platform oyunu için bir sp
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES platform oyunu için sprite sayfası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg" width="600" alt="2D NES platform oyunu için sprite sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1452,7 +1630,7 @@ Düşmanlar ve NPC'ler dahil olmak üzere bir 2D NES platform oyunu için bir sp
 
 ---
 
-### No. 27: Boya şeması karşılaştırma görseli
+### No. 32: Boya şeması karşılaştırma görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1471,7 +1649,19 @@ Böylece bir boya simülasyonu yapabilir, birkaç farklı deseni karşılaştır
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WwWI2asAASozn.jpg" width="600" alt="Boya şeması karşılaştırma görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg" width="600" alt="Boya şeması karşılaştırma görseli - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg" width="600" alt="Boya şeması karşılaştırma görseli - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg" width="600" alt="Boya şeması karşılaştırma görseli - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1485,7 +1675,7 @@ Böylece bir boya simülasyonu yapabilir, birkaç farklı deseni karşılaştır
 
 ---
 
-### No. 28: Referans fotoğraflarından ve eskizden aksiyon sahnesi
+### No. 33: Referans fotoğraflarından ve eskizden aksiyon sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1505,25 +1695,25 @@ Adamın bina kenarından kayıyormuş gibi göründüğü, kadının uzandığı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9NbMAAFlEE.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9JaAAAdU5-.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9cbAAArAvk.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvO9Pa8AA58u2.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg" width="600" alt="Referans fotoğraflarından ve eskizden aksiyon sahnesi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1537,7 +1727,7 @@ Adamın bina kenarından kayıyormuş gibi göründüğü, kadının uzandığı
 
 ---
 
-### No. 29: Edo tarzı ahşap baskı ninja karakteri
+### No. 34: Edo tarzı ahşap baskı ninja karakteri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1557,7 +1747,7 @@ Edo dönemi tarzında bir tahta baskı resmi, "{argument name="title_en" default
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WvEPhaMAAaxci.jpg" width="600" alt="Edo tarzı ahşap baskı ninja karakteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg" width="600" alt="Edo tarzı ahşap baskı ninja karakteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1571,7 +1761,7 @@ Edo dönemi tarzında bir tahta baskı resmi, "{argument name="title_en" default
 
 ---
 
-### No. 30: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
+### No. 35: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1591,13 +1781,13 @@ Endonezyalı bir başkanın ofiste, pirinç tarlalarında ve diğer liderlerle p
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WhmStboAARYf4.jpg" width="600" alt="Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg" width="600" alt="Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WieZebgAARJvP.jpg" width="600" alt="Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg" width="600" alt="Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1611,7 +1801,7 @@ Endonezyalı bir başkanın ofiste, pirinç tarlalarında ve diğer liderlerle p
 
 ---
 
-### No. 31: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
+### No. 36: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1630,19 +1820,19 @@ Web sitemin 90'lar versiyonunu oluştur.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wr0C8asAAS2QA.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wsp5Ra0AAveFv.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WtEjmasAAiAd_.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg" width="600" alt="Stil aktarımıyla bir web sitesinin 90'lar versiyonu - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1656,7 +1846,7 @@ Web sitemin 90'lar versiyonunu oluştur.
 
 ---
 
-### No. 32: Netflix ekranını batı versiyonuna dönüştürün
+### No. 37: Netflix ekranını batı versiyonuna dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1675,7 +1865,7 @@ Tüm Netflix ekranını batılı bir versiyona dönüştürün.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UXjFSXYAAmV7I.jpg" width="600" alt="Netflix ekranını batı versiyonuna dönüştürün - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg" width="600" alt="Netflix ekranını batı versiyonuna dönüştürün - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1689,7 +1879,7 @@ Tüm Netflix ekranını batılı bir versiyona dönüştürün.
 
 ---
 
-### No. 33: Makaleler veya içerikler için küçük resim tasarım istemi
+### No. 38: Makaleler veya içerikler için küçük resim tasarım istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1715,19 +1905,19 @@ Okuyucuların içgüdüsel olarak tıklamak isteyeceği tasarımlar oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wju8sa8AEnTqT.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjxYGasAEMU1x.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wjz_gbsAAdLWB.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg" width="600" alt="Makaleler veya içerikler için küçük resim tasarım istemi - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1741,7 +1931,7 @@ Okuyucuların içgüdüsel olarak tıklamak isteyeceği tasarımlar oluşturun.
 
 ---
 
-### No. 34: Yatağın üzerine serilmiş kıyafetler
+### No. 39: Yatağın üzerine serilmiş kıyafetler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1760,13 +1950,13 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı serin.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmWG4awAAOfG8.jpg" width="600" alt="Yatağın üzerine serilmiş kıyafetler - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg" width="600" alt="Yatağın üzerine serilmiş kıyafetler - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WmXAvaoAA_wYG.jpg" width="600" alt="Yatağın üzerine serilmiş kıyafetler - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg" width="600" alt="Yatağın üzerine serilmiş kıyafetler - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1780,7 +1970,7 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı serin.
 
 ---
 
-### No. 35: Naif karalama tarzı konu illüstrasyonu
+### No. 40: Naif karalama tarzı konu illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1800,7 +1990,7 @@ Herhangi bir konu için naif çizgiler ve mizahi abartı içeren karalama tarzı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Wl2YxbsAARB2b.jpg" width="600" alt="Naif karalama tarzı konu illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg" width="600" alt="Naif karalama tarzı konu illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1814,7 +2004,7 @@ Herhangi bir konu için naif çizgiler ve mizahi abartı içeren karalama tarzı
 
 ---
 
-### No. 36: Basit aksiyon filmi sahnesi
+### No. 41: Basit aksiyon filmi sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1833,7 +2023,7 @@ Bir aksiyon filmi sahnesi oluştur.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WjiYjb0AAO-x8.jpg" width="600" alt="Basit aksiyon filmi sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg" width="600" alt="Basit aksiyon filmi sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1847,7 +2037,7 @@ Bir aksiyon filmi sahnesi oluştur.
 
 ---
 
-### No. 37: Kara Tahta Tarzı Yapay Zeka Haber Özeti
+### No. 42: Kara Tahta Tarzı Yapay Zeka Haber Özeti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1868,7 +2058,13 @@ Grok'tan arama sonuçları
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WfVvIbAAEgvYg.jpg" width="600" alt="Kara Tahta Tarzı Yapay Zeka Haber Özeti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="600" alt="Kara Tahta Tarzı Yapay Zeka Haber Özeti - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="600" alt="Kara Tahta Tarzı Yapay Zeka Haber Özeti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1882,7 +2078,7 @@ Grok'tan arama sonuçları
 
 ---
 
-### No. 38: Fotogerçekçi naan ekmeği kelime oyunu görseli
+### No. 43: Fotogerçekçi naan ekmeği kelime oyunu görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1902,25 +2098,25 @@ Yeni pişmiş naan ekmeğinin 1:1 en boy oranında, fotogerçekçi yakın çekim
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8tagAAf17W.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8sawAADz5E.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8paIAEOFnb.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WZt8ua4AAXFz_.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg" width="600" alt="Fotogerçekçi naan ekmeği kelime oyunu görseli - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1934,7 +2130,7 @@ Yeni pişmiş naan ekmeğinin 1:1 en boy oranında, fotogerçekçi yakın çekim
 
 ---
 
-### No. 39: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
+### No. 44: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1953,13 +2149,13 @@ Referans görseldeki malzemeleri canlı varlıklar olarak yeniden oluşturun. On
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaqgMaQAAxwpf.jpg" width="600" alt="Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg" width="600" alt="Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WaronbsAE5UJo.jpg" width="600" alt="Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg" width="600" alt="Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1973,7 +2169,7 @@ Referans görseldeki malzemeleri canlı varlıklar olarak yeniden oluşturun. On
 
 ---
 
-### No. 40: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
+### No. 45: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1992,7 +2188,7 @@ Japon gyaru dergisinin okul üniformalarını stilize etme üzerine bir özelli�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WYLU0bwAAvl24.jpg" width="600" alt="Japon gyaru dergisi okul üniformaları üzerine yayılıyor - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg" width="600" alt="Japon gyaru dergisi okul üniformaları üzerine yayılıyor - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2006,7 +2202,7 @@ Japon gyaru dergisinin okul üniformalarını stilize etme üzerine bir özelli�
 
 ---
 
-### No. 41: Yu-Gi-Oh metin temalı sihirli kartı
+### No. 46: Yu-Gi-Oh metin temalı sihirli kartı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2026,13 +2222,13 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtQFa4AAW5Q3.jpg" width="600" alt="Yu-Gi-Oh metin temalı sihirli kartı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg" width="600" alt="Yu-Gi-Oh metin temalı sihirli kartı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTtBQa0AE0H0y.jpg" width="600" alt="Yu-Gi-Oh metin temalı sihirli kartı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg" width="600" alt="Yu-Gi-Oh metin temalı sihirli kartı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2046,7 +2242,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 42: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
+### No. 47: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2065,7 +2261,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WTI9uaoAAkuNO.jpg" width="600" alt="Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg" width="600" alt="Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2079,7 +2275,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 43: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
+### No. 48: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2098,13 +2294,13 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRtuRaAAMLWHU.jpg" width="600" alt="Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg" width="600" alt="Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WRu0saEAA3qeK.jpg" width="600" alt="Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg" width="600" alt="Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2118,7 +2314,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 44: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
+### No. 49: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2138,7 +2334,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WQrOdWIAANLiE.jpg" width="600" alt="Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg" width="600" alt="Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2152,7 +2348,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 45: Tutarlı yüzlere sahip rock grubu posteri
+### No. 50: Tutarlı yüzlere sahip rock grubu posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2172,7 +2368,13 @@ Bu kişilerle bir rock grubu posteri yapın. Yüzleri tutarlı tutun. Grubun ad�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WO0TCXQAAXVBN.jpg" width="600" alt="Tutarlı yüzlere sahip rock grubu posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="Tutarlı yüzlere sahip rock grubu posteri - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="Tutarlı yüzlere sahip rock grubu posteri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2186,7 +2388,7 @@ Bu kişilerle bir rock grubu posteri yapın. Yüzleri tutarlı tutun. Grubun ad�
 
 ---
 
-### No. 46: Tek renkli sert adam LINE çıkartmaları
+### No. 51: Tek renkli sert adam LINE çıkartmaları
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2205,7 +2407,7 @@ Ekli görseldeki karakteri kullanarak 16 adet siyah beyaz LINE çıkartması olu
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WOJgBbsAAHKyK.jpg" width="600" alt="Tek renkli sert adam LINE çıkartmaları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg" width="600" alt="Tek renkli sert adam LINE çıkartmaları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2219,7 +2421,7 @@ Ekli görseldeki karakteri kullanarak 16 adet siyah beyaz LINE çıkartması olu
 
 ---
 
-### No. 47: Bir şiirin sinematik illüstrasyonu
+### No. 52: Bir şiirin sinematik illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2239,7 +2441,7 @@ Aşağıdaki şiiri görsel olarak temsil eden, duygularını, metaforlarını v
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIPlLaQAA-tE7.jpg" width="600" alt="Bir şiirin sinematik illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg" width="600" alt="Bir şiirin sinematik illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2253,7 +2455,7 @@ Aşağıdaki şiiri görsel olarak temsil eden, duygularını, metaforlarını v
 
 ---
 
-### No. 48: Bir fotoğrafın üzerine sevimli el yazısı notlar
+### No. 53: Bir fotoğrafın üzerine sevimli el yazısı notlar
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2272,7 +2474,7 @@ Fotoğrafa olabildiğince çok sevimli el yazısı not ve vurgu ekleyin!
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WIjoEaQAAUqb1.jpg" width="600" alt="Bir fotoğrafın üzerine sevimli el yazısı notlar - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg" width="600" alt="Bir fotoğrafın üzerine sevimli el yazısı notlar - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2286,7 +2488,7 @@ Fotoğrafa olabildiğince çok sevimli el yazısı not ve vurgu ekleyin!
 
 ---
 
-### No. 49: Yatağın üzerine ayrı ayrı serilmiş giysiler
+### No. 54: Yatağın üzerine ayrı ayrı serilmiş giysiler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2305,19 +2507,19 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı koyun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WDzG1bkAA2XxH.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD2ILasAAVUmp.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WD3PCbgAE-WtM.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg" width="600" alt="Yatağın üzerine ayrı ayrı serilmiş giysiler - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -2331,7 +2533,7 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı koyun.
 
 ---
 
-### No. 50: İllüstrasyondan fotogerçekçi render
+### No. 55: İllüstrasyondan fotogerçekçi render
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2350,13 +2552,13 @@ Görüntüye dayalı ham fotoğraf, fotogerçekçi, yüksek detaylı, 8K UHD, ge
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC-FgbIAArVU_.jpg" width="600" alt="İllüstrasyondan fotogerçekçi render - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg" width="600" alt="İllüstrasyondan fotogerçekçi render - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WC_WSaQAAxX_J.jpg" width="600" alt="İllüstrasyondan fotogerçekçi render - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg" width="600" alt="İllüstrasyondan fotogerçekçi render - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2370,7 +2572,7 @@ Görüntüye dayalı ham fotoğraf, fotogerçekçi, yüksek detaylı, 8K UHD, ge
 
 ---
 
-### No. 51: Otomatik atanmış dokulu sinematik 3D logo
+### No. 56: Otomatik atanmış dokulu sinematik 3D logo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2393,25 +2595,25 @@ Stil: ürün reklamı / tanıtım çekimi, sinematik ton, ultra HD.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaKWYAAc2oH.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaXWMAEAcnS.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WCcaWXwAE3TpL.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WClZeXwAARoPn.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg" width="600" alt="Otomatik atanmış dokulu sinematik 3D logo - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -2425,7 +2627,7 @@ Stil: ürün reklamı / tanıtım çekimi, sinematik ton, ultra HD.
 
 ---
 
-### No. 52: Ayakkabı kalıp parçalarının yerleşimi
+### No. 57: Ayakkabı kalıp parçalarının yerleşimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2444,13 +2646,13 @@ Bu ayakkabının tek tek kalıp parçalarını gösteren, her biri ayrı ayrı n
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBpkZagAAdxBJ.jpg" width="600" alt="Ayakkabı kalıp parçalarının yerleşimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg" width="600" alt="Ayakkabı kalıp parçalarının yerleşimi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBtabbAAAa2bi.jpg" width="600" alt="Ayakkabı kalıp parçalarının yerleşimi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg" width="600" alt="Ayakkabı kalıp parçalarının yerleşimi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2464,7 +2666,7 @@ Bu ayakkabının tek tek kalıp parçalarını gösteren, her biri ayrı ayrı n
 
 ---
 
-### No. 53: Yüklenen karakterden Silksong 4 panelli çizgi roman
+### No. 58: Yüklenen karakterden Silksong 4 panelli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2484,7 +2686,7 @@ Yüklenen görseldeki karakteri kullanarak, {argument name="game_title" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Yüklenen karakterden Silksong 4 panelli çizgi roman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg" width="600" alt="Yüklenen karakterden Silksong 4 panelli çizgi roman - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2498,7 +2700,7 @@ Yüklenen görseldeki karakteri kullanarak, {argument name="game_title" default=
 
 ---
 
-### No. 54: Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün
+### No. 59: Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2517,7 +2719,7 @@ Biyografimi analiz et ve ben bir video oyunu olsaydım beni temsil edecek bir vi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6WAh8pXgAA72ua.jpg" width="600" alt="Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg" width="600" alt="Bir sosyal medya biyografisini NES kartuş kapağına dönüştürün - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2531,7 +2733,7 @@ Biyografimi analiz et ve ben bir video oyunu olsaydım beni temsil edecek bir vi
 
 ---
 
-### No. 55: Yüz görüntüsünden anime tarzı oturan portre
+### No. 60: Yüz görüntüsünden anime tarzı oturan portre
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2550,13 +2752,13 @@ Bu görselden yola çıkarak, güzel bir elbise giymiş, kadife bir kaide üzeri
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcxbUAE1FpF.jpg" width="600" alt="Yüz görüntüsünden anime tarzı oturan portre - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg" width="600" alt="Yüz görüntüsünden anime tarzı oturan portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V_pcybMAAv6BU.jpg" width="600" alt="Yüz görüntüsünden anime tarzı oturan portre - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg" width="600" alt="Yüz görüntüsünden anime tarzı oturan portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2570,7 +2772,41 @@ Bu görselden yola çıkarak, güzel bir elbise giymiş, kadife bir kaide üzeri
 
 ---
 
-### No. 56: Tek sepette birden fazla karakter
+### No. 61: Görünür pasaportu olan kimlik doğrulama karakteri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Kimlik doğrulaması için konunun pasaportunu kameraya net bir şekilde gösterdiği, kimlikteki adın, kurumun ve doğum tarihinin özelleştirilebildiği bir karakter görseli oluşturmaya yönelik bir komut istemi.
+
+#### 📝 İstem
+
+```
+Görseldeki karakteri bir bilgisayarın önünde otururken, gerçek bir kişi olduğunu kanıtlamak için kimliğini kameraya net bir şekilde gösterecek şekilde pasaportunu tutturun. Kimlik bilgileri net bir şekilde görünür olmalı; ad {argument name="name_en" default="[NAME]"}, bağlılık {argument name="affiliation_en" default="[YOUR DATA]"} ve doğum tarihi {argument name="birthday_en" default="[YOUR DATE]"} belirtilmelidir. Diğer tüm detaylar rastgele ve kurgusal olabilir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg" width="600" alt="Görünür pasaportu olan kimlik doğrulama karakteri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [KANA](https://x.com/KanaWorks_AI)
+- **Kaynak:** [Twitter Post](https://x.com/KanaWorks_AI/status/1992138041675395358)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=G%C3%B6rseldeki%20karakteri%20bir%20bilgisayar%C4%B1n%20%C3%B6n%C3%BCnde%20otururken%2C%20ger%C3%A7ek%20bir%20ki%C5%9Fi%20oldu%C4%9Funu%20kan%C4%B1tlamak%20i%C3%A7in%20kimli%C4%9Fini%20kameraya%20net%20bir%20%C5%9Fekilde%20g%C3%B6sterecek%20%C5%9Fekilde%20pasaportunu%20tutturun.%20Kimlik%20bilgileri%20net%20bir%20%C5%9Fekilde%20g%C3%B6r%C3%BCn%C3%BCr%20olmal%C4%B1%3B%20ad%20%7Bargument%20name%3D%22name_en%22%20default%3D%22%5BNAME%5D%22%7D%2C%20ba%C4%9Fl%C4%B1l%C4%B1k%20%7Bargument%20name%3D%22affiliation_en%22%20default%3D%22%5BYOUR%20DATA%5D%22%7D%20ve%20do%C4%9Fum%20tarihi%20%7Bargument%20name%3D%22birthday_en%22%20default%3D%22%5BYOUR%20DATE%5D%22%7D%20belirtilmelidir.%20Di%C4%9Fer%20t%C3%BCm%20detaylar%20rastgele%20ve%20kurgusal%20olabilir.)**
+
+---
+
+### No. 62: Tek sepette birden fazla karakter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2589,7 +2825,7 @@ hepsini tek bir sepete koymak
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V7YsJXsAAiJ-g.jpg" width="600" alt="Tek sepette birden fazla karakter - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg" width="600" alt="Tek sepette birden fazla karakter - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2603,7 +2839,7 @@ hepsini tek bir sepete koymak
 
 ---
 
-### No. 57: Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı)
+### No. 63: Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2622,25 +2858,25 @@ Yazılım Geliştirme Yaşam Döngüsü ile ilgili BT kariyerlerini veya BT işl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTNawAAooML.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTebcAApYb7.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eTKaAAAhpoZ.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5eThbsAAWJFi.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg" width="600" alt="Yüksek detaylı BT kariyerleri infografiği (Tayca/İngilizce karışımı) - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -2654,7 +2890,7 @@ Yazılım Geliştirme Yaşam Döngüsü ile ilgili BT kariyerlerini veya BT işl
 
 ---
 
-### No. 58: Metni özetleyen tek diyagram görseli (Japonca)
+### No. 64: Metni özetleyen tek diyagram görseli (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2673,7 +2909,7 @@ Tek bir diyagram görselinde özetleyin.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V5jRXbAAAhXIp.jpg" width="600" alt="Metni özetleyen tek diyagram görseli (Japonca) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg" width="600" alt="Metni özetleyen tek diyagram görseli (Japonca) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2687,7 +2923,7 @@ Tek bir diyagram görselinde özetleyin.
 
 ---
 
-### No. 59: Boyun ve omuz tutulması için omuz esnetme infografiği
+### No. 65: Boyun ve omuz tutulması için omuz esnetme infografiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2707,7 +2943,7 @@ Lütfen "{argument name="topic_en" default="3 dakikada yapabileceğiniz bir omuz
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V4UTDaEAA-cwu.jpg" width="600" alt="Boyun ve omuz tutulması için omuz esnetme infografiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg" width="600" alt="Boyun ve omuz tutulması için omuz esnetme infografiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2721,7 +2957,7 @@ Lütfen "{argument name="topic_en" default="3 dakikada yapabileceğiniz bir omuz
 
 ---
 
-### No. 60: Izgara üzerinde hiperrealistik cam domuz göbeği
+### No. 66: Izgara üzerinde hiperrealistik cam domuz göbeği
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2740,13 +2976,13 @@ Izgara üzerine yerleştirilmiş, camdan yapılmış samgyeopsal'ın hiperrealis
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx0FwaEAAH6Jf.jpg" width="600" alt="Izgara üzerinde hiperrealistik cam domuz göbeği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg" width="600" alt="Izgara üzerinde hiperrealistik cam domuz göbeği - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vx365acAANsFq.jpg" width="600" alt="Izgara üzerinde hiperrealistik cam domuz göbeği - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg" width="600" alt="Izgara üzerinde hiperrealistik cam domuz göbeği - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2760,7 +2996,7 @@ Izgara üzerine yerleştirilmiş, camdan yapılmış samgyeopsal'ın hiperrealis
 
 ---
 
-### No. 61: Simpsonlar tarzı roket-muz melezi
+### No. 67: Simpsonlar tarzı roket-muz melezi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2779,7 +3015,7 @@ The Simpsons tarzında, roket ile muzun çok yenilikçi ve komik bir karışım�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V1MuOa8AA2Qq6.jpg" width="600" alt="Simpsonlar tarzı roket-muz melezi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg" width="600" alt="Simpsonlar tarzı roket-muz melezi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2793,7 +3029,7 @@ The Simpsons tarzında, roket ile muzun çok yenilikçi ve komik bir karışım�
 
 ---
 
-### No. 62: Tarif analizi ve yemek fotoğraf çekimi
+### No. 68: Tarif analizi ve yemek fotoğraf çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2812,13 +3048,13 @@ Bu yemek için tüm malzeme adları ve bunların ham maddeleriyle birlikte ayrı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VwFfTaUAA1Gw9.jpg" width="600" alt="Tarif analizi ve yemek fotoğraf çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg" width="600" alt="Tarif analizi ve yemek fotoğraf çekimi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6V0U-Za0AEAm6H.jpg" width="600" alt="Tarif analizi ve yemek fotoğraf çekimi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg" width="600" alt="Tarif analizi ve yemek fotoğraf çekimi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2832,7 +3068,7 @@ Bu yemek için tüm malzeme adları ve bunların ham maddeleriyle birlikte ayrı
 
 ---
 
-### No. 63: Metinden zihin haritası grafiği
+### No. 69: Metinden zihin haritası grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2860,7 +3096,7 @@ Düşüncelerimin organize edildiği hissini versin.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VyZDHa4AETYFj.jpg" width="600" alt="Metinden zihin haritası grafiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg" width="600" alt="Metinden zihin haritası grafiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2874,7 +3110,7 @@ Düşüncelerimin organize edildiği hissini versin.
 
 ---
 
-### No. 64: Squatty Potty beyaz tahta talimatları
+### No. 70: Squatty Potty beyaz tahta talimatları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2893,7 +3129,7 @@ Squatty Potty'nin doğru şekilde nasıl kullanılacağına dair detaylı bir be
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty beyaz tahta talimatları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg" width="600" alt="Squatty Potty beyaz tahta talimatları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2907,7 +3143,7 @@ Squatty Potty'nin doğru şekilde nasıl kullanılacağına dair detaylı bir be
 
 ---
 
-### No. 65: Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi
+### No. 71: Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2931,7 +3167,7 @@ Görsel oluşturmayı başlat.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VvZytaoAAIGKt.jpg" width="600" alt="Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg" width="600" alt="Şehir fotoğrafından VTuber tarzı sokak modası küçük resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2945,7 +3181,7 @@ Görsel oluşturmayı başlat.
 
 ---
 
-### No. 66: Metinden beyaz tahta tarzı basit diyagram
+### No. 72: Metinden beyaz tahta tarzı basit diyagram
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2972,7 +3208,7 @@ Boyutunu 16:9 yapın ve akıllı telefonda kolayca görüntülenebilecek temiz b
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vuv_hboAALHXx.jpg" width="600" alt="Metinden beyaz tahta tarzı basit diyagram - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg" width="600" alt="Metinden beyaz tahta tarzı basit diyagram - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2986,7 +3222,7 @@ Boyutunu 16:9 yapın ve akıllı telefonda kolayca görüntülenebilecek temiz b
 
 ---
 
-### No. 67: Epstein dosyaları hakkında MrBeast tarzı küçük resim
+### No. 73: Epstein dosyaları hakkında MrBeast tarzı küçük resim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3005,7 +3241,7 @@ MrBeast tarzı bir YouTube küçük resmi, ancak Donald Trump var ve video Epste
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VucuKXcAAphIA.jpg" width="600" alt="Epstein dosyaları hakkında MrBeast tarzı küçük resim - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg" width="600" alt="Epstein dosyaları hakkında MrBeast tarzı küçük resim - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3019,7 +3255,7 @@ MrBeast tarzı bir YouTube küçük resmi, ancak Donald Trump var ve video Epste
 
 ---
 
-### No. 68: Dağınık dolapta yüksek açılı peri grunge idolü
+### No. 74: Dağınık dolapta yüksek açılı peri grunge idolü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3043,19 +3279,31 @@ Negatif istem: minimalizm, temiz zemin, parlak gün ışığı, soğuk aydınlat
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGawW0AACHQW.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGauWYAAZNir.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VuGatW8AAFsGz.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg" width="600" alt="Dağınık dolapta yüksek açılı peri grunge idolü - Image 5">
 </div>
 
 #### 📌 Detaylar
@@ -3069,7 +3317,7 @@ Negatif istem: minimalizm, temiz zemin, parlak gün ışığı, soğuk aydınlat
 
 ---
 
-### No. 69: Ekli resimdeki LINE çıkartma sayfası
+### No. 75: Ekli resimdeki LINE çıkartma sayfası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3088,13 +3336,13 @@ LINE çıkartmaları oluşturun. Ekli görseli bir chibi karaktere dönüştür�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtZ20bsAAtBRG.jpg" width="600" alt="Ekli resimdeki LINE çıkartma sayfası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg" width="600" alt="Ekli resimdeki LINE çıkartma sayfası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VteK4bwAA81uj.jpg" width="600" alt="Ekli resimdeki LINE çıkartma sayfası - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg" width="600" alt="Ekli resimdeki LINE çıkartma sayfası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3108,7 +3356,7 @@ LINE çıkartmaları oluşturun. Ekli görseli bir chibi karaktere dönüştür�
 
 ---
 
-### No. 70: Sosyal medya ekranından çıkan trompe l'oeil konusu
+### No. 76: Sosyal medya ekranından çıkan trompe l'oeil konusu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3128,7 +3376,7 @@ Yüklenen bir konuyu, büyük bir ekranda bir sosyal medya arayüzünden dışar
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VtN7haMAAlkVQ.jpg" width="600" alt="Sosyal medya ekranından çıkan trompe l'oeil konusu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg" width="600" alt="Sosyal medya ekranından çıkan trompe l'oeil konusu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3142,7 +3390,7 @@ Yüklenen bir konuyu, büyük bir ekranda bir sosyal medya arayüzünden dışar
 
 ---
 
-### No. 71: Ultra gerçekçi Roronoa Zoro portresi
+### No. 77: Ultra gerçekçi Roronoa Zoro portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3161,7 +3409,7 @@ Ultra gerçekçi Roronoa Zoro portresi.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vrv6ebcAA1QDR.jpg" width="600" alt="Ultra gerçekçi Roronoa Zoro portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg" width="600" alt="Ultra gerçekçi Roronoa Zoro portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3175,7 +3423,7 @@ Ultra gerçekçi Roronoa Zoro portresi.
 
 ---
 
-### No. 72: Çantadaki eşyaları yatağın üzerine boşaltma çekimi
+### No. 78: Çantadaki eşyaları yatağın üzerine boşaltma çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3194,7 +3442,7 @@ Eşyaları çantadan çıkarın ve bir kısmını yere dağıtarak yatağın üz
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VmQGgboAAhXu0.jpg" width="600" alt="Çantadaki eşyaları yatağın üzerine boşaltma çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg" width="600" alt="Çantadaki eşyaları yatağın üzerine boşaltma çekimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3208,7 +3456,7 @@ Eşyaları çantadan çıkarın ve bir kısmını yere dağıtarak yatağın üz
 
 ---
 
-### No. 73: GTA 5 çevrimiçi aksiyon sahnesi
+### No. 79: GTA 5 çevrimiçi aksiyon sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3227,7 +3475,7 @@ GTA 5 Online'da bir kişinin arabaya ateş ettiği bir resim oluştur.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 çevrimiçi aksiyon sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg" width="600" alt="GTA 5 çevrimiçi aksiyon sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3241,7 +3489,7 @@ GTA 5 Online'da bir kişinin arabaya ateş ettiği bir resim oluştur.
 
 ---
 
-### No. 74: Dört panelli sakar elf çizgi romanı
+### No. 80: Dört panelli sakar elf çizgi romanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3261,7 +3509,7 @@ Nano Banana Pro ile 4 panelli bir manga oluşturalım: "{argument name="title_en
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VkQxjasAADXZn.jpg" width="600" alt="Dört panelli sakar elf çizgi romanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg" width="600" alt="Dört panelli sakar elf çizgi romanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3275,7 +3523,7 @@ Nano Banana Pro ile 4 panelli bir manga oluşturalım: "{argument name="title_en
 
 ---
 
-### No. 75: Hiper gerçekçi görüntü yeniden düzenlemesi
+### No. 81: Hiper gerçekçi görüntü yeniden düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3294,13 +3542,13 @@ Bu görüntünün aşırı derecede aslına sadık bir yeniden düzenlemesini ol
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjaZVb0AEcg6u.jpg" width="600" alt="Hiper gerçekçi görüntü yeniden düzenlemesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg" width="600" alt="Hiper gerçekçi görüntü yeniden düzenlemesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VjabLasAER1YB.jpg" width="600" alt="Hiper gerçekçi görüntü yeniden düzenlemesi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg" width="600" alt="Hiper gerçekçi görüntü yeniden düzenlemesi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3314,7 +3562,7 @@ Bu görüntünün aşırı derecede aslına sadık bir yeniden düzenlemesini ol
 
 ---
 
-### No. 76: Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca)
+### No. 82: Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3333,7 +3581,7 @@ Görseldeki karakterin ana kahraman olduğu "Karakuri Ninja Oboro" oyunu için, 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VhdElbUAAHA16.jpg" width="600" alt="Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg" width="600" alt="Famicom oyun kutusu, kartuşu, kullanım kılavuzu ve CRT ekranı (Japonca) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3347,7 +3595,7 @@ Görseldeki karakterin ana kahraman olduğu "Karakuri Ninja Oboro" oyunu için, 
 
 ---
 
-### No. 77: Karakterin barbeküyle enerji depoladığı renkli çizgi roman
+### No. 83: Karakterin barbeküyle enerji depoladığı renkli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3366,7 +3614,7 @@ Lütfen bu karakterin yakiniku (ızgara et) yiyip enerji dolduğu renkli bir çi
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Vf5zebUAA1jF6.jpg" width="600" alt="Karakterin barbeküyle enerji depoladığı renkli çizgi roman - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg" width="600" alt="Karakterin barbeküyle enerji depoladığı renkli çizgi roman - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3380,7 +3628,7 @@ Lütfen bu karakterin yakiniku (ızgara et) yiyip enerji dolduğu renkli bir çi
 
 ---
 
-### No. 78: Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik
+### No. 84: Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3407,7 +3655,13 @@ Referans bilgileri:
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VfCbmbYAAMdys.jpg" width="600" alt="Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg" width="600" alt="Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg" width="600" alt="Klasik Japon yazı tipiyle referans bilgilerden oluşan infografik - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3421,7 +3675,7 @@ Referans bilgileri:
 
 ---
 
-### No. 79: Aynı kıyafetleri giyen tavşanlar
+### No. 85: Aynı kıyafetleri giyen tavşanlar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3440,13 +3694,13 @@ Tavşanlar da aynı kıyafetleri giyiyor
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbpLNaIAAdLa6.jpg" width="600" alt="Aynı kıyafetleri giyen tavşanlar - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg" width="600" alt="Aynı kıyafetleri giyen tavşanlar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VbqP6awAEREKD.jpg" width="600" alt="Aynı kıyafetleri giyen tavşanlar - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg" width="600" alt="Aynı kıyafetleri giyen tavşanlar - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3460,7 +3714,7 @@ Tavşanlar da aynı kıyafetleri giyiyor
 
 ---
 
-### No. 80: Kahve içecekleri infografiği
+### No. 86: Kahve içecekleri infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3479,7 +3733,7 @@ Farklı kahve içeceklerini gösteren bir infografik oluşturun…
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZ_xEWcAA6OQ4.jpg" width="600" alt="Kahve içecekleri infografiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg" width="600" alt="Kahve içecekleri infografiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3493,7 +3747,7 @@ Farklı kahve içeceklerini gösteren bir infografik oluşturun…
 
 ---
 
-### No. 81: Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca)
+### No. 87: Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3516,13 +3770,13 @@ Başlık: Google'ın yeni yapay zekası: Nano Banana Pro'ya derinlemesine bir ba
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizUagAAPrC4.jpg" width="600" alt="Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg" width="600" alt="Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZizHaQAAH_4W.jpg" width="600" alt="Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg" width="600" alt="Nano Banana Pro'yu tanıtan el çizimi tarzında başlık görseli (Japonca) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3536,7 +3790,7 @@ Başlık: Google'ın yeni yapay zekası: Nano Banana Pro'ya derinlemesine bir ba
 
 ---
 
-### No. 82: Fotoğraftan elle çizilmiş stil başlık görseli istemi
+### No. 88: Fotoğraftan elle çizilmiş stil başlık görseli istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3559,13 +3813,13 @@ Başlık metni: "Google'ın yeni yapay zekası 'Nano Banana Pro'nun derinlemesin
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiROagAAqsIh.jpg" width="600" alt="Fotoğraftan elle çizilmiş stil başlık görseli istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="600" alt="Fotoğraftan elle çizilmiş stil başlık görseli istemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZiRWaIAA_9x5.jpg" width="600" alt="Fotoğraftan elle çizilmiş stil başlık görseli istemi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="600" alt="Fotoğraftan elle çizilmiş stil başlık görseli istemi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3579,7 +3833,7 @@ Başlık metni: "Google'ın yeni yapay zekası 'Nano Banana Pro'nun derinlemesin
 
 ---
 
-### No. 83: Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli
+### No. 89: Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3603,13 +3857,13 @@ Başlık: "{argument name="title_en" default="Google'ın yeni yapay zekası 'Nan
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvVa8AAJ0dR.jpg" width="600" alt="Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg" width="600" alt="Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhvebEAAUwYy.jpg" width="600" alt="Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg" width="600" alt="Nano Banana Pro'yu tanıtan yüklenmiş bir kişinin yer aldığı başlık görseli - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3623,7 +3877,7 @@ Başlık: "{argument name="title_en" default="Google'ın yeni yapay zekası 'Nan
 
 ---
 
-### No. 84: Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli
+### No. 90: Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3647,7 +3901,7 @@ Başlık: “{argument name="title_en" default="Google’ın yeni yapay zekası 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VZhD9asAAqjHi.jpg" width="600" alt="Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg" width="600" alt="Nano Banana Pro makalesi için yüklenmiş kişi içeren lüks başlık görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3661,7 +3915,7 @@ Başlık: “{argument name="title_en" default="Google’ın yeni yapay zekası 
 
 ---
 
-### No. 85: Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca)
+### No. 91: Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3680,13 +3934,13 @@ Bu ayakta duran bebek karakterini kullanarak, 4x3 = 12 farklı LINE çıkartmas�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOz1bgAAKknE.jpg" width="600" alt="Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg" width="600" alt="Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VVOmlaEAAiRg2.jpg" width="600" alt="Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg" width="600" alt="Ayakta duran bebek karakteri için LINE çıkartma sayfası (Japonca) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3700,7 +3954,7 @@ Bu ayakta duran bebek karakterini kullanarak, 4x3 = 12 farklı LINE çıkartmas�
 
 ---
 
-### No. 86: Bulutlarda yarı saydam deniz suyu balinası
+### No. 92: Bulutlarda yarı saydam deniz suyu balinası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3719,7 +3973,13 @@ Deniz suyundan yapılmış, içinde balık sürüleri görünen görkemli, yarı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VUGHGakAAbKve.jpg" width="600" alt="Bulutlarda yarı saydam deniz suyu balinası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg" width="600" alt="Bulutlarda yarı saydam deniz suyu balinası - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg" width="600" alt="Bulutlarda yarı saydam deniz suyu balinası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3733,7 +3993,7 @@ Deniz suyundan yapılmış, içinde balık sürüleri görünen görkemli, yarı
 
 ---
 
-### No. 87: Kurgusal bir web tasarımcısı için portföy görseli
+### No. 93: Kurgusal bir web tasarımcısı için portföy görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3752,7 +4012,7 @@ Kurgusal bir web tasarımcısı için bir portföy görseli oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRlhea8AA2VC8.jpg" width="600" alt="Kurgusal bir web tasarımcısı için portföy görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg" width="600" alt="Kurgusal bir web tasarımcısı için portföy görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3766,7 +4026,7 @@ Kurgusal bir web tasarımcısı için bir portföy görseli oluşturun.
 
 ---
 
-### No. 88: Levi’s alışveriş aynası selfie düzenlemesi
+### No. 94: Levi’s alışveriş aynası selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3786,7 +4046,7 @@ Levi's mağazasında alışveriş yapıyormuşum, elimde çantalar varmış, ma�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s alışveriş aynası selfie düzenlemesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg" width="600" alt="Levi’s alışveriş aynası selfie düzenlemesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3800,7 +4060,7 @@ Levi's mağazasında alışveriş yapıyormuşum, elimde çantalar varmış, ma�
 
 ---
 
-### No. 89: Belirli koordinatlarda konum gün batımı sahnesi
+### No. 95: Belirli koordinatlarda konum gün batımı sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3820,7 +4080,7 @@ Nano Banana Pro ile coğrafi tabanlı manzaralar oluşturmak veya gerçek dünya
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VQhDVaEAAzzMg.jpg" width="600" alt="Belirli koordinatlarda konum gün batımı sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg" width="600" alt="Belirli koordinatlarda konum gün batımı sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3834,7 +4094,7 @@ Nano Banana Pro ile coğrafi tabanlı manzaralar oluşturmak veya gerçek dünya
 
 ---
 
-### No. 90: PLM ve Dijital İplik Hakkında Sunum Slaydı
+### No. 96: PLM ve Dijital İplik Hakkında Sunum Slaydı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3854,7 +4114,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VPODGaEAAeVlF.jpg" width="600" alt="PLM ve Dijital İplik Hakkında Sunum Slaydı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg" width="600" alt="PLM ve Dijital İplik Hakkında Sunum Slaydı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3868,7 +4128,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 
 ---
 
-### No. 91: İşe alım konusunda zorlanan bir CEO hakkında infografik
+### No. 97: İşe alım konusunda zorlanan bir CEO hakkında infografik
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3887,7 +4147,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VN5D0bcAE6djR.jpg" width="600" alt="İşe alım konusunda zorlanan bir CEO hakkında infografik - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg" width="600" alt="İşe alım konusunda zorlanan bir CEO hakkında infografik - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3901,7 +4161,7 @@ Başlığı "{argument name="title_en" default="Why PLM systems are essential fo
 
 ---
 
-### No. 92: Bu dünyanın yapısının soyut illüstrasyonu
+### No. 98: Bu dünyanın yapısının soyut illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3920,7 +4180,7 @@ Bu dünyanın yapısını özlü bir şekilde temsil eden bir illüstrasyon çiz
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VLDM9agAAYBtm.jpg" width="600" alt="Bu dünyanın yapısının soyut illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg" width="600" alt="Bu dünyanın yapısının soyut illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3934,7 +4194,7 @@ Bu dünyanın yapısını özlü bir şekilde temsil eden bir illüstrasyon çiz
 
 ---
 
-### No. 93: ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği
+### No. 99: ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3954,7 +4214,7 @@ Nano Banana Pro'dan ChatGPT 5.1 ve Gemini 3'ü karşılaştıran bir infografik 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg" width="600" alt="ChatGPT 5.1 ve Gemini 3 Karşılaştırmalı Bilgi Grafiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3968,7 +4228,41 @@ Nano Banana Pro'dan ChatGPT 5.1 ve Gemini 3'ü karşılaştıran bir infografik 
 
 ---
 
-### No. 94: Uzun belgelerin Çince beyaz tahta özeti
+### No. 100: Üst düzey sinematik ürün tanıtım videosu karesi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Kısa satış videoları veya ürün reklamları için kareler olarak ideal, lüks bir sinematik ürün tanıtım görseli oluşturmaya yönelik bir istem.
+
+#### 📝 İstem
+
+```
+Yansıtıcı, birinci sınıf bir yüzey üzerine yerleştirilmiş, yumuşak kenar aydınlatmalı, yukarıdan dramatik bir spot ışığı alan, ultra keskin detaylara sahip, 85 mm lens alan derinliği, arka planda parlayan bokeh, pürüzsüz geçişler ve zarif bir lüks hissi veren, üst düzey sinematik bir {argument name="product_name_en" default="[Product Name]"} ürün tanıtımı.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg" width="600" alt="Üst düzey sinematik ürün tanıtım videosu karesi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Kalatheeswaran R](https://x.com/eshrofficial)
+- **Kaynak:** [Twitter Post](https://x.com/eshrofficial/status/1992073746140791082)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Yans%C4%B1t%C4%B1c%C4%B1%2C%20birinci%20s%C4%B1n%C4%B1f%20bir%20y%C3%BCzey%20%C3%BCzerine%20yerle%C5%9Ftirilmi%C5%9F%2C%20yumu%C5%9Fak%20kenar%20ayd%C4%B1nlatmal%C4%B1%2C%20yukar%C4%B1dan%20dramatik%20bir%20spot%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20alan%2C%20ultra%20keskin%20detaylara%20sahip%2C%2085%20mm%20lens%20alan%20derinli%C4%9Fi%2C%20arka%20planda%20parlayan%20bokeh%2C%20p%C3%BCr%C3%BCzs%C3%BCz%20ge%C3%A7i%C5%9Fler%20ve%20zarif%20bir%20l%C3%BCks%20hissi%20veren%2C%20%C3%BCst%20d%C3%BCzey%20sinematik%20bir%20%7Bargument%20name%3D%22product_name_en%22%20default%3D%22%5BProduct%20Name%5D%22%7D%20%C3%BCr%C3%BCn%20tan%C4%B1t%C4%B1m%C4%B1.)**
+
+---
+
+### No. 101: Uzun belgelerin Çince beyaz tahta özeti
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3987,13 +4281,19 @@ Bu uzun metin materyalini, bilgiyi anlamama yardımcı olacak Çinli bir profes�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD9HEawAEPt8o.jpg" width="600" alt="Uzun belgelerin Çince beyaz tahta özeti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg" width="600" alt="Uzun belgelerin Çince beyaz tahta özeti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VD-uYbkAEZOlp.jpg" width="600" alt="Uzun belgelerin Çince beyaz tahta özeti - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg" width="600" alt="Uzun belgelerin Çince beyaz tahta özeti - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg" width="600" alt="Uzun belgelerin Çince beyaz tahta özeti - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -4007,7 +4307,7 @@ Bu uzun metin materyalini, bilgiyi anlamama yardımcı olacak Çinli bir profes�
 
 ---
 
-### No. 95: Süper alaşımlı robot tarzına dönüşen karakter
+### No. 102: Süper alaşımlı robot tarzına dönüşen karakter
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4026,7 +4326,7 @@ Bu karakteri süper alaşım tarzı bir robota dönüştür.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VED2_bYAAguKl.jpg" width="600" alt="Süper alaşımlı robot tarzına dönüşen karakter - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg" width="600" alt="Süper alaşımlı robot tarzına dönüşen karakter - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4040,7 +4340,7 @@ Bu karakteri süper alaşım tarzı bir robota dönüştür.
 
 ---
 
-### No. 96: Görüntü iyileştirme ve büyütme istemi
+### No. 103: Görüntü iyileştirme ve büyütme istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4059,25 +4359,25 @@ Kompozisyonu ve renkleri aynı tutarken görüntüyü iyileştirin ve büyütün
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO7bEAAU6Ok.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO3bkAAwViN.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrOzaMAIB0av.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VDrO6bIAAgUdN.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg" width="600" alt="Görüntü iyileştirme ve büyütme istemi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4091,7 +4391,7 @@ Kompozisyonu ve renkleri aynı tutarken görüntüyü iyileştirin ve büyütün
 
 ---
 
-### No. 97: 5. nesil hayalet savaş uçağının kesit infografiği
+### No. 104: 5. nesil hayalet savaş uçağının kesit infografiği
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4113,7 +4413,7 @@ Ana gereksinim, bir kesit, bir kesit olmasıdır.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VCRSva0AACfYk.jpg" width="600" alt="5. nesil hayalet savaş uçağının kesit infografiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg" width="600" alt="5. nesil hayalet savaş uçağının kesit infografiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4127,7 +4427,7 @@ Ana gereksinim, bir kesit, bir kesit olmasıdır.
 
 ---
 
-### No. 98: Androjen bir kadının Moody 2x2 editoryal kolajı
+### No. 105: Androjen bir kadının Moody 2x2 editoryal kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4217,7 +4517,7 @@ Eski bir merdivende aynı genç kadının, belirli pozlar, aydınlatma ve kamera
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBcvDbMAASMAi.jpg" width="600" alt="Androjen bir kadının Moody 2x2 editoryal kolajı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg" width="600" alt="Androjen bir kadının Moody 2x2 editoryal kolajı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4231,7 +4531,7 @@ Eski bir merdivende aynı genç kadının, belirli pozlar, aydınlatma ve kamera
 
 ---
 
-### No. 99: Lotte World Tower dönüm noktası odaklı coğrafi konum görseli
+### No. 106: Lotte World Tower dönüm noktası odaklı coğrafi konum görseli
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4251,7 +4551,7 @@ Nano Banana Pro'ya, rastgele bir çevre sahnesi yerine simge yapıya odaklanarak
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6VBapubAAAqFsT.jpg" width="600" alt="Lotte World Tower dönüm noktası odaklı coğrafi konum görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg" width="600" alt="Lotte World Tower dönüm noktası odaklı coğrafi konum görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4265,7 +4565,7 @@ Nano Banana Pro'ya, rastgele bir çevre sahnesi yerine simge yapıya odaklanarak
 
 ---
 
-### No. 100: Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor
+### No. 107: Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4284,25 +4584,25 @@ Bu dinozoru Shinjuku'daki Tokyo Büyükşehir Hükümet Binası'nın önünde g�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uFbUAAIwji.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U97uUbMAAUHwX.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-absbwAAo3Vk.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U-2kUb0AALpnb.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg" width="600" alt="Tokyo Metropoliten Hükümet Binası'nın Önünde Beliren Dinozor - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4316,7 +4616,7 @@ Bu dinozoru Shinjuku'daki Tokyo Büyükşehir Hükümet Binası'nın önünde g�
 
 ---
 
-### No. 101: Tokyo sokak seçeneğiyle sanal kıyafet deneme
+### No. 108: Tokyo sokak seçeneğiyle sanal kıyafet deneme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4340,19 +4640,19 @@ Arka plan isteğe bağlıdır, nötr veya {argument name="background_location_en
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI_boAASbOX.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNJBaMAAZ_4g.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UZNI9aEAAyuPL.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg" width="600" alt="Tokyo sokak seçeneğiyle sanal kıyafet deneme - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -4366,7 +4666,7 @@ Arka plan isteğe bağlıdır, nötr veya {argument name="background_location_en
 
 ---
 
-### No. 102: Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı
+### No. 109: Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4386,7 +4686,7 @@ Orta yaşlı bir sanatçının bilgisayar ekranındaki bir görüntüyü tuvale 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U8rOkXwAABEUg.jpg" width="600" alt="Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg" width="600" alt="Kendini resmeden bir sanatçının fotoğrafını resmeden özyinelemeli sanatçı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4400,7 +4700,7 @@ Orta yaşlı bir sanatçının bilgisayar ekranındaki bir görüntüyü tuvale 
 
 ---
 
-### No. 103: Ekli bir illüstrasyondan LINE çıkartma seti
+### No. 110: Ekli bir illüstrasyondan LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4420,7 +4720,7 @@ Ekteki görseldeki illüstrasyonu bir karaktere dönüştürün. İfadeleri, poz
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U7zFzaAAAUfw5.jpg" width="600" alt="Ekli bir illüstrasyondan LINE çıkartma seti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg" width="600" alt="Ekli bir illüstrasyondan LINE çıkartma seti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4434,7 +4734,7 @@ Ekteki görseldeki illüstrasyonu bir karaktere dönüştürün. İfadeleri, poz
 
 ---
 
-### No. 104: Tel kafes şematik yeniden stil istemi
+### No. 111: Tel kafes şematik yeniden stil istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4453,7 +4753,7 @@ Bunu siyah bir arka plan üzerinde mavi parlayan 3 boyutlu bir tel kafes haline 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U5Hoeb0AAK3az.jpg" width="600" alt="Tel kafes şematik yeniden stil istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg" width="600" alt="Tel kafes şematik yeniden stil istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4467,7 +4767,7 @@ Bunu siyah bir arka plan üzerinde mavi parlayan 3 boyutlu bir tel kafes haline 
 
 ---
 
-### No. 105: Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği
+### No. 112: Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4486,7 +4786,7 @@ Gayrimenkul yatırımının avantajlarını ve dezavantajlarını gösteren bir 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U6PR1a4AAKtOu.jpg" width="600" alt="Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg" width="600" alt="Gayrimenkul Yatırımının Artıları ve Eksileri Bilgi Grafiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4500,7 +4800,7 @@ Gayrimenkul yatırımının avantajlarını ve dezavantajlarını gösteren bir 
 
 ---
 
-### No. 106: Ekli bir karakter görselinden LINE çıkartma seti
+### No. 113: Ekli bir karakter görselinden LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4520,13 +4820,13 @@ Ekli görseldeki karakteri kullanarak LINE çıkartmaları oluşturmanı istiyor
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HoaQAABvqP.jpg" width="600" alt="Ekli bir karakter görselinden LINE çıkartma seti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg" width="600" alt="Ekli bir karakter görselinden LINE çıkartma seti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U52HobIAAQ_Rl.jpg" width="600" alt="Ekli bir karakter görselinden LINE çıkartma seti - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg" width="600" alt="Ekli bir karakter görselinden LINE çıkartma seti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4540,7 +4840,40 @@ Ekli görseldeki karakteri kullanarak LINE çıkartmaları oluşturmanı istiyor
 
 ---
 
-### No. 107: Tang şiiri öğrenme kartları
+### No. 114: Artizan fırın video reklamı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Yeni bir zanaatkar fırın için ticari spotlara temel oluşturabilecek basit bir video reklam oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Yeni bir butik fırın için video reklamı oluşturun.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg" width="600" alt="Artizan fırın video reklamı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [rameshnuti.eth](https://x.com/RameshNuti)
+- **Kaynak:** [Twitter Post](https://x.com/RameshNuti/status/1992061140688630126)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Yeni%20bir%20butik%20f%C4%B1r%C4%B1n%20i%C3%A7in%20video%20reklam%C4%B1%20olu%C5%9Fturun.)**
+
+---
+
+### No. 115: Tang şiiri öğrenme kartları
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4560,7 +4893,7 @@ Ekli görseldeki karakteri kullanarak LINE çıkartmaları oluşturmanı istiyor
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang şiiri öğrenme kartları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang şiiri öğrenme kartları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4574,7 +4907,7 @@ Ekli görseldeki karakteri kullanarak LINE çıkartmaları oluşturmanı istiyor
 
 ---
 
-### No. 108: Ayak parmaklarının yakın çekim detayı
+### No. 116: Ayak parmaklarının yakın çekim detayı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4593,13 +4926,13 @@ Ayak parmaklarına yakınlaşın.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3EVfaMAA6XT_.jpg" width="600" alt="Ayak parmaklarının yakın çekim detayı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg" width="600" alt="Ayak parmaklarının yakın çekim detayı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3FIsbAAA_lZF.jpg" width="600" alt="Ayak parmaklarının yakın çekim detayı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg" width="600" alt="Ayak parmaklarının yakın çekim detayı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4613,7 +4946,7 @@ Ayak parmaklarına yakınlaşın.
 
 ---
 
-### No. 109: Koordinatlar aracılığıyla gökdelenin gece görünümü
+### No. 117: Koordinatlar aracılığıyla gökdelenin gece görünümü
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4635,7 +4968,13 @@ Gece sahneleri oluşturmak için iki coğrafi tabanlı istem: biri Yeouido'daki 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U3Bs4bEAARu36.jpg" width="600" alt="Koordinatlar aracılığıyla gökdelenin gece görünümü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg" width="600" alt="Koordinatlar aracılığıyla gökdelenin gece görünümü - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg" width="600" alt="Koordinatlar aracılığıyla gökdelenin gece görünümü - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4649,7 +4988,7 @@ Gece sahneleri oluşturmak için iki coğrafi tabanlı istem: biri Yeouido'daki 
 
 ---
 
-### No. 110: Temel geliri özetleyen görsel
+### No. 118: Temel geliri özetleyen görsel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4668,7 +5007,7 @@ Temel gelir kavramını özetleyen bir görsel oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U26MKbYAAuRuh.jpg" width="600" alt="Temel geliri özetleyen görsel - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg" width="600" alt="Temel geliri özetleyen görsel - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4682,7 +5021,7 @@ Temel gelir kavramını özetleyen bir görsel oluşturun.
 
 ---
 
-### No. 111: Temizlenmiş iki panelli mülakat çizgi romanı
+### No. 119: Temizlenmiş iki panelli mülakat çizgi romanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4702,7 +5041,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6U2Qx8bkAAYk0t.png" width="600" alt="Temizlenmiş iki panelli mülakat çizgi romanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png" width="600" alt="Temizlenmiş iki panelli mülakat çizgi romanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4716,7 +5055,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 112: Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası
+### No. 120: Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4735,7 +5074,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uz7AZbcAEImd5.jpg" width="600" alt="Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg" width="600" alt="Su Kenarı Destanı'ndan gongbi tarzında en iyi 30 karakter ızgarası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4749,7 +5088,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 113: Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi
+### No. 121: Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4768,7 +5107,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6STW88akAAFOKe.jpg" width="600" alt="Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg" width="600" alt="Bir kadının yaşlanarak yaşlı bir hanımefendiye dönüşmesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4782,7 +5121,7 @@ Modelden, ikinci paneli yansıtarak ve röportaj yapan kişinin repliğini belir
 
 ---
 
-### No. 114: Bir arıya yakınlaşın
+### No. 122: Bir arıya yakınlaşın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4801,13 +5140,13 @@ Arıyı yakınlaştırın
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvVWxWUAAa_Sm.jpg" width="600" alt="Bir arıya yakınlaşın - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg" width="600" alt="Bir arıya yakınlaşın - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UvWDoXAAAGujg.jpg" width="600" alt="Bir arıya yakınlaşın - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg" width="600" alt="Bir arıya yakınlaşın - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4821,7 +5160,7 @@ Arıyı yakınlaştırın
 
 ---
 
-### No. 115: Eke göre küçük resim metin kaplaması
+### No. 123: Eke göre küçük resim metin kaplaması
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4843,13 +5182,13 @@ Ekli görsele dayanarak, aşağıdaki içeriği ekleyin. İki satırı geçmeyec
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Up5ETbcAA5eTt.jpg" width="600" alt="Eke göre küçük resim metin kaplaması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg" width="600" alt="Eke göre küçük resim metin kaplaması - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UuiuTawAAeCSk.jpg" width="600" alt="Eke göre küçük resim metin kaplaması - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg" width="600" alt="Eke göre küçük resim metin kaplaması - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4863,7 +5202,7 @@ Ekli görsele dayanarak, aşağıdaki içeriği ekleyin. İki satırı geçmeyec
 
 ---
 
-### No. 116: Ekteki portföy stratejisi genel bakış diyagramı
+### No. 124: Ekteki portföy stratejisi genel bakış diyagramı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4882,7 +5221,7 @@ Ekte bireysel bir yatırımcı olarak portföyüm bulunmaktadır. Lütfen bu por
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UujwIawAAexmT.jpg" width="600" alt="Ekteki portföy stratejisi genel bakış diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg" width="600" alt="Ekteki portföy stratejisi genel bakış diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4896,7 +5235,7 @@ Ekte bireysel bir yatırımcı olarak portföyüm bulunmaktadır. Lütfen bu por
 
 ---
 
-### No. 117: Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt
+### No. 125: Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4915,13 +5254,13 @@ Vietnam'a yatırım yapmanın avantajlarını tek bir slaytta özetleyin.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtYpUaEAEMcj9.jpg" width="600" alt="Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg" width="600" alt="Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtjZqbAAAT6Bo.png" width="600" alt="Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png" width="600" alt="Vietnam'a Yatırım Yapmanın Avantajları Hakkında Tek Slayt - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4935,7 +5274,7 @@ Vietnam'a yatırım yapmanın avantajlarını tek bir slaytta özetleyin.
 
 ---
 
-### No. 118: Yüklü bir kiriş için kesme ve moment diyagramı
+### No. 126: Yüklü bir kiriş için kesme ve moment diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4955,7 +5294,7 @@ Düzgün yüklü, basit mesnetli bir kiriş için kesme ve moment diyagramı olu
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UtlugWoAALVOy.jpg" width="600" alt="Yüklü bir kiriş için kesme ve moment diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg" width="600" alt="Yüklü bir kiriş için kesme ve moment diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4969,7 +5308,7 @@ Düzgün yüklü, basit mesnetli bir kiriş için kesme ve moment diyagramı olu
 
 ---
 
-### No. 119: SPA içeceğiyle hamakta dinlenen fizikçi
+### No. 127: SPA içeceğiyle hamakta dinlenen fizikçi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4988,7 +5327,7 @@ Hamakta uzanan bir fizikçi, elinde bir kadeh ve S.P.A. Sadece ayakkabısız bac
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UrfxmXwAELX_7.jpg" width="600" alt="SPA içeceğiyle hamakta dinlenen fizikçi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg" width="600" alt="SPA içeceğiyle hamakta dinlenen fizikçi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5002,7 +5341,7 @@ Hamakta uzanan bir fizikçi, elinde bir kadeh ve S.P.A. Sadece ayakkabısız bac
 
 ---
 
-### No. 120: Origami tarzı adım adım katlama talimatları
+### No. 128: Origami tarzı adım adım katlama talimatları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5022,13 +5361,13 @@ Düz bir kağıttan son modele kadar adım adım görsel katlama talimatlarında
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWHW8AEDGhh.jpg" width="600" alt="Origami tarzı adım adım katlama talimatları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg" width="600" alt="Origami tarzı adım adım katlama talimatları - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UqMWKXMAASI1l.jpg" width="600" alt="Origami tarzı adım adım katlama talimatları - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg" width="600" alt="Origami tarzı adım adım katlama talimatları - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5042,7 +5381,7 @@ Düz bir kağıttan son modele kadar adım adım görsel katlama talimatlarında
 
 ---
 
-### No. 121: Gün batımında karatahta kral tavşan illüstrasyonu
+### No. 129: Gün batımında karatahta kral tavşan illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5061,7 +5400,7 @@ Sınıf tahtasına tebeşirle bir tavşan kral çizimi yapın ve ayrıca "うさ
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TzN1UbAAAojlo.jpg" width="600" alt="Gün batımında karatahta kral tavşan illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg" width="600" alt="Gün batımında karatahta kral tavşan illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5075,7 +5414,7 @@ Sınıf tahtasına tebeşirle bir tavşan kral çizimi yapın ve ayrıca "うさ
 
 ---
 
-### No. 122: Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası
+### No. 130: Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5095,7 +5434,7 @@ Ben 10'un Ninja Kaplumbağalar evrenine geçtiği, etkileyici panellere, temiz �
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg" width="600" alt="Ben 10, TMNT ile Karşılaşıyor Tam Çizgi Roman Sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5109,7 +5448,7 @@ Ben 10'un Ninja Kaplumbağalar evrenine geçtiği, etkileyici panellere, temiz �
 
 ---
 
-### No. 123: Akrilik kalem illüstrasyonlu kitapçı POP teşhiri
+### No. 131: Akrilik kalem illüstrasyonlu kitapçı POP teşhiri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5129,13 +5468,13 @@ Yeni kitapların önünde dikkat çekici bir dekorasyon olarak konumlandırılm�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnZv5boAA--Ow.jpg" width="600" alt="Akrilik kalem illüstrasyonlu kitapçı POP teşhiri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg" width="600" alt="Akrilik kalem illüstrasyonlu kitapçı POP teşhiri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ung7SboAEOCSa.jpg" width="600" alt="Akrilik kalem illüstrasyonlu kitapçı POP teşhiri - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg" width="600" alt="Akrilik kalem illüstrasyonlu kitapçı POP teşhiri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5149,7 +5488,7 @@ Yeni kitapların önünde dikkat çekici bir dekorasyon olarak konumlandırılm�
 
 ---
 
-### No. 124: Mevcut fotoğrafın Gotik makyajlı varyantı
+### No. 132: Mevcut fotoğrafın Gotik makyajlı varyantı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5168,13 +5507,13 @@ Bu kişiyi o zamanlar gotik müzikle ilgileniyormuş gibi yeniden yapın.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul3wDa8AAoRRj.jpg" width="600" alt="Mevcut fotoğrafın Gotik makyajlı varyantı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg" width="600" alt="Mevcut fotoğrafın Gotik makyajlı varyantı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ul4d7a4AA-yF5.jpg" width="600" alt="Mevcut fotoğrafın Gotik makyajlı varyantı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg" width="600" alt="Mevcut fotoğrafın Gotik makyajlı varyantı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5188,7 +5527,7 @@ Bu kişiyi o zamanlar gotik müzikle ilgileniyormuş gibi yeniden yapın.
 
 ---
 
-### No. 125: Evcil Hayvanın Komik Anatomik Diyagramı
+### No. 133: Evcil Hayvanın Komik Anatomik Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5207,7 +5546,7 @@ Bu evcil hayvanın komik bir anatomik diyagramını, esprili açıklamalarla bir
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UnKK3XIAA6EWK.jpg" width="600" alt="Evcil Hayvanın Komik Anatomik Diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg" width="600" alt="Evcil Hayvanın Komik Anatomik Diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5221,7 +5560,7 @@ Bu evcil hayvanın komik bir anatomik diyagramını, esprili açıklamalarla bir
 
 ---
 
-### No. 126: Mayo bikini poz düzenleme istemi (yanıt)
+### No. 134: Mayo bikini poz düzenleme istemi (yanıt)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5240,13 +5579,13 @@ Tek parça mayoyu bikiniye çevir ve aynı stil ile arka planı koruyarak topukl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmAEmbEAANPvU.jpg" width="600" alt="Mayo bikini poz düzenleme istemi (yanıt) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg" width="600" alt="Mayo bikini poz düzenleme istemi (yanıt) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmB-0aMAEmYWh.jpg" width="600" alt="Mayo bikini poz düzenleme istemi (yanıt) - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg" width="600" alt="Mayo bikini poz düzenleme istemi (yanıt) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5260,7 +5599,7 @@ Tek parça mayoyu bikiniye çevir ve aynı stil ile arka planı koruyarak topukl
 
 ---
 
-### No. 127: Web kaynaklarından alınan hükümet sonuçları infografiği
+### No. 135: Web kaynaklarından alınan hükümet sonuçları infografiği
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5279,7 +5618,7 @@ Geçtiğimiz ay Takaichi yönetiminin başarılarını ve sorunlarını göstere
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UmEq1b0AA7RHL.jpg" width="600" alt="Web kaynaklarından alınan hükümet sonuçları infografiği - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg" width="600" alt="Web kaynaklarından alınan hükümet sonuçları infografiği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5293,7 +5632,40 @@ Geçtiğimiz ay Takaichi yönetiminin başarılarını ve sorunlarını göstere
 
 ---
 
-### No. 128: Panda kız karakterli dört panelli anime manga
+### No. 136: Nano Banana Pro hakkında Japonca başlık küçük resmi
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Google'ın Nano Banana Pro'yu piyasaya sürmesi hakkında, haber küçük resimleri veya blog başlıkları için ideal, Japonca başlık tarzında bir görsel oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Google, nihai görüntü oluşturma yapay zekası "Nano Banana Pro"yu piyasaya sürdü.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg" width="600" alt="Nano Banana Pro hakkında Japonca başlık küçük resmi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
+- **Kaynak:** [Twitter Post](https://x.com/no_ai_no_life/status/1992040137161908537)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Google%2C%20nihai%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Fturma%20yapay%20zekas%C4%B1%20%22Nano%20Banana%20Pro%22yu%20piyasaya%20s%C3%BCrd%C3%BC.)**
+
+---
+
+### No. 137: Panda kız karakterli dört panelli anime manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5318,7 +5690,13 @@ Tipik bir Japon anime tarzında dört panelli bir manga oluşturun. Görsel, yuk
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uk2jfa0AABLxb.jpg" width="600" alt="Panda kız karakterli dört panelli anime manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg" width="600" alt="Panda kız karakterli dört panelli anime manga - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg" width="600" alt="Panda kız karakterli dört panelli anime manga - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5332,7 +5710,7 @@ Tipik bir Japon anime tarzında dört panelli bir manga oluşturun. Görsel, yuk
 
 ---
 
-### No. 129: Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama
+### No. 138: Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5351,7 +5729,7 @@ Belge oluşturmanın sorunlarını ve Think-cell'in neleri çözebileceğini aç
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg" width="600" alt="Think-cell'in belge sorunlarını çözmesine ilişkin görsel açıklama - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5365,7 +5743,7 @@ Belge oluşturmanın sorunlarını ve Think-cell'in neleri çözebileceğini aç
 
 ---
 
-### No. 130: Herhangi bir karakter görseli için HUD savaş gücü katmanı
+### No. 139: Herhangi bir karakter görseli için HUD savaş gücü katmanı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5386,25 +5764,25 @@ görev: "görseli-düzenle: yalnızca tam ekran analiz HUD katmanı ekle"
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgISgacAAxf0r.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgIzSaQAACgqW.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJQ9b0AAoqh0.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UgJm2aIAAxSjb.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg" width="600" alt="Herhangi bir karakter görseli için HUD savaş gücü katmanı - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -5418,7 +5796,40 @@ görev: "görseli-düzenle: yalnızca tam ekran analiz HUD katmanı ekle"
 
 ---
 
-### No. 131: Güzel yürümenin nasıl yapılacağını açıklayan diyagram
+### No. 140: Hareketli gösterişli metin açığa çıkarma sırası
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Hareketli görüntü oluşturma veya anahtar kare animasyon işlem hatları için uygun, gösterişli, animasyonlu metin açığa çıkarma efektleri oluşturmaya yönelik kısa istem.
+
+#### 📝 İstem
+
+```
+Metin, göz alıcı efektler ve animasyonlarla beliriyor.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg" width="600" alt="Hareketli gösterişli metin açığa çıkarma sırası - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [おのふみ| AI×画像・動画生成](https://x.com/onofumi_AI)
+- **Kaynak:** [Twitter Post](https://x.com/onofumi_AI/status/1992035727241289736)
+- **Yayınlandı:** 22 Kasım 2025
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Metin%2C%20g%C3%B6z%20al%C4%B1c%C4%B1%20efektler%20ve%20animasyonlarla%20beliriyor.)**
+
+---
+
+### No. 141: Güzel yürümenin nasıl yapılacağını açıklayan diyagram
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5437,7 +5848,7 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUoBTbsAA2jTW.jpg" width="600" alt="Güzel yürümenin nasıl yapılacağını açıklayan diyagram - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg" width="600" alt="Güzel yürümenin nasıl yapılacağını açıklayan diyagram - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5451,7 +5862,7 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 
 ---
 
-### No. 132: İnsanlaştırılmış elma ve muz çifti
+### No. 142: İnsanlaştırılmış elma ve muz çifti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5470,7 +5881,13 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhPGGasAA4bUU.jpg" width="600" alt="İnsanlaştırılmış elma ve muz çifti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg" width="600" alt="İnsanlaştırılmış elma ve muz çifti - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg" width="600" alt="İnsanlaştırılmış elma ve muz çifti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5484,7 +5901,7 @@ Güzel yürümenin nasıl yapılacağını gösteren bir diyagram oluşturun.
 
 ---
 
-### No. 133: Japonca temiz infografik stil kısıtlamaları
+### No. 143: Japonca temiz infografik stil kısıtlamaları
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5503,7 +5920,7 @@ Metni son derece az kullanın ve grafiksel ifadeye odaklanın. Japonca karakter 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UhfinasAAfFCh.jpg" width="600" alt="Japonca temiz infografik stil kısıtlamaları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg" width="600" alt="Japonca temiz infografik stil kısıtlamaları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5517,7 +5934,7 @@ Metni son derece az kullanın ve grafiksel ifadeye odaklanın. Japonca karakter 
 
 ---
 
-### No. 134: Nanami'nin ramen yediği 4 panelli Japon gag mangası
+### No. 144: Nanami'nin ramen yediği 4 panelli Japon gag mangası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5537,7 +5954,7 @@ Genç Japon kadın "{argument name="character_name" default="Nanami"}"nin {argum
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ud5ZbbQAA3LQl.jpg" width="600" alt="Nanami'nin ramen yediği 4 panelli Japon gag mangası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg" width="600" alt="Nanami'nin ramen yediği 4 panelli Japon gag mangası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5551,7 +5968,7 @@ Genç Japon kadın "{argument name="character_name" default="Nanami"}"nin {argum
 
 ---
 
-### No. 135: Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi
+### No. 145: Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5585,25 +6002,49 @@ Her dönem doğal hissettirmeli ve tek bir 16:9 çerçeve içinde yan yana bir z
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ucs42a8AATKjE.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcvfObgAE8rRy.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcxrSaQAIFNPy.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Uc0YRaoAAs9u1.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 7">
+</div>
+
+##### Image 8
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg" width="600" alt="Aynı konumun koordinatlara göre bölünmüş ekran hızlandırılmış çekimi - Image 8">
 </div>
 
 #### 📌 Detaylar
@@ -5617,7 +6058,7 @@ Her dönem doğal hissettirmeli ve tek bir 16:9 çerçeve içinde yan yana bir z
 
 ---
 
-### No. 136: Açık gri bir tavşanın bakış açısı
+### No. 146: Açık gri bir tavşanın bakış açısı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5636,13 +6077,13 @@ Açık gri tavşanın bakış açısından çekilmiş görüntü
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcBGLaoAASC2E.jpg" width="600" alt="Açık gri bir tavşanın bakış açısı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg" width="600" alt="Açık gri bir tavşanın bakış açısı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UcTNragAALmMB.jpg" width="600" alt="Açık gri bir tavşanın bakış açısı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg" width="600" alt="Açık gri bir tavşanın bakış açısı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5656,7 +6097,7 @@ Açık gri tavşanın bakış açısından çekilmiş görüntü
 
 ---
 
-### No. 137: Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga
+### No. 147: Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5675,7 +6116,7 @@ Referans görseldeki karakterin, siberpunk bakış açısıyla Bitcoin'in köken
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Ubs1OaoAA3-pp.jpg" width="600" alt="Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg" width="600" alt="Siberpunk bakış açısıyla Bitcoin hakkında dört panelli manga - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5689,7 +6130,7 @@ Referans görseldeki karakterin, siberpunk bakış açısıyla Bitcoin'in köken
 
 ---
 
-### No. 138: Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı
+### No. 148: Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5708,7 +6149,7 @@ El çizimi tarzındaki idol karakter broşürünü alıp, bir marketteki buharda
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6TFgBQaYAAe4-k.jpg" width="600" alt="Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg" width="600" alt="Buharda pişmiş çörek otomatına yapıştırılmış idol el ilanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5722,7 +6163,7 @@ El çizimi tarzındaki idol karakter broşürünü alıp, bir marketteki buharda
 
 ---
 
-### No. 139: Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün
+### No. 149: Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5743,19 +6184,19 @@ Yağmur yağdığında, Vietnamlılar yağmurluk giyer ve motosiklet sürer.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTrBVagAAwXzs.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UTr2rbsAEGn2m.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UURusa0AAmTKE.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg" width="600" alt="Şehir fotoğrafını Vietnamlı motorcularla yağmurlu bir sahneye dönüştürün - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -5769,7 +6210,7 @@ Yağmur yağdığında, Vietnamlılar yağmurluk giyer ve motosiklet sürer.
 
 ---
 
-### No. 140: "Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon
+### No. 150: "Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5789,7 +6230,13 @@ Klasik Çin şiiri "Linjiangxian · Yuvarlanan Yangtze Nehri Doğuya Akar" için
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUuMRbUAAGeZY.jpg" width="600" alt=""Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg" width="600" alt=""Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg" width="600" alt=""Linjiangxian" şiiri için ders kitabı tarzı illüstrasyon - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -5803,7 +6250,7 @@ Klasik Çin şiiri "Linjiangxian · Yuvarlanan Yangtze Nehri Doğuya Akar" için
 
 ---
 
-### No. 141: Bir not makalesi için pop tarzı el ilanı görseli
+### No. 151: Bir not makalesi için pop tarzı el ilanı görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5823,7 +6270,7 @@ Bu Not makalesini tanıtmak için pop tarzı bir el ilanı görseli oluşturun. 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6UUEFKaAAEO3oQ.jpg" width="600" alt="Bir not makalesi için pop tarzı el ilanı görseli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg" width="600" alt="Bir not makalesi için pop tarzı el ilanı görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5837,7 +6284,7 @@ Bu Not makalesini tanıtmak için pop tarzı bir el ilanı görseli oluşturun. 
 
 ---
 
-### No. 142: Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni
+### No. 152: Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5856,25 +6303,25 @@ Bu kanepeye uygun bir oturma odası düzeni oluşturun. Evli bir çiftin yaşad�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVbPxa8AAm8df.png" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVcbGbkAAes6z.jpg" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVdT7aIAE7ayL.png" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6SVeFabcAE9Tyi.jpg" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg" width="600" alt="Bir kanepe fotoğrafına dayalı izometrik oturma odası düzeni - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -5888,7 +6335,7 @@ Bu kanepeye uygun bir oturma odası düzeni oluşturun. Evli bir çiftin yaşad�
 
 ---
 
-### No. 143: Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt
+### No. 153: Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5907,7 +6354,7 @@ Bu makaleyi, bilgileri anlamama yardımcı olacak Çinli bir profesör tarzı be
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RRCifaAAAcSu6.jpg" width="600" alt="Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg" width="600" alt="Bir araştırma makalesini açıklayan beyaz tahta tarzı slayt - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5921,7 +6368,7 @@ Bu makaleyi, bilgileri anlamama yardımcı olacak Çinli bir profesör tarzı be
 
 ---
 
-### No. 144: Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince)
+### No. 154: Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5941,7 +6388,7 @@ Dağınık saçlı Albert Einstein, şaşkınlıkla bir akıllı telefona bakıy
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg" width="600" alt="Einstein, Elon Musk'tan selfie çekmeyi öğreniyor (Çince) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5955,7 +6402,7 @@ Dağınık saçlı Albert Einstein, şaşkınlıkla bir akıllı telefona bakıy
 
 ---
 
-### No. 145: Nano Banana Pro sürümü hakkında dikkat çekici küçük resim
+### No. 155: Nano Banana Pro sürümü hakkında dikkat çekici küçük resim
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5974,7 +6421,7 @@ Nano Banana Pro'nun çıktığını gösteren dikkat çekici bir küçük resim 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro sürümü hakkında dikkat çekici küçük resim - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg" width="600" alt="Nano Banana Pro sürümü hakkında dikkat çekici küçük resim - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5988,7 +6435,7 @@ Nano Banana Pro'nun çıktığını gösteren dikkat çekici bir küçük resim 
 
 ---
 
-### No. 146: Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor
+### No. 156: Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6007,7 +6454,7 @@ Sarı tulum giyen Bruce Lee, Yoda ile dostane bir dövüş yapıyor. Bruce Lee'n
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RNcCXbYAAxWct.jpg" width="600" alt="Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg" width="600" alt="Bruce Lee, bir dojo'da Yoda ile antrenman yapıyor - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6021,7 +6468,7 @@ Sarı tulum giyen Bruce Lee, Yoda ile dostane bir dövüş yapıyor. Bruce Lee'n
 
 ---
 
-### No. 147: Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni
+### No. 157: Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6046,13 +6493,13 @@ Referans görselin sanat tarzını, narin çizgi çalışması ve yüksek detayl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB7o1bQAA-rYr.jpg" width="600" alt="Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg" width="600" alt="Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB86zaAAAkYmc.jpg" width="600" alt="Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg" width="600" alt="Çerçeveler ve konuşma balonları içeren, yüksek detaylı hikaye-sanat düzeni - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6066,7 +6513,7 @@ Referans görselin sanat tarzını, narin çizgi çalışması ve yüksek detayl
 
 ---
 
-### No. 148: TV'den çıkan piksel oyun karakteri
+### No. 158: TV'den çıkan piksel oyun karakteri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6085,7 +6532,7 @@ Pikselli bir video oyunu karakteri, TV ekranından oturma odasına tırmanmaya �
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RMg5na4AAy3d8.jpg" width="600" alt="TV'den çıkan piksel oyun karakteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg" width="600" alt="TV'den çıkan piksel oyun karakteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6099,7 +6546,7 @@ Pikselli bir video oyunu karakteri, TV ekranından oturma odasına tırmanmaya �
 
 ---
 
-### No. 149: Sevimli chibi kedi kulaklı kız illüstrasyonu
+### No. 159: Sevimli chibi kedi kulaklı kız illüstrasyonu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6119,7 +6566,7 @@ Sevimli, kedi kulaklı bir kız illüstrasyonu oluştur. Chibi tarzında, fırf�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RL8pKa0AArXjI.jpg" width="600" alt="Sevimli chibi kedi kulaklı kız illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg" width="600" alt="Sevimli chibi kedi kulaklı kız illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6133,7 +6580,7 @@ Sevimli, kedi kulaklı bir kız illüstrasyonu oluştur. Chibi tarzında, fırf�
 
 ---
 
-### No. 150: Referans kıyafetle eşleşecek şekilde giysiyi değiştirin
+### No. 160: Referans kıyafetle eşleşecek şekilde giysiyi değiştirin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6152,19 +6599,19 @@ Referanstaki kıyafetleri al ve benim kıyafetlerimi onlarla eşleşecek şekild
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLaTFbEAAUH0W.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLa2xagAI7ZNl.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RLcCSagAAysgg.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg" width="600" alt="Referans kıyafetle eşleşecek şekilde giysiyi değiştirin - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -6178,7 +6625,7 @@ Referanstaki kıyafetleri al ve benim kıyafetlerimi onlarla eşleşecek şekild
 
 ---
 
-### No. 151: Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi)
+### No. 161: Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6197,7 +6644,13 @@ Hiper-gerçekçi, yoğun tropikal bambu ormanında duran şık genç bir kadın�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RKPI-aEAEZgWt.jpg" width="600" alt="Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg" width="600" alt="Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg" width="600" alt="Şık bir kadının hiper gerçekçi çevresel portresi istemi (kısmi) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6211,7 +6664,7 @@ Hiper-gerçekçi, yoğun tropikal bambu ormanında duran şık genç bir kadın�
 
 ---
 
-### No. 152: Dört panelli manga şeritlerinden oluşan bağlantılı seri
+### No. 162: Dört panelli manga şeritlerinden oluşan bağlantılı seri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6230,25 +6683,25 @@ Dört panelli dört sayfalık manga oluşturun. Her dört panelli şeride kendi 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJM5QbIAAcb7v.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJQY5acAAnejm.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJUdkaUAAzUgx.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RJXSfagAAlUz3.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg" width="600" alt="Dört panelli manga şeritlerinden oluşan bağlantılı seri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6262,7 +6715,7 @@ Dört panelli dört sayfalık manga oluşturun. Her dört panelli şeride kendi 
 
 ---
 
-### No. 153: Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram
+### No. 163: Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6281,7 +6734,7 @@ Sitotoksik T hücrelerinin kanser hücrelerini tanıma ve öldürme sürecini ta
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RE54magAA_1ck.jpg" width="600" alt="Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg" width="600" alt="Sitotoksik T hücrelerinin kanser hücrelerini öldürmesini gösteren bilimsel diyagram - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6295,7 +6748,7 @@ Sitotoksik T hücrelerinin kanser hücrelerini tanıma ve öldürme sürecini ta
 
 ---
 
-### No. 154: Kaptan'ın yıpranmış seyir defteri taslağı
+### No. 164: Kaptan'ın yıpranmış seyir defteri taslağı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6314,7 +6767,7 @@ Eskimiş bir kaptanın seyir defteri. Luffy'nin lastik kolunu bir hazine sandı�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RGSLDa4AAFdrj.jpg" width="600" alt="Kaptan'ın yıpranmış seyir defteri taslağı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg" width="600" alt="Kaptan'ın yıpranmış seyir defteri taslağı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6328,7 +6781,7 @@ Eskimiş bir kaptanın seyir defteri. Luffy'nin lastik kolunu bir hazine sandı�
 
 ---
 
-### No. 155: Verilen makale metnini içeren dergi tarzı fotoğraf
+### No. 165: Verilen makale metnini içeren dergi tarzı fotoğraf
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6348,7 +6801,7 @@ Lütfen bu metni, güzel bir dergi makalesinin fotoğrafına kelimesi kelimesine
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RFnuobEAAfZ_5.jpg" width="600" alt="Verilen makale metnini içeren dergi tarzı fotoğraf - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg" width="600" alt="Verilen makale metnini içeren dergi tarzı fotoğraf - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6362,7 +6815,7 @@ Lütfen bu metni, güzel bir dergi makalesinin fotoğrafına kelimesi kelimesine
 
 ---
 
-### No. 156: Google markalı AIFocus Twitter başlığı
+### No. 166: Google markalı AIFocus Twitter başlığı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6381,7 +6834,7 @@ AIFocus için Google'ın marka tonu ve tasarım öğeleriyle uyumlu, MUZ temalı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RDsJyaIAAtBk3.jpg" width="600" alt="Google markalı AIFocus Twitter başlığı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg" width="600" alt="Google markalı AIFocus Twitter başlığı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6395,7 +6848,7 @@ AIFocus için Google'ın marka tonu ve tasarım öğeleriyle uyumlu, MUZ temalı
 
 ---
 
-### No. 157: Siyah beyaz hayvanların 16 bit piksel sanat posteri
+### No. 167: Siyah beyaz hayvanların 16 bit piksel sanat posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6414,25 +6867,25 @@ Doğadaki tüm siyah beyaz hayvanları sergileyen 16 bit piksel sanat posteri. K
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBWw9bMAA_3mB.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBYuEaMAAP1uA.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBbCnaEAE_NK0.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RBl3PaYAABPC4.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg" width="600" alt="Siyah beyaz hayvanların 16 bit piksel sanat posteri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6446,7 +6899,7 @@ Doğadaki tüm siyah beyaz hayvanları sergileyen 16 bit piksel sanat posteri. K
 
 ---
 
-### No. 158: Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri
+### No. 168: Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6475,7 +6928,7 @@ Her görüntü, konumun ihtişamını vurgulamak için olağanüstü detay, canl
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RCqojakAAYKGL.jpg" width="600" alt="Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg" width="600" alt="Eyfel Kulesi, Çin Seddi, Kolezyum, Tac Mahal'in açıklamalı önemli nokta görselleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6489,7 +6942,7 @@ Her görüntü, konumun ihtişamını vurgulamak için olağanüstü detay, canl
 
 ---
 
-### No. 159: Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası
+### No. 169: Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6508,7 +6961,7 @@ Cennetten Dünya'ya inen bir perinin dört panelli bir mangasını çizin. Karş
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RB5JcbkAAziGG.jpg" width="600" alt="Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg" width="600" alt="Dünya'nın bir kedi gezegeni olduğunu düşünen bir perinin dört panelli mangası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6522,7 +6975,7 @@ Cennetten Dünya'ya inen bir perinin dört panelli bir mangasını çizin. Karş
 
 ---
 
-### No. 160: Yapılandırılmış çatı katı kış portresi (JSON)
+### No. 170: Yapılandırılmış çatı katı kış portresi (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6571,7 +7024,13 @@ Karlı bir çatıda duran bir kadını üç dikey bölümde, gözlerine, vücudu
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6RAtP9WkAAyJUJ.jpg" width="600" alt="Yapılandırılmış çatı katı kış portresi (JSON) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886147117_zgmdh6_G6RAtP9WkAAyJUJ.jpg" width="600" alt="Yapılandırılmış çatı katı kış portresi (JSON) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886151281_x3vkyl_G6PoCMoXUAEgOy9.jpg" width="600" alt="Yapılandırılmış çatı katı kış portresi (JSON) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6585,7 +7044,7 @@ Karlı bir çatıda duran bir kadını üç dikey bölümde, gözlerine, vücudu
 
 ---
 
-### No. 161: Tavada dönmeye çalışan tuzlu balık
+### No. 171: Tavada dönmeye çalışan tuzlu balık
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6604,7 +7063,7 @@ Bir tuzlu balık kızartma tavasında yatıyor, ters dönmek için çok uğraş�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q_SssbAAAOrWs.jpg" width="600" alt="Tavada dönmeye çalışan tuzlu balık - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg" width="600" alt="Tavada dönmeye çalışan tuzlu balık - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6618,7 +7077,7 @@ Bir tuzlu balık kızartma tavasında yatıyor, ters dönmek için çok uğraş�
 
 ---
 
-### No. 162: Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı
+### No. 172: Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6644,7 +7103,7 @@ Tema şudur: “{argument name="theme" default="Kişisel bir IP oluşturmak uzun
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-oMuWkAAgOQr.jpg" width="600" alt="Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763889946989_0mephc_G6Q-oMuWkAAgOQr.jpg" width="600" alt="Uzun vadeli IP oluşturma hakkında elle çizilmiş infografik kartı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6658,7 +7117,7 @@ Tema şudur: “{argument name="theme" default="Kişisel bir IP oluşturmak uzun
 
 ---
 
-### No. 163: Yapıştırılan içeriğin Blackboard özeti
+### No. 173: Yapıştırılan içeriğin Blackboard özeti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6677,7 +7136,7 @@ Lütfen aşağıdaki içeriği tek bir karatahtada açıkça özetleyin.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-cwGb0AAXK_L.jpg" width="600" alt="Yapıştırılan içeriğin Blackboard özeti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886552076_sd4wd3_G6Q-cwGb0AAXK_L.jpg" width="600" alt="Yapıştırılan içeriğin Blackboard özeti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6691,7 +7150,7 @@ Lütfen aşağıdaki içeriği tek bir karatahtada açıkça özetleyin.
 
 ---
 
-### No. 164: Nano Banana Pro hakkında 4 tür 4 panelli manga
+### No. 174: Nano Banana Pro hakkında 4 tür 4 panelli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6711,7 +7170,7 @@ Lütfen referans görsellerdeki erkek ve kadın karakterleri içeren 4 panelli b
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q-NGxbQAAOp8b.jpg" width="600" alt="Nano Banana Pro hakkında 4 tür 4 panelli manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886513261_0uxvic_G6Q-NGxbQAAOp8b.jpg" width="600" alt="Nano Banana Pro hakkında 4 tür 4 panelli manga - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6725,7 +7184,7 @@ Lütfen referans görsellerdeki erkek ve kadın karakterleri içeren 4 panelli b
 
 ---
 
-### No. 165: Cam beyaz tahtada Python Fibonacci kodu
+### No. 175: Cam beyaz tahtada Python Fibonacci kodu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6745,7 +7204,7 @@ Fibonacci sayılarını hesaplamak için {argument name="programming_language_en
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q7IqsXUAA41_W.jpg" width="600" alt="Cam beyaz tahtada Python Fibonacci kodu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887119884_tdofiz_G6Q7IqsXUAA41_W.jpg" width="600" alt="Cam beyaz tahtada Python Fibonacci kodu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6759,7 +7218,7 @@ Fibonacci sayılarını hesaplamak için {argument name="programming_language_en
 
 ---
 
-### No. 166: Chibi Karakter LINE Çıkartma Seti
+### No. 176: Chibi Karakter LINE Çıkartma Seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6779,13 +7238,13 @@ Ekli görseldeki karakteri bir chibi karaktere dönüştürün. Farklı ifadeler
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5lyHaQAA02bY.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg" width="600" alt="Chibi Karakter LINE Çıkartma Seti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6799,7 +7258,7 @@ Ekli görseldeki karakteri bir chibi karaktere dönüştürün. Farklı ifadeler
 
 ---
 
-### No. 167: Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt
+### No. 177: Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6818,7 +7277,7 @@ Ulusal tıbbi veri politikasının gelecekteki yönünü araştırdıktan sonra,
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5MAFacAUc-tE.jpg" width="600" alt="Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886317117_qpj4dq_G6Q5MAFacAUc-tE.jpg" width="600" alt="Ulusal Tıbbi Veri Stratejisi Hakkında Politika Tarzı Slayt - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6832,7 +7291,7 @@ Ulusal tıbbi veri politikasının gelecekteki yönünü araştırdıktan sonra,
 
 ---
 
-### No. 168: İki karakterli doujinshi kapağı
+### No. 178: İki karakterli doujinshi kapağı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6852,7 +7311,7 @@ Sağlanan iki karakter görselini hayran yapımı bir doujinshi kapağına dön�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q4s2xacAsvivR.jpg" width="600" alt="İki karakterli doujinshi kapağı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886504130_azrlpp_G6Q4s2xacAsvivR.jpg" width="600" alt="İki karakterli doujinshi kapağı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6866,7 +7325,7 @@ Sağlanan iki karakter görselini hayran yapımı bir doujinshi kapağına dön�
 
 ---
 
-### No. 169: Rakun figürü için ürün reklamı tarzında görsel
+### No. 179: Rakun figürü için ürün reklamı tarzında görsel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6885,13 +7344,13 @@ Bu görseldeki figür için bir reklam. Metin Japonca olmalıdır. Ürün adı "
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtvacAUuAQ6.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886396175_34n70g_G6Q5JtvacAUuAQ6.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q5JtracAEyiq-.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886399868_6zfqlk_G6Q5JtracAEyiq-.jpg" width="600" alt="Rakun figürü için ürün reklamı tarzında görsel - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6905,7 +7364,7 @@ Bu görseldeki figür için bir reklam. Metin Japonca olmalıdır. Ürün adı "
 
 ---
 
-### No. 170: Çince beyaz tahta fotoğrafı olarak makale özeti
+### No. 180: Çince beyaz tahta fotoğrafı olarak makale özeti
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6924,13 +7383,19 @@ Bu makaleyi özetleyin ve Çince beyaz tahta tarzı bir fotoğrafa dönüştür�
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qz3TZW4AAMweD.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886866812_0u3dqk_G6Qz3TZW4AAMweD.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0s48WEAA06yE.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886869233_uojom6_G6Q0s48WEAA06yE.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886872214_xzg6p5_G6PxynpWcAALinh.jpg" width="600" alt="Çince beyaz tahta fotoğrafı olarak makale özeti - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -6944,7 +7409,7 @@ Bu makaleyi özetleyin ve Çince beyaz tahta tarzı bir fotoğrafa dönüştür�
 
 ---
 
-### No. 171: Goril ve tavşanlı bir radyo programı için reklam mangası
+### No. 181: Goril ve tavşanlı bir radyo programı için reklam mangası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6963,25 +7428,25 @@ Goril ve tavşanın ekteki görsellerini kullanın. Goril ve tavşanın sunuculu
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0S5FacAUkJCh.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886369701_sf7129_G6Q0S5FacAUkJCh.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0WyxbMAAW8Oi.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886373307_j8tgmt_G6Q0WyxbMAAW8Oi.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0bCzbgAAKWSe.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886376112_3z2wze_G6Q0bCzbgAAKWSe.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Q0cYIacAANC87.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886379874_7w0c6a_G6Q0cYIacAANC87.jpg" width="600" alt="Goril ve tavşanlı bir radyo programı için reklam mangası - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6995,7 +7460,40 @@ Goril ve tavşanın ekteki görsellerini kullanın. Goril ve tavşanın sunuculu
 
 ---
 
-### No. 172: Aç bir kadın ve pankekler hakkında dört panelli manga
+### No. 182: Everest Dağı'nın zirvesinde bir otoportre
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Kullanıcının yüklediği bir portre fotoğrafını Everest Dağı'nın zirvesine son derece gerçekçi bir tarzda yerleştirmek için bir bilgi istemi fikri.
+
+#### 📝 İstem
+
+```
+Beni Everest'in zirvesine yerleştir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1763886007632_qn1pk3_yP6Eu6_ODiGBnGHb.jpg" width="600" alt="Everest Dağı'nın zirvesinde bir otoportre - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [عمر العطاس](https://x.com/omer_attas)
+- **Kaynak:** [Twitter Post](https://x.com/omer_attas/status/1991773850577809655)
+- **Yayınlandı:** 21 Kasım 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Beni%20Everest'in%20zirvesine%20yerle%C5%9Ftir.)**
+
+---
+
+### No. 183: Aç bir kadın ve pankekler hakkında dört panelli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7024,7 +7522,7 @@ Kadın {argument name="nationality_en" default="Japon"}. Neşeli bir ifadesi var
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QzoOaacAQYUzi.jpg" width="600" alt="Aç bir kadın ve pankekler hakkında dört panelli manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886272247_r4i8bs_G6QzoOaacAQYUzi.jpg" width="600" alt="Aç bir kadın ve pankekler hakkında dört panelli manga - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7038,7 +7536,7 @@ Kadın {argument name="nationality_en" default="Japon"}. Neşeli bir ifadesi var
 
 ---
 
-### No. 173: Karpuzlu yüzme havuzu mikro dünyası
+### No. 184: Karpuzlu yüzme havuzu mikro dünyası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7057,7 +7555,7 @@ Dev bir karpuzun kesit görünümü. Kırmızı et aslında kırmızı suyla dol
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QxDHEacAIO_xc.jpg" width="600" alt="Karpuzlu yüzme havuzu mikro dünyası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg" width="600" alt="Karpuzlu yüzme havuzu mikro dünyası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7071,7 +7569,7 @@ Dev bir karpuzun kesit görünümü. Kırmızı et aslında kırmızı suyla dol
 
 ---
 
-### No. 174: Bulutların içinde gerçeküstü yarı saydam mavi balina
+### No. 185: Bulutların içinde gerçeküstü yarı saydam mavi balina
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7090,7 +7588,7 @@ Altın saatlerde, devasa, yarı saydam bir mavi balina, beyaz, kabarık bulutlar
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QvTkCacAATNjA.jpg" width="600" alt="Bulutların içinde gerçeküstü yarı saydam mavi balina - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886763402_um7z88_G6QvTkCacAATNjA.jpg" width="600" alt="Bulutların içinde gerçeküstü yarı saydam mavi balina - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7104,7 +7602,7 @@ Altın saatlerde, devasa, yarı saydam bir mavi balina, beyaz, kabarık bulutlar
 
 ---
 
-### No. 175: Yin-yang koi mürekkep illüstrasyonu
+### No. 186: Yin-yang koi mürekkep illüstrasyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7123,7 +7621,7 @@ Sakin, meditatif sanat eserleri veya duvar kağıtları için harika olan, suda 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QuUsWacAArtgo.jpg" width="600" alt="Yin-yang koi mürekkep illüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886767893_0xgtq6_G6QuUsWacAArtgo.jpg" width="600" alt="Yin-yang koi mürekkep illüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7137,7 +7635,7 @@ Sakin, meditatif sanat eserleri veya duvar kağıtları için harika olan, suda 
 
 ---
 
-### No. 176: Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı
+### No. 187: Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7166,13 +7664,13 @@ Prototip heykeltıraş: {argument name="sculptor_name_en" default="Tennen"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsHDgacAANhhz.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886568950_hg4jfg_G6QsHDgacAANhhz.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qspn7bwAA0eGf.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886572822_uvcn77_G6Qspn7bwAA0eGf.jpg" width="600" alt="Bir kalp kırıklığı yaşayan kız figürü için figür tarzı ürün sayfası tasarımı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -7186,7 +7684,7 @@ Prototip heykeltıraş: {argument name="sculptor_name_en" default="Tennen"}.
 
 ---
 
-### No. 177: İki fotoğraf arasında kıyafet aktarımı
+### No. 188: İki fotoğraf arasında kıyafet aktarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7207,19 +7705,19 @@ Giysileri bir referans görselden alıp başka bir görseldeki bir kişinin üze
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNtacAACn18.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887435473_8n9bws_G6QssNtacAACn18.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNjbkAA5wY1.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763887438384_i92wiw_G6QssNjbkAA5wY1.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QssNpbIAAsjUH.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763887441000_khtarl_G6QssNpbIAAsjUH.jpg" width="600" alt="İki fotoğraf arasında kıyafet aktarımı - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -7233,7 +7731,7 @@ Giysileri bir referans görselden alıp başka bir görseldeki bir kişinin üze
 
 ---
 
-### No. 178: Genç bir kadının tek renkli sinematik portresi
+### No. 189: Genç bir kadının tek renkli sinematik portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7252,7 +7750,7 @@ Minimalist bir arka plana ve sinematik aydınlatmaya sahip genç bir kadının u
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QsGexbMAA43DK.jpg" width="600" alt="Genç bir kadının tek renkli sinematik portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763887081947_bla0pc_G6QsGexbMAA43DK.jpg" width="600" alt="Genç bir kadının tek renkli sinematik portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7266,7 +7764,7 @@ Minimalist bir arka plana ve sinematik aydınlatmaya sahip genç bir kadının u
 
 ---
 
-### No. 179: Oracle-chan için esprili LINE çıkartma paketi
+### No. 190: Oracle-chan için esprili LINE çıkartma paketi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7285,7 +7783,7 @@ Ekteki görseldeki karakteri kullanarak, 12 farklı LINE çıkartması gösteren
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqoZrbEAAXKvg.jpg" width="600" alt="Oracle-chan için esprili LINE çıkartma paketi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886448330_kuhr59_G6QqoZrbEAAXKvg.jpg" width="600" alt="Oracle-chan için esprili LINE çıkartma paketi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7299,7 +7797,7 @@ Ekteki görseldeki karakteri kullanarak, 12 farklı LINE çıkartması gösteren
 
 ---
 
-### No. 180: **Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
+### No. 191: **Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
 
 Cildinizin en iyi halini ortaya çıkarmak için tasarlanmış devrim niteliğindeki yeni güzellik serumumuz [Ürün Adı] ile tanışın. Cilt bakımı uzmanları tarafından geliştirilen bu güçlü formül, cildinizi içeriden beslemek ve canlandırmak için özenle seçilmiş bileşenleri bir araya getiriyor.
 
@@ -7358,7 +7856,7 @@ Bir güzellik serumu için açılış sayfası oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QrWLFbAAAqdit.jpg" width="600" alt="**Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
+<img src="https://cdn.gooo.ai/cms/1763886463989_iccj78_G6QrWLFbAAAqdit.jpg" width="600" alt="**Cilt Bakım Rutininizi Yenileyin: [Ürün Adı] ile Tanışın**
 
 Cildinizin en iyi halini ortaya çıkarmak için tasarlanmış devrim niteliğindeki yeni güzellik serumumuz [Ürün Adı] ile tanışın. Cilt bakımı uzmanları tarafından geliştirilen bu güçlü formül, cildinizi içeriden beslemek ve canlandırmak için özenle seçilmiş bileşenleri bir araya getiriyor.
 
@@ -7412,7 +7910,7 @@ Daha fazla bilgi için veya sorularınız varsa, lütfen [İletişim Sayfası UR
 
 ---
 
-### No. 181: Yemek küçük resimleri ve ürün çekimleri
+### No. 192: Yemek küçük resimleri ve ürün çekimleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7433,13 +7931,13 @@ Arka planı beyaz yapın ve bir ürün fotoğrafına dönüştürün.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QpZrWacAUVN5A.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886404524_y7q7is_G6QpZrWacAUVN5A.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QqIvrbIAAlCGu.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886407949_xlk1xc_G6QqIvrbIAAlCGu.jpg" width="600" alt="Yemek küçük resimleri ve ürün çekimleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -7453,7 +7951,7 @@ Arka planı beyaz yapın ve bir ürün fotoğrafına dönüştürün.
 
 ---
 
-### No. 182: Ekli kişiden Messenger çıkartma seti
+### No. 193: Ekli kişiden Messenger çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7474,7 +7972,7 @@ Ekteki kişiye göre bir dizi mesajlaşma uygulaması çıkartması oluşturun. 
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QoPuOboAAkJEZ.jpg" width="600" alt="Ekli kişiden Messenger çıkartma seti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886180130_52owic_G6QoPuOboAAkJEZ.jpg" width="600" alt="Ekli kişiden Messenger çıkartma seti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7488,7 +7986,7 @@ Ekteki kişiye göre bir dizi mesajlaşma uygulaması çıkartması oluşturun. 
 
 ---
 
-### No. 183: Metinden Apple açılış konuşması tarzı etkinlik sahnesi
+### No. 194: Metinden Apple açılış konuşması tarzı etkinlik sahnesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7507,19 +8005,19 @@ Metne dayalı bir fotoğraf oluşturun: çok sayıda kişinin bulunduğu büyük
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeCasAIiGHT.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886921970_6kgjvt_G6QnxeCasAIiGHT.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAI0VZV.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886925466_82s71i_G6QnxeDacAI0VZV.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QnxeDacAMajXw.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886928094_90nq9g_G6QnxeDacAMajXw.jpg" width="600" alt="Metinden Apple açılış konuşması tarzı etkinlik sahnesi - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -7533,7 +8031,7 @@ Metne dayalı bir fotoğraf oluşturun: çok sayıda kişinin bulunduğu büyük
 
 ---
 
-### No. 184: Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga
+### No. 195: Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7553,7 +8051,7 @@ Ekteki karakterin aniden Universal Studios'a gitmeye karar verdiği bir manga ol
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QgQunaIAEMEC7.jpg" width="600" alt="Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886492594_ifq79o_G6QgQunaIAEMEC7.jpg" width="600" alt="Universal Studios'a yapılan bir aile gezisi hakkında deneme tarzı manga - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7567,7 +8065,7 @@ Ekteki karakterin aniden Universal Studios'a gitmeye karar verdiği bir manga ol
 
 ---
 
-### No. 185: Maskeli röportaj videosu için YouTube küçük resim tasarım özeti
+### No. 196: Maskeli röportaj videosu için YouTube küçük resim tasarım özeti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7610,13 +8108,13 @@ sohbetler sonsuza dek sürer” (tam genişliğe yayılır)
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkOUmbIAAIdKH.png" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QkQpnasAAWyXd.jpg" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886606889_70r944_G6QkQpnasAAWyXd.jpg" width="600" alt="Maskeli röportaj videosu için YouTube küçük resim tasarım özeti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -7630,7 +8128,7 @@ sohbetler sonsuza dek sürer” (tam genişliğe yayılır)
 
 ---
 
-### No. 186: Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga
+### No. 197: Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7650,7 +8148,7 @@ Ekteki karakteri içeren 4 panelli bir manga oluşturun. Karakter akıllı telef
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QjQp-a0AAov9I.jpg" width="600" alt="Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886326404_hug38x_G6QjQp-a0AAov9I.jpg" width="600" alt="Gemini'nin Japonca metin görselleri oluşturması hakkında 4 panelli manga - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7664,7 +8162,7 @@ Ekteki karakteri içeren 4 panelli bir manga oluşturun. Karakter akıllı telef
 
 ---
 
-### No. 187: 1799-1800 Vebası Sırasında Fas Haritası
+### No. 198: 1799-1800 Vebası Sırasında Fas Haritası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7684,7 +8182,7 @@ Bana {argument name="period_en" default="1799–1800"} yıllarında {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799-1800 Vebası Sırasında Fas Haritası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885995626_wkuqgo_G6Qd7KhWgAE7EvF.jpg" width="600" alt="1799-1800 Vebası Sırasında Fas Haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7698,7 +8196,7 @@ Bana {argument name="period_en" default="1799–1800"} yıllarında {argument na
 
 ---
 
-### No. 188: Niş Le Labo benzeri bir his veren parfüm tanıtımı
+### No. 199: Niş Le Labo benzeri bir his veren parfüm tanıtımı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7717,25 +8215,25 @@ Le Labo'nun hissine benzer şekilde, niş ve zevkli bir üst düzey stil anlayı
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdYGeawAAU71a.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886907025_1jacbv_G6QdYGeawAAU71a.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdY6WacAcWt4A.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886909113_zr3z5r_G6QdY6WacAcWt4A.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdZn5bYAArE66.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886911392_4z71na_G6QdZn5bYAArE66.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdadOakAAoLIf.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886913581_v9cpk9_G6QdadOakAAoLIf.jpg" width="600" alt="Niş Le Labo benzeri bir his veren parfüm tanıtımı - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -7749,7 +8247,7 @@ Le Labo'nun hissine benzer şekilde, niş ve zevkli bir üst düzey stil anlayı
 
 ---
 
-### No. 189: Lego tarzı otoportre
+### No. 200: Lego tarzı otoportre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7769,13 +8267,13 @@ Beni bir {argument name="subject_en" default="Lego"} karakterine dönüştür.
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBoYXcAASkfI.jpg" width="600" alt="Lego tarzı otoportre - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886126831_jlruy9_G6QdBoYXcAASkfI.jpg" width="600" alt="Lego tarzı otoportre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QdBrbXwAABM0T.jpg" width="600" alt="Lego tarzı otoportre - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886130722_3zua0d_G6QdBrbXwAABM0T.jpg" width="600" alt="Lego tarzı otoportre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -7789,466 +8287,13 @@ Beni bir {argument name="subject_en" default="Lego"} karakterine dönüştür.
 
 ---
 
-### No. 190: Tesla FSD açıklayıcı infografik
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Tesla Full Self-Driving'in nasıl çalıştığını açıklayan, teknik eğitim görselleri için faydalı bir infografik oluşturmak üzere basit bir komut istemi.
-
-#### 📝 İstem
-
-```
-{argument name="system_name_en" default="Tesla FSD"}'nin nasıl çalıştığını açıklayan bir infografik oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6Qbg7nXcAA1tOU.jpg" width="600" alt="Tesla FSD açıklayıcı infografik - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Λnanto Mohammad](https://x.com/01Ananto)
-- **Kaynak:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Tesla%20FSD%22%7D'nin%20nas%C4%B1l%20%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1n%C4%B1%20a%C3%A7%C4%B1klayan%20bir%20infografik%20olu%C5%9Fturun.)**
-
----
-
-### No. 191: Garip sıradan fotoğraf (LeonardoAI)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Daha önceki gibi eğlenceli bir konseptle, Nano Banana Pro'dan hayal edebileceği en tuhaf sıradan görünümlü fotoğrafı istiyoruz.
-
-#### 📝 İstem
-
-```
-Hayal edebileceğiniz en tuhaf sıradan fotoğraf.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QbKoTbYAAc7mW.jpg" width="600" alt="Garip sıradan fotoğraf (LeonardoAI) - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Leonardo.Ai](https://x.com/LeonardoAi)
-- **Kaynak:** [Twitter Post](https://x.com/LeonardoAi/status/1991746810281619726)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Hayal%20edebilece%C4%9Finiz%20en%20tuhaf%20s%C4%B1radan%20foto%C4%9Fraf.)**
-
----
-
-### No. 192: Film karakterleri içeren sinematik poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Verilen filmlerden karakterleri içeren, mash-up film afişi tasarımlarına uygun, güzel bir sinematik afiş isteyen İngilizce bir komut.
-
-#### 📝 İstem
-
-```
-Verilen filmlerdeki karakterleri içeren güzel bir poster, sinematik bir poster oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaltTacAYcYIk.jpg" width="600" alt="Film karakterleri içeren sinematik poster - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QanHiakAAr5Op.jpg" width="600" alt="Film karakterleri içeren sinematik poster - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [prvn 🇮🇳](https://x.com/prvnprvnkmr)
-- **Kaynak:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Verilen%20filmlerdeki%20karakterleri%20i%C3%A7eren%20g%C3%BCzel%20bir%20poster%2C%20sinematik%20bir%20poster%20olu%C5%9Fturun.)**
-
----
-
-### No. 193: Bilim kurgu sinematik üçlemesi ve genişletmeleri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Roger Deakins ve IMAX kadrajından ilham alan, 4:5 kompozisyonda sinematik bir bilim kurgu triptiği oluşturmak ve ardından her paneli tam 4:5 sahnelere genişletmek için bir çift komut istemi.
-
-#### 📝 İstem
-
-```
-4:5 kompozisyon içinde üç adet 2.39:1 çekimden oluşan bir triptik oluşturun. Bunları, Roger Deakins tarafından IMAX'te çekilmiş gibi, yüksek kontrastlı ve doygunluğu azaltılmış mavi ve gri renk tonlamasına sahip, atmosferik bir his veren sinematik, bilim kurgu çekimleri haline getirin.
-
-Ardından, bu üç görüntüyü tek tek üç ayrı 4:5 sahneye genişletin.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFWwAAHXVO.jpg" width="600" alt="Bilim kurgu sinematik üçlemesi ve genişletmeleri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsDXMAAiLNA.jpg" width="600" alt="Bilim kurgu sinematik üçlemesi ve genişletmeleri - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsEXsAA1q2s.jpg" width="600" alt="Bilim kurgu sinematik üçlemesi ve genişletmeleri - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QaDsFXgAABzUk.jpg" width="600" alt="Bilim kurgu sinematik üçlemesi ve genişletmeleri - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Echoes of Tomorrow](https://x.com/eoft_ai)
-- **Kaynak:** [Twitter Post](https://x.com/eoft_ai/status/1991745589818908869)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=4%3A5%20kompozisyon%20i%C3%A7inde%20%C3%BC%C3%A7%20adet%202.39%3A1%20%C3%A7ekimden%20olu%C5%9Fan%20bir%20triptik%20olu%C5%9Fturun.%20Bunlar%C4%B1%2C%20Roger%20Deakins%20taraf%C4%B1ndan%20IMAX'te%20%C3%A7ekilmi%C5%9F%20gibi%2C%20y%C3%BCksek%20kontrastl%C4%B1%20ve%20doygunlu%C4%9Fu%20azalt%C4%B1lm%C4%B1%C5%9F%20mavi%20ve%20gri%20renk%20tonlamas%C4%B1na%20sahip%2C%20atmosferik%20bir%20his%20veren%20sinematik%2C%20bilim%20kurgu%20%C3%A7ekimleri%20haline%20getirin.%0A%0AArd%C4%B1ndan%2C%20bu%20%C3%BC%C3%A7%20g%C3%B6r%C3%BCnt%C3%BCy%C3%BC%20tek%20tek%20%C3%BC%C3%A7%20ayr%C4%B1%204%3A5%20sahneye%20geni%C5%9Fletin.)**
-
----
-
-### No. 194: Kimliği ve pozu koruyarak kıyafetleri değiştirin
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Kullanıcının yüzünü, pozunu ve ortamını korurken, referans bir elbiseye uyacak şekilde kıyafetleri değiştiren ayrıntılı bir düzenleme komutu.
-
-#### 📝 İstem
-
-```
-Orijinal fotoğrafımdaki yüzümü, pozumu, vücudumu ve çevremi aynen koru. Yalnızca kıyafetleri ve aksesuarları, ikinci referans görseldeki elbise ve aksesuarlarla tam doğrulukla eşleşecek şekilde değiştir. Saç stilimi, makyajımı, vücut oranlarımı veya kamera açımı değiştirme.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeymWsAAO5Fz.jpg" width="600" alt="Kimliği ve pozu koruyarak kıyafetleri değiştirin - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZeyjWwAABIbR.jpg" width="600" alt="Kimliği ve pozu koruyarak kıyafetleri değiştirin - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Zara](https://x.com/ZaraIrahh)
-- **Kaynak:** [Twitter Post](https://x.com/ZaraIrahh/status/1991744975919554874)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Orijinal%20foto%C4%9Fraf%C4%B1mdaki%20y%C3%BCz%C3%BCm%C3%BC%2C%20pozumu%2C%20v%C3%BCcudumu%20ve%20%C3%A7evremi%20aynen%20koru.%20Yaln%C4%B1zca%20k%C4%B1yafetleri%20ve%20aksesuarlar%C4%B1%2C%20ikinci%20referans%20g%C3%B6rseldeki%20elbise%20ve%20aksesuarlarla%20tam%20do%C4%9Frulukla%20e%C5%9Fle%C5%9Fecek%20%C5%9Fekilde%20de%C4%9Fi%C5%9Ftir.%20Sa%C3%A7%20stilimi%2C%20makyaj%C4%B1m%C4%B1%2C%20v%C3%BCcut%20oranlar%C4%B1m%C4%B1%20veya%20kamera%20a%C3%A7%C4%B1m%C4%B1%20de%C4%9Fi%C5%9Ftirme.)**
-
----
-
-### No. 195: Dört anahtar kelimeli istem: Şehirde Japon yakın gelecek güzelliği
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Kentsel bir ortamda yakın gelecekteki güzel bir Japon kadınını oluşturmak için dört kelimeden oluşan minimal bir Japonca istem.
-
-#### 📝 İstem
-
-```
-{argument name="nationality_en" default="Japon"}
-{argument name="world_en" default="yakın gelecek"}
-{argument name="subject_en" default="güzel kadın"}
-{argument name="location_en" default="şehir merkezi"}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QZNWJb0AAHf15.jpg" width="600" alt="Dört anahtar kelimeli istem: Şehirde Japon yakın gelecek güzelliği - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [あつむ | AI活用術](https://x.com/atsumu_sns_ai)
-- **Kaynak:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22nationality_en%22%20default%3D%22Japon%22%7D%0A%7Bargument%20name%3D%22world_en%22%20default%3D%22yak%C4%B1n%20gelecek%22%7D%0A%7Bargument%20name%3D%22subject_en%22%20default%3D%22g%C3%BCzel%20kad%C4%B1n%22%7D%0A%7Bargument%20name%3D%22location_en%22%20default%3D%22%C5%9Fehir%20merkezi%22%7D)**
-
----
-
-### No. 196: İki referans portreden podcast kapağı
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Yüklenen iki portreyi referans alarak, siyah konsept bir arka plan ve stüdyo aydınlatmasıyla, isteğe bağlı olarak TV dizisi posterlerindeki pozlarla eşleşen bir podcast kapağı oluşturmaya yönelik esnek bir istem fikri.
-
-#### 📝 İstem
-
-```
-Önce referans görsel olarak iki adet portre fotoğrafı çekin, ardından Nano Banana'nın bu iki görseli kullanarak bir podcast kapağı oluşturmasını sağlayın. Arka planı "siyah kavramsal görüntü" ve aydınlatmayı "stüdyo aydınlatması" olarak belirtin ve {argument name="pose_instructions" default="poz için referans alınacak bir TV şovu kapağı belirtebilir veya yaratıcı yorum için serbest bırakabilirsiniz"}.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnraQAAuxEB.jpg" width="600" alt="İki referans portreden podcast kapağı - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVwnsaUAA7ASb.jpg" width="600" alt="İki referans portreden podcast kapağı - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [indigo](https://x.com/indigo11)
-- **Kaynak:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%C3%96nce%20referans%20g%C3%B6rsel%20olarak%20iki%20adet%20portre%20foto%C4%9Fraf%C4%B1%20%C3%A7ekin%2C%20ard%C4%B1ndan%20Nano%20Banana'n%C4%B1n%20bu%20iki%20g%C3%B6rseli%20kullanarak%20bir%20podcast%20kapa%C4%9F%C4%B1%20olu%C5%9Fturmas%C4%B1n%C4%B1%20sa%C4%9Flay%C4%B1n.%20Arka%20plan%C4%B1%20%22siyah%20kavramsal%20g%C3%B6r%C3%BCnt%C3%BC%22%20ve%20ayd%C4%B1nlatmay%C4%B1%20%22st%C3%BCdyo%20ayd%C4%B1nlatmas%C4%B1%22%20olarak%20belirtin%20ve%20%7Bargument%20name%3D%22pose_instructions%22%20default%3D%22poz%20i%C3%A7in%20referans%20al%C4%B1nacak%20bir%20TV%20%C5%9Fovu%20kapa%C4%9F%C4%B1%20belirtebilir%20veya%20yarat%C4%B1c%C4%B1%20yorum%20i%C3%A7in%20serbest%20b%C4%B1rakabilirsiniz%22%7D.)**
-
----
-
-### No. 197: Sanatı koruyun, manga konuşmalarını orijinal balonlarda İngilizceye çevirin
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Görsel düzenleme için bir komut: orijinal manga çizimini koru, sadece diyaloğu İngilizceye çevir ve çevrilen metni mevcut konuşma balonlarına yerleştir.
-
-#### 📝 İstem
-
-```
-Görseli olduğu gibi bırakın, sadece bu manganın diyaloglarını Türkçe'ye çevirin ve çevrilen satırları orijinal konuşma balonlarına yerleştirin.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV7kFacAY4JJ5.jpg" width="600" alt="Sanatı koruyun, manga konuşmalarını orijinal balonlarda İngilizceye çevirin - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV9PpbMAA1Eth.jpg" width="600" alt="Sanatı koruyun, manga konuşmalarını orijinal balonlarda İngilizceye çevirin - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QV97EagAAN9_Z.jpg" width="600" alt="Sanatı koruyun, manga konuşmalarını orijinal balonlarda İngilizceye çevirin - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [けいすけ / AIマンガ家](https://x.com/kei31)
-- **Kaynak:** [Twitter Post](https://x.com/kei31/status/1991741213826044415)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=G%C3%B6rseli%20oldu%C4%9Fu%20gibi%20b%C4%B1rak%C4%B1n%2C%20sadece%20bu%20mangan%C4%B1n%20diyaloglar%C4%B1n%C4%B1%20T%C3%BCrk%C3%A7e'ye%20%C3%A7evirin%20ve%20%C3%A7evrilen%20sat%C4%B1rlar%C4%B1%20orijinal%20konu%C5%9Fma%20balonlar%C4%B1na%20yerle%C5%9Ftirin.)**
-
----
-
-### No. 198: Eski fotoğraf restorasyon istemi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Kusurları gidererek ve yüzleri yeniden yapılandırarak, orijinal kimliği bozulmadan bırakarak eski, ağır hasarlı bir fotoğrafı onarır.
-
-#### 📝 İstem
-
-```
-Bu eski, ağır hasarlı fotoğrafı tüm görünür çizikleri, ezikleri, katlanmaları ve lekeleri gidererek restore edin. Eksik veya bozuk yüz özelliklerini, kişinin orijinal kimliğini ve ifadelerini koruyarak doğal ve gerçekçi bir şekilde yeniden yapılandırın. Orijinalini koruyun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmpjacAAh4uB.jpg" width="600" alt="Eski fotoğraf restorasyon istemi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QVmplacAM3t34.jpg" width="600" alt="Eski fotoğraf restorasyon istemi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Coffin](https://x.com/coffinxp7)
-- **Kaynak:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20eski%2C%20a%C4%9F%C4%B1r%20hasarl%C4%B1%20foto%C4%9Fraf%C4%B1%20t%C3%BCm%20g%C3%B6r%C3%BCn%C3%BCr%20%C3%A7izikleri%2C%20ezikleri%2C%20katlanmalar%C4%B1%20ve%20lekeleri%20gidererek%20restore%20edin.%20Eksik%20veya%20bozuk%20y%C3%BCz%20%C3%B6zelliklerini%2C%20ki%C5%9Finin%20orijinal%20kimli%C4%9Fini%20ve%20ifadelerini%20koruyarak%20do%C4%9Fal%20ve%20ger%C3%A7ek%C3%A7i%20bir%20%C5%9Fekilde%20yeniden%20yap%C4%B1land%C4%B1r%C4%B1n.%20Orijinalini%20koruyun.)**
-
----
-
-### No. 199: Neon-girl manga sayfa 1 kurulumu
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Neon adlı kız hakkında bir manganın 1. sayfası için, dikey Japonca metin balonları, sağdan sola okuma sırası ve 9:16 en boy oranı belirten bir Japonca istem.
-
-#### 📝 İstem
-
-```
-Lütfen resimdeki kızın, "{argument name="character_name_en" default="Neon"}" yer aldığı aşağıdaki manganın 1. sayfası için görseli oluşturun.
-
-Konuşma balonları dikey olmalıdır.
-Paneller sağdan sola, yukarıdan aşağıya okunur.
-Görseli {argument name="aspect_ratio_en" default="9:16"} boyutunda bir manga görseli yapın.
-
-Başlık: "{argument name="title_en" default="Pırıl Pırıl Açılış! Bu Neon!"}"
-
-Sayfa 1
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-acAMN-Kv.jpg" width="600" alt="Neon-girl manga sayfa 1 kurulumu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8_boAEBl_0.jpg" width="600" alt="Neon-girl manga sayfa 1 kurulumu - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn8-a8AAyvP1.jpg" width="600" alt="Neon-girl manga sayfa 1 kurulumu - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSn9BacAY4Krw.jpg" width="600" alt="Neon-girl manga sayfa 1 kurulumu - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [よはく@0と1のすきま](https://x.com/yohaku_kiroku)
-- **Kaynak:** [Twitter Post](https://x.com/yohaku_kiroku/status/1991738120577118585)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=L%C3%BCtfen%20resimdeki%20k%C4%B1z%C4%B1n%2C%20%22%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Neon%22%7D%22%20yer%20ald%C4%B1%C4%9F%C4%B1%20a%C5%9Fa%C4%9F%C4%B1daki%20mangan%C4%B1n%201.%20sayfas%C4%B1%20i%C3%A7in%20g%C3%B6rseli%20olu%C5%9Fturun.%0A%0AKonu%C5%9Fma%20balonlar%C4%B1%20dikey%20olmal%C4%B1d%C4%B1r.%0APaneller%20sa%C4%9Fdan%20sola%2C%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1ya%20okunur.%0AG%C3%B6rseli%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%229%3A16%22%7D%20boyutunda%20bir%20manga%20g%C3%B6rseli%20yap%C4%B1n.%0A%0ABa%C5%9Fl%C4%B1k%3A%20%22%7Bargument%20name%3D%22title_en%22%20default%3D%22P%C4%B1r%C4%B1l%20P%C4%B1r%C4%B1l%20A%C3%A7%C4%B1l%C4%B1%C5%9F!%20Bu%20Neon!%22%7D%22%0A%0ASayfa%201)**
-
----
-
-### No. 200: Yukarıdan Amatitlán Gölü'nün Stereogramı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Mevcut bir stereogramı taklit eden, güçlü bir derinlik etkisi için dağlarla çevrili Amatitlán Gölü'nü uydu benzeri bir üst görünümden tasvir eden İspanyolca bir bilgi istemi.
-
-#### 📝 İstem
-
-```
-Stereoskopi tekniğini kullanarak aşağıdaki stereogramı taklit edin, ancak {argument name="place_en" default="Amatitlán Gölü"} yukarıdan (uydu görünümü) ve gölü çevreleyen sıradağlarla birlikte derinlik hissi yaratacak şekilde.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="Yukarıdan Amatitlán Gölü'nün Stereogramı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [cr.txt](https://x.com/crstn_hrndz)
-- **Kaynak:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
-- **Yayınlandı:** 21 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Stereoskopi%20tekni%C4%9Fini%20kullanarak%20a%C5%9Fa%C4%9F%C4%B1daki%20stereogram%C4%B1%20taklit%20edin%2C%20ancak%20%7Bargument%20name%3D%22place_en%22%20default%3D%22Amatitl%C3%A1n%20G%C3%B6l%C3%BC%22%7D%20yukar%C4%B1dan%20(uydu%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC)%20ve%20g%C3%B6l%C3%BC%20%C3%A7evreleyen%20s%C4%B1rada%C4%9Flarla%20birlikte%20derinlik%20hissi%20yaratacak%20%C5%9Fekilde.)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 291 burada gösterilmeyen daha fazla istem
+### 🎯 314 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8311,6 +8356,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:22:01.227Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:24:27.984Z</sub>
 
 </div>
