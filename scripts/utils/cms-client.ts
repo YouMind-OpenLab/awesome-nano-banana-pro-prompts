@@ -107,7 +107,7 @@ export interface Prompt {
   description: string;
   content: string;
   translatedContent?: string; // Translated content for current locale
-  sourceLink: string;
+  sourceLink?: string; // Optional source link
   sourcePublishedAt: string;
   sourceMedia: string[];
   video?: {

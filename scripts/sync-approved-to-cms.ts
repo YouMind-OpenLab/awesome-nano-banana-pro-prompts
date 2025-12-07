@@ -8,15 +8,30 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 interface IssueFields {
   prompt_title?: string;
   prompt?: string;
+  need_reference_images?: string; // Boolean field, value from dropdown is string "true" or "false"
+  need_reference_images_?: string; // Field name converted from "Need Reference Images" label
   description?: string;
   image_urls?: string;
+  generated_image_urls?: string; // Field name converted from "Generated Image URLs" label
   author_name?: string;
+  original_author?: string; // Field name converted from "Original Author" label
   author_link?: string;
+  author_profile_link?: string; // Field name converted from "Author Profile Link" label
   source_link?: string;
   language?: string;
+  prompt_language?: string; // Field name converted from "Prompt Language" label
 }
 
-// 语言名称到语言代码的映射
+// Field name mapping: maps label-converted field names to actual field IDs
+const FIELD_NAME_MAP: Record<string, keyof IssueFields> = {
+  'generated_image_urls': 'image_urls',
+  'original_author': 'author_name',
+  'author_profile_link': 'author_link',
+  'prompt_language': 'language',
+  'need_reference_images_': 'need_reference_images', // Converted from "Need Reference Images" label
+};
+
+// Language name to language code mapping
 const LANGUAGE_MAP: Record<string, string> = {
   'English': 'en',
   'Chinese (中文)': 'zh',
@@ -38,6 +53,18 @@ const LANGUAGE_MAP: Record<string, string> = {
 
 function parseLanguage(languageName: string): string {
   return LANGUAGE_MAP[languageName] || 'en';
+}
+
+/**
+ * Clean field value: remove "_No response_" placeholder, return undefined if field is empty or invalid
+ */
+function cleanFieldValue(value: string | undefined): string | undefined {
+  if (!value) return undefined;
+  const trimmed = value.trim();
+  if (trimmed.length === 0 || trimmed === '_No response_') {
+    return undefined;
+  }
+  return trimmed;
 }
 
 async function parseIssue(issueBody: string): Promise<IssueFields> {
@@ -63,7 +90,26 @@ async function parseIssue(issueBody: string): Promise<IssueFields> {
     fields[currentField] = currentValue.join('\n').trim();
   }
 
-  return fields;
+  // Apply field name mapping: map label-converted field names to actual field IDs
+  const mappedFields: IssueFields = {};
+  for (const [key, value] of Object.entries(fields)) {
+    const mappedKey = FIELD_NAME_MAP[key] || key;
+    // Clean field value: unified handling of "_No response_" and empty values
+    const cleanedValue = cleanFieldValue(value);
+    
+    // If mapped field already exists, merge values (prefer mapped field)
+    if (mappedFields[mappedKey as keyof IssueFields] && mappedKey !== key) {
+      mappedFields[mappedKey as keyof IssueFields] = cleanedValue || mappedFields[mappedKey as keyof IssueFields];
+    } else {
+      mappedFields[mappedKey as keyof IssueFields] = cleanedValue;
+    }
+    // Also keep original field name (for compatibility)
+    if (key !== mappedKey) {
+      mappedFields[key as keyof IssueFields] = cleanedValue;
+    }
+  }
+
+  return mappedFields;
 }
 
 async function main() {
@@ -75,14 +121,14 @@ async function main() {
       throw new Error('ISSUE_NUMBER not provided');
     }
 
-    // 获取 Issue 信息以检查标签
+    // Get issue information to check labels
     const issue = await octokit.issues.get({
       owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
       repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
       issue_number: parseInt(issueNumber),
     });
 
-    // 检查是否有 prompt-submission 标签
+    // Check if issue has prompt-submission label
     const hasPromptSubmissionLabel = issue.data.labels.some(
       (label) => {
         const labelName = typeof label === 'string' ? label : label.name;
@@ -99,36 +145,61 @@ async function main() {
 
     const fields = await parseIssue(issueBody);
 
-    // 解析多张图片 URL（每行一个）
-    const imageUrls = (fields.image_urls || '')
+    // Debug: print parsed fields
+    console.log('📝 Parsed fields:', Object.keys(fields));
+    console.log('📝 Field values:', JSON.stringify(fields, null, 2));
+
+    // Parse multiple image URLs (one per line)
+    const imageUrlsText = fields.image_urls || '';
+    const imageUrls = imageUrlsText
       .split('\n')
-      .map(url => url.trim())
-      .filter(url => url.length > 0);
+      .map((url: string) => url.trim())
+      .filter((url: string) => url.length > 0 && url.startsWith('http'));
 
     console.log(`📸 Uploading ${imageUrls.length} image(s) to CMS...`);
     const uploadedImages = await Promise.all(
       imageUrls.map(url => uploadImageToCMS(url))
     );
 
-    // 检查 CMS 中是否已经存在该 issue 的记录
+    // Check if issue record already exists in CMS
     const existingPrompt = await findPromptByGitHubIssue(issueNumber);
     
-    const promptData = {
+    // Build author object, only include link if it has a value
+    const author: { name: string; link?: string } = {
+      name: fields.author_name || '',
+    };
+    if (fields.author_link) {
+      author.link = fields.author_link;
+    }
+
+    // Build promptData, field values have been cleaned in parseIssue
+    const promptData: Partial<Prompt> = {
       title: fields.prompt_title || '',
       content: fields.prompt || '',
       description: fields.description || '',
-      sourceLink: fields.source_link || '',
       sourceMedia: uploadedImages,
-      author: {
-        name: fields.author_name || '',
-        link: fields.author_link || '',
-      },
-      language: parseLanguage(fields.language || 'English'),
+      author,
+      language: parseLanguage(fields.language || fields.prompt_language || 'English'),
       sourcePublishedAt: issue.data.created_at,
       sourceMeta: {
         github_issue: issueNumber,
       },
     };
+
+    // Only include source_link if it has a value (already cleaned in parseIssue)
+    if (fields.source_link) {
+      promptData.sourceLink = fields.source_link;
+    }
+
+    // Process need_reference_images field: convert string "true"/"false" to boolean
+    if (fields.need_reference_images) {
+      const needReferenceImages = fields.need_reference_images.toLowerCase() === 'true';
+      // Store boolean value in sourceMeta, or add directly to field if CMS API supports it
+      promptData.sourceMeta = {
+        ...promptData.sourceMeta,
+        needReferenceImages,
+      };
+    }
 
     let prompt: Prompt | null;
     if (existingPrompt) {
