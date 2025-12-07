@@ -88,9 +88,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **628** |
+| 📝 Toplam İstem | **629** |
 | ⭐ Öne Çıkan | **14** |
-| 🔄 Son Güncelleme | **7 Aralık 2025 Pazar 05:06:45 UTC** |
+| 🔄 Son Güncelleme | **7 Aralık 2025 Pazar 05:17:56 UTC** |
 
 </div>
 
@@ -757,7 +757,46 @@ Küçük ölçekli bir zeytinyağı markası için sosyal medya akışı oluştu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Makoto Shinkai tarzı sinematik gökyüzü arka plan illüstrasyonu
+### No. 1: test prompt title
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+test desc
+
+#### 📝 İstem
+
+```
+test prompt
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765084308508_pt9mr5_G7FuPlzbYAAsuo2.jpg" width="600" alt="test prompt title - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765084309398_mp5rab_G7UUTHTbgAIrtbn.jpg" width="600" alt="test prompt title - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jaredddd](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](https://x.com/jaredliu_bravo/status/1991918514752667782)
+- **Yayınlandı:** 7 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=test%20prompt)**
+
+---
+
+### No. 2: Makoto Shinkai tarzı sinematik gökyüzü arka plan illüstrasyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -805,7 +844,7 @@ Genel renk net ve doygun olmalı, ancak sert olmamalı. Işık ve gölge arasın
 
 ---
 
-### No. 2: Özel bir chuunibyou karakteri için Persona 5 esintili pop-art anime posteri
+### No. 3: Özel bir chuunibyou karakteri için Persona 5 esintili pop-art anime posteri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -855,7 +894,7 @@ Genel ruh hali son derece dinamik, son derece chuunibyou ve son derece havalı o
 
 ---
 
-### No. 3: Kompakt dijital kamera ekranı portre istemi
+### No. 4: Kompakt dijital kamera ekranı portre istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -912,7 +951,7 @@ Renk derecelendirme stili: {argument name="color grading style" default="nostalj
 
 ---
 
-### No. 4: Nano Banana Pro ile film karakterleriyle balık gözü selfie
+### No. 5: Nano Banana Pro ile film karakterleriyle balık gözü selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -968,7 +1007,7 @@ Aydınlatma ve Doku: Konuların arkasında sert gölgeler oluşturan sert, doğr
 
 ---
 
-### No. 5: Y2K tarzı el yazısı kız kartı yerleşimi istemi
+### No. 6: Y2K tarzı el yazısı kız kartı yerleşimi istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1008,7 +1047,7 @@ POSCA kalemlerle yazılmış bir kızın tarzında ilginç, elle çizilmiş meti
 
 ---
 
-### No. 6: Basit Noel köpeği ve Noel Baba görsel istemi
+### No. 7: Basit Noel köpeği ve Noel Baba görsel istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1054,7 +1093,7 @@ Birden fazla modelde, elinde köpek tutan Noel Baba görseli oluşturmak için k
 
 ---
 
-### No. 7: Macho Meal McDonald's reklamı için Sora video istemi
+### No. 8: Macho Meal McDonald's reklamı için Sora video istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1094,7 +1133,7 @@ Macho Man Randy Savage'ın bir Macho Meal Happy Meal'ı tanıttığı, otantik g
 
 ---
 
-### No. 8: Çift MacBook ekranı selfie simülasyon istemi
+### No. 9: Çift MacBook ekranı selfie simülasyon istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1193,7 +1232,7 @@ Belirli bir çiftin Photo Booth özçekimini gösteren, fiziksel ekran kusurlar�
 
 ---
 
-### No. 9: Nano Banana Pro için Japon izakaya giriş tabelası görsel istemi
+### No. 10: Nano Banana Pro için Japon izakaya giriş tabelası görsel istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1275,7 @@ fotogerçekçi kalite
 
 ---
 
-### No. 10: Üç pozlu anime kız tutarlılığı istemi
+### No. 11: Üç pozlu anime kız tutarlılığı istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1276,7 +1315,7 @@ Aynı kızın üç farklı pozda, tutarlı yüz, oranlar, temiz çizgi sanatı v
 
 ---
 
-### No. 11: Bir görselden ifade stil rehberi
+### No. 12: Bir görselden ifade stil rehberi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1315,7 +1354,7 @@ Görsel için bir karakter tasarımı ifade stil rehberi oluşturun
 
 ---
 
-### No. 12: 3D kağıt kesme ışık kutusu illüstrasyon çerçevesi
+### No. 13: 3D kağıt kesme ışık kutusu illüstrasyon çerçevesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1396,7 +1435,7 @@ Teknik parametreler: dikey 3:4 oranı, yüksek çözünürlüklü çıktı.
 
 ---
 
-### No. 13: Málaga'da fotogerçekçi iPhone sokak kafe sahnesi
+### No. 14: Málaga'da fotogerçekçi iPhone sokak kafe sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1436,7 +1475,7 @@ Plaza de la Constitución, {argument name="city" default="Málaga"}'da, {argumen
 
 ---
 
-### No. 14: Yeşil gözlü ve örgü kazaklı sinematik yakın plan portre
+### No. 15: Yeşil gözlü ve örgü kazaklı sinematik yakın plan portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1469,7 +1508,7 @@ Koyu, dağınık kakülleri ve çarpıcı yeşil gözleri olan genç bir kadın�
 
 ---
 
-### No. 15: GoPro tarzı ekstrem sporları selfie istemi
+### No. 16: GoPro tarzı ekstrem sporları selfie istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1509,7 +1548,7 @@ Turuncu tulum ve kask giymiş {argument name="subject in english" default="bu ya
 
 ---
 
-### No. 16: Paris Marais kafe terası portre istemi
+### No. 17: Paris Marais kafe terası portre istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1549,7 +1588,7 @@ Mart {argument name="year in english" default="2025"} Çarşamba sabahı {argume
 
 ---
 
-### No. 17: Kahverengi mini elbiseli zarif kadın portre istemi
+### No. 18: Kahverengi mini elbiseli zarif kadın portre istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1590,7 +1629,7 @@ Loş, sıcak bir iç mekanda, açık kahverengi mini elbiseli, kendine güvenen 
 
 ---
 
-### No. 18: Altın saat çatı katı portre fotoğrafçılığı istemi
+### No. 19: Altın saat çatı katı portre fotoğrafçılığı istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1629,7 +1668,7 @@ Altın saatlerde bir şehir çatısında duran bir kişi, yüzünü saran sıcak
 
 ---
 
-### No. 19: Nano Banana Pro yırtık kağıt tarzı değiştirme düzenleme istemi
+### No. 20: Nano Banana Pro yırtık kağıt tarzı değiştirme düzenleme istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1745,7 +1784,7 @@ interior_style:
 
 ---
 
-### No. 20: Nano Banana Pro meme tarzı giyim kesim çizgileri illüstrasyon istemi
+### No. 21: Nano Banana Pro meme tarzı giyim kesim çizgileri illüstrasyon istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1815,7 +1854,7 @@ Kullanıcı tarafından yüklenen bir karakter görseline referansla, sadece tas
 
 ---
 
-### No. 21: Nano Banana Pro için kar küresi karakter illüstrasyonu istemi
+### No. 22: Nano Banana Pro için kar küresi karakter illüstrasyonu istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1875,7 +1914,7 @@ Kar küresi, biraz daha geride bir mum bulunan sıcak ahşap bir masanın üzeri
 
 ---
 
-### No. 22: Nano Banana Pro için normal ve derinlik haritası oluşturma istemleri
+### No. 23: Nano Banana Pro için normal ve derinlik haritası oluşturma istemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1934,7 +1973,7 @@ Gereksinimler:
 
 ---
 
-### No. 23: Basit fotoğraf büyütme ve onarım istemi
+### No. 24: Basit fotoğraf büyütme ve onarım istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1973,7 +2012,7 @@ Fotoğrafı onarın, bu görüntüyü 2K çözünürlüğe yükseltin ve tamamen
 
 ---
 
-### No. 24: NotebookLM için sade ve düz slayt tasarım stil rehberi
+### No. 25: NotebookLM için sade ve düz slayt tasarım stil rehberi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2030,7 +2069,7 @@ Okunabilirliği ve dengeli kompozisyonu ön planda tutmak için bol miktarda bey
 
 ---
 
-### No. 25: Şık genç bir kadın için ayna selfie'si slayt gösterisi istemi
+### No. 26: Şık genç bir kadın için ayna selfie'si slayt gösterisi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2130,7 +2169,7 @@ Sosyal medya tarzı dikey görüntüler için ideal olan, genç bir kadının de
 
 ---
 
-### No. 26: Çizgi film drone tarzı Google Haritalar havadan illüstrasyon istemi
+### No. 27: Çizgi film drone tarzı Google Haritalar havadan illüstrasyon istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2169,7 +2208,7 @@ Bu hava haritası görünümünü, yukarıdan çekilmiş resimli bir hava fotoğ
 
 ---
 
-### No. 27: Loş bir odada genç bir kadının alçak açılı stilize portresi
+### No. 28: Loş bir odada genç bir kadının alçak açılı stilize portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2264,7 +2303,7 @@ Gemini Nano Banana Pro için, loş, sıcak, mor tonlu bir odada genç bir kadın
 
 ---
 
-### No. 28: Battaniyenin üzerinde hayallere dalmış bir kızın ultra gerçekçi 16K selfie düzenlemesi
+### No. 29: Battaniyenin üzerinde hayallere dalmış bir kızın ultra gerçekçi 16K selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2298,7 +2337,7 @@ Fotoğrafı ultra gerçekçi 16K çözünürlükte düzenleyin. {argument name="
 
 ---
 
-### No. 29: Son derece detaylı 8K sabah natürmort masa sahnesi istemi
+### No. 30: Son derece detaylı 8K sabah natürmort masa sahnesi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2343,7 +2382,7 @@ Maksimum doku detayı, yüzey altı saçılımı, kostikler, gerektiğinde keski
 
 ---
 
-### No. 30: Erkek bir denek için stüdyo portresi parametre tarzı istemi
+### No. 31: Erkek bir denek için stüdyo portresi parametre tarzı istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,7 +2447,7 @@ render kalitesi = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 31: Tokyo pop-up atlas sahnesi için ürün fotoğrafçılığı istemi
+### No. 32: Tokyo pop-up atlas sahnesi için ürün fotoğrafçılığı istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2442,7 +2481,7 @@ Açık bir ciltli atlas düz bir şekilde duruyor ve {argument name="map region"
 
 ---
 
-### No. 32: Ultra gerçekçi iPhone tarzı yapay zeka etkileyicileri için sistem JSON istem şablonu
+### No. 33: Ultra gerçekçi iPhone tarzı yapay zeka etkileyicileri için sistem JSON istem şablonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2550,7 +2589,7 @@ Kullanıcının sahne açıklamasını bekleyin. JSON çıktısını hemen oluş
 
 ---
 
-### No. 33: Steampunk botanikçi çalışma tezgahı için JSON Nano Banana Pro istemi
+### No. 34: Steampunk botanikçi çalışma tezgahı için JSON Nano Banana Pro istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2600,7 +2639,7 @@ Viktorya dönemi steampunk bir botanikçinin çalışma tezgahının, parlayan b
 
 ---
 
-### No. 34: Sebzelerle-harf-yazma meydan okuması istemi
+### No. 35: Sebzelerle-harf-yazma meydan okuması istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2634,7 +2673,7 @@ Yalnızca sebze dokularını kullanarak {argument name="word in English" default
 
 ---
 
-### No. 35: Genç bir kadının şık sokak giyimi portresi için yapılandırılmış JSON istemi
+### No. 36: Genç bir kadının şık sokak giyimi portresi için yapılandırılmış JSON istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2707,7 +2746,7 @@ Nano Banana Pro için, dış mekan kentsel bir arka planda, gündelik ve şık g
 
 ---
 
-### No. 36: 3D chibi minyatür seyahat noktası konsept istemi
+### No. 37: 3D chibi minyatür seyahat noktası konsept istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2759,7 +2798,7 @@ Nano Banana Pro için, dış mekan kentsel bir arka planda, gündelik ve şık g
 
 ---
 
-### No. 37: 3D chibi konsept mağaza marka istemi
+### No. 38: 3D chibi konsept mağaza marka istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2792,7 +2831,7 @@ Belirli bir marka adı etrafında temalı, 3 boyutlu chibi tarzı minyatür bir 
 
 ---
 
-### No. 38: Bir referans görselini gerçekçi bir Noel pastasına dönüştürün
+### No. 39: Bir referans görselini gerçekçi bir Noel pastasına dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2837,7 +2876,7 @@ Lütfen referans görselini gerçekçi bir Noel pastasına dönüştürün.
 
 ---
 
-### No. 39: Uzay nesnesi temalı sinematik göl kenarı asılı sandalye konsepti istemi
+### No. 40: Uzay nesnesi temalı sinematik göl kenarı asılı sandalye konsepti istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2889,7 +2928,7 @@ Sakin bir göl kenarında, rahat bir açık hava inziva yerinin sinematik gece s
 
 ---
 
-### No. 40: Doğal Instagram tarzı araba selfie'si istemi
+### No. 41: Doğal Instagram tarzı araba selfie'si istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2937,7 +2976,7 @@ Renkler: parlak, havadar ve hafif sıcak tonlu. Yüz ve üst vücut keskin bir �
 
 ---
 
-### No. 41: Şafakta devasa savaş gemisi illüstrasyon istemi
+### No. 42: Şafakta devasa savaş gemisi illüstrasyon istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2970,7 +3009,7 @@ Renkler: parlak, havadar ve hafif sıcak tonlu. Yüz ve üst vücut keskin bir �
 
 ---
 
-### No. 42: Monokrom arka plan üzerinde 3D kabartmalı marka logosu
+### No. 43: Monokrom arka plan üzerinde 3D kabartmalı marka logosu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3012,7 +3051,7 @@ Yuvarlak köşelerde güçlü yansımalı vurgularla yumuşak dağınık aydınl
 
 ---
 
-### No. 43: Gerçekçi yüzler için JSON tarzı Nano Banana Pro istemi
+### No. 44: Gerçekçi yüzler için JSON tarzı Nano Banana Pro istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3080,7 +3119,7 @@ Nano Banana Pro için, bir kızın çerçevelemesi, ortamı, aydınlatması, kam
 
 ---
 
-### No. 44: Sepetteki üzümlerin basit görsel istemi
+### No. 45: Sepetteki üzümlerin basit görsel istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3120,7 +3159,7 @@ Model kalitesini karşılaştırmak için kullanılan, asma dallarından yapılm
 
 ---
 
-### No. 45: Zeytinyağı sosyal medya akışı oluşturma istemi
+### No. 46: Zeytinyağı sosyal medya akışı oluşturma istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3154,7 +3193,7 @@ Bu {argument name="brand type in English" default="küçük ölçekli zeytinyağ
 
 ---
 
-### No. 46: 3D chibi minyatür marka konsept mağazası istemi
+### No. 47: 3D chibi minyatür marka konsept mağazası istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3206,7 +3245,7 @@ Herhangi bir marka için, imza ürünlerine, renklerine ve minik figürlerle rah
 
 ---
 
-### No. 47: Nano Banana Pro için reklam değiştirme ve marka uyarlama istemi
+### No. 48: Nano Banana Pro için reklam değiştirme ve marka uyarlama istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3264,7 +3303,7 @@ Son kompozisyonun orijinal reklam konseptine uygun hissettirdiğinden ancak mark
 
 ---
 
-### No. 48: Nano Banana Pro'da referans yüzü kullanarak film karakteriyle selfie çekme
+### No. 49: Nano Banana Pro'da referans yüzü kullanarak film karakteriyle selfie çekme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3318,7 +3357,7 @@ Kişiyi referans görselde gösterildiği gibi, %100 aynı yüz hatları, kemik 
 
 ---
 
-### No. 49: Nano Banana Pro için boyama kitabı çizgi sanatı istemi
+### No. 50: Nano Banana Pro için boyama kitabı çizgi sanatı istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3370,7 +3409,7 @@ Bir boyama sayfası için çizgi sanatı oluşturun. Hedef yaş {argument name="
 
 ---
 
-### No. 50: Kolombiya, Pereira'da geçen eski bir kitapta ortaçağ kış sahnesi
+### No. 51: Kolombiya, Pereira'da geçen eski bir kitapta ortaçağ kış sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3406,7 +3445,7 @@ Eski bir kitabın içinde ortaçağdan kalma bir kış sahnesi tasarla
 
 ---
 
-### No. 51: Nano Banana Pro / Gemini için Rorona tarzı sabit karakter istemi
+### No. 52: Nano Banana Pro / Gemini için Rorona tarzı sabit karakter istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3450,7 +3489,7 @@ tutarlı karakter, her karede aynı yüz,
 
 ---
 
-### No. 52: Şehrin en uzun binaları 3D çizgi film sergisi istemi
+### No. 53: Şehrin en uzun binaları 3D çizgi film sergisi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3499,7 +3538,7 @@ Kare 1080×1080 bir kompozisyon kullanın. Temiz, nötr bir arka plan kullanın.
 
 ---
 
-### No. 53: 20. yüzyıl ortası savaş foto muhabirliği tarzı çerçevesi
+### No. 54: 20. yüzyıl ortası savaş foto muhabirliği tarzı çerçevesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3556,7 +3595,7 @@ Push-processed edilmiş, yüksek hızlı, kaba taneli siyah-beyaz filmi simüle 
 
 ---
 
-### No. 54: Tarihi ünlüler selfie sahnesi istemi (Michael Jackson ve George W. Bush)
+### No. 55: Tarihi ünlüler selfie sahnesi istemi (Michael Jackson ve George W. Bush)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3590,7 +3629,7 @@ Push-processed edilmiş, yüksek hızlı, kaba taneli siyah-beyaz filmi simüle 
 
 ---
 
-### No. 55: Nano Banana Pro için 9'lu ızgara Instagram portre varyasyonu istemi
+### No. 56: Nano Banana Pro için 9'lu ızgara Instagram portre varyasyonu istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3630,7 +3669,7 @@ Yalnızca 3×3 ızgara için gereken {argument name="final number of outputs" de
 
 ---
 
-### No. 56: Nano Banana Pro için yatakta selfie JSON istemi
+### No. 57: Nano Banana Pro için yatakta selfie JSON istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3721,7 +3760,7 @@ Yatakta uzanmış, selfie çeken genç bir kadını betimleyen, özne, kıyafet,
 
 ---
 
-### No. 57: Viral Küçük Resim: Heyecanla işaret eden, avokado tost, "3 Dakikada Bitti!"
+### No. 58: Viral Küçük Resim: Heyecanla işaret eden, avokado tost, "3 Dakikada Bitti!"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3767,7 +3806,7 @@ Görsel 1'deki kişiyi kullanarak viral bir video küçük resmi tasarlayın. Y�
 
 ---
 
-### No. 58: Nano Banana Pro için kafe randevusu POV profil fotoğrafı istemi
+### No. 59: Nano Banana Pro için kafe randevusu POV profil fotoğrafı istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +3900,7 @@ Bir yüz fotoğrafından gerçekçi, sevgili adayı bir kafe randevusu POV profi
 
 ---
 
-### No. 59: Nano Banana Pro için JSON araç içi ayna istemi
+### No. 60: Nano Banana Pro için JSON araç içi ayna istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3929,7 +3968,7 @@ Bir arabanın yan aynasına yansıyan genç bir kadının ultra gerçekçi bir s
 
 ---
 
-### No. 60: Nano Banana Pro için minimalist, düşünceli iskele sahnesi istemi
+### No. 61: Nano Banana Pro için minimalist, düşünceli iskele sahnesi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3963,7 +4002,7 @@ Yalnız bir kişinin iskelede olduğu, minimal, gerçekçi bir şafak sahnesi i�
 
 ---
 
-### No. 61: Nano Banana Pro için aziz ve iblis ikili karakter istemi
+### No. 62: Nano Banana Pro için aziz ve iblis ikili karakter istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4013,7 +4052,7 @@ Azize: {argument name="saint style" default="fantastik azize, cel-shaded ama sin
 
 ---
 
-### No. 62: Nano Banana Pro için Mevsimlik Orman Kolajı Karakter İstemleri
+### No. 63: Nano Banana Pro için Mevsimlik Orman Kolajı Karakter İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4047,7 +4086,7 @@ Bir karakteri, {argument name="types of plants" default="bitki ve yaprak fotoğr
 
 ---
 
-### No. 63: Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi
+### No. 64: Nano Banana Pro için 9'lu ızgara Japon fotoğraf kitabı düzeni istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4099,7 +4138,7 @@ Gündüzden geceye uzanan bir anlatıya, tutarlı bir karaktere, stilize edilmi�
 
 ---
 
-### No. 64: Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın
+### No. 65: Nano Banana Pro ile 3x3 resim ızgarasından tek bir panel çıkarın
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4145,7 +4184,7 @@ Lütfen {argument name="target row" default="2"} satırındaki, {argument name="
 
 ---
 
-### No. 65: Direct flash gamer girl Nano Banana Pro JSON etiketi istemi
+### No. 66: Direct flash gamer girl Nano Banana Pro JSON etiketi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4197,7 +4236,7 @@ Retro oyun odası fotoğraf estetiği için ideal olan, etiket ve açıklayıcı
 
 ---
 
-### No. 66: İki aşamalı Nano Banana Pro görüntü iyileştirme istemi
+### No. 67: İki aşamalı Nano Banana Pro görüntü iyileştirme istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4239,7 +4278,7 @@ Nano Banana Pro için basit, iki adımlı bir iş akışı istemi: önce detayl�
 
 ---
 
-### No. 67: 12 görselli Instagram akışı karakter estetiği istemi
+### No. 68: 12 görselli Instagram akışı karakter estetiği istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4279,7 +4318,7 @@ Bu karakter için aynı estetikle {argument name="image count" default="12"} gö
 
 ---
 
-### No. 68: Samimi yatak odası portresi istem yapısı
+### No. 69: Samimi yatak odası portresi istem yapısı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4312,7 +4351,7 @@ Yumuşak ışıklı bir yatak odasında, neredeyse kare formatta çekilmiş yük
 
 ---
 
-### No. 69: Nano Banana Pro için sinematik yatak odası otoportre istemi
+### No. 70: Nano Banana Pro için sinematik yatak odası otoportre istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4372,7 +4411,7 @@ Minimalist modern bir yatağın kenarında bir kadın oturuyor. Uzun koyu dalgal
 
 ---
 
-### No. 70: Nano Banana Pro için keçe oyuncak karakter istemi
+### No. 71: Nano Banana Pro için keçe oyuncak karakter istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4426,7 +4465,7 @@ Tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="a
 
 ---
 
-### No. 71: Nano Banana Pro için mürekkep resim yalnız tekne istemi
+### No. 72: Nano Banana Pro için mürekkep resim yalnız tekne istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4460,7 +4499,7 @@ Siyah beyaz mürekkep resim stili, boş alanın şiirsel kullanımı, {argument 
 
 ---
 
-### No. 72: Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor
+### No. 73: Ortaokul öğrencisi tarih ders kitabının sayfalarına karalamalar yapıyor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4511,7 +4550,7 @@ Japon ortaokul öğrencilerinin kullandığı bir tarih ders kitabından bir say
 
 ---
 
-### No. 73: Sinematik yağmurlu şehir sahnesi JSON istemi
+### No. 74: Sinematik yağmurlu şehir sahnesi JSON istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4550,7 +4589,7 @@ Sinematik, hareket bulanıklığına sahip, yoğun yağmur altındaki kasvetli b
 
 ---
 
-### No. 74: Tek bir girdi görüntüsünden 3×3 sinematik storyboard kontakt sayfası
+### No. 75: Tek bir girdi görüntüsünden 3×3 sinematik storyboard kontakt sayfası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4629,7 +4668,7 @@ Tüm kareler foto-gerçekçi dokulara, tutarlı sinematik renk derecelendirmesin
 
 ---
 
-### No. 75: Nano Banana Pro için profesyonel profil fotoğrafı istemi
+### No. 76: Nano Banana Pro için profesyonel profil fotoğrafı istemi
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4669,7 +4708,7 @@ Giriş görüntüsündeki kişinin tam yüz yapısını, kimliğini ve temel öz
 
 ---
 
-### No. 76: Görseller ve Diyagramlar için YAML İstemi Dönüştürme
+### No. 77: Görseller ve Diyagramlar için YAML İstemi Dönüştürme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4702,7 +4741,7 @@ Bunu, görsel boyutu ve tüm görsel ayrıntıları içeren bir YAML istemine d�
 
 ---
 
-### No. 77: Referansla eşleşen kadın portresi JSON istemi
+### No. 78: Referansla eşleşen kadın portresi JSON istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4743,7 +4782,7 @@ Bir kadını referans görseldekiyle tamamen aynı şekilde yeniden yaratmaya od
 
 ---
 
-### No. 78: Lüks deniz kenarı otel terası portre istemi
+### No. 79: Lüks deniz kenarı otel terası portre istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4845,7 +4884,7 @@ Lüks bir deniz kenarı otel terasında akşam yemeği yiyen bir kadının ultra
 
 ---
 
-### No. 79: Eski fotoğrafları modern dijital portreye dönüştürme
+### No. 80: Eski fotoğrafları modern dijital portreye dönüştürme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4898,7 +4937,7 @@ Canlı renkler, narin ve gerçekçi cilt dokuları ve doğal aydınlatma ile mod
 
 ---
 
-### No. 80: Bir görselden siyah beyaz storyboard'lar oluşturun
+### No. 81: Bir görselden siyah beyaz storyboard'lar oluşturun
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4939,7 +4978,7 @@ Toplamda yaklaşık dört panel.
 
 ---
 
-### No. 81: Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi
+### No. 82: Referans bir kişi kullanarak Cheki tarzı idol fotoğrafı istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4991,7 +5030,7 @@ Lütfen ekteki görseldeki kişiyi kullanın. Adı {argument name="name" default
 
 ---
 
-### No. 82: Nano Banana Pro için Glassmorphism SaaS tarzı PPT tasarım istemi
+### No. 83: Nano Banana Pro için Glassmorphism SaaS tarzı PPT tasarım istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5038,7 +5077,7 @@ Render kalitesi gereksinimleri: Unreal Engine 5 render'ı, 8K çözünürlük, u
 
 ---
 
-### No. 83: Rüzgarda savrulan saç fiziği düzenleme istemi
+### No. 84: Rüzgarda savrulan saç fiziği düzenleme istemi
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -5089,7 +5128,7 @@ Saçların rüzgarda dalgalanmasını sağlayın.
 
 ---
 
-### No. 84: Enerji alanı bariyeri VFX ve poz ayarlaması YAML istemi
+### No. 85: Enerji alanı bariyeri VFX ve poz ayarlaması YAML istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5208,7 +5247,7 @@ composition:
 
 ---
 
-### No. 85: Ürün eskizinden son oluşturma istemine
+### No. 86: Ürün eskizinden son oluşturma istemine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5241,7 +5280,7 @@ Bu taslağı nihai, seri üretilmiş bir ürün olarak render'la. Stüdyo aydın
 
 ---
 
-### No. 86: Nano Banana Pro için Dikey Ultra Yüksek Detaylı Görüntü Kurulumu
+### No. 87: Nano Banana Pro için Dikey Ultra Yüksek Detaylı Görüntü Kurulumu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5294,7 +5333,7 @@ Nano Banana Pro için uzun, dikey 8K tuval ve ultra yüksek detay belirten, JSON
 
 ---
 
-### No. 87: Küçük metin testi istemi içeren ambalaj maketi
+### No. 88: Küçük metin testi istemi içeren ambalaj maketi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5327,7 +5366,7 @@ Bitkisel çay kutusu için, doğru besin etiketi, barkod ve küçük puntolu dem
 
 ---
 
-### No. 88: Katı fotogerçekçilik kısıtlamaları Nano Banana Pro'yu gerektiriyor
+### No. 89: Katı fotogerçekçilik kısıtlamaları Nano Banana Pro'yu gerektiriyor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5373,7 +5412,7 @@ Nano Banana Pro için katı proje kısıtlamalarını tanımlayan, saf fotogerç
 
 ---
 
-### No. 89: Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin
+### No. 90: Belirtilen GPS koordinatlarıyla fotoğrafları kötü gösterin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5425,7 +5464,7 @@ Bunu, enlem ve boylam {argument name="latitude and longitude" default="35.317217
 
 ---
 
-### No. 90: Verilen karakter ve hikayeden Moe tarzı tam renkli manga
+### No. 91: Verilen karakter ve hikayeden Moe tarzı tam renkli manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5479,7 +5518,7 @@ Yasaklananlar:
 
 ---
 
-### No. 91: Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi
+### No. 92: Düşük kaliteli tek kullanımlık kamera lise anlık fotoğraf istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5530,7 +5569,7 @@ Düşük kaliteli tek kullanımlık bir kamerayla çekilmiş sıradan bir fotoğ
 
 ---
 
-### No. 92: Kabin taslağını perspektif çizime dönüştürün
+### No. 93: Kabin taslağını perspektif çizime dönüştürün
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5569,7 +5608,7 @@ Bir sergi standının kaba taslağından perspektif çizimi oluşturun.
 
 ---
 
-### No. 93: Nano Banana Pro için yoga matında bir kadının spor salonu selfie portresi
+### No. 94: Nano Banana Pro için yoga matında bir kadının spor salonu selfie portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5670,7 +5709,7 @@ Modern bir spor salonunda, antrenman sonrası yoga matında oturan, terini silen
 
 ---
 
-### No. 94: Ürününüzü ve marka estetiğinizi kullanarak reklam yeniden oluşturma istemi
+### No. 95: Ürününüzü ve marka estetiğinizi kullanarak reklam yeniden oluşturma istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5712,7 +5751,7 @@ Rakip ürün yerine {argument name="your product" default="ürünüm"} kullanara
 
 ---
 
-### No. 95: Y2K flaş gece araba çift portresi istemi
+### No. 96: Y2K flaş gece araba çift portresi istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5790,7 +5829,7 @@ Kimlik koruması, belirli pozlama, kıyafet, aydınlatma ve çevre ayarlarıyla,
 
 ---
 
-### No. 96: Tek bir görüntüden yatay üç panelli duygusal portre
+### No. 97: Tek bir görüntüden yatay üç panelli duygusal portre
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5847,7 +5886,7 @@ Baştan boyuna kadar yandan yakın çekim.
 
 ---
 
-### No. 97: Anthropic tarzı sıcak akademik PPT iş akışı istemi
+### No. 98: Anthropic tarzı sıcak akademik PPT iş akışı istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5893,7 +5932,7 @@ Makale içeriği şöyledir:
 
 ---
 
-### No. 98: Nano Banana Pro için kimlik fotoğrafı oluşturma istemi
+### No. 99: Nano Banana Pro için kimlik fotoğrafı oluşturma istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5943,7 +5982,7 @@ Görüntüdeki kişinin kafasını kırpın ve aşağıdaki gereksinimlerle 2 in
 
 ---
 
-### No. 99: Vintage Polaroid kolaj portre istemi
+### No. 100: Vintage Polaroid kolaj portre istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5985,7 +6024,7 @@ Mekan, 1970'lerin moda dergilerinin unsurlarını, yumuşak dağınık aydınlat
 
 ---
 
-### No. 100: Belirli koordinatlarda tarihi an (1994)
+### No. 101: Belirli koordinatlarda tarihi an (1994)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6019,7 +6058,7 @@ Tarihi yeniden yapılandırmalar için ideal olan, enlem, boylam ve kesin bir za
 
 ---
 
-### No. 101: Çocuklar için kil animasyonu günü aşamaları infografiği
+### No. 102: Çocuklar için kil animasyonu günü aşamaları infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6053,7 +6092,7 @@ Geniş, etkileyici ağızlar, oynak gözler ve büyüleyici bir mizah anlayış�
 
 ---
 
-### No. 102: F1 VIP hayranı hiper gerçekçi selfie düzenlemesi
+### No. 103: F1 VIP hayranı hiper gerçekçi selfie düzenlemesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6124,7 +6163,7 @@ Kalite: 8K hiper-gerçekçi fotoğraf, yüz ve kıyafet üzerinde keskin odak, r
 
 ---
 
-### No. 103: LINE tarzı Q-versiyon emoji portre ızgarası
+### No. 104: LINE tarzı Q-versiyon emoji portre ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6175,7 +6214,7 @@ Son görsel, {argument name="aspect_ratio_en" default="16:9"} en boy oranına sa
 
 ---
 
-### No. 104: Koordinatlar ve tarih içeren zaman yolculuğu sahnesi
+### No. 105: Koordinatlar ve tarih içeren zaman yolculuğu sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6209,7 +6248,7 @@ Aşağıdaki ana denk gelen bir görsel oluşturun: {argument name="coordinates_
 
 ---
 
-### No. 105: Elle çizilmiş izometrik simge şeması
+### No. 106: Elle çizilmiş izometrik simge şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6243,7 +6282,7 @@ Kare formatında, el çizimi izometrik dönüm noktası diyagramları oluşturma
 
 ---
 
-### No. 106: Bir kadının sinematik siyah beyaz portresi
+### No. 107: Bir kadının sinematik siyah beyaz portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6282,7 +6321,7 @@ Uzun, koyu renk saçlı genç bir kadının, referans görseldeki öznenin yüz 
 
 ---
 
-### No. 107: Buzdolabı taraması tarif infografiği
+### No. 108: Buzdolabı taraması tarif infografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6322,7 +6361,7 @@ Buzdolabının içindekileri basit, adım adım bir yemek tarifi infografiğine 
 
 ---
 
-### No. 108: Knolling tarzı patlatılmış düz çekim fotoğrafı
+### No. 109: Knolling tarzı patlatılmış düz çekim fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6356,7 +6395,7 @@ Kesin knolling tarzında ultra gerçekçi 8K düz çekim fotoğraf. Ekteki görs
 
 ---
 
-### No. 109: Ferrari istemiyle samimi gece sokağı portresi
+### No. 110: Ferrari istemiyle samimi gece sokağı portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6455,7 +6494,7 @@ Sarı bir Ferrari'ye yaslanmış bir kişinin, ayrıntılı aydınlatma, kıyafe
 
 ---
 
-### No. 110: Genç bir adamın İsviçre Alp kış portresi
+### No. 111: Genç bir adamın İsviçre Alp kış portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6498,7 +6537,7 @@ Stil: editoryal seyahat portresi, hiper-gerçekçilik, yüksek dinamik aralık, 
 
 ---
 
-### No. 111: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
+### No. 112: Bir kahramanın Marvel tarzı çizgi roman storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6537,7 +6576,7 @@ Canlı renklerde, Marvel tarzında birkaç çizgi roman paneli. Kırmızı peler
 
 ---
 
-### No. 112: Referans fotoğraflarından sinematik çatı katı portresi
+### No. 113: Referans fotoğraflarından sinematik çatı katı portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6576,7 +6615,7 @@ Ekli görseldeki adamın (kendimin 2 fotoğrafını yüklüyorum) altın saatler
 
 ---
 
-### No. 113: Mevcut bir görüntünün çizgi film versiyonu
+### No. 114: Mevcut bir görüntünün çizgi film versiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6609,7 +6648,7 @@ Bu görüntünün çizgi film versiyonunu oluşturun. Görüntünün tutarlılı
 
 ---
 
-### No. 114: Bir cihazın teknik patlatılmış görünüm şeması
+### No. 115: Bir cihazın teknik patlatılmış görünüm şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6643,7 +6682,7 @@ Kare formatta herhangi bir konunun etiketli patlatılmış görünüm diyagramla
 
 ---
 
-### No. 115: Fütüristik yüz yaş kontrolü infografik portresi
+### No. 116: Fütüristik yüz yaş kontrolü infografik portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6702,7 +6741,7 @@ Genel stil: fütüristik yapay zeka destekli cilt bakımı analizi, minimalist, 
 
 ---
 
-### No. 116: Manga Tarzı Çin Çizgi Romanı Hikaye Tahtası Oluşturucu
+### No. 117: Manga Tarzı Çin Çizgi Romanı Hikaye Tahtası Oluşturucu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6743,7 +6782,7 @@ Analiz çıktısı vermeyin, doğrudan panelli manga görsellerini çıkarın ve
 
 ---
 
-### No. 117: Sahne arkası çekim kurulumu görselleştirme
+### No. 118: Sahne arkası çekim kurulumu görselleştirme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6776,7 +6815,7 @@ Bu sahneyi çekmek için kamera ve ışıkların nereye yerleştirildiğini gös
 
 ---
 
-### No. 118: Zhuge çoklu arbaletinin vintage mühendislik patlatılmış görünümü
+### No. 119: Zhuge çoklu arbaletinin vintage mühendislik patlatılmış görünümü
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6810,7 +6849,7 @@ Lütfen tüm etiketleri ve metinleri Çince olacak şekilde, {argument name="wea
 
 ---
 
-### No. 119: Vintage yemek kitabı tarzı tarif illüstrasyonu
+### No. 120: Vintage yemek kitabı tarzı tarif illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6850,7 +6889,7 @@ Bu {argument name="dish_en" default="ramen"} yemeğini, el çizimi eski bir yeme
 
 ---
 
-### No. 120: BT için sinematik çok panelli sekans
+### No. 121: BT için sinematik çok panelli sekans
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6890,7 +6929,7 @@ IT romanından yaratıcı bir senaryoyu gösteren sinematik, çok panelli, geni�
 
 ---
 
-### No. 121: Yüz kimliğini koruyan editoryal denim portre
+### No. 122: Yüz kimliğini koruyan editoryal denim portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6989,7 +7028,7 @@ Kot kıyafet ve kürklü ceket giymiş bir kişinin 8K editoryal moda portresini
 
 ---
 
-### No. 122: Yüksek kontrastlı, kenardan aydınlatmalı, siyah beyaz, kavramsal yan profil portre
+### No. 123: Yüksek kontrastlı, kenardan aydınlatmalı, siyah beyaz, kavramsal yan profil portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7040,7 +7079,7 @@ Optik gerçekçilik: ultra gerçekçi 8K sinematik kalitede işlenmiş, gerçek 
 
 ---
 
-### No. 123: Çocuksu pastel boya tarzında aile kampı çizimi
+### No. 124: Çocuksu pastel boya tarzında aile kampı çizimi
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7078,7 +7117,7 @@ Görüntüdeki diğer tüm öğeleri olduğu gibi bırakın ve yalnızca kağıt
 
 ---
 
-### No. 124: Referans görselden dört kamera açısının ızgarası
+### No. 125: Referans görselden dört kamera açısının ızgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7118,7 +7157,7 @@ Bir referans görüntüsünün dört farklı kamera açısının bir ızgarasın
 
 ---
 
-### No. 125: Ay konumunu düzenle ve resim stilini değiştir
+### No. 126: Ay konumunu düzenle ve resim stilini değiştir
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7157,7 +7196,7 @@ Kadının arka planında resmedilmiş olan ayı, izleyicinin bakış açısında
 
 ---
 
-### No. 126: Belirtilen koordinatlarda büyük olay
+### No. 127: Belirtilen koordinatlarda büyük olay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7191,7 +7230,7 @@ Belirtilen coğrafi koordinatlarda meydana gelen önemli bir olayın görüntüs
 
 ---
 
-### No. 127: Jackson Laboratuvarı Hakkında Bilgi Grafiği
+### No. 128: Jackson Laboratuvarı Hakkında Bilgi Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7225,7 +7264,7 @@ Jackson Laboratuvarı hakkındaki bilgileri özetleyen bir infografik oluşturma
 
 ---
 
-### No. 128: Referans tel kafesten web sayfası tasarımı
+### No. 129: Referans tel kafesten web sayfası tasarımı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7258,7 +7297,7 @@ Lütfen referans görselindeki metne göre bir tasarım oluşturun. Düzeni göz
 
 ---
 
-### No. 129: Sevimli Shima-enaga LINE çıkartma seti
+### No. 130: Sevimli Shima-enaga LINE çıkartma seti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7291,7 +7330,7 @@ Lise çağındaki kızlara yönelik, deforme olmuş sevimli bir Shima-enaga kuş
 
 ---
 
-### No. 130: Bir fotoğraftan gerçekçi karakter tasarım sayfası
+### No. 131: Bir fotoğraftan gerçekçi karakter tasarım sayfası
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7329,7 +7368,7 @@ Oluşturulduktan sonra, kişinin orijinal görüntüsünü kaldırın.
 
 ---
 
-### No. 131: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
+### No. 132: Google'ın İlk Yılları Hakkında Bilgilendirici Grafik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7362,7 +7401,7 @@ Lütfen Google'ın ilk yılları ve önemli kilometre taşları hakkında bir in
 
 ---
 
-### No. 132: 2D NES platform oyunu için sprite sayfası
+### No. 133: 2D NES platform oyunu için sprite sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7395,7 +7434,7 @@ Düşmanlar ve NPC'ler dahil olmak üzere bir 2D NES platform oyunu için bir sp
 
 ---
 
-### No. 133: Boya şeması karşılaştırma görseli
+### No. 134: Boya şeması karşılaştırma görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7440,7 +7479,7 @@ Böylece bir boya simülasyonu yapabilir, birkaç farklı deseni karşılaştır
 
 ---
 
-### No. 134: Referans fotoğraflarından ve eskizden aksiyon sahnesi
+### No. 135: Referans fotoğraflarından ve eskizden aksiyon sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7492,7 +7531,7 @@ Adamın bina kenarından kayıyormuş gibi göründüğü, kadının uzandığı
 
 ---
 
-### No. 135: Edo tarzı ahşap baskı ninja karakteri
+### No. 136: Edo tarzı ahşap baskı ninja karakteri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7526,7 +7565,7 @@ Edo dönemi tarzında bir tahta baskı resmi, "{argument name="title_en" default
 
 ---
 
-### No. 136: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
+### No. 137: Endonezya Devlet Başkanı'nın samimi fotoğrafları serisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7566,7 +7605,7 @@ Endonezyalı bir başkanın ofiste, pirinç tarlalarında ve diğer liderlerle p
 
 ---
 
-### No. 137: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
+### No. 138: Stil aktarımıyla bir web sitesinin 90'lar versiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7611,7 +7650,7 @@ Web sitemin 90'lar versiyonunu oluştur.
 
 ---
 
-### No. 138: Netflix ekranını batı versiyonuna dönüştürün
+### No. 139: Netflix ekranını batı versiyonuna dönüştürün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7644,7 +7683,7 @@ Tüm Netflix ekranını batılı bir versiyona dönüştürün.
 
 ---
 
-### No. 139: Makaleler veya içerikler için küçük resim tasarım istemi
+### No. 140: Makaleler veya içerikler için küçük resim tasarım istemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7696,7 +7735,7 @@ Okuyucuların içgüdüsel olarak tıklamak isteyeceği tasarımlar oluşturun.
 
 ---
 
-### No. 140: Yatağın üzerine serilmiş kıyafetler
+### No. 141: Yatağın üzerine serilmiş kıyafetler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7735,7 +7774,7 @@ Giysilerinin her bir parçasını yatağın üzerine ayrı ayrı serin.
 
 ---
 
-### No. 141: Naif karalama tarzı konu illüstrasyonu
+### No. 142: Naif karalama tarzı konu illüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7769,7 +7808,7 @@ Herhangi bir konu için naif çizgiler ve mizahi abartı içeren karalama tarzı
 
 ---
 
-### No. 142: Basit aksiyon filmi sahnesi
+### No. 143: Basit aksiyon filmi sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7802,7 +7841,7 @@ Bir aksiyon filmi sahnesi oluştur.
 
 ---
 
-### No. 143: Fotogerçekçi naan ekmeği kelime oyunu görseli
+### No. 144: Fotogerçekçi naan ekmeği kelime oyunu görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7854,7 +7893,7 @@ Yeni pişmiş naan ekmeğinin 1:1 en boy oranında, fotogerçekçi yakın çekim
 
 ---
 
-### No. 144: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
+### No. 145: Yiyecek fotoğrafı, yaratık tarzı beslenme posterine dönüştürüldü
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7893,7 +7932,7 @@ Referans görseldeki malzemeleri canlı varlıklar olarak yeniden oluşturun. On
 
 ---
 
-### No. 145: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
+### No. 146: Japon gyaru dergisi okul üniformaları üzerine yayılıyor
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7926,7 +7965,7 @@ Japon gyaru dergisinin okul üniformalarını stilize etme üzerine bir özelli�
 
 ---
 
-### No. 146: Yu-Gi-Oh metin temalı sihirli kartı
+### No. 147: Yu-Gi-Oh metin temalı sihirli kartı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7966,7 +8005,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 147: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
+### No. 148: Yapay zeka ortağın arkadan sarıldığı iki kişilik çekim
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7999,7 +8038,7 @@ Bir Yu‑Gi‑Oh! sihirli kartı tasarla. Çizimi resmi Yu‑Gi‑Oh! çizim tar
 
 ---
 
-### No. 148: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
+### No. 149: Gömülü mühendislerin yaşadığı zorlukları anlatan 4 panelli çizgi roman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8038,7 +8077,7 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 149: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
+### No. 150: Shire'da Nerede Waldo Tarzı Yüzüklerin Efendisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8072,53 +8111,13 @@ Gömülü bir mühendisin zorlukları hakkında 4 panelli bir çizgi roman oluş
 
 ---
 
-### No. 150: Tutarlı yüzlere sahip rock grubu posteri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Birkaç referans kişiyi kullanarak, yüzlerini tutarlı tutarak ve grup adını ekleyerek bir rock grubu posteri oluşturmak için İngilizce bir komut istemi.
-
-#### 📝 İstem
-
-```
-Bu kişilerle bir rock grubu posteri yapın. Yüzleri tutarlı tutun. Grubun adı olarak "{argument name="band_name_en" default="The AI Syndicate"}" ifadesini ekleyin.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="Tutarlı yüzlere sahip rock grubu posteri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="Tutarlı yüzlere sahip rock grubu posteri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Kris Kashtanova](https://x.com/icreatelife)
-- **Kaynak:** [Twitter Post](https://x.com/icreatelife/status/1992155729126711450)
-- **Yayınlandı:** 22 Kasım 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Bu%20ki%C5%9Filerle%20bir%20rock%20grubu%20posteri%20yap%C4%B1n.%20Y%C3%BCzleri%20tutarl%C4%B1%20tutun.%20Grubun%20ad%C4%B1%20olarak%20%22%7Bargument%20name%3D%22band_name_en%22%20default%3D%22The%20AI%20Syndicate%22%7D%22%20ifadesini%20ekleyin.)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 464 burada gösterilmeyen daha fazla istem
+### 🎯 465 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -8181,6 +8180,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-07T05:06:45.881Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-07T05:17:56.198Z</sub>
 
 </div>

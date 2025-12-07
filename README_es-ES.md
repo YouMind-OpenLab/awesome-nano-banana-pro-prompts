@@ -88,9 +88,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **628** |
+| 📝 Total de prompts | **629** |
 | ⭐ Destacado | **14** |
-| 🔄 Última actualización | **domingo, 7 de diciembre de 2025, 5:05:45 UTC** |
+| 🔄 Última actualización | **domingo, 7 de diciembre de 2025, 5:17:16 UTC** |
 
 </div>
 
@@ -757,7 +757,46 @@ Crea un feed de redes sociales para {argument name="brand description" default="
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Ilustración de fondo de cielo cinematográfico al estilo de Makoto Shinkai
+### No. 1: test prompt title
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+test desc
+
+#### 📝 Prompt
+
+```
+test prompt
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765084308508_pt9mr5_G7FuPlzbYAAsuo2.jpg" width="600" alt="test prompt title - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765084309398_mp5rab_G7UUTHTbgAIrtbn.jpg" width="600" alt="test prompt title - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jaredddd](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](https://x.com/jaredliu_bravo/status/1991918514752667782)
+- **Publicado:** 7 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=test%20prompt)**
+
+---
+
+### No. 2: Ilustración de fondo de cielo cinematográfico al estilo de Makoto Shinkai
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -805,7 +844,7 @@ El color general debe ser claro y saturado, pero no áspero. El contraste entre 
 
 ---
 
-### No. 2: Póster de anime pop-art inspirado en Persona 5 para un personaje chuunibyou personalizado
+### No. 3: Póster de anime pop-art inspirado en Persona 5 para un personaje chuunibyou personalizado
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -855,7 +894,7 @@ El ambiente general debe ser extremadamente dinámico, extremadamente chuunibyou
 
 ---
 
-### No. 3: Indicación de retrato en pantalla de cámara digital compacta
+### No. 4: Indicación de retrato en pantalla de cámara digital compacta
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -912,7 +951,7 @@ Estilo de gradación de color: {argument name="color grading style" default="ton
 
 ---
 
-### No. 4: Selfie de ojo de pez con personajes de películas usando Nano Banana Pro
+### No. 5: Selfie de ojo de pez con personajes de películas usando Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -968,7 +1007,7 @@ Iluminación y textura: Iluminación de flash directo y fuerte en la cámara que
 
 ---
 
-### No. 5: Superposición de postal de chica manuscrita estilo Y2K
+### No. 6: Superposición de postal de chica manuscrita estilo Y2K
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1008,7 +1047,7 @@ Añade texto y dibujos peculiares, hechos a mano, al estilo de una chica escrito
 
 ---
 
-### No. 6: Prompt de imagen de perro y Papá Noel navideños sencillos
+### No. 7: Prompt de imagen de perro y Papá Noel navideños sencillos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1053,7 +1092,7 @@ Papá Noel sosteniendo un perro
 
 ---
 
-### No. 7: Sora video prompt para el anuncio de McDonald's "Macho Meal"
+### No. 8: Sora video prompt para el anuncio de McDonald's "Macho Meal"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1093,7 +1132,7 @@ Auténtico anuncio vintage de los años 80 para la {argument name="product name 
 
 ---
 
-### No. 8: Prompt de simulación de selfie de pantalla de MacBook para pareja
+### No. 9: Prompt de simulación de selfie de pantalla de MacBook para pareja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1192,7 +1231,7 @@ Una configuración JSON compleja para simular una pantalla de MacBook hiperreali
 
 ---
 
-### No. 9: Prompt de imagen de letrero de entrada de izakaya japonés para Nano Banana Pro
+### No. 10: Prompt de imagen de letrero de entrada de izakaya japonés para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1275,7 @@ calidad fotorrealista
 
 ---
 
-### No. 10: Prompt de consistencia de chica anime en tres poses
+### No. 11: Prompt de consistencia de chica anime en tres poses
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1276,7 +1315,7 @@ Una ilustración estilo anime de {argument name="the same girl" default="la mism
 
 ---
 
-### No. 11: Guía de estilo de expresión a partir de una imagen
+### No. 12: Guía de estilo de expresión a partir de una imagen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1315,7 +1354,7 @@ Crea una guía de estilo de expresiones para el diseño de personajes de la imag
 
 ---
 
-### No. 12: Marco de ilustración de caja de luz de papel 3D troquelado
+### No. 13: Marco de ilustración de caja de luz de papel 3D troquelado
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1396,7 +1435,7 @@ Parámetros técnicos: relación vertical 3:4, salida de alta resolución.
 
 ---
 
-### No. 13: Escena fotorrealista de una cafetería callejera en Málaga con un iPhone
+### No. 14: Escena fotorrealista de una cafetería callejera en Málaga con un iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1436,7 +1475,7 @@ Genera una imagen fotorrealista tomada con un {argument name="device" default="i
 
 ---
 
-### No. 14: Retrato cinematográfico de primer plano con ojos verdes y suéter de punto
+### No. 15: Retrato cinematográfico de primer plano con ojos verdes y suéter de punto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1469,7 +1508,7 @@ Retrato cinematográfico en primer plano de una mujer joven con flequillo oscuro
 
 ---
 
-### No. 15: Selfie de deportes extremos estilo GoPro
+### No. 16: Selfie de deportes extremos estilo GoPro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1509,7 +1548,7 @@ Una selfie hiperrealista estilo GoPro de {argument name="subject in english" def
 
 ---
 
-### No. 16: Prompt para retrato en terraza de café en el Marais de París
+### No. 17: Prompt para retrato en terraza de café en el Marais de París
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1549,7 +1588,7 @@ Genera una imagen fotorrealista de la terraza de un café en el {argument name="
 
 ---
 
-### No. 17: Prompt para retrato de mujer elegante con minivestido marrón
+### No. 18: Prompt para retrato de mujer elegante con minivestido marrón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1590,7 +1629,7 @@ Un prompt envuelto en JSON que describe a una mujer segura de sí misma con un m
 
 ---
 
-### No. 18: Prompt para fotografía de retratos en azoteas durante la hora dorada
+### No. 19: Prompt para fotografía de retratos en azoteas durante la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1629,7 +1668,7 @@ Una persona de pie en la azotea de un edificio de la ciudad durante la hora dora
 
 ---
 
-### No. 19: Nano Banana Pro: prompt de edición para cambiar de estilo con efecto de papel rasgado
+### No. 20: Nano Banana Pro: prompt de edición para cambiar de estilo con efecto de papel rasgado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1744,7 +1783,7 @@ estilo_interior:
 
 ---
 
-### No. 20: Nano Banana Pro, ilustración de líneas de corte de ropa estilo meme, prompt
+### No. 21: Nano Banana Pro, ilustración de líneas de corte de ropa estilo meme, prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1814,7 +1853,7 @@ Crear una "ilustración estilo meme donde la ropa se recorta según los recuento
 
 ---
 
-### No. 21: Ilustración de personaje de bola de nieve para Nano Banana Pro
+### No. 22: Ilustración de personaje de bola de nieve para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1874,7 +1913,7 @@ No muestres dedos humanos. No hagas que la cola del perro mapache sea rayada.
 
 ---
 
-### No. 22: Prompts de generación de mapas normales y de profundidad para Nano Banana Pro
+### No. 23: Prompts de generación de mapas normales y de profundidad para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1933,7 +1972,7 @@ Requisitos:
 
 ---
 
-### No. 23: Indicación sencilla para mejorar y reparar fotos
+### No. 24: Indicación sencilla para mejorar y reparar fotos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1972,7 +2011,7 @@ Repara la foto, escala esta imagen a resolución 2K y hazla completamente nítid
 
 ---
 
-### No. 24: Guía de estilo de diseño de diapositivas limpias y planas para NotebookLM
+### No. 25: Guía de estilo de diseño de diapositivas limpias y planas para NotebookLM
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2029,7 +2068,7 @@ Deje mucho espacio en blanco para priorizar la legibilidad y una composición eq
 
 ---
 
-### No. 25: Prompt para presentación de diapositivas de selfis en el espejo para una mujer joven con estilo
+### No. 26: Prompt para presentación de diapositivas de selfis en el espejo para una mujer joven con estilo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2130,7 +2169,7 @@ Un prompt de presentación de diapositivas de Nano Banana Pro altamente estructu
 
 ---
 
-### No. 26: Prompt para ilustración aérea estilo dron de Google Maps en caricatura
+### No. 27: Prompt para ilustración aérea estilo dron de Google Maps en caricatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2169,7 +2208,7 @@ Transforma esta vista de mapa aéreo en una fotografía aérea ilustrada, captur
 
 ---
 
-### No. 27: Retrato estilizado en picado de una mujer joven en una habitación con poca luz
+### No. 28: Retrato estilizado en picado de una mujer joven en una habitación con poca luz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2264,7 +2303,7 @@ Un *prompt* JSON estructurado para que Gemini Nano Banana Pro genere una fotogra
 
 ---
 
-### No. 28: Edición de selfie ultra realista en 16K de una chica soñando despierta en una manta
+### No. 29: Edición de selfie ultra realista en 16K de una chica soñando despierta en una manta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2298,7 +2337,7 @@ Edit the photo in ultra-realistic 16K resolution. A {argument name="subject age"
 
 ---
 
-### No. 29: Prompt de escena de escritorio de naturaleza muerta matutina en 8K altamente detallada
+### No. 30: Prompt de escena de escritorio de naturaleza muerta matutina en 8K altamente detallada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2343,7 +2382,7 @@ Máximo detalle de textura, dispersión subsuperficial, cáusticas, reflejos esp
 
 ---
 
-### No. 30: Parámetros de prompt de estilo retrato de estudio para un sujeto masculino
+### No. 31: Parámetros de prompt de estilo retrato de estudio para un sujeto masculino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,7 +2447,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 31: Prompt de fotografía de producto para una escena de atlas de un pop-up de Tokio
+### No. 32: Prompt de fotografía de producto para una escena de atlas de un pop-up de Tokio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2442,7 +2481,7 @@ Un atlas abierto de tapa dura yace plano, con una miniatura emergente de precisi
 
 ---
 
-### No. 32: Plantilla de prompt JSON del sistema para influencers de IA ultrarrealistas al estilo iPhone
+### No. 33: Plantilla de prompt JSON del sistema para influencers de IA ultrarrealistas al estilo iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2550,7 +2589,7 @@ Espere la descripción de la escena por parte del usuario. Genere la salida JSON
 
 ---
 
-### No. 33: JSON Nano Banana Pro prompt para banco de trabajo de botánico steampunk
+### No. 34: JSON Nano Banana Pro prompt para banco de trabajo de botánico steampunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2600,7 +2639,7 @@ Un *prompt* enriquecido basado en JSON para Nano Banana Pro que describe un prim
 
 ---
 
-### No. 34: Desafío de rotulación con verduras
+### No. 35: Desafío de rotulación con verduras
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2634,7 +2673,7 @@ Deletrea la palabra {argument name="word in English" default="HARVEST"} usando s
 
 ---
 
-### No. 35: Prompt JSON estructurado para un retrato de una mujer joven con estilo streetwear
+### No. 36: Prompt JSON estructurado para un retrato de una mujer joven con estilo streetwear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2707,7 +2746,7 @@ Un *prompt* detallado de generación de imágenes estilo JSON para Nano Banana P
 
 ---
 
-### No. 36: Prompt de concepto de lugar de viaje en miniatura chibi 3D
+### No. 37: Prompt de concepto de lugar de viaje en miniatura chibi 3D
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2759,7 +2798,7 @@ Un concepto de viaje en miniatura estilo chibi 3D, ambientado en {argument name=
 
 ---
 
-### No. 37: Prompt para marca de tienda conceptual de chibis 3D
+### No. 38: Prompt para marca de tienda conceptual de chibis 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2793,7 +2832,7 @@ Tienda conceptual en miniatura estilo chibi 3D de {argument name="brand name in 
 
 ---
 
-### No. 38: Convierte una imagen de referencia en un pastel de Navidad realista
+### No. 39: Convierte una imagen de referencia en un pastel de Navidad realista
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2838,7 +2877,7 @@ Transforma la imagen de referencia en un pastel de Navidad realista.
 
 ---
 
-### No. 39: Concepto de silla colgante junto al lago, de estilo cinematográfico, con temática de objetos espaciales
+### No. 40: Concepto de silla colgante junto al lago, de estilo cinematográfico, con temática de objetos espaciales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2890,7 +2929,7 @@ Escena nocturna cinematográfica de un acogedor refugio al aire libre junto a la
 
 ---
 
-### No. 40: Prompt para una selfie de coche natural estilo Instagram
+### No. 41: Prompt para una selfie de coche natural estilo Instagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2938,7 +2977,7 @@ Colores: brillantes, luminosos y ligeramente cálidos. El rostro y la parte supe
 
 ---
 
-### No. 41: Ilustración de un acorazado colosal al amanecer.
+### No. 42: Ilustración de un acorazado colosal al amanecer.
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2971,7 +3010,7 @@ Un acorazado colosal navegando por las tranquilas aguas del océano al amanecer.
 
 ---
 
-### No. 42: Logotipo de marca en relieve 3D sobre fondo monocromático
+### No. 43: Logotipo de marca en relieve 3D sobre fondo monocromático
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3013,7 +3052,7 @@ Iluminación suave y difusa con fuertes reflejos especulares en las esquinas red
 
 ---
 
-### No. 43: Prompt de Nano Banana Pro estilo JSON para caras realistas
+### No. 44: Prompt de Nano Banana Pro estilo JSON para caras realistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3081,7 +3120,7 @@ Una plantilla de prompt JSON detallada para Nano Banana Pro que genera un retrat
 
 ---
 
-### No. 44: Prompt de imagen simple: uvas en una cesta
+### No. 45: Prompt de imagen simple: uvas en una cesta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3121,7 +3160,7 @@ Un prompt de imagen conciso de Nano Banana Pro para generar uvas en una cesta he
 
 ---
 
-### No. 45: Prompt para la generación de contenido para redes sociales sobre aceite de oliva
+### No. 46: Prompt para la generación de contenido para redes sociales sobre aceite de oliva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3155,7 +3194,7 @@ Crea un feed de redes sociales para esta {argument name="brand type in English" 
 
 ---
 
-### No. 46: Concepto de tienda de marca de miniaturas chibi 3D
+### No. 47: Concepto de tienda de marca de miniaturas chibi 3D
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3246,7 @@ Una concept store en miniatura estilo chibi 3D para {argument name="brand name" 
 
 ---
 
-### No. 47: Solicitud de reemplazo de anuncios y adaptación de marca para Nano Banana Pro
+### No. 48: Solicitud de reemplazo de anuncios y adaptación de marca para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3265,7 +3304,7 @@ Asegúrate de que la composición final se sienta auténtica al concepto del anu
 
 ---
 
-### No. 48: Selfie con un personaje de película usando una cara de referencia en Nano Banana Pro
+### No. 49: Selfie con un personaje de película usando una cara de referencia en Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3319,7 +3358,7 @@ Mantén a la persona exactamente como se muestra en la imagen de referencia con 
 
 ---
 
-### No. 49: Prompt de arte lineal para libro para colorear para Nano Banana Pro
+### No. 50: Prompt de arte lineal para libro para colorear para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3371,7 +3410,7 @@ Crea un dibujo lineal para una página para colorear. La edad objetivo es de {ar
 
 ---
 
-### No. 50: Escena invernal medieval en un libro antiguo ambientado en Pereira, Colombia
+### No. 51: Escena invernal medieval en un libro antiguo ambientado en Pereira, Colombia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3407,7 +3446,7 @@ Diseña una escena invernal medieval dentro de un libro antiguo
 
 ---
 
-### No. 51: Prompt de personaje fijo estilo Rorona para Nano Banana Pro / Gemini
+### No. 52: Prompt de personaje fijo estilo Rorona para Nano Banana Pro / Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3451,7 +3490,7 @@ personaje consistente, la misma cara en cada fotograma,
 
 ---
 
-### No. 52: Prompt para la exhibición de dibujos animados en 3D de los edificios más altos de la ciudad
+### No. 53: Prompt para la exhibición de dibujos animados en 3D de los edificios más altos de la ciudad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3500,7 +3539,7 @@ Utiliza una composición cuadrada de 1080×1080. Utiliza un fondo limpio y neutr
 
 ---
 
-### No. 53: Marco de estilo de fotoperiodismo de guerra de mediados del siglo XX
+### No. 54: Marco de estilo de fotoperiodismo de guerra de mediados del siglo XX
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3557,7 +3596,7 @@ Simule una película en blanco y negro de alta velocidad y grano grueso que haya
 
 ---
 
-### No. 54: Escena de selfie de celebridades históricas (Michael Jackson y George W. Bush)
+### No. 55: Escena de selfie de celebridades históricas (Michael Jackson y George W. Bush)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3590,7 +3629,7 @@ Una selfie casual de Michael Jackson con George W. Bush en julio de 2001, de pie
 
 ---
 
-### No. 55: Prompt de variación de retrato de Instagram de 9 cuadrículas para Nano Banana Pro
+### No. 56: Prompt de variación de retrato de Instagram de 9 cuadrículas para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3630,7 +3669,7 @@ Genere solo {argument name="final number of outputs" default="9"} imágenes nece
 
 ---
 
-### No. 56: JSON selfie-on-bed prompt para Nano Banana Pro
+### No. 57: JSON selfie-on-bed prompt para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3721,7 +3760,7 @@ Un *prompt* JSON estructurado que describe a una mujer joven acostada en una cam
 
 ---
 
-### No. 57: Miniatura viral: Señalando con entusiasmo, tostada de aguacate, "¡Hecho en 3 minutos!"
+### No. 58: Miniatura viral: Señalando con entusiasmo, tostada de aguacate, "¡Hecho en 3 minutos!"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3767,7 +3806,7 @@ Diseña una miniatura de video viral usando a la persona de la Imagen 1. Consist
 
 ---
 
-### No. 58: Indicación de foto de perfil "POV cita en cafetería" para Nano Banana Pro
+### No. 59: Indicación de foto de perfil "POV cita en cafetería" para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +3900,7 @@ Un prompt detallado de generación de imágenes de Nano Banana Pro que crea una 
 
 ---
 
-### No. 59: JSON selfie-in-car mirror prompt para Nano Banana Pro
+### No. 60: JSON selfie-in-car mirror prompt para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3929,7 +3968,7 @@ Un prompt detallado en formato JSON para generar una selfie ultrarrealista de un
 
 ---
 
-### No. 60: Prompt de escena de muelle contemplativo minimalista para Nano Banana Pro
+### No. 61: Prompt de escena de muelle contemplativo minimalista para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3963,7 +4002,7 @@ Escena minimalista de {argument name="number of people" default="una sola"} pers
 
 ---
 
-### No. 61: Prompt de doble personaje de santo y demonio para Nano Banana Pro
+### No. 62: Prompt de doble personaje de santo y demonio para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4013,7 +4052,7 @@ Demonio: {argument name="demon style" default="renderizado estilo juego social, 
 
 ---
 
-### No. 62: Prompt de personaje de collage de bosque estacional para Nano Banana Pro
+### No. 63: Prompt de personaje de collage de bosque estacional para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4047,7 +4086,7 @@ Recrea un personaje como un collage utilizando fotos de {argument name="types of
 
 ---
 
-### No. 63: Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
+### No. 64: Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4099,7 +4138,7 @@ Un *prompt* muy detallado que crea una página de fotolibro japonés de 9 fotos 
 
 ---
 
-### No. 64: Extrae un solo panel de una cuadrícula de imágenes de 3x3 con Nano Banana Pro
+### No. 65: Extrae un solo panel de una cuadrícula de imágenes de 3x3 con Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4145,7 +4184,7 @@ Extrae la imagen de la fila {argument name="target row" default="2"}, columna {a
 
 ---
 
-### No. 65: Direct flash gamer girl Nano Banana Pro JSON tag prompt
+### No. 66: Direct flash gamer girl Nano Banana Pro JSON tag prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4197,7 +4236,7 @@ Un *prompt* de imagen estructurado de Nano Banana Pro que define una escena de c
 
 ---
 
-### No. 66: Prompt de refinamiento de imagen de Nano Banana Pro de dos pasos
+### No. 67: Prompt de refinamiento de imagen de Nano Banana Pro de dos pasos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4239,7 +4278,7 @@ Segundo: luego aplica la siguiente instrucción al resultado generado: "{argumen
 
 ---
 
-### No. 67: Prompt de estética de personaje para un feed de Instagram de 12 imágenes
+### No. 68: Prompt de estética de personaje para un feed de Instagram de 12 imágenes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4279,7 +4318,7 @@ Crea un feed de Instagram de {argument name="image count" default="12"} imágene
 
 ---
 
-### No. 68: Estructura de la instrucción para un retrato espontáneo en el dormitorio
+### No. 69: Estructura de la instrucción para un retrato espontáneo en el dormitorio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4312,7 +4351,7 @@ Una fotografía espontánea de alta resolución en un dormitorio con iluminació
 
 ---
 
-### No. 69: Prompt de autorretrato cinematográfico en el dormitorio para Nano Banana Pro
+### No. 70: Prompt de autorretrato cinematográfico en el dormitorio para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4372,7 +4411,7 @@ Una mujer se sienta en el borde de una cama moderna y minimalista. Tiene el pelo
 
 ---
 
-### No. 70: Indicación de personaje de juguete de fieltro para Nano Banana Pro
+### No. 71: Indicación de personaje de juguete de fieltro para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4426,7 +4465,7 @@ Juguete de cuerpo entero {argument name="subject" default="[Subject]"}, {argumen
 
 ---
 
-### No. 71: Prompt de pintura a la tinta de un barco solitario para Nano Banana Pro
+### No. 72: Prompt de pintura a la tinta de un barco solitario para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4460,7 +4499,7 @@ Estilo de pintura a tinta en blanco y negro, con un uso poético del espacio en 
 
 ---
 
-### No. 72: Estudiante de secundaria garabatea en las páginas de su libro de texto de historia
+### No. 73: Estudiante de secundaria garabatea en las páginas de su libro de texto de historia
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4511,7 +4550,7 @@ Una página de un libro de texto de historia utilizado por estudiantes de secund
 
 ---
 
-### No. 73: Prompt JSON de escena urbana cinematográfica lluviosa
+### No. 74: Prompt JSON de escena urbana cinematográfica lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4550,7 +4589,7 @@ Un prompt JSON de Nano Banana Pro que describe una imagen cinematográfica con d
 
 ---
 
-### No. 74: Hoja de contacto de guion gráfico cinematográfico 3×3 a partir de una imagen de entrada
+### No. 75: Hoja de contacto de guion gráfico cinematográfico 3×3 a partir de una imagen de entrada
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4629,7 +4668,7 @@ Todos los fotogramas deben tener texturas fotorrealistas, una gradación de colo
 
 ---
 
-### No. 75: Prompt de foto de perfil profesional para Nano Banana Pro
+### No. 76: Prompt de foto de perfil profesional para Nano Banana Pro
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4669,7 +4708,7 @@ Una foto de perfil profesional de alta resolución que conserva la estructura fa
 
 ---
 
-### No. 76: Conversión de prompts YAML para imágenes y diagramas
+### No. 77: Conversión de prompts YAML para imágenes y diagramas
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4702,7 +4741,7 @@ prompt: "Convierte esto en un prompt YAML, incluyendo el tamaño de la imagen y 
 
 ---
 
-### No. 77: JSON del prompt de retrato de mujer con referencia coincidente
+### No. 78: JSON del prompt de retrato de mujer con referencia coincidente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4743,7 +4782,7 @@ Un prompt estilo JSON de Nano Banana Pro centrado en recrear a una mujer exactam
 
 ---
 
-### No. 78: Prompt para retrato en terraza de hotel de lujo frente al mar
+### No. 79: Prompt para retrato en terraza de hotel de lujo frente al mar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4845,7 +4884,7 @@ Un prompt complejo de Nano Banana Pro para un retrato ultrarrealista de una muje
 
 ---
 
-### No. 79: Restauración de fotos antiguas a retratos digitales modernos
+### No. 80: Restauración de fotos antiguas a retratos digitales modernos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4898,7 +4937,7 @@ Conviértelo en un retrato digital moderno de alta calidad con colores vivos, te
 
 ---
 
-### No. 80: Generar guiones gráficos en blanco y negro a partir de una imagen
+### No. 81: Generar guiones gráficos en blanco y negro a partir de una imagen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4939,7 +4978,7 @@ Alrededor de cuatro paneles en total.
 
 ---
 
-### No. 81: Cheki-style idol photo prompt usando una persona de referencia
+### No. 82: Cheki-style idol photo prompt usando una persona de referencia
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4991,7 +5030,7 @@ Utiliza a la persona de la imagen adjunta. Su nombre es {argument name="name" de
 
 ---
 
-### No. 82: Prompt de diseño de PPT estilo SaaS Glassmorphism para Nano Banana Pro
+### No. 83: Prompt de diseño de PPT estilo SaaS Glassmorphism para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5038,7 +5077,7 @@ Requisitos de calidad de renderizado: Renderizado con Unreal Engine 5, resoluci�
 
 ---
 
-### No. 83: Solicitud de edición de la física del cabello movido por el viento
+### No. 84: Solicitud de edición de la física del cabello movido por el viento
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -5089,7 +5128,7 @@ Haz que el cabello vuele con el viento.
 
 ---
 
-### No. 84: Barrera de campo de energía VFX y ajuste de pose en YAML prompt
+### No. 85: Barrera de campo de energía VFX y ajuste de pose en YAML prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5208,7 +5247,7 @@ composition:
 
 ---
 
-### No. 85: Prompt de boceto de producto a renderizado final
+### No. 86: Prompt de boceto de producto a renderizado final
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5241,7 +5280,7 @@ Renderiza este boceto como un producto final fabricado en masa. Iluminación de 
 
 ---
 
-### No. 86: Configuración de imagen vertical de ultra alta definición para Nano Banana Pro
+### No. 87: Configuración de imagen vertical de ultra alta definición para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5294,7 +5333,7 @@ Un *prompt* de configuración JSON para Nano Banana Pro que especifica un lienzo
 
 ---
 
-### No. 87: Maqueta de empaque con un mensaje de prueba de texto diminuto
+### No. 88: Maqueta de empaque con un mensaje de prueba de texto diminuto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5327,7 +5366,7 @@ Maqueta de empaque para una caja de té de hierbas, con una etiqueta nutricional
 
 ---
 
-### No. 88: Restricciones de fotorrealismo estrictas para Nano Banana Pro
+### No. 89: Restricciones de fotorrealismo estrictas para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5373,7 +5412,7 @@ Un prompt JSON que define estrictas restricciones de proyecto para Nano Banana P
 
 ---
 
-### No. 89: Haz que las fotos se vean mal con coordenadas GPS especificadas
+### No. 90: Haz que las fotos se vean mal con coordenadas GPS especificadas
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5425,7 +5464,7 @@ Haz que esto parezca una instantánea mal tomada en un lugar con latitud y longi
 
 ---
 
-### No. 90: Manga a todo color estilo moe a partir de un personaje y una historia dados
+### No. 91: Manga a todo color estilo moe a partir de un personaje y una historia dados
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5479,7 +5518,7 @@ Prohibido:
 
 ---
 
-### No. 91: Prompt para una instantánea de instituto con cámara desechable de baja calidad
+### No. 92: Prompt para una instantánea de instituto con cámara desechable de baja calidad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5530,7 +5569,7 @@ Una simple foto cotidiana tomada con una cámara desechable de baja calidad. Una
 
 ---
 
-### No. 92: Convierte el boceto del stand en un dibujo en perspectiva
+### No. 93: Convierte el boceto del stand en un dibujo en perspectiva
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5569,7 +5608,7 @@ Crea un dibujo en perspectiva a partir del boceto de un stand de exposición.
 
 ---
 
-### No. 93: Retrato de una mujer en el gimnasio, haciéndose un selfi sobre una esterilla de yoga para Nano Banana Pro
+### No. 94: Retrato de una mujer en el gimnasio, haciéndose un selfi sobre una esterilla de yoga para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5670,7 +5709,7 @@ Un *prompt* JSON estructurado que describe a una mujer joven después de un entr
 
 ---
 
-### No. 94: Solicitud de recreación de anuncios utilizando la estética de tu producto y marca
+### No. 95: Solicitud de recreación de anuncios utilizando la estética de tu producto y marca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5711,7 +5750,7 @@ Reemplaza el producto con el de {argument name="reference image" default="mi ima
 
 ---
 
-### No. 95: Prompt para retrato de pareja en coche con luces de neón estilo Y2K
+### No. 96: Prompt para retrato de pareja en coche con luces de neón estilo Y2K
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5789,7 +5828,7 @@ Un *prompt* JSON muy detallado para generar una foto nocturna cruda estilo Y2K d
 
 ---
 
-### No. 96: Retrato emocional horizontal de tres paneles a partir de una imagen
+### No. 97: Retrato emocional horizontal de tres paneles a partir de una imagen
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5846,7 +5885,7 @@ Primer plano de perfil, de la cabeza al cuello.
 
 ---
 
-### No. 97: Prompt de flujo de trabajo de PPT académico cálido al estilo Anthropic
+### No. 98: Prompt de flujo de trabajo de PPT académico cálido al estilo Anthropic
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5892,7 +5931,7 @@ El contenido del artículo es:
 
 ---
 
-### No. 98: Prompt de generación de fotos de identificación para Nano Banana Pro
+### No. 99: Prompt de generación de fotos de identificación para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5942,7 +5981,7 @@ Recorta la cabeza de la persona en la imagen y conviértela en una foto de ident
 
 ---
 
-### No. 99: Prompt para un retrato collage Polaroid vintage
+### No. 100: Prompt para un retrato collage Polaroid vintage
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5984,7 +6023,7 @@ El espacio está impregnado de una atmósfera artística retro, mezclando elemen
 
 ---
 
-### No. 100: Momento histórico en coordenadas específicas (1994)
+### No. 101: Momento histórico en coordenadas específicas (1994)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6018,7 +6057,7 @@ Crear una imagen en {argument name="coordinates_en" default="34°36’07’’S 
 
 ---
 
-### No. 101: Infografía de las fases del día en plastilina para niños
+### No. 102: Infografía de las fases del día en plastilina para niños
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6052,7 +6091,7 @@ Crea una infografía que explique las fases del día, perfecta para un/a {argume
 
 ---
 
-### No. 102: Edición de selfi hiperrealista de fan VIP de F1
+### No. 103: Edición de selfi hiperrealista de fan VIP de F1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6123,7 +6162,7 @@ Importante:
 
 ---
 
-### No. 103: Retícula de retratos emoji estilo LINE versión Q
+### No. 104: Retícula de retratos emoji estilo LINE versión Q
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6174,7 +6213,7 @@ La imagen final debe tener una resolución 4K con una relación de aspecto de {a
 
 ---
 
-### No. 104: Escena de viaje en el tiempo con coordenadas y fecha
+### No. 105: Escena de viaje en el tiempo con coordenadas y fecha
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6208,7 +6247,7 @@ Crea una imagen que corresponda al siguiente momento: {argument name="coordinate
 
 ---
 
-### No. 105: Esquema isométrico de un punto de referencia dibujado a mano
+### No. 106: Esquema isométrico de un punto de referencia dibujado a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6242,7 +6281,7 @@ Crea un diagrama esquemático isométrico dibujado a mano de {argument name="lan
 
 ---
 
-### No. 106: Retrato cinematográfico en blanco y negro de una mujer
+### No. 107: Retrato cinematográfico en blanco y negro de una mujer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6281,7 +6320,7 @@ Una fotografía realista en blanco y negro de una mujer joven con cabello largo 
 
 ---
 
-### No. 107: Infografía de recetas para escanear la nevera
+### No. 108: Infografía de recetas para escanear la nevera
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6321,7 +6360,7 @@ Escanea lo que hay dentro de la {argument name="container_en" default="nevera"} 
 
 ---
 
-### No. 108: Foto de vista cenital explosionada estilo "knolling"
+### No. 109: Foto de vista cenital explosionada estilo "knolling"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6355,7 +6394,7 @@ Fotografía ultra realista en 8K de disposición plana, con un estilo de *knolli
 
 ---
 
-### No. 109: Retrato callejero nocturno espontáneo con la indicación de Ferrari
+### No. 110: Retrato callejero nocturno espontáneo con la indicación de Ferrari
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6454,7 +6493,7 @@ Un prompt JSON estructurado para crear un retrato callejero nocturno de estilo p
 
 ---
 
-### No. 110: Retrato invernal alpino suizo de un joven
+### No. 111: Retrato invernal alpino suizo de un joven
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6497,7 +6536,7 @@ Estilo: retrato de viaje editorial, hiperrealismo, alto rango dinámico, enfoque
 
 ---
 
-### No. 111: Guion gráfico de cómic estilo Marvel de una heroína
+### No. 112: Guion gráfico de cómic estilo Marvel de una heroína
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6536,7 +6575,7 @@ Varias viñetas de cómic al estilo de Marvel con colores vibrantes. Una heroín
 
 ---
 
-### No. 112: Retrato cinematográfico en azotea a partir de fotos de referencia
+### No. 113: Retrato cinematográfico en azotea a partir de fotos de referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6575,7 +6614,7 @@ Toma cenital hiperrealista en 9:16 del hombre de la imagen adjunta (subo 2 fotos
 
 ---
 
-### No. 113: Versión de dibujos animados de una imagen existente
+### No. 114: Versión de dibujos animados de una imagen existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6608,7 +6647,7 @@ Genera una versión de dibujos animados de esta imagen. Mantén la consistencia 
 
 ---
 
-### No. 114: Diagrama técnico de vista explosionada de un dispositivo
+### No. 115: Diagrama técnico de vista explosionada de un dispositivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6642,7 +6681,7 @@ Crea un diagrama técnico de vista explosionada de un {argument name="subject_en
 
 ---
 
-### No. 115: Retrato infográfico futurista de un verificador de edad facial
+### No. 116: Retrato infográfico futurista de un verificador de edad facial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6701,7 +6740,7 @@ Estilo general: análisis de cuidado de la piel futurista guiado por IA, minimal
 
 ---
 
-### No. 116: Generador de guiones gráficos de cómics chinos estilo manga
+### No. 117: Generador de guiones gráficos de cómics chinos estilo manga
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6742,7 +6781,7 @@ No generes análisis, genera directamente las imágenes de manga con viñetas y 
 
 ---
 
-### No. 117: Visualización de la configuración de filmación entre bastidores
+### No. 118: Visualización de la configuración de filmación entre bastidores
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6775,7 +6814,7 @@ Genera una imagen realista que muestre dónde se colocan la cámara y las luces 
 
 ---
 
-### No. 118: Vista explosionada de ingeniería antigua de la ballesta de repetición de Zhuge
+### No. 119: Vista explosionada de ingeniería antigua de la ballesta de repetición de Zhuge
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6809,7 +6848,7 @@ Crea un diagrama de vista explosionada de ingeniería de estilo vintage del {arg
 
 ---
 
-### No. 119: Ilustración de receta estilo libro de cocina vintage
+### No. 120: Ilustración de receta estilo libro de cocina vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6849,7 +6888,7 @@ Convierte este {argument name="dish_en" default="ramen"} en una bonita página d
 
 ---
 
-### No. 120: Secuencia cinematográfica multipanel para TI
+### No. 121: Secuencia cinematográfica multipanel para TI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6889,7 +6928,7 @@ Crea una secuencia cinematográfica utilizando múltiples cuadrículas de panele
 
 ---
 
-### No. 121: Retrato editorial de mezclilla que preserva la identidad facial
+### No. 122: Retrato editorial de mezclilla que preserva la identidad facial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6988,7 +7027,7 @@ Un prompt estilo JSON para crear un retrato editorial de moda en 8K de una perso
 
 ---
 
-### No. 122: Retrato conceptual de perfil con iluminación de contorno de alto contraste en blanco y negro
+### No. 123: Retrato conceptual de perfil con iluminación de contorno de alto contraste en blanco y negro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7038,7 +7077,7 @@ Inspirado en @ShreyaYadav___
 
 ---
 
-### No. 123: Dibujo infantil de campamento familiar estilo crayón
+### No. 124: Dibujo infantil de campamento familiar estilo crayón
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7076,7 +7115,7 @@ Cambia el dibujo a un estilo como el de un dibujo con crayones de un estudiante 
 
 ---
 
-### No. 124: Cuadrícula de cuatro ángulos de cámara de la imagen de referencia
+### No. 125: Cuadrícula de cuatro ángulos de cámara de la imagen de referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7116,7 +7155,7 @@ Crea una cuadrícula de cuatro ángulos de cámara diferentes de {argument name=
 
 ---
 
-### No. 125: Editar la posición de la luna y cambiar el estilo de pintura
+### No. 126: Editar la posición de la luna y cambiar el estilo de pintura
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7155,7 +7194,7 @@ Mueve la luna que está pintada en el fondo de la mujer hacia el lado izquierdo 
 
 ---
 
-### No. 126: Evento importante en las coordenadas indicadas
+### No. 127: Evento importante en las coordenadas indicadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7189,7 +7228,7 @@ Crea una imagen del evento principal que ocurrió en estas coordenadas: {argumen
 
 ---
 
-### No. 127: Infografía sobre The Jackson Laboratory
+### No. 128: Infografía sobre The Jackson Laboratory
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7223,7 +7262,7 @@ Infografía sobre {argument name="topic_en" default="The Jackson Laboratory"}.
 
 ---
 
-### No. 128: Diseño de página web a partir de un wireframe de referencia
+### No. 129: Diseño de página web a partir de un wireframe de referencia
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7256,7 +7295,7 @@ Cree un diseño basado en el texto de la imagen de referencia. Ignore el diseño
 
 ---
 
-### No. 129: Lindo set de stickers de Shima-enaga para LINE
+### No. 130: Lindo set de stickers de Shima-enaga para LINE
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7289,7 +7328,7 @@ Diseña 12 stickers de LINE con la temática de un pájaro Shima-enaga deformado
 
 ---
 
-### No. 130: Hoja de diseño de personaje realista a partir de una foto
+### No. 131: Hoja de diseño de personaje realista a partir de una foto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7327,7 +7366,7 @@ Una vez creada, elimine la imagen original de la persona.
 
 ---
 
-### No. 131: Infografía sobre los primeros años de Google
+### No. 132: Infografía sobre los primeros años de Google
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7360,7 +7399,7 @@ Por favor, crea una infografía sobre los primeros años de Google y sus princip
 
 ---
 
-### No. 132: Hoja de sprites para juego de plataformas 2D de NES
+### No. 133: Hoja de sprites para juego de plataformas 2D de NES
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7393,7 +7432,7 @@ Crea una hoja de sprites para un juego de plataformas 2D de NES, incluyendo enem
 
 ---
 
-### No. 133: Imagen comparativa de esquemas de pintura
+### No. 134: Imagen comparativa de esquemas de pintura
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7438,7 +7477,7 @@ Para poder hacer una simulación de pintura, crea una sola imagen que me permita
 
 ---
 
-### No. 134: Escena de acción a partir de fotos de referencia y boceto
+### No. 135: Escena de acción a partir de fotos de referencia y boceto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7490,7 +7529,7 @@ Usa la foto del hombre como si se estuviera resbalando del borde del edificio, l
 
 ---
 
-### No. 135: Personaje ninja de grabado en madera estilo Edo
+### No. 136: Personaje ninja de grabado en madera estilo Edo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7524,7 +7563,7 @@ Una imagen de un grabado en madera, al estilo del período Edo, que muestra a un
 
 ---
 
-### No. 136: Serie de fotos espontáneas del presidente de Indonesia
+### No. 137: Serie de fotos espontáneas del presidente de Indonesia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7564,7 +7603,7 @@ Genera una serie de seis fotos espontáneas, de estilo documental, de {argument 
 
 ---
 
-### No. 137: Versión de un sitio web de los 90 mediante transferencia de estilo
+### No. 138: Versión de un sitio web de los 90 mediante transferencia de estilo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7609,7 +7648,7 @@ Crea una versión de mi sitio web al estilo de los 90.
 
 ---
 
-### No. 138: Convierte la pantalla de Netflix en una versión western
+### No. 139: Convierte la pantalla de Netflix en una versión western
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7642,7 +7681,7 @@ Convierte toda la pantalla de Netflix en una versión occidental.
 
 ---
 
-### No. 139: Diseño de miniatura para artículos o contenido
+### No. 140: Diseño de miniatura para artículos o contenido
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7694,7 +7733,7 @@ Primero, genera tres opciones de imágenes de diseño.
 
 ---
 
-### No. 140: Ropa separada en la cama
+### No. 141: Ropa separada en la cama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7733,7 +7772,7 @@ Extiende cada prenda de su ropa por separado sobre la cama.
 
 ---
 
-### No. 141: Ilustración de un sujeto de estilo garabato ingenuo
+### No. 142: Ilustración de un sujeto de estilo garabato ingenuo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7767,7 +7806,7 @@ Una ilustración estilo garabato de {argument name="subject_en" default="[subjec
 
 ---
 
-### No. 142: Escena sencilla de película de acción
+### No. 143: Escena sencilla de película de acción
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7800,7 +7839,7 @@ Crea una escena de película de acción.
 
 ---
 
-### No. 143: Imagen de juego de palabras de pan naan fotorrealista
+### No. 144: Imagen de juego de palabras de pan naan fotorrealista
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7852,7 +7891,7 @@ Una imagen fotorrealista de primer plano con una relación de aspecto de 1:1 de 
 
 ---
 
-### No. 144: Póster nutricional con estilo de criatura a partir de una foto de comida
+### No. 145: Póster nutricional con estilo de criatura a partir de una foto de comida
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7891,7 +7930,7 @@ Reconstruye los ingredientes de la imagen de referencia como criaturas vivientes
 
 ---
 
-### No. 145: Reportaje de revista gyaru japonesa sobre uniformes escolares
+### No. 146: Reportaje de revista gyaru japonesa sobre uniformes escolares
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7924,7 +7963,7 @@ Una página de reportaje de una revista japonesa de gyaru sobre cómo estilizar 
 
 ---
 
-### No. 146: Carta mágica de Yu-Gi-Oh del tema de texto
+### No. 147: Carta mágica de Yu-Gi-Oh del tema de texto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7964,7 +8003,7 @@ Diseña una carta mágica de Yu‑Gi‑Oh! Dibuja la ilustración al estilo de l
 
 ---
 
-### No. 147: Toma de dos de un compañero de IA abrazando por detrás
+### No. 148: Toma de dos de un compañero de IA abrazando por detrás
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7997,7 +8036,7 @@ Genera una escena en la que el personaje de la segunda imagen abraza por detrás
 
 ---
 
-### No. 148: Cómic de 4 viñetas sobre las dificultades de un ingeniero de sistemas embebidos
+### No. 149: Cómic de 4 viñetas sobre las dificultades de un ingeniero de sistemas embebidos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8036,7 +8075,7 @@ Genera un cómic de 4 viñetas sobre las dificultades de un ingeniero embebido.
 
 ---
 
-### No. 149: LOTR al estilo "¿Dónde está Wally?" en la Comarca
+### No. 150: LOTR al estilo "¿Dónde está Wally?" en la Comarca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8070,53 +8109,13 @@ Una imagen al estilo de "¿Dónde está Wally?" que muestra a todos los personaj
 
 ---
 
-### No. 150: Póster de banda de rock con caras consistentes
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* en inglés para generar un póster de una banda de rock utilizando varias personas de referencia, manteniendo la coherencia de sus rostros y añadiendo el nombre de la banda.
-
-#### 📝 Prompt
-
-```
-Crea un póster de una banda de rock con estas personas. Mantén los rostros consistentes. Añade "{argument name="band_name_en" default="The AI Syndicate"}" como nombre de la banda.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg" width="600" alt="Póster de banda de rock con caras consistentes - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg" width="600" alt="Póster de banda de rock con caras consistentes - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Kris Kashtanova](https://x.com/icreatelife)
-- **Fuente:** [Twitter Post](https://x.com/icreatelife/status/1992155729126711450)
-- **Publicado:** 22 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20p%C3%B3ster%20de%20una%20banda%20de%20rock%20con%20estas%20personas.%20Mant%C3%A9n%20los%20rostros%20consistentes.%20A%C3%B1ade%20%22%7Bargument%20name%3D%22band_name_en%22%20default%3D%22The%20AI%20Syndicate%22%7D%22%20como%20nombre%20de%20la%20banda.)**
-
----
-
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 464 prompts más no mostrados aquí
+### 🎯 465 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -8179,6 +8178,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-07T05:05:45.224Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-07T05:17:16.723Z</sub>
 
 </div>
