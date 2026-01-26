@@ -135,9 +135,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6722** |
+| 📝 Toplam İstem | **6797** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **26 Ocak 2026 Pazartesi 04:48:24 UTC** |
+| 🔄 Son Güncelleme | **26 Ocak 2026 Pazartesi 08:18:58 UTC** |
 
 </div>
 
@@ -646,7 +646,236 @@ En boy oranı 3:4 dikey posterdir. Sahneyi tanımlayan dikey Japon kaligrafisi v
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Profil / Avatar - Oturma Odasında Kediyle Gerçekçi Akıllı Telefon Özçekimi
+### No. 1: Profil / Avatar - Şehvetli Kadın Ayna Selfie İstemleri (McDonald's Bikini)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+McDonald's temalı bikini giymiş, dolgun hatlara sahip bir kadının ayna karşısında selfie çekerken görüntüsünü oluşturmak için ayrıntılı, JSON formatında bir istem. İstem, gerçekçi, samimi bir akıllı telefon fotoğrafı tarzı için aşırı anatomik detayları, kıyafeti, pozu, sahne öğelerini, aydınlatma koşullarını ve kamera özelliklerini belirtir.
+
+#### 📝 İstem
+
+```
+{
+  "subject": {
+    "body": {
+      "physique": "Bikini üstünü dolduran belirgin şekilde büyümüş göğüslere sahip, dolgun kum saati figürü. Geniş omuzlar ve belirgin bel, daha geniş kalçalara ve gluteal kaslara yol açıyor. Karın ve bacaklarda kas tonusu görülebilir.",
+      "anatomy": {
+        "shoulders": "Geniş, belirgin.",
+        "waist": "Dar, belirgin bel.",
+        "hips": "Belirgin gluteal kaslara sahip geniş kalçalar.",
+        "breasts": "Son derece büyük, çok dolgun göğüsler dekolteye neden oluyor ve bikini kumaşını geriyor.",
+        "waist-to-hip_ratio": "Belirgin kum saati."
+      }
+    },
+    "wardrobe": {
+      "hat": "Sarı işlemeli McDonald's Golden Arches logosu olan kırmızı beyzbol şapkası.",
+      "bikini_top": "Sol kupasında sarı McDonald's Golden Arches logosu bulunan kırmızı üçgen bikini üstü, çok büyük göğüslerin üzerinde gerilmiş.",
+      "bikini_bottom": "Uyumlu kırmızı ipli bikini altı.",
+      "jewelry": "Küçük gümüş kolye."
+    },
+    "pose": "Aynaya doğru hafifçe öne eğilmiş, selfie çekmek için mavi bir iPhone tutuyor, göz kırpıyor ve öpücük atıyor."
+  },
+  "scene": {
+    "location": "Yatak odası, büyük bir ayna aracılığıyla görülüyor.",
+    "background": "Dağınık beyaz yatak takımı, eşyalı şifonyer, parlak gün ışığı alan pencere, beyaz duvarlar, ahşap zemin.",
+    "lighting": {
+      "type": "Pencereden gelen doğal gün ışığı, odaya ve özneye güçlü güneş ışığı ve gölgeler düşürüyor.",
+      "quality": "Parlak, sıcak, yönlü ışık.",
+      "shadows": "Duvarlarda, zeminde ve vücutta belirgin güneş ışığı desenleri ve gölgeler."
+    }
+  },
+  "camera": {
+    "type": "Akıllı telefon kamerası ayna selfiesi.",
+    "lens": "Geniş açılı akıllı telefon lensi.",
+    "focus": "Kadına keskin odaklanma.",
+    "composition": "Dikey portre (9:16 en boy oranı), aynada tam vücut çekimi.",
+    "style": "Gerçekçi, samimi fotoğraf stili."
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408655427_h3owwa_G_hyc7OXIAAchOV.jpg" width="600" alt="Profil / Avatar - Şehvetli Kadın Ayna Selfie İstemleri (McDonald's Bikini) - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Pinodi](https://x.com/PinodiArt)
+- **Kaynak:** [Twitter Post](https://x.com/PinodiArt/status/2015486829529854358)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7550)**
+
+---
+
+### No. 2: Profil / Avatar - Pixar Tarzı Karakter Karşılaştırma İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Beyaz bir arka plan üzerinde temiz bir karşılaştırma görüntüsü oluşturmak için tasarlanmış bir istem. Orijinal referans fotoğrafının küçük bir ekini ve aynı kişinin yüz hatlarını ve kıyafetlerini koruyan, yumuşak sinematik aydınlatma ve kırmızı gradyan arka planla oluşturulmuş, yüksek kaliteli 3B Pixar tarzı karakter versiyonunu gösteren daha büyük bir ana görüntüyü içerir.
+
+#### 📝 İstem
+
+```
+Beyaz bir arka plan üzerinde temiz, karşılaştırma tarzı bir kompozisyon oluşturun. Sol üst köşeye, orijinal referans fotoğrafının küçük, kare bir ekini, değişmemiş ve gerçekçi bir şekilde dahil edin. Daha büyük ana görüntüye doğru el çizimi kavisli bir ok ekleyin. Ana görüntü, aynı kişinin yüz yapısını, sakalını, gözlüğünü, saç stilini ve kıyafetlerini koruyan, yüksek kaliteli, 3D Pixar tarzı bir karakter versiyonudur. Dostça bir gülümseme, etkileyici gözler, pürüzsüz stilize edilmiş cilt. Kırmızı gradyan stüdyo arka planı, yumuşak sinematik aydınlatma, ultra detaylı, birinci sınıf 3D render, 4K kalitesinde.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408695943_ltp2f2_G_hGrXKagAAs2Wh.jpg" width="600" alt="Profil / Avatar - Pixar Tarzı Karakter Karşılaştırma İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jack](https://x.com/j_smeaton99)
+- **Kaynak:** [Twitter Post](https://x.com/j_smeaton99/status/2015438552566489443)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7602)**
+
+---
+
+### No. 3: Profil / Avatar - Y2K Flash Fotoğraf Estetiği İstemci (Kopyala)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Y2K tarzı akıllı telefon flaş fotoğraf estetiğiyle bir görüntü oluşturmak için tasarlanmış bir JSON istemi. %100 yüz sadakati ve gerçekçi cilt dokusunu korumaya, doğrudan flaşı renkli ışıkla karıştırmaya ve Y2K esintili kıyafet ve makyajla rahat, samimi bir pozda (uzanmış) bir kadın blogger arketipini tasvir etmeye odaklanılmıştır. (2015409719335326000'ın kopyası)
+
+#### 📝 İstem
+
+```
+{
+  "project_type": "image_generation_from_reference",
+  "preservation_constraints": {
+    "facial_fidelity": "Orijinaline %100 aynı (özellikler, kemik yapısı, cilt tonu)",
+    "expression_lock": true,
+    "texture_quality": "Gerçekçi cilt dokusunu ve gözenekleri koru; plastik pürüzsüzleştirmeden kesinlikle kaçın"
+  },
+  "visual_style": {
+    "aesthetic": "Y2K tarzı akıllı telefon flaş fotoğrafı",
+    "era": "2000'lerin başı / Y2K",
+    "lighting": "Renkli ışıkla ({{argument name=\"colored light\" default=\"yumuşak pembe veya kırmızı\"}}) karışık doğrudan flaş",
+    "color_grading": "Gerçeğe yakın renkler, ham samimi anlık görüntü görünümü"
+  },
+  "composition": {
+    "camera_angle": "Yüksek açı (yukarıdan tutulmuş)",
+    "setting": "Yatak veya kanepe",
+    "pose": "Yatar pozisyonda, rahat, eğlenceli, pozsuz an",
+    "mood": "Kendine güvenli, kendini seven, samimi Sevgililer Günü"
+  },
+  "subject_styling": {
+    "archetype": "Kadın blogger",
+    "apparel": "Vücuda oturan Y2K esintili üst, bol kapüşonlu veya ceket",
+    "makeup": "Parlak dudaklar, hafif ışıltı, belirgin kabarık takma kirpikler"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408661917_hy8sps_G_gwfGCXcAA74oV.jpg" width="600" alt="Profil / Avatar - Y2K Flash Fotoğraf Estetiği İstemci (Kopyala) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408661970_lr5a0g_G_gwfDta4AE4ruU.jpg" width="600" alt="Profil / Avatar - Y2K Flash Fotoğraf Estetiği İstemci (Kopyala) - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Kaynak:** [Twitter Post](https://x.com/Vishnudxe/status/2015414147006280120)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7558)**
+
+---
+
+### No. 4: Profil / Avatar - Y2K Flaş Fotoğraf Estetiği İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Y2K tarzı akıllı telefon flaş fotoğraf estetiğine sahip bir görüntü oluşturmak için tasarlanmış bir JSON istemi. Yüzde 100 yüz sadakatini ve gerçekçi cilt dokusunu korumayı, doğrudan flaşı renkli ışıkla karıştırmayı ve Y2K esintili kıyafet ve makyajla rahat, samimi bir pozda (uzanmış) bir kadın blog yazarı arketipini tasvir etmeyi vurgular.
+
+#### 📝 İstem
+
+```
+{
+  "project_type": "image_generation_from_reference",
+  "preservation_constraints": {
+    "facial_fidelity": "Orijinaliyle %100 aynı (özellikler, kemik yapısı, cilt tonu)",
+    "expression_lock": true,
+    "texture_quality": "Gerçekçi cilt dokusunu ve gözenekleri koru; plastik pürüzsüzleştirmeden kesinlikle kaçın"
+  },
+  "visual_style": {
+    "aesthetic": "Y2K tarzı akıllı telefon flaşlı fotoğraf",
+    "era": "2000'lerin başı / Y2K",
+    "lighting": "Renkli ışıkla (varsayılan=\"yumuşak pembe veya kırmızı\" argümanı) karıştırılmış doğrudan flaş",
+    "color_grading": "Gerçeğe yakın renkler, ham samimi anlık görüntü görünümü"
+  },
+  "composition": {
+    "camera_angle": "Yüksek açı (yukarıdan tutulmuş)",
+    "setting": "Yatak veya kanepe",
+    "pose": "Yatık, rahat, oyuncu, poz verilmemiş an",
+    "mood": "Kendine güvenli, kendini seven, samimi Sevgililer Günü"
+  },
+  "subject_styling": {
+    "archetype": "Kadın blog yazarı",
+    "apparel": "Vücuda oturan Y2K esintili üst, bol kapüşonlu veya ceket",
+    "makeup": "Parlak dudaklar, hafif ışıltı, belirgin kabarık takma kirpikler"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408659734_zxbjvp_G_gsbw_X0AAA44R.jpg" width="600" alt="Profil / Avatar - Y2K Flaş Fotoğraf Estetiği İstemleri - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408659464_57qmmz_G_gsbwrbYAA6HAs.jpg" width="600" alt="Profil / Avatar - Y2K Flaş Fotoğraf Estetiği İstemleri - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Lex](https://x.com/lexx_aura)
+- **Kaynak:** [Twitter Post](https://x.com/lexx_aura/status/2015409719335326000)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7555)**
+
+---
+
+### No. 5: Profil / Avatar - Oturma Odasında Kediyle Gerçekçi Akıllı Telefon Özçekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -723,7 +952,7 @@ Gerçekçi bir akıllı telefon selfie görüntüsü oluşturmak için bir JSON 
 
 ---
 
-### No. 2: Profil / Avatar - Seedream 4.5 (Doubao) için Basitleştirilmiş Kore Estetiği Portre İstemleri
+### No. 6: Profil / Avatar - Seedream 4.5 (Doubao) için Basitleştirilmiş Kore Estetiği Portre İstemleri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -762,7 +991,7 @@ Karmaşık Nano Banana Pro istemlerine kıyasla üstün Kore estetik portre sonu
 
 ---
 
-### No. 3: Profil / Avatar - Abartılı Oranlara Sahip Spor Salonu Aynası Selfiesi
+### No. 7: Profil / Avatar - Abartılı Oranlara Sahip Spor Salonu Aynası Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -827,7 +1056,7 @@ Modern bir spor salonu ortamında bir kadının ayna selfie'sini oluşturmak iç
 
 ---
 
-### No. 4: Profil / Avatar - Yılan Derisi Tayt Estetiğiyle Spor Salonu Aynası Selfiesi
+### No. 8: Profil / Avatar - Yılan Derisi Tayt Estetiğiyle Spor Salonu Aynası Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -931,7 +1160,7 @@ Bir spor salonu soyunma odasında çekilmiş fotogerçekçi bir ayna selfie'si o
 
 ---
 
-### No. 5: Profil / Avatar - 2x2 Ayna Selfie Kolajı İstemleri
+### No. 9: Profil / Avatar - 2x2 Ayna Selfie Kolajı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,7 +1291,7 @@ Mavi beyaz çiçekli bir bikini giyen bir karakterin ayna selfielerinden oluşan
 
 ---
 
-### No. 6: Profil / Avatar - Eğlenceli Selfie Portresi
+### No. 10: Profil / Avatar - Eğlenceli Selfie Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1103,7 +1332,7 @@ Uzun, düz, açık kahverengi saçlı, şakacı bir ifadeye (dilini dışarı ç
 
 ---
 
-### No. 7: Profil / Avatar - Kullanıcı Profili için Ghibli Tarzı Simge Oluşturma İstemleri
+### No. 11: Profil / Avatar - Kullanıcı Profili için Ghibli Tarzı Simge Oluşturma İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1137,7 +1366,7 @@ Lütfen hem yurt içinde hem de yurt dışında "{argument name="person name" de
 
 ---
 
-### No. 8: Profil / Avatar - Koreli Kız Grubu Tarzı Fotoğraf Çekimi İstemleri
+### No. 12: Profil / Avatar - Koreli Kız Grubu Tarzı Fotoğraf Çekimi İstemleri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1223,7 +1452,7 @@ IX. Doku ve Görsel Efekt
 
 ---
 
-### No. 9: Profil / Avatar - Sydney Sweeney 0.5x Selfie Kolajı
+### No. 13: Profil / Avatar - Sydney Sweeney 0.5x Selfie Kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1542,7 @@ Sydney Sweeney'nin özçekimlerinden oluşan 2x2'lik bir kolajı, ultra geniş a
 
 ---
 
-### No. 10: Profil / Avatar - Bikini ve Kot Şortlu Hiper Gerçekçi Flörtöz Altın Saat Portresi
+### No. 14: Profil / Avatar - Bikini ve Kot Şortlu Hiper Gerçekçi Flörtöz Altın Saat Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1445,7 +1674,7 @@ gerçek bir fotoğraftan ayırt edilemez.
 
 ---
 
-### No. 11: Profil / Avatar - Çoraplı ve Bayrak Arka Planlı Ayna Selfie'si İstemci Metni
+### No. 15: Profil / Avatar - Çoraplı ve Bayrak Arka Planlı Ayna Selfie'si İstemci Metni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1511,7 +1740,7 @@ Doğru anatomik detaylara, ışıklandırmaya ve arka planda asılı bir Amerika
 
 ---
 
-### No. 12: Profil / Avatar - Soyut Kaotik Karalama Sanatı İstemleri
+### No. 16: Profil / Avatar - Soyut Kaotik Karalama Sanatı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1544,7 +1773,7 @@ Yüklenen yüz fotoğrafını, iyi bir pozda duran, uygun bir gömlek ve pantolo
 
 ---
 
-### No. 13: Profil / Avatar - Neon Vurgulu Aydınlatma Portre İstemleri (Görsel Referansı)
+### No. 17: Profil / Avatar - Neon Vurgulu Aydınlatma Portre İstemleri (Görsel Referansı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1577,7 +1806,7 @@ Yüklenen fotoğraftaki kişiyi olduğu gibi kullanın, aynı yüzü, vücudu, o
 
 ---
 
-### No. 14: Profil / Avatar - Nano Banana Pro için Dokuz Panelli Yüz Tutarlılığı Izgarası İstemleri
+### No. 18: Profil / Avatar - Nano Banana Pro için Dokuz Panelli Yüz Tutarlılığı Izgarası İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1653,7 +1882,7 @@ Dokuz karenin hepsinde aynı kişi
 
 ---
 
-### No. 15: Profil / Avatar - Z Kuşağı Kaotik Peri Selfie Kolajı İstemcisi
+### No. 19: Profil / Avatar - Z Kuşağı Kaotik Peri Selfie Kolajı İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1743,298 +1972,6 @@ Sydney Sweeney'e benzeyen bir özneyi içeren, Z Kuşağı samimi sosyal medya d
 
 ---
 
-### No. 16: Profil / Avatar - Doğal Sosyal Medya Selfie İstemleri (Yürüyen Merdiven)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Sosyal medya influencer estetiğine sahip, samimi, yüksek açılı bir iPhone özçekimi oluşturmak için ayrıntılı bir JSON istemi. Kısa dalgalı saçlı genç bir kadın olan özne, bir alışveriş merkezindeki yürüyen merdivende, eğlenceli bir ördek suratı/öpücük dudak ifadesi yapıyor. İstemde doğal iç mekan aydınlatması, krem bej bir atlet ve siyah deri omuz çantası askısı ve bilekteki saç tokası gibi ayrıntılar belirtiliyor.
-
-#### 📝 İstem
-
-```
-{
-  "prompt": "Yukarıdan çekilmiş samimi bir selfie fotoğrafı, kahverengi altın rengi kısa dalgalı saçlı genç bir kadın, kameraya yukarı bakarak ördek suratı öpücük ifadesi yapıyor, açık mavi gri gözler, pembe nude dudaklarla doğal minimal makyaj, ince askılı krem bej atlet giymiş, siyah deri omuz çantası askısı görünüyor, bileğinde siyah saç tokası, parmağında gümüş yüzük, beyaz manikürlü tırnaklar, yürüyen merdivende yukarı bakarken duruyor, aşağıda metal yürüyen merdiven basamakları görünüyor, arkasında puantiyeli gömlekli başka bir kişi kısmen görünüyor, alışveriş merkezi veya metro istasyonu ortamı, yukarıdan yüksek açılı selfie perspektifi, doğal iç mekan aydınlatması, rahat sokak stili, sosyal medya fenomeni estetiği, iPhone selfie tarzı",
-  "negative_prompt": "stüdyo aydınlatması, dış mekan doğa, resmi giysiler, ciddi ifade, yan açı, tam vücut çekimi",
-  "style": "samimi sokak selfiesi, sosyal medya içeriği, gündelik an",
-  "aspect_ratio": "3:4",
-  "camera": {
-    "type": "akıllı telefon ön kamera selfiesi",
-    "angle": "konuya yukarıdan bakan yüksek tepe açısı",
-    "framing": "yukarıdan yakın çekim yüz ve üst vücut"
-  },
-  "lighting": {
-    "type": "doğal iç mekan ortam ışığı",
-    "quality": "yumuşak eşit aydınlatma, sert gölgeler yok",
-    "atmosphere": "rahat gündelik iç mekan ortamı"
-  },
-  "mood": "oyuncu, eğlenceli, rahat, flörtöz, spontane",
-  "color_palette": "platin beyaz saç, krem bej, siyah vurgular, gümüş metal, nötr tonlar",
-  "subject_features": {
-    "hair": "{argument name=\"saç rengi\" default=\"kahverengi altın rengi\"}, kısa omuz hizasında, yumuşak dalgalar, ortadan ayrılmış",
-    "skin": "açık, berrak, doğal, porselen",
-    "eyes": "açık mavi gri, doğrudan kameraya yukarı bakıyor",
-    "lips": "doğal pembe, öpücük dudak ördek suratı şeklinde büzülmüş",
-    "expression": "oyuncu ördek suratı öpücük, kameraya bakıyor",
-    "eyebrows": "doğal koyu kahverengi, bakımlı"
-  },
-  "wardrobe": {
-    "top": "ince spagetti askılı krem bej fitilli atlet",
-    "accessories": "omuzdan askılı siyah deri omuz çantası, bilekte siyah kumaş saç tokası, parmakta gümüş kalın yüzük",
-    "nails": "beyaz veya açık pembe manikür"
-  },
-  "setting": {
-    "location": "alışveriş merkezinde veya metro istasyonunda yürüyen merdiven",
-    "background": "metal yürüyen merdiven basamakları, siyah tırabzan, arkada başka bir kişi",
-    "context": "gündelik şehir anı"
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236002462_s92ep6_G_W-yQXbAAElyUR.jpg" width="600" alt="Profil / Avatar - Doğal Sosyal Medya Selfie İstemleri (Yürüyen Merdiven) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236002381_4c9hc4_G_W-yJvbAAId-aN.jpg" width="600" alt="Profil / Avatar - Doğal Sosyal Medya Selfie İstemleri (Yürüyen Merdiven) - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Kaynak:** [Twitter Post](https://x.com/Vishnudxe/status/2014726182802227430)
-- **Yayınlandı:** 23 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7307)**
-
----
-
-### No. 17: Profil / Avatar - Yürüyen Merdivende Ördek Surat İfadesiyle Samimi Selfie İstemleri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Bir alışveriş merkezinde yürüyen merdivende duran genç bir kadının (Ana De Armas veya Josephine Langford benzeri), şakacı bir "ördek surat" öpücük ifadesi yaparken çekilmiş samimi, yüksek açılı bir selfie fotoğrafını oluşturmak için oldukça ayrıntılı, yapılandırılmış bir komut istemi; belirli aksesuarlara, aydınlatmaya ve bir sosyal medya fenomeni estetiğine odaklanılıyor.
-
-#### 📝 İstem
-
-```
-{
-  "prompt": "Yukarıdan çekilmiş samimi bir selfie fotoğrafı, kahverengi altın rengi kısa dalgalı saçlı genç bir kadın, kameraya yukarı bakarak ördek dudak öpücüğü ifadesi yapıyor, açık mavi gri gözler, pembe nude dudaklarla doğal minimal makyaj, ince askılı krem bej bir atlet giyiyor, siyah deri omuz çantası askısı görünüyor, bileğinde siyah saç tokası, parmağında gümüş yüzük, beyaz manikürlü tırnaklar, yürüyen merdivende yukarı bakarken duruyor, metal yürüyen merdiven basamakları aşağıda görünüyor, arkasında puantiyeli gömlekli başka bir kişi kısmen görünüyor, alışveriş merkezi veya metro istasyonu ortamı, yukarıdan yüksek açılı selfie perspektifi, doğal iç mekan aydınlatması, gündelik sokak stili, sosyal medya fenomeni estetiği, iPhone selfie tarzı",
-  "negative_prompt": "stüdyo aydınlatması, dış mekan doğa, resmi giyim, ciddi ifade, yan açı, tam vücut çekimi",
-  "style": "samimi sokak selfiesi, sosyal medya içeriği, gündelik an",
-  "aspect_ratio": "3:4",
-  "camera": {
-    "type": "akıllı telefon ön kamera selfiesi",
-    "angle": "konuya yukarıdan bakan yüksek tepe açısı",
-    "framing": "yukarıdan yakın çekim yüz ve üst vücut"
-  },
-  "lighting": {
-    "type": "doğal iç mekan ortam ışığı",
-    "quality": "yumuşak eşit aydınlatma, sert gölgeler yok",
-    "atmosphere": "gündelik iç mekan ortamı"
-  },
-  "mood": "oyuncu, eğlenceli, rahat, flörtöz, spontane",
-  "color_palette": "platin beyaz saç, krem bej, siyah vurgular, gümüş metal, nötr tonlar",
-  "subject_features": {
-    "hair": "kahverengi altın rengi, kısa omuz hizasında, yumuşak dalgalar, ortadan ayrılmış",
-    "skin": "açık, pürüzsüz, doğal, porselen",
-    "eyes": "açık mavi gri, doğrudan kameraya bakıyor",
-    "lips": "doğal pembe, öpücük büzgülü ördek dudak ifadesi",
-    "expression": "oyuncu ördek dudak öpücüğü, kameraya bakıyor",
-    "eyebrows": "doğal koyu kahverengi, iyi bakımlı"
-  },
-  "wardrobe": {
-    "top": "ince spagetti askılı krem bej fitilli atlet",
-    "accessories": "omuzdan askılı siyah deri omuz çantası, bilekte siyah kumaş saç tokası, parmakta gümüş kalın yüzük",
-    "nails": "beyaz veya açık pembe manikür"
-  },
-  "setting": {
-    "location": "alışveriş merkezinde veya metro istasyonunda yürüyen merdiven",
-    "background": "metal yürüyen merdiven basamakları, siyah tırabzan, arkada başka bir kişi",
-    "context": "gündelik şehir anı"
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236016712_svuqb3_G_W4HuObAAASlP8.jpg" width="600" alt="Profil / Avatar - Yürüyen Merdivende Ördek Surat İfadesiyle Samimi Selfie İstemleri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236017075_exzro2_G_W4HuSbAAUgRnZ.jpg" width="600" alt="Profil / Avatar - Yürüyen Merdivende Ördek Surat İfadesiyle Samimi Selfie İstemleri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Sudee🥀](https://x.com/NameIsSudee)
-- **Kaynak:** [Twitter Post](https://x.com/NameIsSudee/status/2014719189345599489)
-- **Yayınlandı:** 23 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7328)**
-
----
-
-### No. 18: Profil / Avatar - Kahve Kupalı Samimi Yakın Çekim Portre
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Fotoğraf gerçekçiliğinde, samimi bir yakın çekim portre oluşturmak için "samimi iPhone havası" veren, oldukça yapılandırılmış, ayrıntılı bir bilgi istemi. Sahne, sıcak tungsten aydınlatmalı bir oturma odası kanepesinde geçiyor ve kahve fincanı tutan bir özneye odaklanarak rahat dokuları, yumuşak gölgeleri ve belirli bir kadrajı (4:5 en boy oranı) vurguluyor. Gerçekçiliği ve içerik kısıtlamalarına bağlılığı sağlamak için kapsamlı olumsuz istemler içerir.
-
-#### 📝 İstem
-
-```
-{
-  "category": "COZY_COUCH_LAMP_CLOSEUP",
-  "subject": {
-    "clothing": {
-      "outfit": "Düşük kesimli V yakalı kısa üst (yazısız), zarif dekolte, vücuda oturan, rahat iç mekan havası",
-      "texture": "Fitilli pamuk veya yumuşak jarse, gerçekçi kıvrımlar"
-    },
-    "accessories": {
-      "jewelry": ["Küçük gümüş halka küpeler"]
-    }
-  },
-  "pose": {
-    "type": "Yakın çekim samimi an",
-    "orientation": "Hafif yukarıdan açı, rahat",
-    "hands": "Bir el çeneye yakın kupa tutuyor (parmaklar doğru)",
-    "gaze": "Nazik göz teması",
-    "expression": "Hafif gülümseme, rahat"
-  },
-  "setting": {
-    "environment": "Oturma odası kanepe köşesi",
-    "background_elements": [
-      "Arkada sıcak turuncu lamba parıltısı",
-      "Battaniye dokusu görünür",
-      "Hafif dağınık ev ortamı bulanık"
-    ],
-    "depth": "Yüz keskin, arkada lamba parıltısı, yumuşak arka plan"
-  },
-  "camera": {
-    "shot_type": "Yakın çekim portre",
-    "angle": "Göz seviyesinin hafif üzerinde",
-    "focal_length_equivalent": "26mm telefon veya 50mm profesyonel",
-    "framing": "4:5, yüz baskın",
-    "focus": "Gözler keskin"
-  },
-  "lighting": {
-    "source": "Sıcak tungsten lamba + hafif ortam ışığı",
-    "direction": "Yan/ön sıcak",
-    "highlights": "Yanaklarda ve saçlarda yumuşak parıltı",
-    "shadows": "Nazik, rahatlatıcı"
-  },
-  "mood_and_expression": {
-    "tone": "Rahat, samimi, ilişkilendirilebilir",
-    "expression": "Hafif gülümseme",
-    "atmosphere": "Sıcak, dokunsal, ev gibi"
-  },
-  "style_and_realism": {
-    "style": "Fotogerçekçi iPhone-samimi havası",
-    "imperfections": "Hafif gren, hafif kusurlu beyaz dengesi"
-  },
-  "technical_details": {
-    "aspect_ratio": "4:5",
-    "noise": "Hafif telefon sensörü greni",
-    "motion_blur": "Yüzde bulanıklık yok"
-  },
-  "constraints": {
-    "adult_only": true,
-    "no_text": true,
-    "no_logos": true,
-    "no_watermarks": true
-  },
-  "negative_prompt": [
-    "plastik cilt",
-    "aşırı pürüzsüzleştirme",
-    "fazla parmak",
-    "çarpık kupa",
-    "okunabilir metin",
-    "logo",
-    "filigran",
-    "çıplaklık",
-    "areola",
-    "meme uçları",
-    "iç gösteren kumaş",
-    "açık iç çamaşırı"
-  ]
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236041021_oh0a0c_G_WgPOoXEAAxhXA.jpg" width="600" alt="Profil / Avatar - Kahve Kupalı Samimi Yakın Çekim Portre - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [tusina](https://x.com/tusinaai)
-- **Kaynak:** [Twitter Post](https://x.com/tusinaai/status/2014692737631522816)
-- **Yayınlandı:** 23 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7363)**
-
----
-
-### No. 19: Profil / Avatar - Nano Banana Pro ile Bir Koruyucu Melek Oluşturmak
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Bir kullanıcı, Nano Banana Pro kullanarak çiçekler ve ışıkla çevrili bir koruyucu melek görseli oluşturdu ve diğerlerinin denemesi için istemi ALT metninde paylaştı.
-
-#### 📝 İstem
-
-```
-👼🌸 Yapay zeka ile koruyucu meleğe dönüşmeyi denedim
-
-Kalbiniz için bir huzur anı… ✨
-Çiçekler ve ışıklarla çevrili nazik bir zaman 💐
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769236037652_sb9oh0_G_WY67Ha8AA30nM.jpg" width="600" alt="Profil / Avatar - Nano Banana Pro ile Bir Koruyucu Melek Oluşturmak - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [ちゃろん](https://x.com/charon_artist)
-- **Kaynak:** [Twitter Post](https://x.com/charon_artist/status/2014684553877877167)
-- **Yayınlandı:** 23 Ocak 2026
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7359)**
-
----
-
 ### No. 20: Sosyal Medya Gönderisi - Tren reklamı tarzı kitap reklamı görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
@@ -2085,18 +2022,72 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Gemini Nano Banana için Cumhuriyet Bayramı Fotoğraf İstemleri
+### No. 21: Sosyal Medya Gönderisi - Modern Sokak Modası Fotoğrafçılığı Komutu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Cumhuriyet Bayramı ile ilgili çarpıcı bir fotoğraf oluşturmak üzere tasarlanmış, bir tweet'in alt metninde bulunan ve Gemini Nano Banana modeli için hazırlanmış bir bilgi istemi.
+Sokak modası fotoğrafçılığı tarzında, yüksek çözünürlüklü, gerçekçi bir görüntü oluşturmak için ayrıntılı bir bilgi istemi. Kısa sarı bob saçlı, kırmızı bere, beyaz crop tişört ve beyaz dantel midi etek giyen genç bir kadının, modern bir şehir meydanında, yumuşak bulutlu bir ışık altında kendinden emin bir şekilde poz vererek genç, trend ve gündelik şık bir estetik yakalamayı hedefliyor.
 
 #### 📝 İstem
 
 ```
-Çarpıcı Cumhuriyet Bayramı fotoğrafı
+{
+  "image_generation": {
+    "subject": {
+      "description": "şehirde dış mekanda kendinden emin bir şekilde poz veren genç kadın",
+      "expression": "mutlu, rahat, doğal bir şekilde gülümseyen",
+      "pose": "dik duruyor, bir eli eteğinin ucunu kaldırıyor, diğeri beresini düzeltiyor",
+      "body_language": "gündelik, eğlenceli, şık"
+    },
+    "appearance": {
+      "hair": {
+        "color": "açık sarı",
+        "style": "kısa küt saç kesimi ve kahküller",
+        "accessories": "{argument name=\"headwear\" default=\"kırmızı bere\"}"
+      },
+      "face": {
+        "features": "yumuşak yüz hatları, doğal makyaj",
+        "accessories": "yuvarlak güneş gözlüğü"
+      }
+    },
+    "outfit": {
+      "top": "siyah grafik baskılı beyaz crop tişört",
+      "bottom": "beyaz dantel midi etek",
+      "belt": "metal delikli kırmızı kemer",
+      "shoes": "siyah platform ayakkabılar",
+      "socks": "kırmızı bilek çorapları",
+      "bag": "küçük kırmızı omuz çantası"
+    },
+    "accessories": {
+      "jewelry": "katmanlı gümüş kolyeler",
+      "tattoos": "kollarında küçük görünür dövmeler"
+    },
+    "environment": {
+      "setting": "modern şehir meydanı",
+      "background": "beton mimari, yüksek apartman binaları, ağaçlar ve açık kamusal alan",
+      "ground": "açık gri fayans döşeme"
+    },
+    "lighting": {
+      "type": "doğal gün ışığı",
+      "condition": "yumuşak bulutlu ışık",
+      "effect": "minimum sert gölgelerle eşit aydınlatma"
+    },
+    "camera": {
+      "style": "sokak stili moda fotoğrafçılığı",
+      "angle": "göz hizasında tam vücut çekimi",
+      "focus": "konu üzerinde keskin odaklama ve net arka plan detayları",
+      "quality": "yüksek çözünürlüklü, gerçekçi"
+    },
+    "aesthetic": {
+      "style": "modern sokak modası",
+      "vibe": "genç, trend, gündelik şıklık",
+      "color_palette": "beyaz, kırmızı, siyah, nötr şehir tonları"
+    }
+  }
+}
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -2104,62 +2095,34 @@ Cumhuriyet Bayramı ile ilgili çarpıcı bir fotoğraf oluşturmak üzere tasar
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322358059_1utmso_G_fISl8XYAAxLUQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Gemini Nano Banana için Cumhuriyet Bayramı Fotoğraf İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408698343_snimtm_G_jhM_hXcAAJyVk.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Sokak Modası Fotoğrafçılığı Komutu - Image 1">
 </div>
 
-#### 📌 Detaylar
-
-- **Yazar:** [blogbursthub](https://x.com/blogbursthub)
-- **Kaynak:** [Twitter Post](https://x.com/blogbursthub/status/2015299596671762713)
-- **Yayınlandı:** 25 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7540)**
-
----
-
-### No. 22: Sosyal Medya Gönderisi - Neon Puantilizm Siberpunk İllüstrasyon
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Parlak neon puantilizm tarzında dikey bir illüstrasyon oluşturmak için bir istem. Görüntü, tamamen küçük parlayan noktalar ve düğümlerle, derin siyah bir arka plana karşı canlı bir siberpunk paleti (camgöbeği, macenta, mor) kullanılarak oluşturulmalı, yüksek kontrast ve fütüristik, ruhani nokta işi detaylar vurgulanmalıdır.
-
-#### 📝 İstem
-
-```
-{argument name="subject" default="[xxxxxxxx]"} içeren, parlak neon noktacılık tarzında dikey bir illüstrasyon. Görüntü tamamen binlerce küçük parlayan nokta, ışık parçacığı ve bağlı düğümlerle oluşturulmuştur. Derin, koyu siyah bir arka plana karşı yoğun bir şekilde parlayan canlı siberpunk renk paleti (elektrik mavisi, magenta, mor ve neon mavi). Yüksek kontrast, karmaşık nokta işçiliği detayları, fütüristik, dijital ve ruhani bir atmosfer.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
+##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322278306_vtwx5q_G_d5gg-WwAAhRBa.jpg" width="600" alt="Sosyal Medya Gönderisi - Neon Puantilizm Siberpunk İllüstrasyon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408698610_sj4hwy_G_jhM-naUAAl7HG.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Sokak Modası Fotoğrafçılığı Komutu - Image 2">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [MYS AI](https://x.com/mys1111)
-- **Kaynak:** [Twitter Post](https://x.com/mys1111/status/2015212978719887743)
-- **Yayınlandı:** 24 Ocak 2026
+- **Yazar:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Kaynak:** [Twitter Post](https://x.com/saniaspeaks_/status/2015608461737050243)
+- **Yayınlandı:** 26 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7428)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7606)**
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Barbiecore Yüksek Açılı Sokak Sahnesi
+### No. 22: Sosyal Medya Gönderisi - Barbiecore Paris Hilton Sokak Stili (JSON Formatı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Beverly Hills tarzı bir caddede pembe, klasik bir üstü açık arabanın yanında duran bir kadının canlı, yüksek doygunlukta bir 'Barbiecore' görüntüsünü oluşturmak için yapılandırılmış bir JSON istemi. İstem, yapay zekayı, konuyu kısaltmak ve arka planı düzleştirmek için dramatik bir yüksek açılı çekim kullanmaya özel olarak yönlendirir.
+Güneşli bir Beverly Hills sokağında, pembe iki parçalı bir kıyafet içinde {argument name="celebrity" default="Paris Hilton"}'ın yüksek doygunlukta, 'Barbiecore' bir görüntüsünü oluşturmak için ayrıntılı bir JSON istemi. İstem, yüksek açılı bir çekim, 9:16 dikey en boy oranı ve konuyu kısaltmak ve arka planı düzleştirmek için teknik direktifler belirterek, sert güneş ışığını ve keskin gölgeleri vurgular.
 
 #### 📝 İstem
 
@@ -2167,21 +2130,21 @@ Beverly Hills tarzı bir caddede pembe, klasik bir üstü açık arabanın yanı
 {
   "image_generation_parameters": {
     "subject": {
-      "description": "Uzun dalgalı saçlı neşeli sarışın kadın",
+      "description": "{argument name=\"celebrity\" default=\"Paris Hilton\"} uzun dalgalı saçlı",
       "attire": "Büstiyer crop top ve pilili mini etekten oluşan pembe iki parçalı kıyafet",
       "accessories": ["Beyaz retro kedi gözü güneş gözlüğü", "Küçük pembe dokuma el çantası"],
-      "pose": "Bir arabanın yanında duruyor, yukarı doğru gülümsüyor, bir eli yüzünün yanında, diğeri çantasını tutuyor"
+      "pose": "Bir arabanın yanında duruyor, yukarı doğru gülümsüyor, bir eli yüzünün yakınında, diğeri çanta tutuyor"
     },
     "environment": {
       "setting": "Güneşli Beverly Hills tarzı sokak",
       "background_elements": ["Yerleşim yolunu çevreleyen uzun palmiye ağaçları", "Berrak mavi gökyüzü", "Yeşil çitler"],
-      "prop": "{argument name=\"car color\" default=\"Pink\"} detaylı iç mekana ve krom direksiyon simidine sahip klasik üstü açık araba"
+      "prop": "Detaylı iç mekana ve krom direksiyon simidine sahip pembe klasik üstü açık araba"
     },
     "cinematography": {
       "camera_angle": "Yüksek açılı çekim (yukarıdan aşağıya bakış)",
-      "framing": "Baş, gövde ve arabanın üst kısmına odaklanan Orta Yakın Çekim (MCU)",
+      "framing": "Kafa, gövde ve arabanın üst kısmına odaklanan Orta Yakın Çekim (MCU)",
       "aspect_ratio": "9:16 (Dikey)",
-      "lens_effect": "Yüksekliği vurgularken bozulmayı en aza indirmek için standart 50mm odak uzaklığı"
+      "lens_effect": "Yüksekliği vurgularken bozulmayı en aza indirmek için standart 50 mm odak uzaklığı"
     },
     "lighting_and_color": {
       "aesthetic": "Canlı, yüksek doygunluklu, 'Barbiecore' estetiği",
@@ -2198,792 +2161,151 @@ Beverly Hills tarzı bir caddede pembe, klasik bir üstü açık arabanın yanı
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322267896_fn20d0_G_dqWYsWcAAnu45.jpg" width="600" alt="Sosyal Medya Gönderisi - Barbiecore Yüksek Açılı Sokak Sahnesi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322267782_4lk9gu_G_dqT4mWAAEb7m_.jpg" width="600" alt="Sosyal Medya Gönderisi - Barbiecore Yüksek Açılı Sokak Sahnesi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322267946_yz6qiw_G_drAXIWAAEKpM1.jpg" width="600" alt="Sosyal Medya Gönderisi - Barbiecore Yüksek Açılı Sokak Sahnesi - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [jennieee:3](https://x.com/jenniebae_ai)
-- **Kaynak:** [Twitter Post](https://x.com/jenniebae_ai/status/2015197262654124511)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7413)**
-
----
-
-### No. 24: Sosyal Medya Gönderisi - Yüksek Moda Kış Kar Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Taze kar üzerinde oturan bir ünlünün (Millie Bobby Brown) ultra gerçekçi bir yüksek moda fotoğrafını oluşturmak için son derece ayrıntılı bir JSON istemi; ünlünün tam yüz benzerliğini, doğal cilt dokusunu ve yumuşak, dağınık bulutlu kış ışığını korumaya odaklanılmıştır.
-
-#### 📝 İstem
-
-```
-{
-  "prompt": "Kışın dışarıda taze beyaz kar üzerinde oturan {argument name=\"celebrity name\" default=\"Millie Bobby Brown\"} ultra gerçekçi yüksek moda fotoğrafı. Millie Bobby Brown'ın tanınabilir yüz yapısı ve benzerliği: oval yüz şekli, yumuşak genç özellikler, etkileyici badem şeklinde kahverengi gözler, doğal dolgun dudaklar, düz küçük burun, dengeli yüz simetrisi. Yanaklarda ve burunda doğal kış kırmızılığı. Hafif kapalı ağızlı bir gülümsemeyle sakin, kendinden emin ifade, doğrudan kameraya bakıyor. Bacakları öne doğru bükülmüş, hafifçe açık, destek için elleri arkasında olacak şekilde kara oturmuş. Kamera açısı göz seviyesinin biraz üzerinde, hafifçe aşağı bakıyor. Üzerinde vücuda oturan fitilli uzun kollu fermuarlı gri bir bodysuit ve gri saç örgüsü diz üstü çoraplar var. Zarif minimal kış modası stili. İnce, narin, kadınsı vücut oranları. Doğal dokulu açık ten rengi. Arka planda kısmen görünen rustik bir taş bina duvarı ile karla kaplı bir zemin. Doğal kapalı kış gün ışığı, yumuşak dağınık aydınlatma, sert gölgeler yok, sinematik gerçekçilik, yüksek cilt detayı, gerçekçi renk derecelendirmesi.",
-  
-  "negative_prompt": "anime, çizgi film, illüstrasyon, resim, abartılı kıvrımlar, gerçekçi olmayan vücut oranları, aşırı cinselleştirilmiş poz, ağır makyaj, parlak dudaklar, plastik cilt, bulanıklık, düşük çözünürlük, bozuk yüz, fazla parmaklar, fazla uzuvlar, sert stüdyo aydınlatması, yapay ışık, aşırı keskin, deep fake artefaktları",
-  
-  "settings": {
-    "style": "fotogerçekçi ünlü portresi",
-    "quality": "ultra yüksek",
-    "resolution": "1024x1536",
-    "camera": {
-      "type": "profesyonel DSLR",
-      "lens": "50mm prime",
-      "aperture": "f/2.8",
-      "focus": "gözlerde ve yüzde keskin odak, hafif arka plan bulanıklığı"
-    },
-    "lighting": {
-      "type": "doğal gün ışığı",
-      "condition": "kapalı kış gökyüzü",
-      "direction": "hafif dolgu ile yumuşak önden ışık"
-    }
-  },
-
-  "facial_details": {
-    "identity": "Millie Bobby Brown",
-    "face_shape": "yumuşak oval",
-    "eyebrows": "doğal orta kalınlıkta, hafif kemerli, koyu kahverengi",
-    "eyes": "kahverengi gözler, badem şeklinde, etkileyici, genç",
-    "eyelashes": "doğal, hafifçe belirgin",
-    "nose": "düz ve küçük",
-    "lips": "doğal dolgun, yumuşak pembe tonlu",
-    "makeup": "çok minimal, temiz cilt görünümü, kontür yok, ağır allık yok"
-  },
-
-  "hair": {
-    "color": "koyu kahverengi",
-    "length": "omuz hizasında",
-    "style": "gevşek, hafif dalgalı, doğal dokulu",
-    "part": "orta ayrım",
-    "volume": "yumuşak ve doğal"
-  },
-
-  "body": {
-    "build": "narin, ince, kadınsı",
-    "posture": "rahat oturma pozu",
-    "skin": "açık ten rengi, görünür doğal doku"
-  },
-
-  "environment": {
-    "location": "açık hava kış ortamı",
-    "ground": "taze dokunulmamış beyaz kar",
-    "background": "kısmen görünen rustik taş bina duvarı",
-    "atmosphere": "soğuk, sakin, edi"
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322266486_gkgxez_G_dpmtOXMAAIv9N.jpg" width="600" alt="Sosyal Medya Gönderisi - Yüksek Moda Kış Kar Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322266487_qohwsy_G_dpmwDWMAAqDMJ.jpg" width="600" alt="Sosyal Medya Gönderisi - Yüksek Moda Kış Kar Portresi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322266987_bxufho_G_dpm0MXwAAispg.jpg" width="600" alt="Sosyal Medya Gönderisi - Yüksek Moda Kış Kar Portresi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322267687_i6qpqi_G_dpm5gXcAArzFu.jpg" width="600" alt="Sosyal Medya Gönderisi - Yüksek Moda Kış Kar Portresi - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Bethany](https://x.com/JustBethanyai)
-- **Kaynak:** [Twitter Post](https://x.com/JustBethanyai/status/2015195478929866945)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7412)**
-
----
-
-### No. 25: Sosyal Medya Gönderisi - Ana de Armas, Beton Duvar Önünde Siyah İpek Halter Elbise İçinde
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Ana de Armas'ın orta çekim bir fotoğrafını oluşturmak için bir komut. Pozunu (bir beton duvara tek bacağı havada yaslanmış), kıyafetini (derin dekolteli, yüksek yırtmaçlı siyah ipek halter elbise ve koyu renk jartiyer) ve narin pırlanta kolyesine odaklanan sığ alan derinliğine sahip, loş, dağınık aydınlatmayı tanımlar.
-
-#### 📝 İstem
-
-```
-{
-  "prompt": "Koyu, dağınık saçlı ve kırmızı rujlu aktris {argument name=\"actress name\" default=\"Ana de Armas\"}'ın, solunda koyu bir şerit bulunan, yıpranmış, dokulu bir beton duvara yaslanmış orta çekim fotoğrafı. Derin dekolteli, siyah ipek bir halter elbise giyiyor, yüksek yırtmacı sol bacağını kaldırıp duvara dayamış, koyu renk bir jartiyer görünüyor. Sağ eli kalçasında. Aydınlatma dağınık ve loş, yumuşak gölgeler var. Sığ alan derinliğine sahip çekim, ona odaklanıyor. Narin bir pırlanta kolye takıyor."
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322303937_duob5u_G_dia7jW0AA9zop.jpg" width="600" alt="Sosyal Medya Gönderisi - Ana de Armas, Beton Duvar Önünde Siyah İpek Halter Elbise İçinde - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322303926_7nq6am_G_dia7kWgAE8Fop.jpg" width="600" alt="Sosyal Medya Gönderisi - Ana de Armas, Beton Duvar Önünde Siyah İpek Halter Elbise İçinde - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [jennieee:3](https://x.com/jenniebae_ai)
-- **Kaynak:** [Twitter Post](https://x.com/jenniebae_ai/status/2015188067745755629)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7463)**
-
----
-
-### No. 26: Sosyal Medya Gönderisi - Face Lock Özellikli Fotogerçekçi Lüks Seyahat Editöryeli
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Capri yakınlarında bir yatta ultra gerçekçi lüks seyahat editoryal portresi oluşturmak için son derece ayrıntılı bir JSON istemi. İstem, yüz kimliği kilitleme (referans görüntü gerektiren), belirli kamera dili (50mm, moda editoryali) ve ayrıntılı ortam ve gardırop açıklamaları için katı kısıtlamalar içerir.
-
-#### 📝 İstem
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_luxury_travel_editorial",
-      "version": "v1.0_YACHT_CAPRI_FARAGLIONI_STRIPED_DRESS_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_face": {
-        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
-        "purpose": "FACE_IDENTITY_LOCK",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true
-      },
-      "reference_image_scene": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "POSE_COMPOSITION_LIGHTING_ANCHOR",
-        "strict_lock": false,
-        "preserve_pose": true,
-        "preserve_composition": true,
-        "preserve_mood": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_luxury_editorial_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_modern_film",
-      "color_grade": "mediterranean_noon_clean",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "50mm, göz hizası, moda editöryel, sığ alan derinliği, yüz ve kumaş dokusuna odaklanma",
-      "lighting_language": "yumuşak yansıtıcı dolgu ışığıyla parlak Akdeniz öğle güneşi, gerçekçi gölgeler, flaşsız",
-      "authenticity_markers": "yapay zeka parlaması yok, HDR yok, gerçekçi deniz yansımaları, doğal cilt dokusu, doğru eller"
-    },
-    "creative_prompt": {
-      "scene_summary": "Akdeniz'de bir yatta, dramatik kireçtaşı deniz yığınları ve arka planda masmavi sularla lüks bir seyahat moda editöryel portresi. Aynı yetişkin kadın (yüz referansla %100 eşleşmeli) yatta, uyumlu bir fular detayıyla akıcı {argument name=\"dress color\" default=\"mavi-beyaz\"} çizgili maksi elbise içinde oturuyor. Sakin, zarif ifade, zahmetsiz tatil cazibesi.",
-      "subject_details": {
-        "count": 1,
-        "description": "yetişkin kadın, referansla tamamen aynı kimlik",
-        "expression": "yumuşak kendinden emin gülümseme, kameraya rahat bakış",
-        "face_visibility": "kimlik eşleşmesi için tam yüz net görünür, keskin odak",
-        "skin_and_face": "doğal doku, rötuşsuz, gerçekçi gözenekler",
-        "hair": "uzun koyu saç, doğal parlaklık, hafif rüzgarla dağılmış tutamlar"
-      },
-      "wardrobe_and_style": {
-        "outfit": "mavi-beyaz çizgili akıcı maksi elbise, ince askılar, oturan korse, hacimli etek"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322262607_f6sjgj_G_dZP_lWcAAf863.jpg" width="600" alt="Sosyal Medya Gönderisi - Face Lock Özellikli Fotogerçekçi Lüks Seyahat Editöryeli - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
-- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015177526050496650)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7408)**
-
----
-
-### No. 27: Sosyal Medya Gönderisi - Japon Ofis Hanımefendisinin (OL) Fotoğraf Gerçekliğinde Doğal Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Genç bir Japon ofis hanımının (OL) foto-gerçekçi, doğal bir portresini oluşturmak için ayrıntılı bir bilgi istemi. Bilgi istemi, belirli bir estetiği yakalamaya odaklanıyor: gençlik ışıltısı, figürü geri planda bırakan profesyonel ama mütevazı kıyafetler ve loş bir gece ofis ortamında flaşlı fotoğrafçılık, film greni ve yumuşak odak gibi teknik özellikler.
-
-#### 📝 İstem
-
-```
-visual_blueprint:
-  full_prompt: |
-    20'li yaşlarının başında görünen sevimli genç bir Japon ofis hanımının (OL) son derece estetik, fotogerçekçi, doğal bir portresini oluşturun.
-    Büyük etkileyici gözlere, doğal olarak parlayan narin açık ten rengine, hafif doğal makyaja ve basit, yumuşak bir saç stiline sahip yumuşak, genç bir yüze sahip; düz veya hafif dalgalı, doğal olarak düşen düzgün kakülleri var.
-    İfadesi sakin ve profesyonel, hafif, nazik bir gülümseme ve masum ama aynı zamanda ağırbaşlı bir hava veren yumuşak gözlerle.
-    Doğal olarak dolgun bir vücuda ve büyük göğüslere sahip, ancak giysileri göğüslerini gizleyecek şekilde seçilmiş—göğüslerini belli etmeyecek ve vurgulamayacak şekilde tasarlanmış klasik bir Japon OL takım elbisesi giyiyor: göğüs bölgesinde sıkı gerginlikten kaçınan, bol kesim, keskin beyaz, uzun kollu bir bluz (hafifçe bol veya yumuşak dökümlü kumaşlı), üzerine ek kapatıcılık için düğmeli veya yarı düğmeli, özel dikim {argument name="jacket color" default="lacivert veya siyah"} bir ceket ve diz hizasında bir kalem etek veya düz pantolon.
-    Genel kesim profesyonel ve mütevazı, kumaş nazikçe dökümlü ve göğüs bölgesinde belirgin dekolte veya sıkı hatlar yok.
-    Çekim, göğsünden yukarısı kadrajlanmış, üst beden bir portre; rahat ama profesyonel bir duruşla, omuzları yumuşak, belki bir klasör tutarken veya elleri doğal bir ofis hissi vermek için hafifçe önde kenetlenmiş şekilde duruyor.
-    Fotoğraf, gece, loş, az ışıklı bir iç mekan ofis atmosferinde flaşlı fotoğrafçılık kullanılarak çekilmiş; flaşın hafif aşırı pozlaması, genç cildinde yumuşak, hoş bir parlaklık yaratıyor.
-    Ham, otantik bir his için gerçekçi film greni ve hafif renk gürültüsü, sığ alan derinliği ile genel olarak yumuşak odak ve masa lambalarından gelen sıcak bokeh ve şehir ışıklarını gösteren hafif pencere parlaması ile güzelce bulanıklaştırılmış bir gece ofis arka planı dahil edin.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322360770_y5pbti_G_dYnkJa8AAebyD.jpg" width="600" alt="Sosyal Medya Gönderisi - Japon Ofis Hanımefendisinin (OL) Fotoğraf Gerçekliğinde Doğal Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322360847_3yuzbi_G_dYnkHbYAArcHm.jpg" width="600" alt="Sosyal Medya Gönderisi - Japon Ofis Hanımefendisinin (OL) Fotoğraf Gerçekliğinde Doğal Portresi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [AIArtChino](https://x.com/aiartchino)
-- **Kaynak:** [Twitter Post](https://x.com/aiartchino/status/2015177219254231191)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7547)**
-
----
-
-### No. 28: Sosyal Medya Gönderisi - Fotogerçekçi Flash Karaoke Düeti İstemcisi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Bir barın içinde karaoke düeti söyleyen iki arkadaşın ultra gerçekçi, doğal bir görüntüsünü oluşturmak için oldukça karmaşık ve yapılandırılmış bir istem. Karışık neon/tungsten aydınlatma, kamera flaşı, hafif film greni ve birden fazla referans görüntüye dayalı sıkı kimlik/poz kilitleme belirtilmiştir.
-
-#### 📝 İstem
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_flash_nightlife_karaoke_duet",
-      "version": "v1.0_KARAOKE_DUET_DIVEBAR_NEON_FLASH_CANDID_NO_TEXT",
-      "priority": "highest"
-    },
-
-    "references": {
-      "reference_image_1": {
-        "source": "UPLOAD_REFERENCE_IMAGE (GEREKLİ)",
-        "purpose": "POZ_KOMPOZİSYON_ORTAM_ÇAPASI",
-        "strict_lock": true,
-        "preserve_pose": true,
-        "preserve_body_proportions": true,
-        "no_body_rescale": true,
-        "no_identity_blending": true
-      },
-      "reference_image_2": {
-        "source": "UPLOAD_REFERENCE_IMAGE (İSTEĞE BAĞLI)",
-        "purpose": "KADIN_YÜZ_KİMLİK_KİLİDİ",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true
-      },
-      "reference_image_3": {
-        "source": "UPLOAD_REFERENCE_IMAGE (İSTEĞE BAĞLI)",
-        "purpose": "ERKEK_YÜZ_KİMLİK_KİLİDİ",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true
-      }
-    },
-
-    "output_settings": {
-      "aspect_ratio": "3:4",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "flash_candid_nightlife_documentary",
-      "sharpness": "flash_crisp_subject_soft_background",
-      "film_grain": "subtle_35mm",
-      "color_grade": "neon_bar_mixed_lighting_true_to_scene",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-
-    "creative_prompt": {
-      "scene_summary": "Neon tabelalar ve renkli ambiyans aydınlatmasıyla samimi bir barın içinde ultra-fotogerçekçi, samimi bir karaoke anı. İki arkadaş küçük bir karaoke sahnesinde düet yapıyor. Kadın ön planda, ağzına yakın siyah bir el mikrofonu tutuyor, gülümsüyor ve bir kolu dışarı doğru uzanmış halde performans sergiliyor. Adam hafifçe arkasında duruyor, o da bir mikrofon tutuyor, şarkı söylüyor ve eğleniyor. Sahne, neon yansımaları ve dağınık bar detaylarıyla gerçek bir telefon flaşı veya kompakt kamera parti fotoğrafı gibi kendiliğinden hissediliyor.",
-
-      "environment": {
-        "location": "gece barı / karaoke bar iç mekanı",
-        "background": "duvarlarda neon tabelalar, posterler ve çıkartmalar, sıcak ahşap dokular, bar dağınıklığı, loş ambiyans ışığı",
-        "practical_details": "tabelaların ve TV ekranı parıltısının olduğu bir duvarın yakınında karaoke alanı; yakında langırt masası veya oyun alanı; görünür armatürlere sahip tavan",
-        "lighting": "karışık neon + sıcak tungsten + kamera flaşı patlaması; gerçekçi renk yayılımı ve yansımalar",
-        "atmosphere": "eğlenceli, gürültülü, neşeli gece hayatı enerjisi"
-      },
-
-      "subjects": {
-        "female": {
-          "wardrobe"
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322349201_oi38od_G_dWzfIXgAAlSk1.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotogerçekçi Flash Karaoke Düeti İstemcisi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
-- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015174969613852726)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7528)**
-
----
-
-### No. 29: Sosyal Medya Gönderisi - Ultra Gerçekçi Kış Romantizmi Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Karlı bir kış ormanında kucaklaşan bir çiftin ultra gerçekçi, sinematik bir yaşam tarzı portresini oluşturmak için son derece ayrıntılı bir JSON istemi; kıyafetleri, aydınlatmayı (kapalı kış gün ışığı) ve metin veya filigranlara karşı katı kısıtlamaları belirtir.
-
-#### 📝 İstem
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "task_type": "photoreal_winter_romance_forest_couple",
-      "version": "v1.0_SNOWY_FOREST_COUPLE_EMBRACE_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_cinematic_lifestyle",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle",
-      "color_grade": "soft_neutral_winter",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch",
-      "no_text": true,
-      "no_logos": true,
-      "no_watermarks": true,
-      "no_ui": true
-    },
-    "creative_prompt": {
-      "scene_summary": "Karlı bir ormanda ultra gerçekçi kış romantizmi portresi. Bir çift samimi bir an içinde birbirine yakın duruyor, sımsıkı sarılıyor ve alınlarını/burunlarını birbirine değdiriyor. Katmanlı derinlikle hafif kar yağışı görülüyor: ön planda daha büyük taneler hafifçe bulanık, orta/arka planda ise daha küçük taneler keskin. Ağaç dallarında ve giysilerde doğal olarak kar birikintileri var. Rahat, yumuşak, sinematik bir atmosfer. Metin yok.",
-      "environment": {
-        "location_feel": "uzun gövdeli ve karla kaplı yaprak dökmeyen ağaçların olduğu yoğun kış ormanı",
-        "ground": "hafif ayak izleri ve doğal dokuya sahip taze kar",
-        "weather": "hafif aktif kar yağışı",
-        "lighting": "kapalı kış gün ışığı, dağınık ve yumuşak, doğal gölgeler"
-      },
-      "subjects": {
-        "couple": {
-          "female_adult": {
-            "wardrobe": "{argument name=\"female coat color\" default=\"white\"} kabarık suni kürk palto, sıcak kulaklıklar/saç bandı, kışlık pantolon, kışlık botlar",
-            "pose": "erkeğin kollarında yakın duruyor, bir kolu erkeğin sırtına/belinde, yüzü ona doğru hafifçe yukarı dönük",
-            "expression": "hafif gülümseme, gözler nazikçe kapalı veya yarı kapalı"
-          },
-          "male_adult": {
-            "wardrobe": "krem/bej sherpa kapüşonlu üst veya polar ceket, kışlık pantolon",
-            "pose": "kolları kadının etrafında, başı aşağıya dönük, alnı/burnu kadınınkine değiyor",
-            "expression": "şefkatli, sakin"
-          }
-        }
-      },
-      "camera_and_composition": {
-        "shot_type": "yaşam tarzı portresi, göz hizası, samimi orta çekim",
-        "lens_look": "50mm eşdeğeri, sığ alan derinliği, nazik arka plan ayrımı",
-        "framing": "çift ortalanmış, orman doğal dikey çizgiler oluşturuyor, minimum dikkat dağıtıcı unsurlar",
-        "focus": "yüzler ve eller keskin, arka plan hafifçe bulanık"
-      },
-      "physical_realism": {
-        "snow_interaction": "dallarda gerçekçi kar birikimi; omuzlarda ve saçlarda hafif kar taneleri; botlarda ve zeminde doğru temas gölgeleri",
-        "fabric_detail": "görünür tüylü palto lifleri ve sherpa dokusu, kolların sarıldığı yerlerde gerçekçi kıvrımlar ve gerilim"
-      },
-      "anatomy_constraints": {
-        "priority": "maximum",
-        "requirements": [
-          "doğal yüz oranları "
-        ]
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322262455_exchxl_G_dWhCzXoAA7AnW.jpg" width="600" alt="Sosyal Medya Gönderisi - Ultra Gerçekçi Kış Romantizmi Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
-- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015174567224901724)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7406)**
-
----
-
-### No. 30: Sosyal Medya Gönderisi - Yarış Pistinde Ultra-Gerçekçi Samimi Çift Yaşam Tarzı Editoryali
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Modern bir yarış pisti tribününde samimi bir çiftin ultra gerçekçi görüntü oluşturulması için tasarlanmış, oldukça yapılandırılmış, karmaşık bir JSON istemi. Kadın öznenin yüzü için bir referans görüntüsü gerektiren kimlik korumaya yönelik kapsamlı kısıtlamalar, metin/logo kullanımına karşı genel kurallar ve sahne, gardırop ve kamera dili için ayrıntılı yaratıcı talimatlar içerir; otantik, rötuşsuz bir editoryal görünüm hedeflenmektedir.
-
-#### 📝 İstem
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_couple_racetrack_lifestyle",
-      "version": "v1.0_RACEWEEKEND_CANDID_COUPLE_GRANDSTAND_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_face_female": {
-        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
-        "purpose": "FACE_IDENTITY_LOCK_FEMALE",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true,
-        "preserve_moles_freckles_scars": true,
-        "preserve_eye_shape": true,
-        "preserve_nose_shape": true,
-        "preserve_lip_shape": true,
-        "preserve_jawline": true
-      },
-      "reference_image_style": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "STYLE_COMPOSITION_ANCHOR",
-        "strict_lock": false,
-        "preserve_lighting": true,
-        "preserve_palette": true,
-        "preserve_vibe": true,
-        "preserve_composition": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_lifestyle_editorial",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle",
-      "color_grade": "daylight_film_clean",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "35mm candid photo, slight handheld feel, natural perspective, sharp focus on faces, realistic crowd depth",
-      "lighting_language": "bright overcast-to-sunny daylight, soft shadows, no harsh flash",
-      "authenticity_markers": "no AI glow, no HDR, accurate hands and fingers, no warped railings, identity must match reference exactly"
-    },
-    "creative_prompt": {
-      "scene_summary": "Modern bir yarış pisti tribününde fotogerçekçi, samimi bir çift fotoğrafı. Yetişkin kadın (yüzü referansla KESİNLİKLE eşleşmeli) önde, rahat bir duruşla metal bir bariyerin üzerine yaslanmış. Partneri, doğal ve şefkatli bir pozla bir kolu belinde arkasında duruyor. Arka planda, yumuşak bir şekilde bulanıklaştırılmış bir yarış pisti virajı, tribünler ve uzakta büyük bir ekran görünüyor. Kesinlikle hiçbir yerde okunabilir marka adı veya metin olmamalı (ekranlar, pankartlar, pist panoları boş/okunamaz olmalı).",
-      "wardrobe_and_style": {
-        "female_outfit": "{argument name=\"female outfit\" default=\"kırmızı spor kısa üst, küçük boş kalkan şeklinde yama (LOGO YOK), düşük belli mavi kot pantolon, siyah küçük dikdörtgen güneş gözlüğü, altın c\"}"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322298415_spzx9h_G_dV0o_WgAAHxLR.jpg" width="600" alt="Sosyal Medya Gönderisi - Yarış Pistinde Ultra-Gerçekçi Samimi Çift Yaşam Tarzı Editoryali - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
-- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015173788544258131)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7454)**
-
----
-
-### No. 31: Sosyal Medya Gönderisi - Y2K Retro Margot Robbie Ofis Ortamında Anlık Görüntü
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Retro, Y2K dönemi dijital anlık görüntü estetiğine sahip, ultra gerçekçi bir görüntü oluşturmak için ayrıntılı bir bilgi istemi. Margot Robbie'nin ofis dolabının üzerine tünemiş, siyah şort ve pudra mavisi Peter Pan yakalı bir üst giydiği, sert, dahili bir kamera flaşıyla aydınlatıldığı bir sahne. Bilgi istemi, 2000'lerin başındaki kompakt bir dijital kamerayı taklit etmek için aydınlatma ve kamera ayrıntılarını belirtir.
-
-#### 📝 İstem
-
-```
-{
-  "subject": {
-    "description": "Açık sarı saçları gevşek, dağınık bir atkuyruğu şeklinde toplanmış, birkaç tutam doğal olarak yanaklarının etrafına düşen {argument name=\"celebrity name\" default=\"Margot Robbie\"}.",
-    "appearance": "Açık tenli, ince siyah dikdörtgen gözlük takıyor. Bakışları çerçevelerin hemen üzerinden kamerayla buluşuyor.",
-    "pose": "Açık renk ahşap bir ofis dolabının kenarına tünemiş. Destek için bir kolu arkasına dayanmış, gövdesi hafifçe bükülmüş. Dizlerinden bacak bacak üstüne atmış. Serbest eliyle gözlüğünü hafifçe ayarlıyor.",
-    "clothing": {
-      "top": "Yumuşak {argument name=\"collar color\" default=\"powder-blue\"} Peter Pan yakalı, hafif dantel kenarlı siyah fitilli kısa kollu üst.",
-      "waist": "Silüeti vurgulayan, yapılı kahverengi korse tarzı bel kemeri.",
-      "bottoms": "Minimal, temiz kesimli siyah özel dikim şort.",
-      "footwear": "Yarı şeffaf külotlu çoraplar görünüyor, topuklar kısmen kadraj dışında kalmış."
-    },
-    "expression": "Kendinden emin, oyuncu ama analitik – modern bir 'mesai sonrası ofis ilham perisi' ifadesi."
-  },
-  "environment": {
-    "setting": "Gece geç saatlerde sessiz ofis içi.",
-    "background": "Metalik yatay jaluzili geniş pencere, flaştan yansıyan ışıkları yakalıyor.",
-    "props": "Dolap yüzeyinde kalçasının yanında duran gevşek bir belge ve klasör yığını.",
-    "surfaces": "Yumuşak aşınma izleri olan pürüzsüz açık renk ahşap laminat dolap."
-  },
-  "lighting": {
-    "type": "Dahili kamera flaşı.",
-    "quality": "Belirgin kontrast ve jaluzilere düşen keskin gölgelerle sert ön ışık.",
-    "mood": "Sıradan, spontane Y2K dönemi dijital anlık görüntü hissi."
-  },
-  "camera_details": {
-    "style": "Ultra-fotogerçekçi retro anlık görüntü.",
-    "camera": "2000'lerin başı kompakt dijital kamera estetiği.",
-    "lens": "35mm eşdeğeri.",
-    "aperture": "f/3.5",
-    "shutter": "1/50",
-    "iso": "500",
-    "focus": "Gözler ve gözlükler keskin odakta, kenarlara doğru hafif bir düşüş."
-  },
-  "style_tags": [
-    "Ofis İlham Perisi",
-    "Doğrudan Flaş",
-    "Y2K Dijital Estetik",
-    "Retro Anlık Görüntü",
-    "Fotogerçekçilik",
-    "Yüksek Detay",
-    "Doğal Doku"
-  ]
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322290489_bbpapo_G_dVvh6XgAA-s_6.jpg" width="600" alt="Sosyal Medya Gönderisi - Y2K Retro Margot Robbie Ofis Ortamında Anlık Görüntü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408688397_023xxr_G_ipusjXEAA2K9p.jpg" width="600" alt="Sosyal Medya Gönderisi - Barbiecore Paris Hilton Sokak Stili (JSON Formatı) - Image 1">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [bengi](https://x.com/p3rikly)
-- **Kaynak:** [Twitter Post](https://x.com/p3rikly/status/2015173687943582018)
-- **Yayınlandı:** 24 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/p3rikly/status/2015547470269309051)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7444)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7593)**
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Minimalist Bir Yatak Odasında Fotogerçekçi Ayna Selfiesi
+### No. 23: Sosyal Medya Gönderisi - Samimi Düşük Işıklı Yatak Odası Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Minimalist bir yatak odasında ayna karşısında selfie çeken yetişkin bir kadının fotogerçekçi görüntüsünü oluşturmak için ayrıntılı bir JSON istemi. İstem, kadının kıyafetlerini (Y2K esintili spor giyim), pozunu (kavisli sırt, zafer işareti), ortamı (Pikachu peluş yastık ve şarj kabloları dahil) ve aydınlatma ve kamera açısı gibi teknik ayrıntıları belirtirken, referans görüntüden yüz kimliği kilidini kesinlikle uygular.
+Yatak odası ortamında genç bir kadının samimi, loş ışıklı bir portresini oluşturmak için son derece ayrıntılı, JSON formatında bir istem; belirli aydınlatma, giyim ve vintage film estetiğini vurgular.
 
 #### 📝 İstem
 
 ```
 {
-  "description": "Minimalist bir yatak odasında, boy aynasının önünde duran yetişkin bir kadın ayna selfie'si çekiyor. Beyaz, uzun kollu, kısa kesim bir üst, beyaz şerit detaylı siyah spor şortu ve beyaz diz üstü çoraplar giyiyor. Vücudu yan dönük, beli kavisli bir duruş sergiliyor, bir elinde akıllı telefon tutarken diğer eliyle barış işareti yapıyor. Ortamda bej bir halı, nötr renkli duvarlar, pembe ambiyans lambalı beyaz bir komodin, bir su şişesi, küçük aksesuarlar, görünür şarj kabloları ve bir Pikachu peluş yastık bulunuyor. Pembe ambiyans parıltılı yumuşak iç mekan aydınlatması, rahat bir influencer yaşam tarzı fotoğrafçılığı tarzı, son derece gerçekçi ve detaylı.",
+  "main_prompt": "20'li yaşların başında, açık tenli ve doğal çiğli bir ışıltıya sahip, omuzlarından aşağı dökülen uzun, hacimli dalgalı platin sarısı saçlı, kanatlı eyeliner ile hafif makyajlı, uzun kirpikli, hafifçe büzülmüş parlak yumuşak pembe dudaklı, kameraya bakan rüya gibi yarı kapalı gözlü, ince askılı ve kısa şortlu açık pembe fırfırlı saten babydoll takım giymiş çarpıcı genç bir kadının samimi, loş ışıklı yatak odası portresi, yatakta yüzüstü dirseklerine dayanarak poz veriyor, yumuşak sıcak komodin lambası ışığı + serin ay ışığı karışımı saç ve yüzde altın kenar ışığı oluşturuyor, arka planda rahat koyu mavi nevresimler ve pelüş oyuncaklar, hafif grenli ve sıcak tonlu vintage film estetiği, fotogerçekçi, ultra detaylı saç ve saten dokusu --ar 3:4 --stylize 250 --v 6 --q 2",
+  "negative_prompt": "bulanık, deforme, fazla uzuvlar, kötü anatomi, çirkin, aşırı pozlanmış, sert gölgeler, soluk ten, ağır makyaj, gülümseyen, parlak gün ışığı, sentetik görünüm, gren yok",
+  "style_tags": ["fotogerçekçi", "rahat yatak odası atmosferi", "pembe saten babydoll", "vintage film greni", "rüya gibi samimi ruh hali"],
+  "technical": {
+    "aspect_ratio": "3:4",
+    "lighting": "sıcak lamba + soğuk ay ışığı kenar ışığı",
+    "camera": "iPhone gece modu portre"
+  },
+  "extra_parameters": {
+    "recommended_model": "Flux.1 [dev]",
+    "guidance_scale": "7.5",
+    "steps": "40",
+    "image_reference": "tam poz, saç hacmi, ifade, kıyafet detayları ve gece yatak odası aydınlatması için yüklenen referans görseli kullanın"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408666117_74j7aj_G_inGlcWQAAKGYs.jpg" width="600" alt="Sosyal Medya Gönderisi - Samimi Düşük Işıklı Yatak Odası Portresi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Stark](https://x.com/katmanai)
+- **Kaynak:** [Twitter Post](https://x.com/katmanai/status/2015544568373010451)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7563)**
+
+---
+
+### No. 24: Sosyal Medya Gönderisi - Minimalist Oturma Odasında Editoryal Moda Fotoğrafçılığı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Modern minimalist bir oturma odasında diz çökmüş bir kadının editoryal moda fotoğrafını oluşturmak için kamera ayarları, aydınlatma, gardırop (turkuaz kısa üst ve beyaz düşük belli şort) ve ortam ayrıntılarını belirten, oldukça ayrıntılı, fotogerçekçi bir görüntü oluşturma istemi.
+
+#### 📝 İstem
+
+```
+{
+  "description": "Modern minimalist bir oturma odasında, yumuşak koyu renk bir minderin üzerinde diz çökmüş, elleri dizlerinde hafifçe öne eğilmiş yetişkin bir kadın. Derin yakalı, {argument name=\"top color\" default=\"turkuaz\"} kısa kollu, fermuarlı, kısa kesim bir üst ve beyaz düşük belli şort giyiyor. Ortamda beyaz duvarlar, açık renk parke zemin, modern soyut bir tablo, siyah deri bir kanepe, cam bir sehpa ve çağdaş heykeller bulunuyor. Büyük pencerelerden gelen doğal gün ışığı, yumuşak gölgeler ve yüksek gerçekçilikle aydınlık, editoryal bir moda fotoğrafçılığı atmosferi yaratıyor.",
   
   "face_reference": "Yalnızca yüz için yüklenen referans görseli kullanın, yüz yapısını veya kimliğini değiştirmeyin.",
   
   "camera": {
-    "type": "akıllı telefon kamerası",
-    "angle": "ayna selfie'si, arkadan üç çeyrek açı",
-    "framing": "tam vücut portre",
-    "lens": "24mm-35mm eşdeğeri",
-    "depth_of_field": "derin odak, arka plan çoğunlukla net"
+    "type": "profesyonel DSLR kamera",
+    "angle": "göz hizası hafif yüksek açı",
+    "framing": "üst gövdeden dizlere kadar portre",
+    "lens": "35mm-50mm eşdeğeri",
+    "depth_of_field": "sığ, arka plan hafifçe bulanık"
   },
   
   "lighting": {
-    "type": "iç mekan ambiyans aydınlatması",
-    "sources": ["yumuşak doğal ambiyans ışığı", "pembe masa lambası ışığı"],
-    "mood": "yumuşak, sıcak, rahat yatak odası aydınlatması",
+    "type": "iç mekan ortam ışığı ile doğal gün ışığı",
+    "mood": "aydınlık, temiz, editoryal stüdyo tarzı",
     "shadows": "yumuşak gölgeler, sert kontrast yok"
   },
   
   "clothing": {
     "top": {
-      "type": "uzun kollu kısa kesim üst",
-      "color": "beyaz",
-      "fit": "dar ve vücuda oturan"
+      "type": "kısa kollu, kısa kesim, fermuarlı üst",
+      "color": "turkuaz mavisi",
+      "fit": "dar, ince kesim",
+      "detail": "derin yakalı fermuar"
     },
     "bottom": {
-      "type": "spor şortu",
-      "color": "siyah",
-      "details": "kenarlarda beyaz şerit",
-      "fit": "yüksek belli spor kesim"
-    },
-    "socks": {
-      "type": "diz üstü çoraplar",
-      "color": "beyaz"
-    },
-    "footwear": "yalınayak"
+      "type": "şort",
+      "color": "beyaz",
+      "material": "kot veya pamuk",
+      "fit": "düşük belli mini şort"
+    }
   },
   
   "hair": {
-    "color": "iki renkli siyah ve platin sarısı",
-    "style": "kahküllü uzun düz saç"
+    "color": "bal köpüğü / açık kahverengi",
+    "style": "omuz hizasında, hafif dalgalı, hacimli"
   },
   
   "environment": {
-    "location": "minimalist yatak odası",
-    "floor": "bej halı",
-    "walls": "nötr bej veya açık gri",
+    "location": "modern minimalist oturma odası",
+    "floor": "açık renk parke zemin",
+    "walls": "beyaz",
     "furniture": [
-      "beyaz komodin",
-      "boy aynası"
+      "siyah deri kanepe",
+      "cam sehpa"
     ],
     "props": [
-      "pembe ambiyans masa lambası",
-      "su şişesi",
-      "akıllı telefon",
-      "şarj kablosu",
-      "Pikachu peluş yastık"
+      "soyut duvar tablosu",
+      "modern heykel",
+      "kemerli pencere"
     ]
   },
   
   "style": {
-    "genre": "sosyal medya influencer yaşam tarzı fotoğrafçılığı",
+    "genre": "moda editoryal fotoğrafçılığı",
     "realism": "fotogerçekçi",
-    "quality": "ultra yüksek çözünürlük, 8k",
+    "quality": "ultra yüksek çözünürlük, 8k detay",
     "sharpness": "yüksek",
     "noise": "düşük"
   },
+  
   "negative_prompt": [
-    "yüz değişikliği",
-    "bulanıklık",
+    "yüzde değişiklik",
+    "bulanık",
     "düşük çözünürlük",
     "ekstra uzuvlar",
     "bozuk anatomi",
     "çizgi film",
     "anime",
-    "aşırı pozlanmış aydınlatma",
+    "aşırı pozlanmış",
     "sert gölgeler",
     "gerçekçi olmayan vücut oranları"
   ]
@@ -2995,149 +2317,69 @@ Minimalist bir yatak odasında ayna karşısında selfie çeken yetişkin bir ka
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322298799_3umd41_G_dS_fLW0AAdIq8.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Bir Yatak Odasında Fotogerçekçi Ayna Selfiesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408668591_7ealhz_G_iZRbLXwAAqnNK.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Oturma Odasında Editoryal Moda Fotoğrafçılığı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322298926_fdr1w0_G_dTE-2XYAACihV.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Bir Yatak Odasında Fotogerçekçi Ayna Selfiesi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769408668742_p9o6mn_G_iZRbCXsAAmgVC.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Oturma Odasında Editoryal Moda Fotoğrafçılığı - Image 2">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [Emma](https://x.com/emmagpt0)
-- **Kaynak:** [Twitter Post](https://x.com/emmagpt0/status/2015170717952946497)
-- **Yayınlandı:** 24 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/emmagpt0/status/2015529709518635423)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7455)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7567)**
 
 ---
 
-### No. 33: Sosyal Medya Gönderisi - Ana de Armas'ın Altın Saatlerdeki Tenis Kortu Editoryali
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Ana de Armas'ın açık bir tenis kortunda ultra yüksek çözünürlüklü, fotogerçekçi bir görüntüsünü oluşturmak için ayrıntılı bir JSON istemi. İstek, Ana de Armas'ın pozunu (başı geriye eğik, eli siperliğinde, raket tutuyor), kıyafetini (beyaz Nike crop top ve etek), ortamı (yeşil ve kırmızı kort yüzeyleri, bulanık ağaçlar) ve Altın Saat ışıklandırması ve HDR efektleri gibi teknik ayrıntıları belirtir.
-
-#### 📝 İstem
-
-```
-{
-  "generation_parameters": {
-    "quality_preset": "Ultra Yüksek Çözünürlük",
-    "aspect_ratio": "9:16",
-    "resolution": "8k",
-    "style_model": "Fotogerçekçi"
-  },
-  "subject": {
-    "description": "Ana de Armas, fit atletik bir fiziğe ve bronz tene sahip.",
-    "hair": "Koyu kahverengi, düz, omuz hizasında küt kesim, kulak arkasına sıkıştırılmış.",
-    "face": "Kapalı gözler, baş hafifçe geriye doğru güneşe dönük, dingin ve kendinden emin ifade, belirgin kirpikler ve nude dudaklarla yumuşak glam makyaj.",
-    "pose": "Tenis kortunda rahat bir şekilde ayakta duruyor, vücudu hafifçe yana dönük. Sol eli siperliğin kenarına dokunmak için kalkık, sağ eli ise sağ omzunun üzerinde duran bir tenis raketini tutuyor."
-  },
-  "apparel": {
-    "headwear": "Önünde siyah Nike swoosh logosu olan beyaz tenis siperliği.",
-    "top": "Kalın göğüs altı bandı ve göğüs ortasında küçük siyah Nike swoosh logosu olan beyaz, vücuda oturan atletik spor sütyeni/crop top.",
-    "bottom": "Pileli ve yan tarafında dikey siyah şerit detayı olan beyaz mini tenis eteği.",
-    "accessories": "Küçük kalp kolye ucu olan zarif altın kolye. Açık pembe manikürlü tırnaklar."
-  },
-  "props": {
-    "main": "Siyah beyaz tenis raketi sapından tutulmuş, raketin başı omzun arkasında duruyor."
-  },
-  "environment": {
-    "location": "Açık hava sert zeminli tenis kortu.",
-    "foreground": "Beyaz sınır çizgileri görünen yeşil kort yüzeyi.",
-    "background": "Orta alanda uzanan tenis ağı, kırmızı kort yüzey alanları, tel örgü çitler ve uzakta bulanık yeşil ağaçlar.",
-    "depth_of_field": "Özne net odakta, arka plan hafif bokeh/bulanık."
-  },
-  "lighting_and_atmosphere": {
-    "type": "Doğal parlak güneş ışığı (Altın Saat).",
-    "effects": "Güneş öpücüğü almış cilt dokusu, zeminde keskin belirgin gölgeler, sıcak renk sıcaklığı, yüksek dinamik aralık (HDR).",
-    "mood": "Yaz, sportif, lüks, rahat."
-  },
-  "technical_keywords": [
-    "Ultra gerçekçi",
-    "HDR",
-    "UHD",
-    "8k çözünürlük",
-    "başyapıt",
-    "yüksek detaylı doku",
-    "profesyonel fotoğrafçılık",
-    "hacimsel aydınlatma",
-    "en yüksek kalite"
-  ]
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322300337_ipkthi_G_dJXjeXMAAH4Sz.jpg" width="600" alt="Sosyal Medya Gönderisi - Ana de Armas'ın Altın Saatlerdeki Tenis Kortu Editoryali - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [bengi](https://x.com/p3rikly)
-- **Kaynak:** [Twitter Post](https://x.com/p3rikly/status/2015160059785887957)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7456)**
-
----
-
-### No. 34: Sosyal Medya Gönderisi - Dantelli Mini Elbiseli Bir Kadının Flaş Işıklı Gece Portresi
+### No. 25: Sosyal Medya Gönderisi - Rahat Kış Modası Portresi (JSON Formatı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Gece vakti yüksek katlı bir apartman dairesinde kanepede oturan bir kadının fotogerçekçi görüntüsünü oluşturmak için oldukça spesifik, yapılandırılmış bir komut istemi. Komut istemi, kadının görünümünü, kıyafetlerini (çikolata kahverengisi dantelli mini elbise), pozunu ve ortamını (şehir manzarası arka planı) detaylandırıyor. En önemlisi, yüksek kontrastlı, samimi bir estetik için sert, tek kaynaklı, kameraya takılı flaş aydınlatması zorunlu tutuluyor.
+Sıcak ve kendinden emin bir kış modası estetiğinde, {argument name="subject name" default="Ana de Armas"}’ın fotogerçekçi, yüksek kaliteli bir görüntüsünü oluşturmak için yapılandırılmış bir JSON istemi. Konu, karlı bir ormanda çömelmiş poz veriyor, parlak, zıt renklerde suni kürk giysiler (sarı kulaklıklar, fuşya ceket, turuncu tayt) ve kalın pembe Moon Boots giyiyor. Odak noktası güçlü malzeme dokuları ve alçak, göz hizasında bir kamera açısıdır.
 
 #### 📝 İstem
 
 ```
 {
-  "subject_profile": {
-    "identity": "20'li yaşlarının sonlarında yetişkin bir kadın",
-    "appearance": {
-      "skin_tone": "Doğal ton farklılıklarına sahip, sıcak, güneşten bronzlaşmış ten",
-      "hair": "Omuz hizasında, dağınık, kusurlu dalgalarla şekillendirilmiş, yüzü nazikçe çerçeveleyen sarı balyaj saç",
-      "face": "Doğrudan göz teması, rahat bir ağız ifadesi, hafif kendinden emin bir ifade",
-      "skin_texture": "Görünür gözeneklere ve hafif flaş kaynaklı parlaklığa sahip doğal cilt, pürüzsüzleştirme yok"
-    },
-    "body_characteristics": {
-      "overall_build": "İnce ama kıvrımlı bir fizik",
-      "upper_body": "Belirgin dekolte oluşturan, görünür doğal ağırlık ve hacme sahip, dolgun, öne doğru çıkık göğüsler",
-      "anatomical_behavior": "Göğüs kütlesi yerçekimine ve duruşa doğal olarak tepki verir, yapay kaldırma veya sıkıştırma yok"
+  "subject": {
+    "desc": "{argument name=\"subject name\" default=\"Ana de Armas\"}, fit kıvrımlı kum saati figürü, uzun dalgalı kirli sarı saçlar, görünür dokulu doğal bronz ten",
+    "apparel": {
+      "headwear": "Büyük kabarık sarı suni kürklü kulaklıklar",
+      "upper": "Beline kadar uzanan kısa kesimli açık fuşya suni kürklü ceket",
+      "lower": "Sıkı heather elektrik turuncusu mat pamuk-spandeks tayt, doğal esneme ve gerginlik",
+      "footwear": "Beyaz bağcıklı ve markalı, kalın pembe diz hizasında Moon Boot tarzı kar botları"
     }
   },
-  "wardrobe_and_styling": {
-    "dress": "{argument name=\"dress color\" default=\"Çikolata kahverengisi\"} dantel mini elbise, yapılandırılmış korse esintili korsaj, görünür balenler ve kalıplı kuplar",
-    "design_details": [
-      "Çiçekli dantel dokusu",
-      "Kalp yaka",
-      "Omuzları açık kısa kollar"
-    ],
-    "fit_behavior": "Kumaş, doğal yumuşaklık ve derinliğe izin verirken gövdeye sıkıca oturur",
-    "accessories": [
-      "Küçük altın halka küpeler",
-      "Konunun yanında, koltukta duran zincir askılı beyaz kapitone deri el çantası"
-    ]
+  "pose": {
+    "type": "Derin çömelme/eğilme, arkadan 3/4 görünüm, sırt ve kalçalar belirgin",
+    "head": "Sağ omuz üzerinden keskin bir şekilde dönmüş, doğrudan sakin ve çekici göz teması",
+    "limbs": "Bacaklar derinden bükülmüş, botlar kara basmış, kollar dizlerde rahat (kısmen gizli)",
+    "expression": "Nötrden hafif gülümsemeye, rahat ve kendinden emin bakış"
   },
-  "pose_and_body_language": {
-    "position": "Koltukta yarı uzanmış bir pozisyonda oturuyor",
-    "support": "Denge için sağ kol aşağı doğru uzanmış, avuç içi mindere bastırıyor",
-    "left_arm": "Rahatça bükülmüş, el orta kısımda duruyor",
-    "legs": "Birleşik ve çerçevenin alt köşesine doğru açılı"
-  }
+  "environment": {
+    "setting": "Yoğun kış ormanı, yoğun pudra karı, uzun karla kaplı yaprak dökmeyen ağaçlar",
+    "ground": "Botların etrafında ayak izleri ve bozulmuş dokuya sahip kalın kar"
+  },
+  "camera": {
+    "lens": "50-85mm portre",
+    "angle": "Alçak, çömelmiş özne ile göz hizasında",
+    "dof": "Orta (f/4-5.6), jilet gibi keskin özne, hafifçe yumuşatılmış arka plan ağaçları",
+    "focus": "Yüz ve gözlerde keskin"
+  },
+  "lighting": "Yumuşak dağınık bulutlu gün ışığı, eşit gölgesiz, doğal yansıtıcı olarak kar, kürkte ince vurgular",
+  "style": "Fotogerçekçi samimi yüksek doğruluk, doğal renk derecelendirme, güçlü malzeme dokuları (kürk, kumaş, kar, botlar)",
+  "aspect_ratio": "3:4 dikey",
+  "quality": "8K UHD, temiz ISO 100-200, özne üzerinde yüksek keskinlik",
+  "vibe": "Rahat kış modası, sakin kendinden emin çekici kar tavşanı estetiği"
 }
 ```
 
@@ -3146,98 +2388,32 @@ Gece vakti yüksek katlı bir apartman dairesinde kanepede oturan bir kadının 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322275900_04qnbr_G_cdRGjXwAAX2tC.jpg" width="600" alt="Sosyal Medya Gönderisi - Dantelli Mini Elbiseli Bir Kadının Flaş Işıklı Gece Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [&who](https://x.com/whoxswho)
-- **Kaynak:** [Twitter Post](https://x.com/whoxswho/status/2015148851188150582)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7425)**
-
----
-
-### No. 35: Sosyal Medya Gönderisi - Metalik Püsküllü Paltoyla Yüksek Moda Editöryeli
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Yüksek moda bir editoryal fotoğraf için yapılandırılmış bir istem. Margot Robbie'ye benzeyen bir kadının, altın ve turuncu metalik saçaklardan yapılmış devasa, hacimli bir palto giyerek minimalist bir iç mekanda çömeldiğini anlatıyor. İstem, sıcak, altın saat stüdyo aydınlatmasını belirtiyor ve yüksek kalite ile doku gerçekçiliğini sağlamak için kapsamlı negatif istemler kullanıyor.
-
-#### 📝 İstem
-
-```
-{
-  "image_generation_data": {
-    "prompts": {
-      "main_subject": "{argument name=\"celebrity look alike\" default=\"Margot Robbie\"} benzeri, omuz hizasında dalgalı, dağınık sarı saçlı, elini gelişigüzel bir şekilde saçına dokunduran bir kadının tam vücut çekimi.",
-      "outfit_description": "Katmanlı {argument name=\"coat color\" default=\"altın ve turuncu\"} metalik püskül veya suni kürkü taklit eden simli dokudan yapılmış devasa, hacimli, tüylü, büyük boy bir palto giyiyor. Beyaz askılı yüksek topuklu sandaletler giyiyor.",
-      "pose_and_action": "Özne, bir odanın köşesine sinmiş, derin bir çömelme veya eğilme pozisyonunda. Vücudu hafifçe yana açılı, dizleri derinden bükülmüş, rahat ama yüksek moda bir duruş sergiliyor.",
-      "environment": "Minimalist iç mekan, düz krem veya kirli beyaz duvarlara ve nötr halı kaplı zemine sahip bir odanın köşesi. Mobilya görünmüyor.",
-      "lighting_and_atmosphere": "Yumuşak gölgeler oluşturan sıcak, altın saat stüdyo aydınlatması. Atmosfer editoryal, şık ve sıcak. Paltonun metalik dokusu ile pürüzsüz duvar arasında yüksek kontrast.",
-      "camera_settings": "35mm lens, moda fotoğrafçılığı tarzı, yüze ve palto dokusuna keskin odak, orta çekim."
-    },
-    "negative_prompts": [
-      "ayakta duran",
-      "düz saç",
-      "koyu renkler",
-      "mavi tonlar",
-      "düşük çözünürlük",
-      "bulanıklık",
-      "bozuk eller",
-      "fazla uzuvlar",
-      "düz doku",
-      "parlak cilt"
-    ],
-    "parameters": {
-      "aspect_ratio": "3:4",
-      "seed": 847201945,
-      "guidance_scale": 7.5,
-      "steps": 30,
-      "sampler": "DPM++ 2M Karras"
-    },
-    "combined_prompt_string": "Dağınık sarı saçlı, köşede çömelmiş, devasa hacimli altın metalik püsküllü palto ve beyaz askılı topuklu ayakkabılar giyen bir kadının yüksek moda editoryal fotoğrafı. Sıcak aydınlatma, krem duvarlar, karmaşık kumaş dokusu, ünlü benzeri, 8k çözünürlük, sinematik aydınlatma --ar 3:4 --stylize 250"
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322279853_gdgy44_G_c8UP_XIAAxJB2.jpg" width="600" alt="Sosyal Medya Gönderisi - Metalik Püsküllü Paltoyla Yüksek Moda Editöryeli - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408695820_gzls5e_G_iMtdcWUAAg57a.jpg" width="600" alt="Sosyal Medya Gönderisi - Rahat Kış Modası Portresi (JSON Formatı) - Image 1">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [bengi](https://x.com/p3rikly)
-- **Kaynak:** [Twitter Post](https://x.com/p3rikly/status/2015145696362406142)
-- **Yayınlandı:** 24 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/p3rikly/status/2015515557592801618)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7431)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7601)**
 
 ---
 
-### No. 36: Sosyal Medya Gönderisi - Depo Rave Kıyafeti Selfie'si
+### No. 26: Sosyal Medya Gönderisi - Karmaşık İllüstrasyon İstemleri: Ay'da Bisiklete Binmek
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-Nano Banana Pro için, Sloane adlı bir karakterin krom bir büstiyer ve mikro şortla önemli bir boy aynası selfiesi çekmesini ve ardından yeraltı bir depo partisine koşmasını anlatan bir hikaye istemi. Odak noktası, flaş altında holografik malzemenin yansımasıdır.
+nano banana'ya verilen karmaşık bir görsel oluşturma istemi, hermetik bir giysi ve oksijen tankı giymiş bir kişinin ay yüzeyinde bir yol bisikleti sürdüğünü gösteren 'Irasutoya' tarzında bir illüstrasyon talep ediyor. Kullanıcı, yapay zekanın bisiklet mekaniğini doğru bir şekilde tasvir etmesinden etkileniyor.
 
 #### 📝 İstem
 
 ```
-{argument name="character name" default="Sloane"}, yer altı deposundaki rave partisine 45 dakika geç kalmış durumda. Grubun dışında buluşması gerekiyordu ama hala kıyafetiyle boğuşuyor. Yatak odası zeminine iki tam kombini attıktan sonra, {argument name="outfit item" default="krom bralet ve mikro şort"} üzerinde karar kılıyor. Bu hızlı, boy aynası selfiesi çok önemli bir an: file paltosunu kapıp kapıdan dışarı fırlamadan önce, holografik malzemenin flaşı nasıl yansıttığını test ediyor, aceleden şimdiden teninde ter damlacıkları oluşmuş bile.
+Irasutoya tarzında, hermetik bir giysi giymiş ve oksijen tankı taşıyan bir kişinin ay yüzeyinde yol bisikleti sürdüğü bir görsel.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3245,17 +2421,649 @@ Nano Banana Pro için, Sloane adlı bir karakterin krom bir büstiyer ve mikro �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322328888_lrbgsc_G_cvxzJXUAAuyxf.jpg" width="600" alt="Sosyal Medya Gönderisi - Depo Rave Kıyafeti Selfie'si - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408684082_ebbztb_G_iICBhb0AAJx67.png" width="600" alt="Sosyal Medya Gönderisi - Karmaşık İllüstrasyon İstemleri: Ay'da Bisiklete Binmek - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Dominus the Prompter](https://x.com/iamdomprompt)
-- **Kaynak:** [Twitter Post](https://x.com/iamdomprompt/status/2015131945424835053)
-- **Yayınlandı:** 24 Ocak 2026
+- **Yazar:** [H. Sakai](https://x.com/FoD5_2020)
+- **Kaynak:** [Twitter Post](https://x.com/FoD5_2020/status/2015511541999935505)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7587)**
+
+---
+
+### No. 27: Sosyal Medya Gönderisi - Athleisure Yoga Pozu Yaşam Tarzı Fotoğrafçılığı İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Modern, minimalist bir yatak odasında yoga esnemesi (güvercin pozu varyasyonu) yapan bir karakterin yüksek kaliteli bir yaşam tarzı fotoğrafını oluşturmak için ayrıntılı bir JSON istemi. Kimlik için referans fotoğraf kullanımına, doğal gün ışığına ve athleisure estetiğine vurgu yapılmaktadır.
+
+#### 📝 İstem
+
+```
+{
+  "image": {
+    "main_description": "Bir yatak odası ortamında, dokulu bir mat üzerinde yoga esnemesi (güvercin pozu varyasyonu) yapan fit bir karakterin orta boy, tam vücut yan profil çekimi.",
+    "characters": {
+      "main_reference_character": {
+        "identity_anchor": "Kullanıcının kimlik kaynağını kesinlikle koruyarak, sağlanan referans fotoğrafa dayalı karakter.",
+        "ethnicity_and_phenotype": "Kullanıcı tarafından sağlanan referans fotoğrafla belirlenir.",
+        "face_and_skin": "Cilt dokusu ve ışık etkileşimi sahneyle tutarlı, ancak yüz hatları kesinlikle referanstan türetilmiştir.",
+        "expression": "Giriş stili görüntüsüyle eşleşen mikro ifadeler ve bakış yönü; yüz büyük ölçüde saçlarla kaplı.",
+        "hair": "Saçlar dağınık, hacimli, doğal, dağınık-şık bir tarzda serbestçe dökülüyor ve yüzü kısmen kapatıyor.",
+        "body_and_pose": "Oturarak yoga pozisyonu (Güvercin pozu varyasyonu); bir bacak önde mat üzerinde bükülü, diğer bacak geriye doğru uzatılmış, diz 90 derecelik açıyla yukarıyı gösteriyor. Hafif kemerli dik gövde, esnekliği ve fiziği sergiliyor.",
+        "outfit": "Beyaz uzun kollu fitilli crop top, formu vurgulayan dar kesim siyah yüksek belli fitilli tayt ve beyaz salaş mürettebat çorapları."
+      },
+      "supporting_characters": []
+    },
+    "text_elements": {
+      "content": "",
+      "typography": "",
+      "placement": "",
+      "integration": ""
+    },
+    "environment": {
+      "location": "Modern, minimalist bir yatak odası veya ev stüdyosu alanı.",
+      "elements": "Yerde belirgin dalgalı kavrama dokusuna sahip gri bir yoga matı. Arka planda gri nevresimli ve yorganlı bir yatak çerçevesi. Solda koyu gri perdeler.",
+      "atmosphere": "Sakin, rahat, evcil, fitness ve zindeliğe odaklanmış."
+    },
+    "cinematography": {
+      "lighting_setup": "Soldaki bir pencereden gelen yumuşak, doğal gün ışığı, saçlarda ve giysi kıvrımlarında nazik vurgular oluştururken, sağ tarafta yumuşak gölgeler bırakıyor.",
+      "color_grading": "Nötr ve doygunluğu azaltılmış tonlar: siyahlar, beyazlar, griler ve doğal ahşap tonları.",
+      "shadows_and_highlights": "Yumuşak dağınık gölgeler, sert kontrast yok.",
+      "reflections": "Giysilerde mat yüzeyler, saçta hafif parlaklık."
+    },
+    "camera_and_tech": {
+      "framing": "Orta-uzun çekim, yan profil, göz hizasından hafif alçak açıya, pozu tam olarak yakalıyor.",
+      "optics": "Standart odak uzaklığı (yaklaşık 35mm-50mm), yatak odası arka planını hafifçe yumuşatırken konuya odaklanmayı sürdürmek için orta derecede sığ alan derinliği.",
+      "visual_fidelity": "Yüksek kalite, sosyal medya estetiği, fitilli giysilerde ve matta keskin doku detayları."
+    },
+    "style_and_mood": {
+      "aesthetic": "Fitness influencer, athleisure, yaşam tarzı fotoğrafçılığı, gündelik gerçekçilik.",
+      "emotional_vibe": "Rahat, disiplinli, dingin."
+    },
+    "aspect_ratio": "2:3"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408705679_yqsi0s_G_iHKB-XkAAAAGz.jpg" width="600" alt="Sosyal Medya Gönderisi - Athleisure Yoga Pozu Yaşam Tarzı Fotoğrafçılığı İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Ivanna Humeniuk](https://x.com/ivanka_humeniuk)
+- **Kaynak:** [Twitter Post](https://x.com/ivanka_humeniuk/status/2015509446575923680)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7496)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7614)**
+
+---
+
+### No. 28: Sosyal Medya Gönderisi - Modern Mutfakta Yemek Yapan Kadının Doğal Çekimi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Modern beyaz bir mutfakta yemek yapan bir kadının samimi, arkadan çekilmiş bir fotoğrafını oluşturmak için bir JSON istemi. İstem, ev konforuna odaklanarak kıyafeti (krem rengi ev giyim takımı), ortamı (metro fayansları, ankastre cihazlar) ve aydınlatmayı (ortam ışığıyla karışık soğuk LED şerit aydınlatma) belirtir.
+
+#### 📝 İstem
+
+```
+{
+  "image": {
+    "main_description": "Modern bir mutfakta duran, rahat bir ev giysisi içinde ocakta tavada yemek pişiren bir kadının arkadan çekilmiş samimi ve sıcak bir fotoğrafı.",
+    "characters": {
+      "main_reference_character": {
+        "identity_anchor": "Sağlanan referans fotoğrafa dayalı karakter, kullanıcının kimlik kaynağını kesinlikle koruyarak.",
+        "ethnicity_and_phenotype": "Kullanıcı tarafından sağlanan referans fotoğrafla belirlenir.",
+        "face_and_skin": "Yüz kameradan uzağa dönük ve saçlarla gizlenmiş; cilt tonu referansla tutarlı.",
+        "expression": "Görünür değil, ancak vücut dili göreve odaklanmayı düşündürüyor.",
+        "hair": "Saçlar doğal, hafif dağınık günlük bir tarzda serbest bırakılmış, arkaya doğru dökülüyor ve yüz profilini kısmen gizliyor.",
+        "body_and_pose": "Arkadan/üç çeyrek açıyla, ocağa dönük duruyor. Bir eli kızartma tavasının sapını tutuyor, diğer eli ise yemeği karıştıran bir spatula tutuyor.",
+        "outfit": "Yarı şeffaf, dokulu örgü veya keten kumaştan yapılmış, uyumlu {argument name=\"outfit color\" default=\"krem veya açık bej\"} bir ev giysisi. Üst kısmı bol, geniş, çan şeklinde uzun kollara sahip. Alt kısmı ise uyumlu bol pantolonlardan oluşuyor."
+      },
+      "supporting_characters": []
+    },
+    "text_elements": {
+      "content": "",
+      "typography": "",
+      "placement": "",
+      "integration": ""
+    },
+    "environment": {
+      "location": "Temiz, modern beyaz bir mutfak.",
+      "elements": "Siyah dikey kulplu beyaz dolaplar, beyaz metro fayans backsplash, ankastre bir mikrodalga fırın, içinde {argument name=\"food item\" default=\"makarna veya sebze\"} bulunan bir tava ile indüksiyonlu ocak, dijital ekranlı beyaz bir fırın ve tezgahta herdemyeşil/çam dalları olan bir vazo.",
+      "atmosphere": "Sıcak, evcil, sakin, akşam veya iç mekan ortamı."
+    },
+    "cinematography": {
+      "lighting_setup": "Tezgahı ve backsplash'i aydınlatan soğuk beyaz dolap altı LED şerit aydınlatma, genel oda ortam ışığıyla karışık.",
+      "color_grading": "Doğal, LED'lerden gelen hafif soğuk tonlar, kıyafetin sıcak bej rengiyle kontrast oluşturuyor.",
+      "shadows_and_highlights": "Yumuşak difüzyon, metro fayanslarında ve saçlarda vurgular.",
+      "reflections": "Parlak fayans backsplash ve ocak üzerinde hafif yansımalar."
+    },
+    "camera_and_tech": {
+      "framing": "Arkadan orta çekim, özneyi belden başa kadar yakalıyor, mutfak bağlamını gösteriyor.",
+      "optics": "Standart odak uzaklığı (yaklaşık 35mm veya 50mm), hem kişiyi hem de mutfak detaylarını odakta tutan makul derin bir alan derinliği.",
+      "visual_fidelity": "Gerçekçi, samimi akıllı telefon fotoğrafçılığı tarzı."
+    },
+    "style_and_mood": {
+      "aesthetic": "Yaşam tarzı, 'yavaş yaşam', ev konforu, gündelik.",
+      "emotional_vibe": "Rahat, samimi, günlük yaşam."
+    },
+    "aspect_ratio": "3:4"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408708764_0mh6oq_G_iES5gXsAA83s9.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Mutfakta Yemek Yapan Kadının Doğal Çekimi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Ivanna Humeniuk](https://x.com/ivanka_humeniuk)
+- **Kaynak:** [Twitter Post](https://x.com/ivanka_humeniuk/status/2015506300029829438)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7619)**
+
+---
+
+### No. 29: Sosyal Medya Gönderisi - Modern Yatak Odasında Şık Ayna Selfiesi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Modern, minimalist bir yatak odasında şık, tam vücut ayna özçekimi oluşturmak için ayrıntılı bir JSON istemi. İstek, öznenin kimliğinin bir referans fotoğraftan kesinlikle korunması gerektiğini belirtir, kıyafeti (siyah mini elbise, süet botlar) detaylandırır ve özellikle aynaya yansıyan parlak flaş parlaması olmak üzere sinematografiyi vurgular.
+
+#### 📝 İstem
+
+```
+{
+  "image": {
+    "main_description": "Modern bir yatak odasında çekilmiş şık bir ayna özçekimi. Şık kıyafetli bir kadın, aynada yansıyan parlak bir flaş parlamasıyla poz veriyor.",
+    "characters": {
+      "main_reference_character": {
+        "identity_anchor": "Sağlanan referans fotoğrafa dayalı karakter, kullanıcının kimlik kaynağını kesinlikle korur.",
+        "ethnicity_and_phenotype": "Kullanıcı tarafından sağlanan referans fotoğrafa göre belirlenir.",
+        "face_and_skin": "Cilt dokusu ve ışık etkileşimi sahneyle uyumlu, sıcak tonlar, yüz özellikleri kesinlikle referanstan türetilmiştir.",
+        "expression": "Aynaya/telefona doğru kendinden emin ve çekici bir bakış, dudaklar hafifçe aralık veya büzülmüş.",
+        "hair": "Saçlar temiz bir orta ayrım ile şekillendirilmiş, omuzların üzerinden doğal bir şekilde dökülüyor.",
+        "body_and_pose": "Tam vücut pozu, hafif açılı, bir bacak hafifçe bükülmüş rahat bir duruşta. Bir kol, ayna özçekimi çekmek için bir akıllı telefonu tutarak kaldırılmış, diğer kol ise bir el çantası tutarak doğal bir şekilde yanda duruyor.",
+        "outfit": "Yüksek yakalı (balıkçı yaka) vücuda oturan {argument name=\"dress color\" default=\"siyah\"} kolsuz mini elbise. Diz hizasında kahverengi süet çizmeler, yüksek topuklu. Aksesuarlar arasında sol elde tutulan küçük, yapılı bir el çantası ve bilekte bir bileklik bulunuyor."
+      },
+      "supporting_characters": []
+    },
+    "text_elements": {
+      "content": "",
+      "typography": "",
+      "placement": "",
+      "integration": ""
+    },
+    "environment": {
+      "location": "Modern, minimalist bir yatak odası iç mekanı.",
+      "elements": "Beyaz nevresimli ve bej dokulu bir battaniyeli yatak, açık renk ahşap döşeme, dokuma bambu perdeli bir pencere, tavandan sarkan modern siyah metal bir avize, beyaz duvarlar.",
+      "atmosphere": "Rahat, şık ve samimi bir ev ortamı."
+    },
+    "cinematography": {
+      "lighting_setup": "Akıllı telefondan aynaya yansıyan parlak, yıldız patlaması şeklinde bir flaş yansıması hakim. Arkadaki pencereden gelen ortam doğal ışık, siluet ve dolgu ışığının bir karışımını oluşturuyor.",
+      "color_grading": "Sosyal medya fotoğrafçılığında yaygın olan hafif vintage veya filtrelenmiş estetiğe sahip sıcak, altın tonlar.",
+      "shadows_and_highlights": "Flaşın güçlü vurguları, oda köşelerinde daha yumuşak gölgeler.",
+      "reflections": "Görüntünün tamamı büyük dikey bir aynadaki yansımadır."
+    },
+    "camera_and_tech": {
+      "framing": "Dikey çekim (9:16 en boy oranı), tam vücut ayna özçekimi perspektifi.",
+      "optics": "Akıllı telefon kamera lensi simülasyonu, ayna özçekimlerinde tipik olan hafif geniş açılı bozulma.",
+      "visual_fidelity": "Yüksek kaliteli sosyal medya anlık görüntüsü estetiği, ışık kaynağının etrafında hafif bir parlama."
+    },
+    "style_and_mood": {
+      "aesthetic": "Influencer şıklığı, 'Günün Kombini' (OOTD), yaşam tarzı fotoğrafçılığı.",
+      "emotional_vibe": "Kendinden emin, trend, rahat."
+    },
+    "aspect_ratio": "9:16"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408708044_6kcvwu_G_iDvL9WYAAUVAm.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Yatak Odasında Şık Ayna Selfiesi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Ivanna Humeniuk](https://x.com/ivanka_humeniuk)
+- **Kaynak:** [Twitter Post](https://x.com/ivanka_humeniuk/status/2015505686298247585)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7618)**
+
+---
+
+### No. 30: Sosyal Medya Gönderisi - Serin Palet, Cesur Enerji, Geniş Açılar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Görsel oluşturma için havalı bir renk paleti, cesur enerji, geniş açılar, keskin gölgeler ve temiz çizgilere odaklanan kısa, açıklayıcı bir istem.
+
+#### 📝 İstem
+
+```
+Daha soğuk bir palete adım atarken, aynı cesur enerji. 💙
+Geniş açılar, keskin gölgeler, net çizgiler.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408712703_q4rb3t_G_hj4pZWUAAyX2k.jpg" width="600" alt="Sosyal Medya Gönderisi - Serin Palet, Cesur Enerji, Geniş Açılar - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Banana Prompts](https://x.com/bananaprompts)
+- **Kaynak:** [Twitter Post](https://x.com/bananaprompts/status/2015470710970277988)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7624)**
+
+---
+
+### No. 31: Sosyal Medya Gönderisi - Sinematik Fotogerçekçi Seyahat Editoryal Portre
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Tropikal bir lagünde, uzun kuyruklu bir teknenin pruvasında duran bir kadının fotogerçekçi bir seyahat editoryal portresini oluşturmak için kapsamlı, yüksek düzeyde yapılandırılmış bir istem. Stil, kompozisyon ve yüz kimliği için katı referans kilitleri kullanır ve sahneyi, gardırobu (pastel pembe elbise), aydınlatmayı (öğle güneşi) ve sinematik kalite gereksinimlerini detaylandırır.
+
+#### 📝 İstem
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_travel_boat_portrait_tropical_lagoon",
+      "version": "v1.0_TROPICAL_LAGOON_LONGTAIL_BOW_PASTEL_DRESS_NO_TEXT_EN",
+      "priority": "highest",
+      "language": "en"
+    },
+    "references": {
+      "reference_image_style": {
+        "source": "UPLOAD_REFERENCE_IMAGE (GEREKLİ)",
+        "purpose": "STİL_KOMPOZİSYON_KONUM_ÇAPA",
+        "strict_lock": true,
+        "preserve_composition": true,
+        "preserve_pose": true,
+        "preserve_lighting": true,
+        "preserve_palette": true,
+        "preserve_vibe": true
+      },
+      "reference_image_face": {
+        "source": "UPLOAD_REFERENCE_IMAGE (İSTEĞE BAĞLI)",
+        "purpose": "YÜZ_KİMLİK_KİLİDİ",
+        "strict_lock": true,
+        "face_similarity_priority": "MAKS",
+        "no_identity_blending": true,
+        "no_beautify": true,
+        "no_age_shift": true,
+        "preserve_skin_texture": true,
+        "preserve_facial_proportions": true
+      }
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_nudity": true,
+      "no_explicit_sexual_content": true,
+      "no_logos": true,
+      "no_watermark": true,
+      "no_readable_text": true
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "cinematic_photoreal_travel_editorial",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "subtle",
+      "color_grade": "bright_tropical_teal_water_clean_blue_sky",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "creative_prompt": {
+      "scene_summary": "Parlak tropikal bir lagünde, ahşap bir uzun kuyruklu teknenin pruvasında fotogerçekçi bir seyahat editoryal portresi. Su canlı turkuaz/zümrüt ve kristal berraklığında, hafif dalgalanmalar ve güneş parıltısı var. Arka plan: her iki tarafta yemyeşil bitki örtüsüyle kaplı dramatik kireçtaşı karst kayalıkları, geniş bir koy oluşturuyor; uzakta birkaç tekne görünüyor ancak küçük ve göze batmıyor.\n\nKonu: teknenin ön güvertesinde (pruva) oturan, alt çerçevenin ortasında konumlanmış bir yetişkin kadın. Poz: bir dizi bükülmüş, diğer bacağı ahşap güverte boyunca uzatılmış, bir eli destek için arkada, diğeri uyluğunda rahatça duruyor. İfadesi sakin ve rüya gibi, bakışları hafifçe sola dönük.\n\nGarderop: yumuşak {argument name=\"dress color\" default=\"pastel pink\"} omuzları açık örgü mini elbise, uzun kollu (rahat dokulu), zarif ve temiz. Aksesuarlar: kulağının arkasına sıkıştırılmış tek bir beyaz tropikal çiçek. Yalın ayak veya minimal sandalet; doğal makyaj.\n\nAydınlatma: güçlü öğle güneşi, temiz, gerçekçi gölgeler; ciltte ve suda doğal vurgular; berrak mavi gökyüzü.\n\nÖnemli: Teknede okunabilir herhangi bir yazı veya boyalı metni KALDIRIN/KAÇININ; ahşap güverteyi temiz tutun veya işaretleri soyut/okunamaz hale getirin. Görüntünün hiçbir yerinde metin olmasın. Gerçekçi cilt dokusunu, kumaş örgü detayını ve sinematik tra"
+    }
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408670243_atf875_G_havUtWUAAk0V3.jpg" width="600" alt="Sosyal Medya Gönderisi - Sinematik Fotogerçekçi Seyahat Editoryal Portre - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
+- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015460617742680308)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7569)**
+
+---
+
+### No. 32: Sosyal Medya Gönderisi - Çimen ve Papatyalarla Kaplı İnsansı Varlığın Gerçeküstü Portresi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Doğa ve insanlığın birleşimini vurgulayarak, tamamen taze yeşil çim ve beyaz papatyalarla kaplı insansı bir figürün gerçeküstü, fotogerçekçi bir portresini oluşturmak için ayrıntılı bir komut istemi. Figür, minimalist pastel bir arka plana karşı modern turuncu bir ceket giyiyor ve figürün tabanı için bir referans görseli gerektiriyor.
+
+#### 📝 İstem
+
+```
+Taze yeşil çimler ve sarı merkezli küçük beyaz papatyalarla tamamen kaplı insansı bir figürün gerçeküstü bir portresi; çiçekler yüzü ve boynu yoğun bir şekilde sararak yüz hatlarını gizliyor. Çiçekler net bir şekilde görülebiliyor, üst üste binmiyor ve bir çiçek çayırı gibi doğal görünüyor. Figür, modern {argument name="jacket color" default="orange"} bir ceket (turuncu, mandalina ve sıcak kehribar tonları), hafif parlak kumaş ve yazısız turuncu veya krem rengi bir beyzbol şapkası giymiş. Yumuşak bej veya beyaz pastel tonlarda minimalist, temiz bir arka plan. Arka plan temiz ve boş. Temel özellikler: doğal gün ışığı, güçlü alan derinliği, ultra detaylı dokular, fotogerçekçi ama sanatsal, sinematik kompozisyon, yüksek çözünürlük, canlı gölgeler, moda çekimi tarzı, doğa ve insanlığın birleşimi, sakin ve şiirsel bir ruh hali.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408686263_a6h8on_G_g-aaGWAAAfOJJ.jpg" width="600" alt="Sosyal Medya Gönderisi - Çimen ve Papatyalarla Kaplı İnsansı Varlığın Gerçeküstü Portresi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Adam 🌿 Unroot.design](https://x.com/unrootdesign)
+- **Kaynak:** [Twitter Post](https://x.com/unrootdesign/status/2015429463085822091)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7591)**
+
+---
+
+### No. 33: Sosyal Medya Gönderisi - Sadie Sink ve Millie Bobby Brown Samimi Flaş Fotoğraf İstemcisi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Lüks bir aracın içinde gece vakti şakacı, samimi bir etkileşimde bulunan iki öznenin (Sadie Sink ve Millie Bobby Brown) samimi, yüksek kontrastlı flaş fotoğrafını oluşturmak için ultra gerçekçi bir JSON istemi. İstem, ayrıntılı görünümleri, kıyafetleri (şık siyah giysiler), pozları (dillerini uzatarak birbirlerine doğru eğilmiş) ve sert gölgeler ile yüksek kontrastlı paparazzi tarzı flaş fotoğrafçılığını taklit eden teknik ayrıntıları belirtir.
+
+#### 📝 İstem
+
+```
+{
+  "prompt_type": "Ultra Gerçekçi Görüntü Oluşturma",
+  "subjects": [
+    {
+      "id": "subject_left",
+      "appearance": {
+        "hair": "Kısa, zarif, kahverengi bob kesim, düz dokulu, ortadan ayrılmış, koyu kahverengi renk",
+        "skin": "Açık ten rengi, doğal doku, flaştan gelen yumuşak parlaklık",
+        "features": "Yan profil görünümü, keskin çene hattı, şakacı ifade, dil dışarıda",
+        "accessories": "Küçük altın halka küpeler"
+      },
+      "clothing": {
+        "outfit": "Siyah, yapılı blazer veya smokin ceketi, derin V yaka",
+        "style": "Şık, minimalist, gece hayatı kıyafeti"
+      },
+      "pose": "Diğer özneye doğru eğilmiş, baş hafifçe yukarı doğru eğik, dil diğer öznenin diline değmek üzere uzatılmış"
+    },
+    {
+      "id": "subject_right",
+      "appearance": {
+        "hair": "Uzun, hacimli bal sarısı saçlar, büyük gevşek dalgalar (fönlü stil), katmanlı, yüksek parlaklık",
+        "skin": "Bronz ten rengi, bronz makyaj görünümü, vurgulanmış elmacık kemikleri",
+        "features": "Üç çeyrek profil, şakacı ifade, dil dışarıda",
+        "accessories": "Minimum görünür takı"
+      },
+      "clothing": {
+        "outfit": "Siyah, düşük kesimli kolsuz üst veya body, dekolte görünür",
+        "style": "Göz alıcı, ünlü parti stili"
+      },
+      "pose": "Öne doğru eğilmiş, baş hafifçe aşağı doğru eğik, sol özneyle şakacı bir şekilde etkileşimde"
+    }
+  ],
+  "environment": {
+    "setting": "Lüks bir aracın içinde, arka koltuk içi",
+    "details": "Arka planda koyu deri dokusu, araba tavan döşemesi görünür, kapalı alan",
+    "time": "Gece",
+    "atmosphere": "Özel, samimi, parti sonrası geçiş"
+  },
+  "lighting": {
+    "type": "Doğrudan kamera flaşı (Paparazzi tarzı)",
+    "characteristics": "Yüksek kontrast, sert aydınlatma, öznelerin arkasına düşen sert gölgeler, arka planın siyaha dönüştüğü vinyet efekti, ciltte ve dudaklarda speküler vurgular"
+  },
+  "mood": {
+    "vibe": "Şakacı, hedonist, enerjik, samimi, asi, spontane",
+    "emotional_tone": "Eğlenceyi seven, ünlülerin samimi anı, gece hayatı heyecanı"
+  },
+  "camera_specifications": {
+    "viewpoint": "Göz seviyesi, orta yakın çekim",
+    "lens": "35mm geniş açılı lens",
+    "focus": "Yüzlerde keskin odak, uzuvlarda hafif hareket bulanıklığı mümkün",
+    "style": "Flaş fotoğrafçılığı, ham samimi estetik"
+  },
+  "technical_details": {
+    "quality": "8k çözünürlük, fotogerçekçi, hiper detaylı",
+    "textures": "Görünür cilt gözenekleri, gerçekçi saç telleri, kumaş dokusu, dudaklarda/dillerde nem, belirgin makyaj dokusu",
+    "rendering": "Unreal Engine 5 tarzı, ışın izleme, ciltte yüzey altı saçılım"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408662086_mtc6ru_G_g5I6iWcAAfc3W.jpg" width="600" alt="Sosyal Medya Gönderisi - Sadie Sink ve Millie Bobby Brown Samimi Flaş Fotoğraf İstemcisi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Iris](https://x.com/xIrissy)
+- **Kaynak:** [Twitter Post](https://x.com/xIrissy/status/2015423678054609182)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7559)**
+
+---
+
+### No. 34: Sosyal Medya Gönderisi - Arka Görünümlü Banyo Aynası Yansıma Portresi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Lüks bir banyoda, hem arka profilini (ön planda) hem de ön profilini (yansımada) göstermek için ayna yansımasını kullanan bir kadını içeren karmaşık bir görüntü oluşturmak için oldukça spesifik bir JSON istemi. İstem, anatomik kısıtlamaları kesinlikle uygular, kıyafeti (beyaz fitilli ev giysisi) detaylandırır ve ortamı (siyah mermer, zebra desenli makyaj masası) tanımlar.
+
+#### 📝 İstem
+
+```
+{
+"subject": {
+"description": "Fit, kıvrımlı fiziğe ve bronz tene sahip genç yetişkin bir kadın. Sırtına dökülen uzun, dalgalı, balyajlı sarı saçları var. Yüz hatları kemerli kaşlar, dolgun dudaklar ve nötr, şehvetli bir ifadeyle belirginleşmiş.",
+"attire": "İnce spagetti askılı, kısa kesim bir bralet ve yüksek belli, dar kesim şorttan oluşan, uyumlu {argument name=\"attire color\" default=\"beyaz\"} fitilli bir ev giyim takımı. Kumaşın dikey fitilli dokusu açıkça görülebiliyor.",
+"anatomy_constraints": "Vücut oranlarını aynen koruyun. Ön planda belin alt kısmındaki kıvrımı ve kalçaların dolgunluğunu vurgulayın. Ayna yansımasında, göğüs, referanstaki hacmini koruyarak, küçülme veya düzleşme olmadan dolgun ve doğal şekilli görünmelidir. Cilt dokusu doğal gözeneklerle ve hafif bir parlaklıkla gerçekçi olmalıdır."
+},
+"pose": {
+"orientation": "Üç çeyrek arka görünüm, ayakta.",
+"action": "Özne, sol omzunun üzerinden doğrudan izleyiciye bakmak için gövdesini sola doğru büküyor. Vücudu kameradan uzağa doğru açılı duruyor.",
+"limbs": "Sağ kolu ileri doğru uzanmış, eli makyaj masasının tezgahına düz bir şekilde dayanmış, parmakları hafifçe açık. Sol kolu yanında aşağıda, kısmen gizlenmiş. Bacakları düz duruyor, kalça kıvrımını vurgulamak için ağırlık hafifçe kaydırılmış.",
+"head": "Sola dönük, çene hafifçe içeri çekilmiş, bakışları kamera lensine kilitlenmiş.",
+"reflection_pose": "Önündeki büyük ayna, yüzünü, göğsünü ve ön gövdesini net bir şekilde gösteren ön profilini yansıtıyor."
+},
+"environment": {
+"setting": "Lüks otel veya konut banyosu.",
+"surrounds": "Beyaz damarlı koyu siyah mermer duvarlar. Sağda, krom armatürlü cam bir duşakabin. Ön planda, cesur, siyah-beyaz zebra desenli bir makyaj masası tezgahı.",
+"props": "Zebra desenli tezgahın üzerinde: ahşap bir saç fırçası, bir çift koyu renk güneş gözlüğü, birkaç beyaz tuvalet malzemesi şişesi, bir cam bardak ve küçük siyah bir tepsi. Solda krom bir musluk görünüyor.",
+"background": "Aynadaki yansıma, koyu mermer banyonun devamını ve öznenin ön tarafını gösteriyor."
+},
+"camera": {
+"shot_type": "Bel hizasının biraz üzerinden orta çekim.",
+"perspective": "Üçüncü şahıs bakış açısı (selfie değil). Kamera, öznenin arkasında ve yanında konumlandırılmış.",
+"focal_length": "35 mm ila 50 mm, aşırı bozulma olmadan doğal bir görüş alanı yaratıyor.",
+"depth_of_field": "Derin alan derinliği, hem ön plandaki özneyi hem de aynadaki yansımayı keskin odakta tutuyor.",
+"framing": "Özneyi uyluk ortasından yukarıya doğru, makyaj masası tezgahını ve ayna yansımasını kapsayacak şekilde çerçevelenmiş."
+},
+"lighting": {
+"source": "İç mekan yapay banyo aydınlatması.",
+"type": "Sıcak-nötr ton yayan tavan gömme spot ışıkları.",
+"effects": "Öznenin omzunda, saçında ve mermer yüzeylerde yumuşak speküler vurgular. Tezgahtaki nesnelerin oluşturduğu gerçekçi gölgeler."
+}
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408711123_yrnv2u_G_g1QSaXUAAWlg-.jpg" width="600" alt="Sosyal Medya Gönderisi - Arka Görünümlü Banyo Aynası Yansıma Portresi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [brindley](https://x.com/brindleyai)
+- **Kaynak:** [Twitter Post](https://x.com/brindleyai/status/2015419731423957101)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7622)**
+
+---
+
+### No. 35: İnfografik / Eğitici Görsel - Nano Muz Slayt Oluşturma Tartışması
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+Bu tweet, slayt oluşturmak için Nano Banana kullanımını tartışıyor ve Manus'un güçlü araştırmayı slayt oluşturma ile birleştirmedeki gücünü vurguluyor. Slaytlardaki metnin düzenlenebilir olduğunu ve bunun Gemini veya NotebookLM kullanmaktan potansiyel olarak daha uygun olabileceğini belirtiyor.
+
+#### 📝 İstem
+
+```
+Nano Banana kullanarak slayt oluşturma
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408678278_5qnjnw_G_gCcWoXoAADhgc.jpg" width="600" alt="İnfografik / Eğitici Görsel - Nano Muz Slayt Oluşturma Tartışması - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408678615_a4weqp_G_gCcW3WQAAQ2Gc.jpg" width="600" alt="İnfografik / Eğitici Görsel - Nano Muz Slayt Oluşturma Tartışması - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408679917_q4l08w_G_gCcTgXwAAAyFi.jpg" width="600" alt="İnfografik / Eğitici Görsel - Nano Muz Slayt Oluşturma Tartışması - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408680517_yxbwh4_G_gCcVKWUAABNVt.jpg" width="600" alt="İnfografik / Eğitici Görsel - Nano Muz Slayt Oluşturma Tartışması - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Rei 📚 Notionライフハック2万部突破！](https://x.com/rei_notion)
+- **Kaynak:** [Twitter Post](https://x.com/rei_notion/status/2015363525338714207)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7581)**
+
+---
+
+### No. 36: İnfografik / Eğitici Görsel - Minato-ku Kadın Moda Dergisi için Bilgi Grafiği
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Açıklama
+
+"Minato-ku kadınlarını" (sofistike, üst düzey bir kitleyi ima eden) hedefleyen bir moda dergisi için bir infografik veya özellik sayfası tasarımı oluşturmaya yönelik bir komut istemi. İçerik, simgeler, fotoğraflar, grafikler, diyagramlar ve el yazısı pop-up'lar kullanılarak sistematik ve anlaşılması kolay olmalıdır.
+
+#### 📝 İstem
+
+```
+Minato-ku'lu güzel kadınların okuduğu bir moda dergisi için bir özellik sayfası tasarlayın. İçerik sistematik, yapıcı ve kolay anlaşılır olmalıdır. Gerekirse simgeler, fotoğraflar, grafikler, diyagramlar ve el yazısı açılır pencereler ekleyin.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408676703_580d9h_G_d-Lh1bMAAyEZf.jpg" width="600" alt="İnfografik / Eğitici Görsel - Minato-ku Kadın Moda Dergisi için Bilgi Grafiği - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408677599_gk25u5_G_d-Ln1bwAAK54L.jpg" width="600" alt="İnfografik / Eğitici Görsel - Minato-ku Kadın Moda Dergisi için Bilgi Grafiği - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Toshi｜AI×機能訓練×柔整](https://x.com/Toshi4AI)
+- **Kaynak:** [Twitter Post](https://x.com/Toshi4AI/status/2015218104058667268)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** ja
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7578)**
 
 ---
 
@@ -3864,33 +3672,18 @@ KESİNLİKLE herhangi bir metin, filigran veya çizgi katmanı eklemeyin.
 
 ---
 
-### No. 48: İnfografik / Eğitici Görsel - Yumuşak X-Işını Lüminografi Stili Şablonu
+### No. 48: YouTube Küçük Resmi - Dört Panelli Çizgi Roman İstemleri: Gargara (İngilizce Versiyon)
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-Çeşitli nesnelerin sanatsal siyah beyaz röntgen tarzı görüntülerini oluşturmaya yönelik, yumuşak parlaklığı, ince film grenini ve açık gri bir arka plana karşı minimalist bir kompozisyonu vurgulayan, yeniden kullanılabilir bir istem şablonu.
+Bu, Nano Banana Pro kullanılarak 'Gargle' (Gargara) teması etrafında dört panelli bir çizgi roman şeridi oluşturmak için kullanılan bir komut istemidir (İngilizce versiyonu).
 
 #### 📝 İstem
 
 ```
-{
-  "prompt": "Sanatsal siyah beyaz röntgen fotoğrafçılığı tarzında işlenmiş bir {argument name=\"object\" default=\"nar\"}. İç yapıları ve ince detayları ortaya çıkaran yumuşak, ruhani yarı saydam bir kalite. Derin siyahlardan parlak beyazlara kadar hassas ton geçişleriyle nazik bir parlaklık. Baştan sona ince film greni dokusu. Pürüzsüz geçişlerle rüya gibi ve organik bir estetik. Yumuşak vurgular ve boyutsal derinlik yaratan stüdyo aydınlatması. Yüksek kontrast ancak yumuşaklığını koruyor. İnce kusurlar ve gren ile analog fotoğraf hissi. Her zaman açık yumuşak gri bir arka plana karşı minimalist kompozisyon. Bilimsel ile sanatsal görselleştirmenin buluşması.",
-  
-  "negative_prompt": "renk, sert gölgeler, dijital render, keskin kenarlar, dağınık arka plan, metin, logolar, aşırı doygun, neon, karikatürize, 3D render artefaktları, gürültü, sıkıştırma artefaktları, kalabalık kompozisyon",
-  
-  "style_parameters": {
-    "mood": "ruhânî, bilimsel, sanatsal",
-    "lighting": "yumuşak stüdyo aydınlatması, nazik parlaklık",
-    "texture": "ince film greni, analog fotoğrafçılık",
-    "contrast": "yüksek ama yumuşak",
-    "background": "açık gri, minimalist, nötr"
-  },
-  
-  "usage_example": "{object} öğesini şunlarla değiştirin: 'nar', 'deniz kabuğu', 'çiçek yaprakları', 'insan eli', 'kelebek kanatları', vb."
-}
+Bugünün teması: Hadi Gargarayapalım (İngilizce Versiyon)
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3898,58 +3691,33 @@ KESİNLİKLE herhangi bir metin, filigran veya çizgi katmanı eklemeyin.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977296659_8fp1nk_G_HJ8QPWMAAAm4x.jpg" width="600" alt="İnfografik / Eğitici Görsel - Yumuşak X-Işını Lüminografi Stili Şablonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408683821_4imddt_G9ypjgTb0AA18qM.jpg" width="600" alt="YouTube Küçük Resmi - Dört Panelli Çizgi Roman İstemleri: Gargara (İngilizce Versiyon) - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Lloyd Creates](https://x.com/lloydcreates)
-- **Kaynak:** [Twitter Post](https://x.com/lloydcreates/status/2013615236125692009)
-- **Yayınlandı:** 20 Ocak 2026
-- **Diller:** en
+- **Yazar:** [wakky13 @AIなんでもやってみる💪](https://x.com/NFTwakky13)
+- **Kaynak:** [Twitter Post](https://x.com/NFTwakky13/status/2015394223948992518)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=6926)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7586)**
 
 ---
 
-### No. 49: İnfografik / Eğitici Görsel - Dizüstü Bilgisayar Görüntüsünde Teknik İnfografik Katmanı
+### No. 49: YouTube Küçük Resmi - Nano Banana Pro Görsel İstemi Oluşturmak için Grok Talimatı
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-Saf beyaz bir arka plan üzerinde, fotogerçekçi bir render'ı siyah mürekkep tarzı çizgi çizimler ve açıklamalar (etiketler, ölçümler, akış okları) ile birleştirerek, mühendislik kılavuzu estetiği yaratan bir dizüstü bilgisayarın teknik infografik görüntüsünü oluşturan bir istem.
+Bu, mevcut bir video oluşturma istemine (burada referans verilmiş ancak dahil edilmemiştir) dayanarak Nano Banana Pro için uygun beş anahtar kare görüntü istemi seti oluşturması için Grok LLM'ye verilen bir talimattır. Bu, istem mühendisliği için bir meta-istemdir.
 
 #### 📝 İstem
 
 ```
-{argument name="object" default="laptop"} nesnesinin, gerçekçi bir fotoğrafını veya fotogerçekçi bir render'ını doğrudan üzerine yerleştirilmiş teknik açıklama katmanlarıyla birleştiren bir infografik görseli oluşturun.
-
-Saf beyaz bir stüdyo arka planı üzerinde siyah mürekkep tarzı çizimler ve metin (teknik kalem / mimari eskiz görünümü) kullanın, bunlar şunları içermelidir:
-•Ana bileşen etiketleri
-•İç kesit veya patlatılmış görünüm ana hatları
-•Ölçümler, boyutlar ve ölçek işaretleri
-•Malzeme belirtmeleri ve miktarları
-•İşlevi, kuvveti veya akışı (hava, ses, güç, basınç) gösteren oklar
-•İlgili yerlerde basit şematik veya kesitsel diyagramlar
-
-Başlığı [NESNE] bir köşeye elle çizilmiş teknik açıklama kutusunun içine yerleştirin.
-
-Stil ve düzen kuralları:
-•Gerçek nesne, açıklamaların altında açıkça görünür kalır
-•Açıklamalar eskizlenmiş, teknik ve mimari bir his verir
-•Dengeli negatif alan ile temiz kompozisyon
-•Eğitici, müze sergisi / mühendislik kılavuzu havası
-
-Görsel stil:
-Minimal teknik illüstrasyon estetiği, gerçekçi görüntüler üzerinde siyah çizgi çalışması, hassas ama hafifçe elle çizilmiş bir his.
-
-Renk paleti:
-Beyaz arka plan, sadece siyah açıklama çizgileri ve metin. Renk yok.
-
-Çıktı:
-1080×1080, ultra keskin, sosyal medya akışı için optimize edilmiş, filigran yok.
+Lütfen nano banana pro istemleri için en iyi uygulamaları öğrenin. Aşağıdaki video oluşturma istemini yürütürken anahtar kareli sabit görüntüler oluşturmak istiyorum. Lütfen 5 sahnelik istemleri düşünün ve gösterin.
+(Video oluşturma istemini buraya yapıştırın. Yanıt 3'e bakın)
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3957,17 +3725,17 @@ Beyaz arka plan, sadece siyah açıklama çizgileri ve metin. Renk yok.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977299106_nnliin_G_HA1OGXYAAzskM.jpg" width="600" alt="İnfografik / Eğitici Görsel - Dizüstü Bilgisayar Görüntüsünde Teknik İnfografik Katmanı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408676181_lxy1wb_G_eJkUTWUAAG6Zw.jpg" width="600" alt="YouTube Küçük Resmi - Nano Banana Pro Görsel İstemi Oluşturmak için Grok Talimatı - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [𝐌](https://x.com/Strength04_X)
-- **Kaynak:** [Twitter Post](https://x.com/Strength04_X/status/2013602849658429459)
-- **Yayınlandı:** 20 Ocak 2026
-- **Diller:** en
+- **Yazar:** [雨雲(Amagumo)806 ｜ AI Animer](https://x.com/ai_animer)
+- **Kaynak:** [Twitter Post](https://x.com/ai_animer/status/2015230734093648170)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=6930)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7577)**
 
 ---
 
@@ -4866,48 +4634,27 @@ Sonlandırma:
 
 ---
 
-### No. 67: YouTube Küçük Resmi - Usta Sahne Tasarımcısı Açılır Kitap Diyorama Oluşturucu
+### No. 67: Çizgi Roman / Hikaye Taslağı - Referanslardan 16:9 Sinematik Hikaye Panosu
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Kullanıcı tarafından sağlanan bir film veya kitap başlığına dayalı, hiper-gerçekçi, makro fotoğrafçılık çekimi şeklinde bir açılır kitap dioraması oluşturmak için tasarlanmış karmaşık bir sistem talimat istemi. Yapay zekanın sahneyi oluşturmak için kaynak materyali biyom, çatışma, araç ve maddesellik açısından analiz etmesi gerekmektedir.
+Gerçekçi belgesel tarzında 16:9 sinematik bir storyboard (dört sürekli panel) oluşturmak için Çince bir istem. Kompozisyon, ilişki ve stil için bir referans görseli ve karakterin görünümü için başka bir referans görseli kullanır; karlı bir dış mekan görünümü ve dar bir oda perspektifi gibi her panel için belirli kamera açılarını ve sahne öğelerini detaylandırır.
 
 #### 📝 İstem
 
 ```
-Terminator için yapın: <instructions> Giriş Değişkeni: [BAŞLIĞI GİRİN] (örn. {argument name="title example 1" default="Moby Dick"}, {argument name="title example 2" default="Jurassic Park"}, The Odyssey, Star Wars)
+Yatay 16:9 sinematik sürekli storyboard, gerçekçi belgesel tarzı. Karakterin mekansal ilişkisi, konumu ve tarzı için Referans Görsel 1'i; karakterin görünümü için Referans Görsel 2'yi kullanın. Bu istem dört özel kare talimatı içerir:
 
-Sistem Talimatı:
-Usta bir Sahne Donanımı Yapımcısı gibi davranın. "Açılır Kitap Diyorama"nın hiper-gerçekçi, makro-fotoğraf çekimini oluşturun.
-1. Adli Analiz:
-Görsel bileşenleri belirlemek için Giriş Başlığını analiz edin:
-Biyom: Birincil ortamı belirleyin (örn. Okyanus, Orman, Uzay, Çöl).
-Çatışma: Antagonist veya Canavarı belirleyin (örn. Beyaz Balina, T-Rex, Darth Vader).
-Gemi/Kahraman: Ana aracı veya kahramanı belirleyin (örn. The Pequod, The Jeep, The Millennium Falcon).
-Maddiyat: Dünyanın dokusunu belirleyin (örn. Ahşap ve Su; Kehribar ve Yaprak; Metal ve Yıldızlar).
-2. Konteyner (Açık Kitap):
-Nesne: Ahşap bir masanın üzerinde düz duran devasa, eski, deri ciltli, sert kapaklı bir kitap.
-Dönüşüm: Kitap ortadan açılmış. Sayfalar sadece düz durmuyor; 1. Adımda belirlenen "Biyom"a fiziksel olarak dönüşüyorlar.
-Örnek: Eğer Okyanus ise, sayfalar çalkantılı reçine dalgalarına dönüşür. Eğer Çöl ise, kum tepelerine dönüşürler.
-3. Tipografi (Yüzen Başlık):
-Metin: [Giriş Başlığı] manzaranın içinden devasa, 3D blok harfler olarak yükselir.
-Entegrasyon: Harfler çevreyle etkileşime girmelidir.
-Doku: Harfler hikayeden malzemelerden yapılmıştır (örn. Sürüklenen Odun, Taş, Kemik).
-Yerleştirme: Dalgalar harflerin üzerinden aşar; sarmaşıklar harflerin etrafına dolanır.
-4. Aksiyon Sahnesi:
-KRİTİK: Kitabın üzerine minyatür modeller kullanarak belirli bir sahne oluşturun.
-Tehdit: "Antagonisti" arka planda büyük bir şekilde konumlandırın (örn. Metnin arkasından fırlayan Balina).
-Kahraman: "Gemiyi" veya "Kahramanı" ön planda araziyi dolaşırken konumlandırın (örn. Dalgaların üzerinde sallanan minik bir gemi).
-Ölçek: Sahne üst düzey bir model kiti gibi görünmelidir (1:87 ölçek).
-5. Aydınlatma ve Atmosfer:
-Lamba: Köşede eski bir pirinç masa lambası görünür, sahneye sıcak, yönlü bir "okuma ışığı" yansıtır.
-Atmosfer: Büyülü gerçekçilik. Su parlamalı; sis dönmeli.
-Derinlik: Masanın kenarını bulanıklaştırmak için sığ alan derinliği, odağı kitapta tutar.
-Çıktı: BİR görsel, 16:9 En Boy Oranı, Sinematik Minyatür Fotoğrafçılık, 8k Çözünürlük.
-</instructions>
+Panel 1 (Yan Profil Yakın Çekim): Görsel 1'e referansla yatakta okuyan Görsel 2'deki karakterin yüz özelliklerine (platin sarısı saç, yeşil gözler) odaklanın. Arka plan bulanıklığı uygulayın ve Görsel 1'deki soğuk tonlu aydınlatmayı koruyun.
+
+Panel 2 (Arkadan Okuma Görünümü): Görsel 1'deki "yatakta uzanmış okuma" eylemini yeniden oluşturun, ancak Görsel 2'deki karakterin kıyafetlerini kullanarak pencerenin dışındaki {argument name="weather" default="karlı sahneyi"} vurgulayın.
+
+Panel 3 (Orta Çekim Alçak Açı): Eylem konumu için Görsel 1'e referans verin. Bu, odanın darlığını ve karakterin mekansal ilişkisini yansıtan, kitaplık ve poster duvarının detaylarını vurgulayan oldukça dramatik bir perspektiftir.
+
+Panel 4 (Tam Görünüm/Balıkgözü): Genel ortamı oluşturmak ve "karlı bir günde evde kalma" ruh halini belirlemek için geniş açılı bir çekim (Görsel 1'in perspektifine referansla) ekleyin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4915,62 +4662,21 @@ Derinlik: Masanın kenarını bulanıklaştırmak için sığ alan derinliği, o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768467021160_zumxv2_G-bzqD1WMAEn1k3.jpg" width="600" alt="YouTube Küçük Resmi - Usta Sahne Tasarımcısı Açılır Kitap Diyorama Oluşturucu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408670971_1d6zp9_G_gwXDgXoAAdvUC.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Referanslardan 16:9 Sinematik Hikaye Panosu - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Gadgetify](https://x.com/Gdgtify)
-- **Kaynak:** [Twitter Post](https://x.com/Gdgtify/status/2011090875447984276)
-- **Yayınlandı:** 13 Ocak 2026
-- **Diller:** en
+- **Yazar:** [茶狮子](https://x.com/xchashizi)
+- **Kaynak:** [Twitter Post](https://x.com/xchashizi/status/2015414455417610337)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=5831)**
-
----
-
-### No. 68: YouTube Küçük Resmi - Hint: The title is a heading.
-
-Bir Hint Astronotun Sinematik Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Bir uzay aracının içinde, Dünya'ya bakan, ISRO uzay giysisini, yumuşak mavi aydınlatmayı ve hayranlık ve ulusal gurur ifadesini vurgulayan Hintli bir astronotun ultra gerçekçi, 8K sinematik portresini oluşturmak için bir komut istemi.
-
-#### 📝 İstem
-
-```
-Hint: Yüz ve özellikleri tamamen aynı tutun.
-
-Hindistan uzay aracının içinde, dairesel pencereden aşağıdaki Dünya'ya bakan bir astronotun ultra gerçekçi 8K sinematik portresini oluşturun. Hint Yarımadası açıkça görülebiliyor. Omuzunda Hindistan bayrağı amblemi bulunan modern, beyaz ve safran renkli bir ISRO uzay giysisi giyiyor.
-
-İfade, hayranlık ve sessiz bir gurur içeriyor. Dünya'dan gelen yumuşak mavi ışık yüzünü aydınlatırken, kokpitin karmaşık düğmeleri ve ekranları arka planda hafifçe parlıyor. Ruh hali vatansever, fütüristik ve derinden ilham verici.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768466938551_v2x8mq_G-iodCLbAAELb4l.jpg" width="600" alt="YouTube Küçük Resmi - Hint: The title is a heading.
-
-Bir Hint Astronotun Sinematik Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [simeon-sanai](https://x.com/Naiknelofar788)
-- **Kaynak:** [Twitter Post](https://x.com/Naiknelofar788/status/2011042457748922442)
-- **Yayınlandı:** 13 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=5828)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7570)**
 
 ---
 
-### No. 69: Çizgi Roman / Hikaye Taslağı - Korkunç Kore Korku Filminin DVD Ekran Görüntüsü
+### No. 68: Çizgi Roman / Hikaye Taslağı - Korkunç Kore Korku Filminin DVD Ekran Görüntüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5007,78 +4713,7 @@ Metin yok, DVD katmanı yok
 
 ---
 
-### No. 70: Çizgi Roman / Hikaye Taslağı - Moutai Marka 3x3 Hikaye Taslağı Tasarım İstemleri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Moutai içki şişesini dokuz farklı, üst düzey, editoryal kompozisyonda sergileyen 3x3'lük bir görsel storyboard ızgarası oluşturmak için kapsamlı bir istem. Ürünün kimliğini sıkı bir şekilde kilitlemek için yüklenmiş bir referans görseli gerektirir ve tüm panellerde malzeme dokusuna, aydınlatma tutarlılığına ve tasarım odaklı estetiğe odaklanır.
-
-#### 📝 İstem
-
-```
-Bağımsız 4:5 oranında, dokuz eşit boyutlu panelden oluşan temiz bir 3×3 storyboard ızgarası.
-
-Referans görselini temel ürün referansı olarak kullanın. Dokuz panelin tamamında aynı ürünü, ambalaj tasarımını, markalamayı, malzemeleri, renkleri, oranları ve genel kimliği referanstakiyle tamamen aynı tutun. Ürün her karede açıkça tanınabilir kalmalıdır. Etiket, logo ve oranlar tamamen aynı kalmalıdır.
-
-Bu storyboard, bir markalama portföyü için üst düzey bir tasarımcı maket sunumudur. Odak noktası, gerçekçilik veya yaşam tarzı anlatısından ziyade biçim, kompozisyon, materyalite ve görsel ritimdir. Genel görünüm, özenle seçilmiş, editoryal ve tasarım odaklı hissettirmelidir.
-
-**KARE 1:**
-Temiz bir stüdyo kurulumunda {argument name="product name" default="Moutai Baijiu"}'nun önden çekilmiş kahraman fotoğrafı. Nötr arka plan, dengeli kompozisyon, {argument name="detail 1" default="şişe gövdesi kabartması"} ve {argument name="detail 2" default="etiket sıcak damgalama"} ile ürünün tamamını gösteren sakin ve kendinden emin sunum.
-
-**KARE 2:**
-Odak noktası {argument name="product name" default="Moutai Baijiu"}'nun {argument name="detail 2" default="etiket sıcak damgalaması"} üzerinde yoğunlaşan yakın çekim. Cam, seramik dokular, hassas işçilik ve sıvı şeffaflığına odaklanma.
-
-**KARE 3:**
-{argument name="product name" default="Moutai Baijiu"}'yu Çin yemek masası ortamında gösterir. Üst düzey zarif estetikten ilham alan stüdyo ortamı - temiz çizgiler, doğal malzemeler, yumuşak aydınlatma, otantik bir marka atmosferi yaratır.
-
-**KARE 4:**
-Nötr bir stüdyo arka planında kullanımda veya etkileşimde gösterilen ürün. Doğal bir jestle zarifçe içki döken eller, insan-ürün bağlantısını yakalar, görünüm üst düzey zarif estetiğe uyar.
-
-**KARE 5:**
-Çok sayıda {argument name="product name" default="Moutai Baijiu"} ünitesinin üst izometrik açıdan hassas bir geometrik düzende düzenlendiği izometrik kompozisyon. Tüm ürünler aynı izometrik üst açıda, eşit aralıklarla, temiz, yapılandırılmış ve grafiksel olarak yerleştirilmiştir.
-
-**KARE 6:**
-{argument name="product name" default="Moutai Baijiu"}, marka renk paletiyle uyumlu nötr bir arka plan üzerinde hafifçe eğik bir şekilde havada süzülüyor. Yüzen konum açılı ve kasıtlıdır, ürün dramatik aydınlatma efektleriyle uzayda doğal olarak süzülüyor.
-
-**KARE 7:**
-{argument name="product name" default="Moutai Baijiu"}'nun belirli bir detayına odaklanan aşırı yakın çekim - şişe kapağı mührü, malzeme mikro dokusu veya hassas mühendislik detayları.
-
-**KARE 8:**
-{argument name="product name" default="Moutai Baijiu"}, cesur, editoryal ve görsel olarak çarpıcı hissettiren beklenmedik ancak estetik açıdan güçlü bir ortamda. Sıçrayan içkinin anında asılı kalmış, stüdyo tabanlı ve tasarımcı odaklı, markayı yücelten cesur bir kompozisyon.
-
-**KARE 9:**
-Ürünü rafine bir yaşam tarzı kurulumunda kullanımda gösteren geniş kompozisyon. Temiz aksesuarlar, kontrollü stil, serinin geri kalanıyla uyumlu, ürünün günlük yaşamdaki rolünü düşündürüyor.
-
-**KAMERA & STİL:**
-Gerçek kamera görünümüne sahip ultra yüksek kaliteli stüdyo görüntüleri. Kareler arasında farklı kamera açıları ve çerçevelemeler. Kontrollü alan derinliği, hassas aydınlatma, doğru malzemeler ve yansımalar. Altın vurgularla dramatik kontrast. Aydınlatma mantığı, renk paleti, ruh hali ve görsel dil, dokuz panelin tamamında tek bir uyumlu seri olarak tutarlı kalmalıdır.
-
-**ÇIKTI:**
-Kenarlıksız, metinsiz, altyazısız ve filigransız temiz bir 3×3 ızgara.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322348289_ky72ty_G_br_bDacAABZUa.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Moutai Marka 3x3 Hikaye Taslağı Tasarım İstemleri - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/2015058087246438648)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7527)**
-
----
-
-### No. 71: Çizgi Roman / Hikaye Taslağı - E-Konte (Japon Çizim Taslağı) Oluşturma
+### No. 69: Çizgi Roman / Hikaye Taslağı - E-Konte (Japon Çizim Taslağı) Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5111,7 +4746,7 @@ Verilen bir sahneye göre bir e-konte (Japon tarzı storyboard) oluşturun.
 
 ---
 
-### No. 72: Çizgi Roman / Hikaye Taslağı - Nano Banana Pro Sahne Çekimi İstekleri
+### No. 70: Çizgi Roman / Hikaye Taslağı - Nano Banana Pro Sahne Çekimi İstekleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5165,7 +4800,7 @@ Nano Banana Pro ile sahne görüntüleri oluşturmak için bilgi istemi olarak k
 
 ---
 
-### No. 73: Çizgi Roman / Hikaye Taslağı - Transformatör Robotundan Tank Dönüşüm İstemcisi
+### No. 71: Çizgi Roman / Hikaye Taslağı - Transformatör Robotundan Tank Dönüşüm İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5198,7 +4833,7 @@ Bu Transformer robotun bir tanka dönüşümünün geçiş sürecini 6 (3 x 2) a
 
 ---
 
-### No. 74: Çizgi Roman / Hikaye Taslağı - Wizardry x Genba Neko İş Birliği Görseli
+### No. 72: Çizgi Roman / Hikaye Taslağı - Wizardry x Genba Neko İş Birliği Görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5233,7 +4868,7 @@ Wizardry ve Genba Neko (site kedisi) arasındaki iş birliğine saygı duyarak, 
 
 ---
 
-### No. 75: Çizgi Roman / Hikaye Taslağı - Görsel Hikaye Taslağı Oluşturma İstemleri
+### No. 73: Çizgi Roman / Hikaye Taslağı - Görsel Hikaye Taslağı Oluşturma İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5272,7 +4907,7 @@ Nano Banana Pro ile ürününüzü sunmak için bir marka görseli storyboard'u 
 
 ---
 
-### No. 76: Çizgi Roman / Hikaye Taslağı - 2000'ler OVA Tarzı Lise Kızı Canavar Avı
+### No. 74: Çizgi Roman / Hikaye Taslağı - 2000'ler OVA Tarzı Lise Kızı Canavar Avı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5326,7 +4961,7 @@ Kompozisyon, savaştan hemen önceki gerilimi vurgular.
 
 ---
 
-### No. 77: Çizgi Roman / Hikaye Taslağı - 9 Panelli Ürün Hikaye Taslağı Maketi İstemci Metni
+### No. 75: Çizgi Roman / Hikaye Taslağı - 9 Panelli Ürün Hikaye Taslağı Maketi İstemci Metni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5397,7 +5032,7 @@ Kenarlıksız, metinsiz, altyazısız ve filigransız temiz bir 3×3 ızgara.
 
 ---
 
-### No. 78: Çizgi Roman / Hikaye Taslağı - Marka Görselleri için Detaylı Hikaye Taslağı İstemleri
+### No. 76: Çizgi Roman / Hikaye Taslağı - Marka Görselleri için Detaylı Hikaye Taslağı İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5469,7 +5104,7 @@ Kenarlıksız, metinsiz, altyazısız veya filigransız temiz bir 3x3 ızgara.
 
 ---
 
-### No. 79: Çizgi Roman / Hikaye Taslağı - Film Şeridi Izgarası Oluşturma İstemleri
+### No. 77: Çizgi Roman / Hikaye Taslağı - Film Şeridi Izgarası Oluşturma İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5502,7 +5137,7 @@ Aşağıdaki storyboard ızgarasını oluşturmak için bilgi istemi
 
 ---
 
-### No. 80: Çizgi Roman / Hikaye Taslağı - Yapay Zeka Manga Teması: Deneme Yanılma
+### No. 78: Çizgi Roman / Hikaye Taslağı - Yapay Zeka Manga Teması: Deneme Yanılma
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5535,7 +5170,7 @@ Bir manga yaratmayı denedim. Teması "Deneme Yanılma".
 
 ---
 
-### No. 81: Çizgi Roman / Hikaye Taslağı - Gemini Nano Banana Pro 4 Panelli Manga: Uzaktan Kumanda Bölümü
+### No. 79: Çizgi Roman / Hikaye Taslağı - Gemini Nano Banana Pro 4 Panelli Manga: Uzaktan Kumanda Bölümü
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5568,7 +5203,7 @@ Son günlük hayatımla ilgili 4 panelli bir manga oluşturmaya çalıştım. Ba
 
 ---
 
-### No. 82: Çizgi Roman / Hikaye Taslağı - Lüks Bavul için Ticari Reklam Hikaye Taslağı İstemleri
+### No. 80: Çizgi Roman / Hikaye Taslağı - Lüks Bavul için Ticari Reklam Hikaye Taslağı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5601,86 +5236,22 @@ Lüks bir bavul reklamı için 3x3'lük bir storyboard oluşturmak üzere tasarl
 
 ---
 
-### No. 83: Çizgi Roman / Hikaye Taslağı - Gemini (Nano Banana Pro) Kullanarak Web Manga Oluşturmak için YAML Şablonu
+### No. 81: Ürün Pazarlaması - Birinci Şahıs AR Fanta Gazoz Deneyimi
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Açıklama
 
-Gemini (Nano Banana Pro olarak anılır) için tasarlanmış, dört katmanlı bir web manga şeridi oluşturmaya yönelik kapsamlı, YAML tabanlı bir istem şablonu. Karakter tutarlılığı için katı uyum kuralları, ayrıntılı stil kılavuzları (aydınlatma, arka plan, diyalog balonları, görsel efektler) ve her paneldeki sahneleri ve diyalogları tanımlamak için yapılandırılmış bir storyboard formatı içerir.
+Bir süpermarket reyonunda Fanta gazlı içecek şişesi tutan, hiper gerçekçi, birinci şahıs bakış açısıyla çekilmiş bir görüntüyü oluşturmak için ayrıntılı, karmaşık bir bilgi istemi. Görüntüye, beslenme ve tarif verilerini gösteren fütüristik, holografik bir Artırılmış Gerçeklik arayüzü bindirilmiştir.
 
 #### 📝 İstem
 
 ```
-KESİNLİKLE UYULMASI GEREKİR:
-  - Bu YAML spesifikasyonuna kesinlikle uyun. Sapmayın, yetkisiz öğeler eklemeyin veya 'yaratıcı' yorumlar yapmayın.
-  - Referans görsellerden (sağlanmışsa) karakter kimliği tutarlılığı ÇOK ÖNEMLİDİR.
-  - Bu tutarlılığı sağlamak için kapsamlı görsel analizi zorunludur. Karakter kimliği kontrollerini geçemeyen hiçbir sonuç kabul edilemez.
-
-Strict_Adherence: true
-aspect_ratio: "{argument name="aspect ratio" default="2:3"}" # Gerektiğinde değiştirin (örn. "1:1", "16:9")
-resolution: "{argument name="resolution" default="2K"}"    # Gerektiğinde değiştirin (örn. "4K")
-Character_Count: {{ Görünen toplam karakter sayısı }}
-Total_Panel_Count: {{ Toplam panel sayısı (genellikle 4 katmanlı bir yapı için 4-8) }}
-
-Summary: >
-  {argument name="summary" default="Hikayenin genel özeti. Konu akışını, ortamı, ana olayları ve sonucu kısaca açıklayın."}
-
-Style_Guide:
-  # Panel bölme stili "dış çerçeve yok, tuval kenarına kadar gösterim" olarak sabittir.
-  comic_style: "Dış çerçeve sınırı olmayan, 4 katmanlı, çok panelli manga şeridi. Paneller, yalnızca iç beyaz bölme çizgileriyle ayrılmış olarak tuvalin en kenarına kadar uzanmalıdır."
-  lighting: "{{ Aydınlatmayı belirtin. Günün saati (gündüz/gece), ışık kaynağı (güneş ışığı/elektrik ışığı/ay ışığı), atmosfer (parlak/karanlık/dramatik gölgeler) vb. }}"
-  background_elements: "{{ Ana ortam, konumun özel açıklaması, önemli aksesuarlar veya yerleştirilmiş çevresel öğeler. }}"
-  dialogue_bubbles: "Konuşma için standart beyaz baloncuklar, iç düşünceler için düşünce bulutları, fısıltılar için kesik çizgili baloncuklar ve anlatım/monolog için dikdörtgen kutular. {{ Gerekirse özel konuşma baloncukları için tanımlar ekleyin (örn. bağırmak için sivri baloncuklar) }}"
-  visual_effects: "{{ Manga görsel efektlerini belirtin. Manga sembolleri (ter, damarlar, parıltı), efekt çizgileri (konsantrasyon çizgileri, hız çizgileri, titreme çizgileri), ses efektlerinin görselleştirilmesi vb. }}"
-
-Characters:
-  # Karakter tanımı. Alfanümerik kimlikler önerilir.
-  {{ Character ID_1 }}:
-    description: "{{ Görünüm, saç stili, renk, giyim, ayırt edici öğeler, kişilik ve ifade eğilimleri. Referans görseller mevcutsa, dosya adını buraya yazın (örn. reference image_0.png). }}"
-  {{ Character ID_2 }}:
-    description: "{{ İkinci karakter detayları... Karakter sayısına göre açıklayın. }}"
-  # Gerektiğinde ekleyin...
-
-Storyboard:
-  # 4 katmanlı panel bölme tanımı
-  Tier_1:
-    {{ Panel ID_T1_P1 (örn. Panel_1_Large_Top) }}:
-      scene: "{{ Bu panel için özel durum açıklaması. Kim, nerede ve ne yapıyorlar. Kompozisyon ve kamera çalışması da belirtilebilir. }}"
-      dialogue:
-        - speaker: "{{ Konuşmacının Karakter Kimliği }}"
-          type: "{{ Satır türü: speech(normal), thought(düşünce), whisper(fısıltı), shout(bağırma), monologue(monolog/anlatım) }}"
-          text: "{{ Satırın özel içeriği. Satır sonu gerekiyorsa \n kullanın. }}"
-        # Aynı panelde birden fazla satır varsa liste ekleyin
-        # - speaker: "..."
-        #   type: "..."
-        #   text: "..."
-    # Tier_1'e panel eklemek için buraya yazın
-  Tier_2:
-    {{ Panel ID_T2_P1 }}:
-      scene: "{{ Sahne detayları }}"
-      dialogue:
-        - speaker: "{{ Konuşmacı Kimliği }}"
-          type: "{{ Tür }}"
-          text: "{{ İçerik }}"
-    # Gerektiğinde panel ekleyin
-  Tier_3:
-    {{ Panel ID_T3_P1 }}:
-      scene: "{{ Sahne detayları }}"
-      dialogue:
-        - speaker: "{{ Konuşmacı Kimliği }}"
-          type: "{{ Tür }}"
-          text: "{{ İçerik }}"
-    # Gerektiğinde panel ekleyin
-  Tier_4:
-    {{ Panel ID_T4_P1 }}:
-      scene: "{{ Sahne detayları }}"
-      dialogue:
-        - speaker: "{{ Konuşmacı Kimliği }}"
-          type: "{{ Tür }}"
-          text: "{{ İçerik }}"
-    # Gerektiğinde panel ekleyin
+Parlak ışıklı bir süpermarket reyonunda birinci şahıs bakış açısı. Kameraya yakın, gerçekçi bir insan eli bir şişe Fanta gazlı içecek tutuyor.
+İkonik markalı şişesindeki parlak turuncu içecek, kalori, şeker içeriği, kafein içeriği, tazelik, raf ömrü ve Fanta'ya göre önerilen ferahlatıcı tarifler ve kokteyller dahil olmak üzere beslenme verilerini gösteren çok katmanlı holografik bir Artırılmış Gerçeklik arayüzüyle çevrili.
+Kullanıcı arayüzü öğeleri, kullanıcının dikkat odağına dinamik olarak yanıt veriyormuş gibi, izleyicinin görüş hattına göre sorunsuz bir şekilde hareket ediyor ve yeniden düzenleniyor.
+Sol görüş alanının kenarında, işaretlenmiş öğeleri listeleyen dikey, yarı saydam bir alışveriş listesi görünüyor ve Fanta, o anda seçili öğe olarak vurgulanıyor.
+Ultra gerçekçi karma gerçeklik, temiz fütüristik artırılmış gerçeklik tasarımı, cam dokulu kullanıcı arayüzü panelleri, yumuşak ortam ışığı, gerçekçi ışık ve gölge efektleri, doğal alan derinliği, sürükleyici birinci şahıs arayüzü, yeni nesil perakende teknolojisini sergiliyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -5688,91 +5259,32 @@ Storyboard:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977363062_tdfu3b_G_DtU8TXkAAmnA7.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Gemini (Nano Banana Pro) Kullanarak Web Manga Oluşturmak için YAML Şablonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408664361_w4l478_G_jnn3VWUAAsV3F.jpg" width="600" alt="Ürün Pazarlaması - Birinci Şahıs AR Fanta Gazoz Deneyimi - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Dakiny](https://x.com/Dakiny)
-- **Kaynak:** [Twitter Post](https://x.com/Dakiny/status/2013569080490652069)
-- **Yayınlandı:** 20 Ocak 2026
-- **Diller:** en
+- **Yazar:** [IIAC(🦈,💧)](https://x.com/IIAC99)
+- **Kaynak:** [Twitter Post](https://x.com/IIAC99/status/2015615591630168136)
+- **Yayınlandı:** 26 Ocak 2026
+- **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7012)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7562)**
 
 ---
 
-### No. 84: Ürün Pazarlaması - Deniz Yatağında Sualtı Portresi
+### No. 82: Ürün Pazarlaması - GPT Tarafından Tasarlanmış Ürün Kahraman Çekimi İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Sığ, kristal berraklığında suda, kumlu bir deniz tabanında oturan genç bir kadının aşırı yüksek açılı dikey perspektiften çekilmiş görüntüsü için oldukça açıklayıcı bir bilgi istemi. Bilgi istemi, kadının görünümünü (açık ten, yüzen açık kahverengi saçlar), pozunu (doğrudan kameraya bakıyor) ve suyun giysileri üzerindeki etkisini (vücuda yapışan ıslak kumaş) ayrıntılarıyla anlatıyor.
+Bir GPT modeli kullanılarak tasarlandığı bildirilen, katı, önden çekilmiş bir ürün kahraman çekimi oluşturmak için ayrıntılı bir bilgi istemi. Stüdyo aydınlatması (45° soldan yumuşak ana ışık), dikey siyah-beyaz gradyan fon ve organik çerçeveleme için kömürleşmiş siyah dalların kullanımını belirterek, net malzeme gerçekçiliği ve sinematik kontrastı vurgular.
 
 #### 📝 İstem
 
 ```
-{
-  "scene": "Aşırı yüksek açılı dikey perspektiften, doğrudan suyun içinden aşağıya doğru bakılarak çekilmiş sığ, kristal berraklığında bir deniz tabanı.",
-  "subject": {
-    "character": "Cesur, kendinden emin, açıkça şehvetli bir duruşa sahip genç yetişkin Kafkas kadın.",
-    "face": {
-      "structure": "Yumuşak çene hattı ve yüksek alına sahip oval yüz.",
-      "skin": "Doğal dokulu açık ten, burun ve yanaklarda belirgin hafif çiller ve kırılan güneş ışığıyla güçlendirilmiş yumuşak sıcak bir kızarıklık.",
-      "eyes": {
-        "shape": "Badem şeklinde, açık ve suyun içinden lense doğru yukarıya yönelmiş.",
-        "color": "Koyu limbal halkalı parlak yeşil.",
-        "expression": "Sakin, öz farkındalığı yüksek, samimi ve manyetik bir alt tonla kendinden emin bakış."
-      },
-      "mouth": {
-        "lips": "Kapalı, rahat dudaklar, doğal dolgunlukta ve su difüzyonunun neden olduğu hafif bir parlaklık."
-      },
-      "makeup": "Minimalist, suya dayanıklı doğal makyaj görünümü, cilt dokusunu, kaşları ve göz netliğini vurguluyor."
-    },
-    "hair": {
-      "color": "Bal sarısı ışıltılar ve balyaj çizgileriyle açık kahverengi taban.",
-      "length": "Omuz hizasını geçmiş, yaklaşık 45-50 cm.",
-      "texture": "Doğal dalgalı, suda serbestçe yüzerek dışa doğru yayılıyor, tek tek saç telleri belirgin.",
-      "style": "Ortadan ayrılmış, tamamen suya batık, yüz ve boyun etrafında nazikçe yayılıyor.",
-      "visible": "Tamamen görünür, çevredeki suda asılı ve ağırlıksız."
-    }
-  },
-  "pose": {
-    "overall": "Bacakları ileri doğru uzatılmış, kumlu deniz tabanına doğrudan oturmuş, su yüzeyinin üzerine yerleştirilmiş bir kameraya doğru yukarıya bakıyor.",
-    "position": {
-      "base": "Sığ suyun altındaki ince soluk kumun üzerinde oturuyor.",
-      "orientation": "Vücut kameranın altında dikey olarak hizalanmış, yukarıya dönük."
-    },
-    "torso": {
-      "direction": "Dik, belin alt kısmında belirgin doğal bir kavisle.",
-      "position": "Kadrajın ortasında.",
-      "effect": "Duruş, göğüs çıkıntısını, ince beli ve uzun gövdeyi vurguluyor."
-    },
-    "hips": {
-      "position": "Kuma sabitlenmiş.",
-      "emphasis": "Islak kumaşın pelvise ve kalçalara yapışmasıyla belirgin şekilde şekillendirilmiş."
-    },
-    "legs": {
-      "position": "İleri doğru uzatılmış ve hafifçe açık, dizler hafifçe bükülmüş.",
-      "visible": "Üst uyluklar ve dizler suyun içinden görünüyor.",
-      "effect": "Bacak konturları su kırılması ve kumaş gerilimiyle büyütülmüş."
-    },
-    "arms": {
-      "position": "Sağ kol kameraya doğru yukarı uzatılmış (kadraj dışında), sol kol parmakları kısmen suya batmış şekilde kumun üzerinde hafifçe duruyor.",
-      "effect": "Cilt ve kumaşın suyla etkileşimi sayesinde hafif kas gerginliği görülebiliyor."
-    },
-    "head": {
-      "turn": "Yüzeyi ve yukarıdaki lensi görmek için tamamen geriye doğru eğilmiş.",
-      "expression": "Sakin, baskın, dingin bir şekilde baştan çıkarıcı."
-    }
-  },
-  "outfit": {
-    "one_piece_swimsuit": "Yüksek kesimli, sırtı açık tek parça mayo",
-    "color": "Yanık turuncu/Mandalina",
-    "material": "Fitilli doku, mat yüzey, suya karşı tamamen doygun renk."
-  }
-}
+Önden çekilmiş, ortalanmış ve dik duran, göz hizasında, 45° soldan gelen yumuşak bir stüdyo ana ışığıyla çekilmiş, ambalajın kenarlarını belirleyen hafif bir düşüş ve ince parlak vurgulara sahip, ürünün katı bir kahraman çekimi; dikey siyah-beyaz gradyan bir arka plan, etiketin yüksek okunabilirliğini korurken kontrollü, üst düzey bir atmosfer yaratıyor; ön plan ve orta planda kömürleşmiş siyah dallar, üründen dikkat dağıtmadan doku ekleyerek kısıtlı, organik bir asimetriyle kompozisyonu çerçeveliyor; temiz, yumuşak bir temas gölgesi ürünü yüzeye sabitliyor, net cam/malzeme gerçekçiliği, sinematik kontrast, arka planın pürüzsüz ve gürültüsüz tutulduğu sığ alan derinliği.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -5780,96 +5292,517 @@ Sığ, kristal berraklığında suda, kumlu bir deniz tabanında oturan genç bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322319390_47ao3j_G_dvOWyWcAAsXSS.jpg" width="600" alt="Ürün Pazarlaması - Deniz Yatağında Sualtı Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Saintpablo](https://x.com/stpabloai)
-- **Kaynak:** [Twitter Post](https://x.com/stpabloai/status/2015201732993614193)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7482)**
-
----
-
-### No. 85: Ürün Pazarlaması - Sydney Sweeney Aşırı Düşük Açı Editoryal
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Nano Banana Pro için, Sydney Sweeney'nin bordo saten mini bir gecelik elbise içinde, stüdyo fonunda, bacakları uzatmak için perspektif bozulmasını vurgulayarak, aşırı düşük açıdan (solucan gözü görünümü) çekilmiş editoryal bir yüksek moda görüntüsü oluşturmak üzere yapılandırılmış bir JSON istemi.
-
-#### 📝 İstem
-
-```
-{
-  "image_analysis_prompt": {
-    "subject_details": {
-      "demographics": "Açık tenli, omuz hizasında sarı dalgalı saçları ortadan ayrılmış genç bir kadın.",
-      "expression": "Duygusuz, kendinden emin ve dingin. Bakışları hafifçe yukarı ve sağa doğru, kamerayı aşarak ilerideki bir noktaya odaklanmış.",
-      "pose": "Geniş, baskın bir güç duruşunda ayakta duruyor. İki eliyle de elbisesinin etek ucunu uyluklarından nazikçe kavrıyor. Düşük açı nedeniyle başı hafifçe geriye doğru eğik."
-    },
-    "apparel_and_styling": {
-      "main_garment": "{argument name=\"dress color\" default=\"koyu kırmızı (bordo)\"} saten mini askılı elbise. İnce askıları, V yakası ve ışığı yansıtan parlak kumaş dokusuyla dikkat çekiyor.",
-      "footwear_combo": "Koyu kahverengi/siyah sivri burunlu stiletto topuklularla giyilmiş beyaz, fitilli, bol kesim mürettebat çoraplarının kendine özgü, yüksek moda birleşimi.",
-      "aesthetic": "{argument name=\"aesthetic style\" default=\"Coquette estetiği, editoryal yüksek modayla buluşuyor\"}."
-    },
-    "camera_and_composition": {
-      "angle": "Aşırı Düşük Açı / Solucan Gözü Görünümü. Kamera neredeyse zemin seviyesinde konumlandırılmış, konuya dikey olarak yukarıdan bakıyor.",
-      "visual_effect": "Bacakları uzatmak için kasıtlı olarak perspektif bozulması kullanılmış; bu da bacakları ön planda baskın görsel öğe haline getirirken, üst gövde çerçevenin üst kısmına doğru hafifçe inceliyor.",
-      "framing": "Tam vücut dikey çekim (9:16 en boy oranı), konuyu ayakkabı uçlarından başının tepesine kadar yakalıyor."
-    },
-    "lighting_and_environment": {
-      "background": "Dikişsiz, dokulu bej/ten rengi bir stüdyo fonu.",
-      "lighting_style": "Yumuşak, dağınık stüdyo aydınlatması. Elbisenin saten malzemesi üzerinde ve konunun kaval kemikleri ile omuzlarında nazik vurgular oluştururken, etek ucunun altında yumuşak gölgeler yaratıyor.",
-      "atmosphere": "Temiz, minimalist ve editoryal."
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322333928_zrbrs0_G_dnWb-XsAAPlEQ.jpg" width="600" alt="Ürün Pazarlaması - Sydney Sweeney Aşırı Düşük Açı Editoryal - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408688414_auzpr7_G_i3Q_sbwAAKMhS.jpg" width="600" alt="Ürün Pazarlaması - GPT Tarafından Tasarlanmış Ürün Kahraman Çekimi İstemcisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322334047_hcjgca_G_dlyUyWcAANamu.jpg" width="600" alt="Ürün Pazarlaması - Sydney Sweeney Aşırı Düşük Açı Editoryal - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769408688583_zl8j68_G_i3Q_obUAAz3na.jpg" width="600" alt="Ürün Pazarlaması - GPT Tarafından Tasarlanmış Ürün Kahraman Çekimi İstemcisi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Ivan](https://x.com/ai_artdirector)
+- **Kaynak:** [Twitter Post](https://x.com/ai_artdirector/status/2015562343233868176)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7594)**
+
+---
+
+### No. 83: Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Üst düzey, 8K fotogerçekçi bir moda editoryal görseli oluşturmak için oldukça karmaşık, yapılandırılmış bir JSON istemi. İstem, Ana De Armas ve Margot Robbie'nin benzerliğine dayalı iki özneyi tanımlıyor; tam yüz hatlarını, cilt fiziğini (SSS, aşırı detaylı gözenekler), belirli gardırobu (siyah dekolteli mayo elbise), kompozisyonu (orta düşük açılı kahraman çekimi) ve çevresel katmanları (Emerald Sahili, turkuaz deniz, bokeh) detaylandırıyor.
+
+#### 📝 İstem
+
+```
+{
+  "project_metadata": {
+    "title": "Sinematik Moda Editöryeli: Zümrüt Sahili",
+    "output_format": "8K RAW Fotogerçekçi",
+    "aspect_ratio": "9:16",
+    "style_profile": "Üst Düzey Vogue Editöryeli"
+  },
+  "subject_profile": {
+    "A": {
+      "identity_model": {
+        "base_likeness": "{argument name=\"subject A likeness\" default=\"Ana De Armas\"}",
+        "fidelity_weight": "1.0 (Tam yüz hatları)",
+        "expression": "Kendinden emin şehvetli dudak bükme, doğrudan göz teması",
+        "skin_physics": {
+          "texture": "Hiper detaylı gözenekler, doğal mikro kırışıklıklar",
+          "shading": "Yüzey altı saçılım (SSS), doğal sahil ışıltısı",
+          "complexion": "Doğal zeytin tenli, güneş öpücüğü vurguları"
+        }
+      }
+    },
+    "B": {
+      "identity_model": {
+        "base_likeness": "{argument name=\"subject B likeness\" default=\"Margot Robbie\"}",
+        "fidelity_weight": "1.0 (Tam yüz hatları)",
+        "expression": "Kendinden emin şehvetli dudak bükme, doğrudan göz teması",
+        "skin_physics": {
+          "texture": "Hiper detaylı gözenekler, doğal mikro kırışıklıklar",
+          "shading": "Yüzey altı saçılım (SSS), doğal sahil ışıltısı",
+          "complexion": "Doğal zeytin tenli, güneş öpücüğü vurguları"
+        }
+      }
+    },
+    "anatomical_specifications": {
+      "body_type": "Kıvrımlı, dolgun kum saati silueti",
+      "modifications": [
+        "Gelişmiş göğüs oranları (Üst vücut vurgusu)",
+        "Fit, doğal anatomi",
+        "Gerçekçi ten-kumaş sıkıştırması"
+      ],
+      "hair_properties": {
+        "style": "Referansla aynı; dağınık, rüzgarda savrulan dalgalar",
+        "interaction": "Sol elin saçların arasından geçirilmesi, hacim oluşturma"
+      }
+    }
+  },
+  "wardrobe_and_styling": {
+    "primary_attire": {
+      "garment": "Tek parça mayo elbise",
+      "color_palette": "Siyah",
+      "design_elements": [
+        "Aşırı derin V yaka (Dalgıç)",
+        "Yüksek kesim bacak açıklıkları",
+        "Uyluk hizasında yan yırtmaç",
+        "Göğüs ucunda ortalanmış altın güneş patlaması broş"
+      ],
+      "fabric_render": "Saten bitişli Likra, gerçekçi parlaklık, belde mikro kıvrımlar"
+    },
+    "jewelry_suite": {
+      "earrings": "Büyük 18 ayar altın halka küpeler, yüksek ayna yansıması",
+      "wristwear": "Üst üste dizilmiş altın bilezikler, gerçekçi metalik anizotropik vurgular"
+    }
+  },
+  "compositional_strategy": {
+    "framing": "Orta yakın portre (Belden yukarı odak)",
+    "perspective": "Orta düşük açı (Kahraman çekimi)",
+    "pose_architecture": {
+      "stance": "Üç çeyrek önden görünüm, kendinden emin duruş",
+      "weight_distribution": "Çakıllı bir yüzeyde dengeli, lense doğru hafif eğim"
+    },
+    "optics": {
+      "lens_emulation": "85mm Prime f/1.2",
+      "depth_of_field": "Sığ (Özne keskin / Arka plan kremsi bokeh)",
+      "focus_point": "Öznenin gözleri"
+    }
+  },
+  "environmental_layers": {
+    "foreground": "Makro detaylı ıslak çakıllar ve denizden aşınmış taşlar",
+    "midground": "Kristal berraklığında turkuaz Akdeniz, kostikler ve hafif dalgalarla.",
+    "background": "Uzak, puslu kıyı dağları ve parlak, hafif bulutlu bir gökyüzü."
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408707162_k45526_G_io1rUXEAAYrFh.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408707152_pr0ird_G_iqQuDXcAAnGC-.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322334005_2da543_G_dnXpjWsAAOPkA.jpg" width="600" alt="Ürün Pazarlaması - Sydney Sweeney Aşırı Düşük Açı Editoryal - Image 3">
+<img src="https://cms-assets.youmind.com/media/1769408707491_ltvwkk_G_io1PmXIAAXDah.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408708414_c4in9i_G_iql41XwAAsGNI.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408709222_l56tuy_G_hoeTlWYAE2bPM.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408709367_fn6y16_G_hoeThXkAAtb8j.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408709803_z8yp9g_G_hoeTjXcAAvqig.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Moda Editöryali: Emerald Coast (Ana de Armas vs. Margot Robbie) - Image 7">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [jennieee:3](https://x.com/jenniebae_ai)
-- **Kaynak:** [Twitter Post](https://x.com/jenniebae_ai/status/2015193572396433595)
-- **Yayınlandı:** 24 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/jenniebae_ai/status/2015548850686087404)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7504)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7620)**
 
 ---
 
-### No. 86: Ürün Pazarlaması - Kozmos Temalı Editoryal Dergi Kesiti
+### No. 84: Ürün Pazarlaması - Hafif Marka Dokusu Görsel İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Üst düzey bir editoryal dergi sayfa düzeni oluşturmak için tasarlanmış son derece karmaşık bir JSON istemi. Bu istem, gerçekçi bir stüdyo portresini (katı yüz kimliği kilidiyle) kesit olarak, okunaksız sahte metinler ve bilimsel kenar notu çizimleriyle tamamlanmış, otantik bir astronomi kitabı sayfasına benzeyen bir arka plana entegre etmeyi gerektirir.
+İnce taneli malzeme hissi, yumuşak aydınlatma, nötr tonlar ve ana konudan dikkat dağıtmadan derinlik katmak için tasarlanmış minimal desen tekrarına odaklanan, zarif bir marka dokusu görseli oluşturmaya yönelik kısa bir komut istemi.
+
+#### 📝 İstem
+
+```
+Hafif marka dokusu görseli.
+İnce taneli malzeme hissi, yumuşak aydınlatma,
+nötr tonlar,
+minimal desen tekrarı,
+dikkat dağıtmadan derinlik katmak için tasarlanmış,
+rafine ve sade estetik.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408693803_cwrtxw_G_dJLRsXcAEhlXw.jpg" width="600" alt="Ürün Pazarlaması - Hafif Marka Dokusu Görsel İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [SRKDAN](https://x.com/SRKDAN)
+- **Kaynak:** [Twitter Post](https://x.com/SRKDAN/status/2015522059623796972)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7599)**
+
+---
+
+### No. 85: Ürün Pazarlaması - Bikini Portresi için Detaylı Anatomik Poz Tanımı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Gemini Nano Banana Pro için, siyah bikinili genç bir kadının orta çekim portresi için hassas poz geometrisi, giyim ve aydınlatmaya odaklanan son derece ayrıntılı, yapılandırılmış bir JSON istemi. İstem, saçları, aksesuarları, makyajı ve en önemlisi, baş rotasyonu, kol açıları, omurga eğriliği (lomber lordoz), pelvik eğim ve ağırlık dağılımı dahil olmak üzere karmaşık pozu titizlikle tanımlayarak, sert güneş ışığı altında son derece gerçekçi ve spesifik bir vücut duruşu hedeflemektedir.
+
+#### 📝 İstem
+
+```
+{
+  "subject": {
+    "demographics": "Genç yetişkin kadın, açık tenli ve belirgin bronzlaşmış",
+    "hair": "Platin sarısı, uzun, düz dokulu, ortadan ayrılmış, yüzü çerçeveleyen katlar, rüzgarda savrulan tutamlar, sol tarafı kulağın arkasına sıkıştırılmış, sağ tarafı yanağın bir kısmını kapatıyor",
+    "apparel": {
+      "top": "Siyah bikini üstü, ters üçgen veya göğüs altı tarzı, sıkı oturuşu sıkıştırmaya neden oluyor, belirgin dekolte ve göğüs altı açıklığı",
+      "bottom": "Siyah ipli bikini altı, kalçalarda yan bağcıklar görünür, düşük bel",
+      "accessories": "İnce zincir üzerinde altın kalp kolye, sol bilekte birden fazla altın bilezik (kelepçe ve zincir), sağ bilekte ince bilezikler, gümüş göbek piercingi",
+      "cosmetics": "Doğal makyaj görünümü, nude dudak, ellerde kırmızı oje"
+    }
+  },
+  "pose_geometry": {
+    "head": {
+      "tilt": "Nötr dikey hizalama",
+      "rotation": "Öznenin sağına (izleyicinin soluna) yaklaşık 45 derece dönük, kameradan uzağa bakıyor",
+      "chin_angle": "Düz, yere paralel"
+    },
+    "arms": {
+      "left_arm": "Omuz hafifçe kalkık, dirsek yaklaşık 45 derecelik dar açıyla bükülmüş, el sol kulağın arkasındaki boyun/saça dokunmak için kaldırılmış",
+      "right_arm": "Omuz rahat, kol dikey asılı, dirsek hafifçe yaklaşık 160 derece bükülmüş, el sağ üst uyluğun yakınında duruyor",
+      "legs": {
+        "stance": "Ayakta, ayaklar kalça genişliğinde açık",
+        "visible_portion": "Uyluk ortasından kesilmiş"
+      }
+    }
+  },
+  "spine_and_pelvis": {
+    "curvature": "Belde kavis oluşturan belirgin lomber lordoz",
+    "pelvic_tilt": "Anterior pelvik eğim",
+    "rotation": "Pelvis nispeten öne dönük, başın dönüşünü takiben öznenin sağına hafif rotasyon",
+    "alignment": "Ağırlık kayması nedeniyle gövde hafif bir S-eğrisi oluşturuyor"
+  },
+  "weight_distribution": {
+    "primary_support": "Öznenin sağ bacağı (izleyicinin solu)",
+    "percentage": "Yaklaşık %60 sağ bacak, %40 sol bacak",
+    "visual_cues": "Sağ kalça hafifçe daha yüksek ve dışarı doğru çıkık, izleyicinin soluna doğru bir kalça salınımı yaratıyor"
+  },
+  "body_compression_and_contact": {
+    "fabric_skin": "Bikini üstü göğüs dokusunu sıkıca sıkıştırarak belirgin bir dekolte çizgisi ve alt eğrinin düzleşmesini sağlıyor; bikini altı ipleri kalçaların yumuşak dokusuna hafifçe bastırıyor",
+    "self_contact": "Sol parmaklar boynun yan tarafına ve saça bastırıyor",
+    "hair_contact": "Saç tutamları köprücük kemiği ve omuzlarda duruyor"
+  },
+  "camera": {
+    "height": "Özneye göre göğüs hizası",
+    "tilt": "Nötr",
+    "focal_length": "Portre uzunluğu (yaklaşık 50mm-85mm)",
+    "distance": "Orta çekim (uyluk ortasından başın tepesine kadar)",
+    "perspective": "Arka plandaki ağaçlara göre gövdeyi vurgulayan hafif perspektif bozulması"
+  },
+  "lighting": {
+    "source": "Doğal güneş ışığı, öğle vakti/öğleden sonra erken pozisyon",
+    "direction": "Yukarıdan ve hafifçe ön-sağdan",
+    "quality": "Sert, doğrudan ışık",
+    "shadows": "Keskin, koyu gölge"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408703543_jp24b0_G_hu80uW0AAo2fj.jpg" width="600" alt="Ürün Pazarlaması - Bikini Portresi için Detaylı Anatomik Poz Tanımı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jessia](https://x.com/itsjessiababy)
+- **Kaynak:** [Twitter Post](https://x.com/itsjessiababy/status/2015482888884793590)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7611)**
+
+---
+
+### No. 86: Ürün Pazarlaması - Margaret Qualley Yüksek Moda Kırmızı Deri Editoryal İstem
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Margaret Qualley'nin yüksek moda bir editoryal görüntüsünü oluşturmak için son derece ayrıntılı, fotogerçekçi bir komut istemi. Konu, dudaklarının arasında ince kırmızı bir sap tutarak, uyumlu kırmızı bir stüdyo fonunun önünde canlı kırmızı deri straplez mini elbise giymiş, yoğun bir şekilde poz veriyor. Komut istemi, parlak, tek renkli kırmızı bir estetik elde etmek için ultra yüksek ayrıntıyı, gerçekçi cilt dokusunu ve hassas stüdyo aydınlatmasını vurgular.
+
+#### 📝 İstem
+
+```
+{
+  "subject": {
+    "appearance": {
+      "character": "{argument name=\"character name\" default=\"Margaret Qualley\"}",
+      "gender": "Kadın",
+      "age_range": "Genç yetişkin",
+      "hair": "Uzun, koyu kahverengi, dalgalı, hafifçe merkezden ayrılmış, tek tek saç telleri, uçuşan saçlar ve gerçekçi doku görünür.",
+      "eyes": "Açık mavi, çarpıcı yoğunlukta, detaylı iris yapısı, kılcal damarlar ve nem parlamaları.",
+      "skin_tone": "Açık, porselen, görünür gözenekler, ince çizgiler, doğal kusurlar ve gerçekçi yüzey altı saçılımı.",
+      "makeup": "Doğal ama özenli, ince dokulu yumuşak pembe dudak, belirgin kirpikler, hafif kontürleme."
+    },
+    "pose": {
+      "stance": "Öne doğru ayakta duruyor",
+      "hand_position": "Sağ el çene/ağız bölgesine kaldırılmış, parmaklar nazikçe kıvrılmış, cilt dokusu ve damarlar görünür.",
+      "action": "Dudakları/dişleri arasında ince kırmızı bir sap (muhtemelen kiraz sapı) tutuyor, nem ve baskı görünür.",
+      "gaze": "Kamerayla doğrudan göz teması, çekici ve yoğun."
+    }
+  },
+  "attire": {
+    "clothing": "Straplez mini elbise",
+    "material": "{argument name=\"dress material\" default=\"Kırmızı deri veya suni deri\"}, hafif parlaklık, detaylı damar, doğal kırışıklıklar, kusurlar ve kıvrımlar etrafında esneme.",
+    "design": "Katmanlı bandaj tarzı, yatay paneller, yapılandırılmış pililer, vücudu saran siluet, görünür dikiş ve dikiş detayları.",
+    "color": "Canlı kırmızı"
+  },
+  "accessories": {
+    "jewelry": [
+      "Fasetleri, ışık kırılmasını ve metal dokusunu gösteren kristal vurgulu gümüş çivi küpeler.",
+      "Sağ yüzük parmağında siyah ve gümüş detaylı büyük gösterişli yüzük, gerçekçi malzeme kontrastı ve aşınma."
+    ],
+    "nails": "Elbiseyle uyumlu kırmızı ojeli manikürlü, parlak bitiş ve kütikül detayları görünür."
+  },
+  "environment": {
+    "background": "Düz canlı kırmızı stüdyo fonu, ince yüzey dokusu, küçük kusurlar ve gerçekçi ışık düşüşü.",
+    "props": "Ağızdaki küçük sap dışında görünür hiçbir şey yok"
+  },
+  "lighting": {
+    "type": "Stüdyo aydınlatması",
+    "quality": "Yumuşak ama yönlü, gerçekçi vurgular, derin gölgeler ve doğru hacim yaratıyor.",
+    "shadows": "Konunun arkasında zemine sabitlenmiş ince yumuşak gölgeler, doğru yoğunluk ve renk akışı gösteriyor.",
+    "highlights": "Deri elbise, dudaklar, gözler ve takılarda speküler vurgular, ışık kaynağı yansımalarını gösteriyor."
+  },
+  "technical_details": {
+    "camera_angle": "Göz hizası",
+    "shot_size": "Orta çekim (uyluktan yukarı)",
+    "style": "Yüksek moda editoryal, parlak dergi estetiği, ultra yüksek detay ve doğrulukla.",
+    "resolution": "8k, RAW dosya kalitesi, doğal film greni, keskin odak ve fotogerçekçi işleme.",
+    "color_palette": "Cilt tonu kontrastıyla monokromatik kırmızı tema, gerçekçi renk işleme ve gradyanlar."
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408699725_l3um7o_G_hnrSmWYAA3LOU.jpg" width="600" alt="Ürün Pazarlaması - Margaret Qualley Yüksek Moda Kırmızı Deri Editoryal İstem - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408700510_bhbrzd_G_PLrfOWcAE0Zjl.jpg" width="600" alt="Ürün Pazarlaması - Margaret Qualley Yüksek Moda Kırmızı Deri Editoryal İstem - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Lex](https://x.com/lexx_aura)
+- **Kaynak:** [Twitter Post](https://x.com/lexx_aura/status/2015474841499975872)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7607)**
+
+---
+
+### No. 87: Ürün Pazarlaması - Moss Living Ürün Render İstemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Bir ürünü, biyo-filik tasarımı ürün fotoğrafçılığıyla birleştirerek, tamamen canlı yosundan yetişmiş gibi gösteren bir istem. Doku için farklı yosun çeşitlerinin (yastık, eğrelti otu) kullanılmasını, nesnenin botanik bir stüdyoda konumlandırılmasını ve doygun yeşil renklerin nemini ve derinliğini vurgulamak için yumuşak doğal aydınlatma kullanılmasını belirtir.
+
+#### 📝 İstem
+
+```
+Tamamen canlı yosundan büyümüş gibi görünen, ürün formunu mükemmel bir şekilde koruyan, aynı zamanda inkar edilemez derecede canlı ve yumuşak bir {argument name="product type" default="[ÜRÜN]"}. Farklı yosun çeşitleri doku farklılıkları yaratır: düz yüzeyler için pürüzsüz yastık yosunu, detaylar için tüylü eğrelti yosunu, vurgu noktaları olarak küçük meyve veren gövdeler. Nemli, yemyeşil, nefes alan. Botanik bir stüdyo ortamında veya koyu toprak tonlarına karşı konumlandırılmış. Biyofilik tasarım, ürün fotoğrafçılığıyla buluşuyor. Yaşamı, nemi, yeşilin derinliğini vurgulayan yumuşak doğal aydınlatma. Keskin odak, doygun doğal yeşiller, sağlıklı yaşam markası estetiği, ultra yüksek çözünürlük, üretilmiş olanın canlanması.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408659636_h6bxy7_G_fOwaDWIAAbkTZ.jpg" width="600" alt="Ürün Pazarlaması - Moss Living Ürün Render İstemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408659502_8a8jc7_G_fOOLPWEAAdYpL.jpg" width="600" alt="Ürün Pazarlaması - Moss Living Ürün Render İstemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408659646_s0xgrk_G_fOZI1WUAAU9YD.jpg" width="600" alt="Ürün Pazarlaması - Moss Living Ürün Render İstemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408660884_wtbheh_G_fO54bWQAAxw6M.jpg" width="600" alt="Ürün Pazarlaması - Moss Living Ürün Render İstemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Alexandra Aisling](https://x.com/AllaAisling)
+- **Kaynak:** [Twitter Post](https://x.com/AllaAisling/status/2015443794217361458)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7557)**
+
+---
+
+### No. 88: Ürün Pazarlaması - Eğlenceli Ticari Fotoğrafçılık: Bir Cybertruck'ı Kaldırmak
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Yüklenen bir yüz görüntüsüne dayalı olarak, konunun devasa bir {argument name="vehicle" default="Tesla Cybertruck"} aracını iki eliyle dramatik bir şekilde kaldırdığı, eğlenceli, ultra gerçekçi bir reklam fotoğrafı oluşturmak için bir komut istemi. Görüntü, ürünün boyutunu vurgulamak için moda editoryal stilini, yüksek anahtarlı stüdyo aydınlatmasını ve geniş açılı alçak bir perspektifi içermelidir.
+
+#### 📝 İstem
+
+```
+Yüklenen yüz görüntüsünü tam bir yüz referansı olarak kullanarak, devasa bir {argument name="vehicle" default="Tesla Cybertruck"}ı iki eliyle kaldırdı, ürünün büyük boyutunu vurgulayın, eğlenceli ve neşeli enerji, moda editoryal stil, temiz minimalist arka plan, yüksek anahtar stüdyo aydınlatması, keskin yumuşak gölge, ultra gerçekçi ticari fotoğrafçılık, geniş açılı alçak perspektif, keskin odak, 8k
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408691076_nrt4sp_G_g6swSaQAEn3dW.jpg" width="600" alt="Ürün Pazarlaması - Eğlenceli Ticari Fotoğrafçılık: Bir Cybertruck'ı Kaldırmak - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [ailabs.zone](https://x.com/zhoumeng780)
+- **Kaynak:** [Twitter Post](https://x.com/zhoumeng780/status/2015425406917337429)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7598)**
+
+---
+
+### No. 89: Ürün Pazarlaması - Üst Düzey Cilt Bakım Reklamı İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Nano Banana Pro için cilt bakım ürünlerine yönelik üst düzey reklam görselleri oluşturmak üzere tasarlanmış bir bilgi istemi.
+
+#### 📝 İstem
+
+```
+Bu istemi kullanarak üst düzey cilt bakımı reklamları oluşturun
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408705490_qadqa9_G_g5JnKaMAAT3gg.jpg" width="600" alt="Ürün Pazarlaması - Üst Düzey Cilt Bakım Reklamı İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Amira Zairi](https://x.com/azed_ai)
+- **Kaynak:** [Twitter Post](https://x.com/azed_ai/status/2015423674061643925)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7615)**
+
+---
+
+### No. 90: Ürün Pazarlaması - Doğrudan Flaşla Lüks Bar Editoryal Portresi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Lüks bir bar ortamında üst düzey bir editoryal portre oluşturmak için doğrudan flaş fotoğrafçılık tarzını kullanan son derece ayrıntılı bir JSON istemi. Sıkı kimlik kilidi kısıtlamaları, belirli renk derecelendirmesi (derin bordo kırmızı ve zümrüt vurgular) ve ayrıntılı gardırop özellikleri (bordo saten elbise, dantel desenli külotlu çorap, espresso martini bardağı) içerir.
 
 #### 📝 İstem
 
@@ -5878,21 +5811,19 @@ Nano Banana Pro için, Sydney Sweeney'nin bordo saten mini bir gecelik elbise i�
   "generation_request": {
     "meta_data": {
       "tool": "NanoBanana Pro",
-      "task_type": "photoreal_editorial_cutout_magazine_layout",
-      "version": "v1.3_COSMOS_PAGE_NAVY_GOLD_STARS_EDITORIAL_FACELOCK_FULL_EN",
+      "task_type": "photoreal_luxury_bar_editorial_flash",
+      "version": "v1.0_BURGUNDY_BAR_COCKTAIL_FLASH_EDITORIAL_NO_TEXT_EN",
       "priority": "highest",
       "language": "tr"
     },
 
     "references": {
       "reference_image_face": {
-        "source": "UPLOAD_REFERENCE_IMAGE (ZORUNLU)",
+        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
         "purpose": "FACE_IDENTITY_LOCK",
         "strict_lock": true,
         "face_similarity_priority": "MAX",
-        "identity_confidence": "ABSOLUTE",
         "no_identity_blending": true,
-        "no_face_morphing": true,
         "no_beautify": true,
         "no_age_shift": true,
         "preserve_skin_texture": true,
@@ -5904,11 +5835,13 @@ Nano Banana Pro için, Sydney Sweeney'nin bordo saten mini bir gecelik elbise i�
         "preserve_jawline": true
       },
       "reference_image_style": {
-        "source": "UPLOAD_REFERENCE_IMAGE (İSTEĞE BAĞLI)",
-        "purpose": "LAYOUT_POSE_STYLE_ANCHOR",
+        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
+        "purpose": "STYLE_COMPOSITION_LIGHTING_ANCHOR",
         "strict_lock": false,
         "preserve_composition": true,
-        "preserve_vibe": true
+        "preserve_palette": true,
+        "preserve_vibe": true,
+        "preserve_lighting": true
       }
     },
 
@@ -5922,19 +5855,31 @@ Nano Banana Pro için, Sydney Sweeney'nin bordo saten mini bir gecelik elbise i�
     },
 
     "output_settings": {
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "4:5",
       "orientation": "portrait",
       "resolution_target": "ultra_high_res",
-      "render_style": "high_end_editorial_magazine_cutout",
+      "render_style": "high_end_editorial_flash_photo",
       "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "soft_neutral_with_navy_and_gold_accents",
+      "film_grain": "very_subtle",
+      "color_grade": "deep_wine_red_with_emerald_accents",
       "dynamic_range": "natural_not_hdr",
       "skin_rendering": "real_texture_no_retouch"
     },
 
     "creative_prompt": {
-      "scene_summary": "Klasik astronomi/bilim kitabı tasarımından (Cosmos benzeri, ancak orijinal) ilham alan yüksek moda bir editoryal dergi sayfası oluşturun. Arka plan, iki uzun, hizalanmış, OKUNAMAZ serif sahte metin sütunu ve sol üstte büyük, soluk kırmızı bir büyük harfle dolu, rafine bir astronomi kitabı sayfasına benzeyen kirli beyaz bir kağıt dokusudur. Tipografi, boşluk, hizalama ve heceleme düzenlerinde akademik olarak otantik görünmeli, ancak gerçek kelimeler ve okunabilir cümleler içermemelidir.\n\nSayfa düzenine sorunsuz bir şekilde entegre edilmiş küçük, hassas, elle çizilmiş bilimsel illüstrasyonlar: bir teleskop eskizi, halkalı Satürn, sarmal galaksiler, yıldız kümeleri, takımyıldız nokta-çizgi diyagramları ve birkaç küçük yıldız patlaması sembolü. Bunlar, kenar boşluklarına ve metin sütunlarının arasına/çevresine yerleştirilmiş ince çizgili, mürekkep tarzı çizimlerdir (yüzen çıkartmalar veya dekoratif katmanlar değil). Sayfa, zevkli bilimsel kenar notlarıyla gerçek bir astronomi okuma sayfası gibi hissettirmelidir.\n\nSayfanın önüne, kesik tarzı fotogerçekçi bir stüdyo portresi yerleştirin."
+      "scene_summary": "Doğrudan flaşla çekilmiş fotogerçekçi lüks bir bar editoryal portre çekimi. Aynı yetişkin kadın (sağlanmışsa yüz referansla tam eşleşmeli) koyu mermer bir masanın yanında peluş bir sandalyede oturuyor. Arka planda zümrüt yeşili panelli bir kapı/duvar ve vintage desenli bir perde bulunuyor. Yüzüne yakın bir kokteyl bardağı tutuyor ({argument name=\"cocktail type\" default=\"espresso martini style\"}). Ruh hali: parlak yüksek moda, samimi ama poz verilmiş, lüks gece hayatı. Hiçbir yerde okunabilir metin yok.",
+
+      "wardrobe_and_beauty": {
+        "outfit": "derin {argument name=\"dress color\" default=\"bordo/şarap\"} saten dökümlü elbise, yüksek yaka ve yan büzgülü; uzun, sarkan etek detayı; vücuda oturan siluet",
+        "legs": "bordo dantel desenli külotlu çorap (çiçekli dantel + file hibrit), zarif ve tutarlı renk tonu",
+        "makeup": "belirgin kaşlar, yumuşak dumanlı göz makyajı, ışıltılı cilt vurgusu, koyu kırmızı ruj (kızıl/şarap—pembe/turuncu yok)",
+        "jewelry": "minimal altın küpeler, birkaç ince yüzük, ince bilezik"
+      },
+
+      "pose_and_expression": {
+        "pose": "bacak bacak üstüne atmış oturuyor, gövdesi kameraya hafifçe açılı; bir kolu sandalyenin kolçağında, diğeri kokteyl bardağını tutuyor.",
+        "expression": "Hafifçe sıkılmış, baştan çıkarıcı, yüksek moda bakış."
+      }
     }
   }
 }
@@ -5945,577 +5890,78 @@ Nano Banana Pro için, Sydney Sweeney'nin bordo saten mini bir gecelik elbise i�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322272913_mftqhz_G_dkU3zXwAElREr.jpg" width="600" alt="Ürün Pazarlaması - Kozmos Temalı Editoryal Dergi Kesiti - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408712511_ksseg7_G_gz9CgXkAE90N2.jpg" width="600" alt="Ürün Pazarlaması - Doğrudan Flaşla Lüks Bar Editoryal Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [Özge Döner](https://x.com/astronomerozge1)
-- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015189748717932552)
-- **Yayınlandı:** 24 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/astronomerozge1/status/2015418091841225040)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7420)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7623)**
 
 ---
 
-### No. 87: Ürün Pazarlaması - Lüks Bir Dolapta İki Kadının Editoryal Moda Çekimi
+### No. 91: Ürün Pazarlaması - Zarif Ana de Armas Ünlü Portresi (JSON Formatı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Lüks bir giyinme odasında iki süjenin (Ana De Armas ve Sydney Sweeney'den esinlenilmiştir) yer aldığı editoryal bir moda fotoğrafı için oldukça detaylı bir görsel oluşturma istemi. İstek, Y2K estetiğini, yüksek kontrastlı flaş fotoğrafçılığını ve güçlü balık gözü lens bozulmasını belirtirken, süjelerin pozlarını, kıyafetlerini (limon yeşili ve bebek mavisi korse elbiseler) ve ortamı (kırmızı raflar, hardal sarısı halı, tasarımcı çantaları) detaylandırıyor.
+{argument name="celebrity name" default="Ana de Armas"} gibi zarif, lüks bir ünlü portresi oluşturmak için ayrıntılı bir JSON istemi. Konu, ağır işlemeli gümüş rengi, yüksek yakalı bir üst giymiş, baş ve omuz hizasında çekilmiş, yumuşak, sıcak bir aydınlatma ve bulanık, soluk bir arka plan (bokeh) ile yakalanmıştır.
 
 #### 📝 İstem
 
 ```
 {
-  "image_prompt": {
-    "title": "Lüks Dolapta Editoryal Moda Çekimi",
-    "medium": "Fotoğrafçılık",
-    "style": [
-      "Flaşlı fotoğrafçılık",
-      "Yüksek kontrast",
-      "Balıkgözü lens distorsiyonu",
-      "Y2K estetiği",
-      "Canlı moda editoryali",
-      "Geniş açı"
-    ],
-    "composition": {
-      "camera_angle": "Alçak açı, geniş çekim",
-      "lens_effect": "Özneleri çerçeveleyen güçlü namlu distorsiyonu/balıkgözü efekti",
-      "framing": "İki özneye odaklanmış köşe perspektifi"
-    },
-    "subjects": [
-      {
-        "id": 1,
-        "pose": "Ayakta duruyor, raflara yaslanmış, bir bacağı hafifçe bükülü, yukarı ve sola doğru bakıyor",
-        "appearance": {
-          "hair": "Uzun koyu kumral, dağınık dalgalar",
-          "skin_tone": "Bronz",
-          "apparel": {
-            "dress": "{argument name=\"first subject dress color\" default=\"Lime green\"} korse tarzı mini elbise, halter yaka, büzgülü kumaş detayları, yan tarafında uzun sarkan kuşak",
-            "footwear": "Siyah askılı topuklu ayakkabılar",
-            "jewelry": "Sarkık küpeler, bilezikler"
-          }
-        }
-      },
-      {
-        "id": 2,
-        "pose": "Ön planda çömelmiş/oturmuş, yan profili sola dönük, başı doğrudan kameraya bakacak şekilde çevrilmiş",
-        "appearance": {
-          "hair": "Uzun sarı, dalgalı",
-          "skin_tone": "Açık",
-          "apparel": {
-            "dress": "{argument name=\"second subject dress color\" default=\"Baby blue\"} korse tarzı mini elbise, yapılı korse",
-            "footwear": "Beyaz saten sivri burunlu topuklu ayakkabılar",
-            "jewelry": "Kol saati, yüzükler"
-          }
-        }
-      }
-    ],
-    "environment": {
-      "location": "Lüks giyinme odası",
-      "furniture": "Köşeye yerleştirilmiş tavandan tabana cesur kırmızı açık raf üniteleri",
-      "flooring": "Parlak hardal sarısı shaggy/dokulu halı",
-      "props": {
-        "shelves": "Pembe, yeşil, beyaz, siyah ve mavi dahil çeşitli renklerde üst düzey tasarımcı çantaları (Birkin ve Kelly tarzı) ile dolu",
-        "floor_level": "Sıraya dizilmiş topuklu ayakkabı çiftleri (kırmızı saten, gümüş simli, sarı topuklu)"
-      }
-    },
-    "lighting": {
-      "type": "Doğrudan kameraya flaş",
-      "quality": "Sert gölgeler, yüksek doygunluk, ciltte ve saten kumaşlarda parlak vurgular"
-    },
-    "color_palette": {
-      "primary": ["Cesur Kırmızı", "Hardal Sarısı"],
-      "accents": ["Misket Limonu Yeşili", "Bebek Mavisi", "Beyaz", "Canlı Pembe"]
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322316591_4rlwjy_G_dVtq-a4AA9jnD.jpg" width="600" alt="Ürün Pazarlaması - Lüks Bir Dolapta İki Kadının Editoryal Moda Çekimi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322316639_91chgd_G_dWRV0aUAAuouD.jpg" width="600" alt="Ürün Pazarlaması - Lüks Bir Dolapta İki Kadının Editoryal Moda Çekimi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [jennieee:3](https://x.com/jenniebae_ai)
-- **Kaynak:** [Twitter Post](https://x.com/jenniebae_ai/status/2015174304858570910)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7478)**
-
----
-
-### No. 88: Ürün Pazarlaması - Megan Fox Kırmızı Saten Saten Elbise Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Nano Banana Pro (Hailuo AI aracılığıyla) için, Megan Fox'un derin kırmızı saten bir elbise içinde, Atina ve Parthenon fonunda, yumuşak sinematik aydınlatma ve yüksek detaylı cilt dokusunu vurgulayan üst düzey bir moda portresi oluşturmak üzere hazırlanmış detaylı bir JSON istemi.
-
-#### 📝 İstem
-
-```
-{
-  "character": {
-    "name": "{argument name=\"subject name\" default=\"Megan Fox\"}",
-    "appearance": {
-      "hair": {
-        "color": "koyu",
-        "style": "düz",
-        "framing": "yüzü nazikçe çerçeveliyor",
-        "length": "orta"
-      },
-      "facial_expression": {
-        "type": "nötr",
-        "lips": {
-          "status": "hafif aralık",
-          "appearance": "yumuşak ve doğal"
-        },
-        "gaze": {
-          "direction": "kameradan hafifçe uzağa",
-          "focus": "ince ve düşünceli"
-        }
-      }
-    },
-    "outfit": {
-      "dress": {
-        "type": "saten askılı elbise",
-        "color": "{argument name=\"dress color\" default=\"derin kırmızı\"}",
-        "material": "lüks saten",
-        "cut": "akıcı, hafifçe vücuda oturan",
-        "neckline": {
-          "style": "derin V yaka",
-          "depth": "orta",
-          "shape": "keskin, zarif"
-        }
-      }
-    },
-    "background": {
-      "color": {
-        "primary": "{argument name=\"location\" default=\"Atina ve Parthenon\"} manzarası",
-        "secondary": "bej tonları"
-      }
-    },
-    "photography": {
-      "style": "üst düzey moda fotoğrafçılığı",
-      "image_resolution": "8k",
-      "focus": {
-        "main_subject": "son derece detaylı cilt dokusu",
-        "depth_of_field": "sığ",
-        "bokeh": "yumuşak arka plan bulanıklığı"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322332345_2ph4sq_G_dTbfCXkAAOZVm.jpg" width="600" alt="Ürün Pazarlaması - Megan Fox Kırmızı Saten Saten Elbise Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322332659_ckprh1_G_dTblSWUAA--q5.jpg" width="600" alt="Ürün Pazarlaması - Megan Fox Kırmızı Saten Saten Elbise Portresi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322332418_ppfy5b_G_dTbgCXYAIjJ2s.jpg" width="600" alt="Ürün Pazarlaması - Megan Fox Kırmızı Saten Saten Elbise Portresi - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Kaynak:** [Twitter Post](https://x.com/KeorUnreal/status/2015171100368670923)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7502)**
-
----
-
-### No. 89: Ürün Pazarlaması - Sinematik Boks Salonu Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Sert bir boks salonunda raundlar arasında dinlenen atletik bir kadının sinematik moda-spor portresini oluşturmak için ayrıntılı bir bilgi istemi. Bu portrede sıcak öğleden sonra güneşi, dramatik gölgeler ve lüks bir fitness estetiği vurgulanmaktadır.
-
-#### 📝 İstem
-
-```
-Kirli bir boks salonu ortamında, son derece çekici, atletik ve fit, sarışın bir yetişkin kadının, rauntlar arasında dinlenirken çekilmiş sinematik moda-spor portresi. Metal bir yapıya rahatça yaslanmış, siyah boks şortu, siyah spor sütyeni ve metalik altın boks eldivenleri giyiyor. Duruşu rahat ama güçlü, kendine güven, güç ve şehvetli bir dinginlik yayıyor.
-
-Efordan hafifçe dağılmış, yumuşak bukleli sarı saçları, hafif ter parlaklığıyla ışıldayan cildi, belirgin elmacık kemikleri, dolgun dudakları ve hafif makyajlı çarpıcı gözleri var. Doğal, gerçekçi vücut oranları ve kas tonu.
-
-Spor salonuna süzülen sıcak öğleden sonra güneşi, vücuduna ve dokulu beton duvarlara dramatik gölgeler düşürüyor. Renk tonlaması sıcak ve sinematik, altın rengi vurgular ve derin, yumuşak gölgelerle. Editoryal spor-moda fotoğrafçılığı, fotogerçekçi, yüksek detay.
-
-Görsel Stil
-
-Sinematik gerçekçilik
-Üst düzey editoryal spor fotoğrafçılığı
-Sıcak altın rengi tonlama
-Doğal cilt dokusu
-Yumuşak kontrast
-Duygusal, samimi atmosfer
-Lüks fitness estetiği
-
-Kamera ve Aydınlatma
-
-50–85mm portre lens görünümü
-Sığ alan derinliği
-Yönlü doğal ışık
-Yumuşak gölge geçişi
-Dengeli pozlama
-Konu üzerinde keskin odak
-
-Ruh Hali Anahtar Kelimeleri
-
-Kendine güvenli
-Güçlü
-Şehvetli (zevkle, açık olmayan)
-Atletik
-Editoryal
-Sakin yoğunluk
-Modern kadınlık
-
-Negatif İstem
-
-abartılı anatomi, bozuk uzuvlar, plastik cilt, CGI, çizgi film stili, sert flaş, aşırı işlenmiş cilt, filigran, metin, logolar
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322264632_esy42q_G_dK3bkXgAMlyov.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Boks Salonu Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Keskin](https://x.com/craftian_keskin)
-- **Kaynak:** [Twitter Post](https://x.com/craftian_keskin/status/2015162912428765691)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7409)**
-
----
-
-### No. 90: Ürün Pazarlaması - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Bu bilgi istemi, bir konuyu (bu durumda Nikola Tesla) LEGO Technic tarzı mekanik bir kitbash'in hiper gerçekçi makro stüdyo ürün çekimine dönüştürmek için tasarlanmıştır. İnşaat için bölge haritalaması, mekanizma mantığı ve sığ alan derinliği ile gerçekçi plastik dokuları vurgulayan bir stüdyo estetiği için belirli fotoğraf kuralları hakkında ayrıntılı talimatlar içerir.
-
-#### 📝 İstem
-
-```
-Nikola Tesla -> Sistem Talimatı: {argument name="subject" default="Nikola Tesla"} öğesini, zekice bir poz veren LEGO Technic tarzı bir kitbash'in hiper gerçekçi bir makro stüdyo ürün çekimine dönüştürün
-
-1) Bölge Haritalama:
-A: Kavisli eğimlerden yapılmış baş/ön kısım; gözler/farlar = şeffaf saplamalar/lensler.
-B: Technic kirişler ve panellerden yapılmış gövde; desen çizgileri renk bloklu parçalar ve bağlantı geometrisi haline gelir.
-C: Uzuvlar akslar, dişliler, amortisörler ve bağlantılar kullanır.
-
-2) Mekanizma Mantığı:
-Hareketi makul bir şekilde sağlayan dişli takımlarını ve diferansiyelleri gösterin. Eğer yaratıksa: gövdede krank mekanizması. Eğer arabaysa: görünür şanzıman + süspansiyon.
-
-3) Fotoğraf Kuralları:
-Stüdyo gri dikişsiz, sığ alan derinliği, gerçekçi plastik mikro çizikler. Kesinlikle metin yok, kutu resmi yok, talimatlar görünür değil. 1:1, 8k.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322296590_xxr3i7_G_Tvb_CW8AE9OVs.jpg" width="600" alt="Ürün Pazarlaması - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322296605_qs3drh_G_Tvf1JWEAAka31.jpg" width="600" alt="Ürün Pazarlaması - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Gadgetify](https://x.com/Gdgtify)
-- **Kaynak:** [Twitter Post](https://x.com/Gdgtify/status/2015117645037871527)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7451)**
-
----
-
-### No. 91: Ürün Pazarlaması - Muhteşem Şehir Rekreasyonları
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Şehirlerin muhteşem yeniden yaratımlarını oluşturmaya yönelik bir istem şablonu; muhtemelen mimari detaylara, aydınlatmaya ve kentsel atmosfere odaklanıyor.
-
-#### 📝 İstem
-
-```
-🍌 Nano Banana Pro ile {argument name="city name" default="şehirlerin"} muhteşem yeniden yaratımlarını oluşturun.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322361111_v1xo66_G_citQlWAAAjhce.jpg" width="600" alt="Ürün Pazarlaması - Muhteşem Şehir Rekreasyonları - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [David](https://x.com/David_eficaz)
-- **Kaynak:** [Twitter Post](https://x.com/David_eficaz/status/2015117522127753294)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7548)**
-
----
-
-### No. 92: Ürün Pazarlaması - Kırmızı Saten Bir Elbise İçinde Ana de Armas'ın Yüksek Moda Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Ana de Armas'ın üst düzey bir moda portresini oluşturmak için ayrıntılı bir JSON istemi. Odak noktası gerçekçi cilt dokusu, yumuşak sinematik aydınlatma ve derin V yakalı, koyu kırmızı saten bir gecelik. Arka plan minimalist ve sıcak bej olup, konunun kıvrımlarını ve lüks kumaşı vurgulamaktadır.
-
-#### 📝 İstem
-
-```
-{
-  "character": {
-    "name": "{argument name=\"celebrity name\" default=\"Ana de Armas\"}",
-    "appearance": {
-      "hair": {
-        "color": "koyu",
-        "style": "dalgalı",
-        "framing": "yüzü nazikçe çerçeveliyor",
-        "length": "orta"
-      },
-      "facial_expression": {
-        "type": "nötr",
-        "lips": {
-          "status": "hafif aralık",
-          "appearance": "yumuşak ve doğal"
-        },
-        "gaze": {
-          "direction": "kameradan hafifçe uzağa",
-          "focus": "ince ve düşünceli"
-        }
-      },
-      "skin": {
-        "texture": "son derece detaylı",
-        "lighting_effects": {
-          "type": "yumuşak sinematik aydınlatma",
-          "glow": "sıcak, köprücük kemiklerini vurgulayan"
-        }
-      }
-    },
-    "pose": {
-      "body": {
-        "position": "sakin, rahat",
-        "orientation": "doğal duruş"
-      },
-      "head": {
-        "position": "hafifçe dönük",
-        "angle": "nazik eğim"
-      }
-    }
+  "subject": {
+    "description": "Göz alıcı ve zarif bir görünüme sahip genç bir kadının portresi.",
+    "identity_resemblance": "{argument name=\"celebrity name\" default=\"Ana de Armas\"}",
+    "pose": "Baş ve omuz çekimi; sağ kolu kalkık, eli nazikçe alnında duruyor; başı hafifçe sağa dönükken gözleri doğrudan izleyiciye bakıyor.",
+    "expression": "Hafif aralık dudaklarla yumuşak, düşünceli, sakin ve çekici."
   },
-  "outfit": {
-    "dress": {
-      "type": "saten askılı elbise",
-      "color": "{argument name=\"dress color\" default=\"derin kırmızı\"}",
-      "material": "lüks saten",
-      "cut": "akıcı, hafif dar kesim",
-      "neckline": {
-        "style": "derin V yaka",
-        "depth": "orta",
-        "shape": "keskin, zarif"
-      },
-      "straps": {
-        "type": "ince spagetti askılar",
-        "adjustability": "minimal, sabit"
-      },
-      "fit": "vücuda oturan, doğal kıvrımları vurgulayan",
-      "length": "baldır ortasından yere kadar"
-    }
-  },
-  "background": {
-    "color": {
-      "primary": "nötr sıcak bej",
-      "secondary": "bronz tonları"
+  "physical_attributes": {
+    "hair": {
+      "color": "Koyu kahverengi",
+      "style": "Topuz veya at kuyruğu şeklinde toplanmış",
+      "details": "Yüzü ve boynu çerçeveleyen dağınık, ince tutamlar"
     },
-    "texture": "düz, minimalist",
-    "style": "basit, dağınıklıktan uzak",
-    "lighting": {
-      "type": "yumuşak stüdyo aydınlatması",
-      "effect": {
-        "focus": "cilt üzerinde nazik bir parlaklık",
-        "contrast": "düşük kontrast, sıcaklığı vurgulayan"
-      }
-    }
-  },
-  "photography": {
-    "style": "üst düzey moda fotoğrafçılığı",
-    "image_resolution": "8k",
-    "focus": {
-      "main_subject": "son derece detaylı cilt dokusu",
-      "depth_of_field": "sığ",
-      "bokeh": "yumuşak arka plan bulanıklığı"
+    "eyes": {
+      "color": "Ela yeşili",
+      "gaze": "Doğrudan ve etkileyici"
     },
-    "lighting": {
-      "type": "yumuşak stüdyo aydınlatması",
-      "effect": "sinematik, sıcak bir parlaklık yaratır",
-      "direction": "eşit dağıtılmış, doğal kıvrımları ve cilt tonlarını vurgulayan"
+    "skin": {
+      "tone": "Açık ila hafif zeytin rengi",
+      "texture": "Nemli ve ışıltılı"
     },
-    "composition": {
-      "aspect_ratio": "3.4",
-      "framing": "dikey yönlendirme",
-      "focus_area": "üst vücut, özellikle yüz ve elbise yakası"
+    "makeup": {
+      "style": "Doğal glam",
+      "details": "Yanaklarda pembe allık, parlak pembe dudaklar, belirgin kirpikler, yumuşak kaşlar"
     }
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322280520_925wpe_G_cbFJKWkAAp9wl.jpg" width="600" alt="Ürün Pazarlaması - Kırmızı Saten Bir Elbise İçinde Ana de Armas'ın Yüksek Moda Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322280407_5kekoc_G_cbFJNXwAAOpKa.jpg" width="600" alt="Ürün Pazarlaması - Kırmızı Saten Bir Elbise İçinde Ana de Armas'ın Yüksek Moda Portresi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322280586_52dv3a_G_cbFJKWMAAKESB.jpg" width="600" alt="Ürün Pazarlaması - Kırmızı Saten Bir Elbise İçinde Ana de Armas'ın Yüksek Moda Portresi - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Yaseen Khan Gul](https://x.com/YaseenK7212)
-- **Kaynak:** [Twitter Post](https://x.com/YaseenK7212/status/2015109213341823031)
-- **Yayınlandı:** 24 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7432)**
-
----
-
-### No. 93: Ürün Pazarlaması - Barcelona Taraftar Kız Grubu Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Modern bir stadyumda, uyumlu Barcelona futbol formaları giymiş dört genç kadının fotogerçekçi bir grup portresini oluşturmak için SuperGrok AI'a (Nano Banana Pro değil, ancak yapılandırılmış bir istem olduğu için eksiksiz olması adına dahil edilmiştir) yönelik son derece ayrıntılı bir JSON istemi. Bu portre, belirli pozlar ve aydınlatma ile samimi bir influencer estetiği yakalayacaktır.
-
-#### 📝 İstem
-
-```
-{
-  "prompt_type": "fotogerçekçi_grup_portresi",
-  "subjects": {
-    "count": 4,
-    "demographic": "Genç Kadın Gen-Z estetiği",
-    "Skin":[
-      "Açık ten rengi",
-      "Açık ten rengi",
-      "Hafif bronz ten rengi",
-      "Açık ten rengi"
-    ]
-  },
-    "hair_styles": [
-      "Uzun düz kahverengi saç",
-      "Şık yüksek at kuyruğu",
-      "Uzun dalgalı kahverengi saç",
-      "Şık geriye taranmış topuz"
-    ]
   },
   "attire": {
-    "tops": "Uyumlu {argument name=\"team jersey\" default=\"barcelona football jerseys (2023-2024 Home Kit)\"}   
-    "bottoms": [
-      "Açık mavi bol kargo kot pantolon",
-      "Beyaz pantolon"
-    ],
-    "accessories": {
-      "jewelry": "Altın halka küpeler, altın zincir kolyeler, altın kol saatleri, altın kelepçe bilezikler",
-      "bags": "Ön kullanışlı cepleri, gümüş zımba detayları ve zincir askısı olan vintage tarzı kahverengi deri omuz çantası (ön plandaki kadın tarafından tutuluyor)"
-    }
+    "type": "Yüksek yakalı kolsuz üst veya elbise",
+    "material": "Yoğun işlemeli kumaş",
+    "texture": "Gümüş ve beyaz payetler, kristaller veya boncuklarla kaplı",
+    "color": "Gümüş/Beyaz",
+    "fit": "Vücuda oturan korse"
   },
-  "poses_and_expressions": {
-    "foreground_left_woman": "Ağzı açık bir kahkahayla şakacı bir şekilde göz kırpıyor, sol eliyle barış işareti (V-işareti) yapıyor, öne doğru eğilmiş",
-    "foreground_right_woman": "Bacak bacak üstüne atmış veya rahat bir şekilde oturuyor, parlak bir şekilde gülümsüyor, doğrudan kameraya bakıyor, elleri dizlerinin üzerinde duruyor",
-    "background_left_woman": "Sıcak bir şekilde gülümsüyor, ön plandaki öznenin biraz arkasında oturuyor, kolu diğerinin omzuna yakın duruyor",
-    "background_center_woman": "Grubun en yüksek noktasında ayakta veya oturuyor, nazikçe gülümsüyor, başı hafifçe yana eğik"
+  "accessories": {
+    "earrings": "Uzun, sallantılı pırlanta damla küpeler",
+    "bracelet": "Sağ bilekte narin pırlanta tenis bilekliği"
   },
   "environment": {
-    "location": "Modern futbol stadyumu tribünleri (muhtemelen {argument name=\"stadium name\" default=\"Santiago Bernabéu\"})",
-    "details": "Sıra sıra boş koyu mavi plastik stadyum koltukları, arka planda cam güvenlik bariyerleri, beton basamaklar",
-    "atmosphere": "Heyecan verici maç günü atmosferi, ayrıcalıklı VIP bölümü hissi"
+    "background": "Bulanık (bokeh) dikey perdeler veya tüller",
+    "colors": "Mat bej, şampanya ve yumuşak altın tonları",
+    "lighting": "Yüzde, omuzda ve kolda vurgularla yumuşak, sıcak, hoş bir aydınlatma; arka planda bokeh ışıklarının ipuçları"
   },
-  "lighting": {
-    "type": "Doğal gün ışığı",
-    "quality": "Sağ taraftan gelen yumuşak güneş ışığı, yüzlerde ve saçlarda nazik vurgular oluşturuyor, gerçekçi gölgeler düşürüyor",
-    "tone": "Sıcak, altın saat parıltısı"
-  },
-  "technical_specs": {
-    "resolution": "4K Ultra HD",
-    "aspect_ratio": "9:16",
-    "style": "Samimi influencer sosyal medya çekimi, yüksek doğruluk, keskin odak, canlı renkler, sinematik alan derinliği",
-    "camera_settings": "Hızlı deklanşör hızı, arka planı hafifçe bulanıklaştırmak için geniş diyafram (f/2.8)"
+  "image_quality": {
+    "style": "Ünlü portre fotoğrafçılığı / Etkinlik fotoğrafçılığı",
+    "mood": "Zarif, dingin, lüks",
+    "focus": "Yüzde keskin odak, arka planı bulanıklaştıran sığ alan derinliği"
   }
 }
 ```
@@ -6525,38 +5971,136 @@ Modern bir stadyumda, uyumlu Barcelona futbol formaları giymiş dört genç kad
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322326470_bk314r_G_cY9UyaUAARN3C.jpg" width="600" alt="Ürün Pazarlaması - Barcelona Taraftar Kız Grubu Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408688404_viptv2_G_gzldZW4AEf7GR.jpg" width="600" alt="Ürün Pazarlaması - Zarif Ana de Armas Ünlü Portresi (JSON Formatı) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408688346_edu9vz_G_gzldYXsAEks9e.jpg" width="600" alt="Ürün Pazarlaması - Zarif Ana de Armas Ünlü Portresi (JSON Formatı) - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408688522_g80hx1_G_gzlZ_XUAAHwSx.jpg" width="600" alt="Ürün Pazarlaması - Zarif Ana de Armas Ünlü Portresi (JSON Formatı) - Image 3">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Kaynak:** [Twitter Post](https://x.com/Vishnudxe/status/2015106803902930985)
-- **Yayınlandı:** 24 Ocak 2026
+- **Yazar:** [Melisa♡](https://x.com/xmliisu)
+- **Kaynak:** [Twitter Post](https://x.com/xmliisu/status/2015417934370455633)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7492)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7595)**
 
 ---
 
-### No. 94: Ürün Pazarlaması - Sinematik Neon Gece Hayatı Portresi
+### No. 92: Ürün Pazarlaması - Ana de Armas Kırmızı Elbiseli Editoryal İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Gece lüks bir arabadan dışarı eğilen, dramatik neon şehir ışıkları ve flaş fotoğrafçılığıyla aydınlatılmış, eğlenceli, göz alıcı ve lüks bir estetiği vurgulayan bir kadının fotogerçekçi moda fotoğrafını oluşturmak için ayrıntılı bir bilgi istemi.
+Ana de Armas'ın ultra HD 8K editoryal görüntüsünü oluşturmak için son derece ayrıntılı, JSON formatında bir komut istemi. Komut istemi, gelişmiş işleme teknikleri, fiziksel özellikler (porselen ten, kuzgun siyahı saç), dingin bir ifade, derin kırmızı omuzları açık bir elbise, özenli kırmızı aksesuarlar ve yoğun, ateş kırmızısı çiçekli bir arka plan (Begonvil) belirtir.
 
 #### 📝 İstem
 
 ```
 {
-"A breathtakingly beautiful young woman with long, flowing wavy hair leaning out of the open door of a sleek luxury car at night, her face illuminated by vibrant neon city lights. She has a big joyful smile showing perfectly white teeth, with her tongue slightly out in a playful and carefree expression. She wears oversized square Gucci-style sunglasses with colorful reflections on the lenses, gold hoop earrings, and a luxurious leopard print faux fur coat that looks soft and high-end. She holds a crystal martini glass filled with a clear cocktail and three green olives on a skewer. The background is a bustling city nightlife scene with bright neon signs, pink and blue emergency/police lights flashing, wet reflective streets, and luxury cars driving past. Tall city buildings and modern architecture create a glamorous urban environment. The lighting is cinematic with dramatic neon glow, rim light, and a flash photography effect that highlights her detailed skin texture, glossy lips, and high fashion makeup. The scene feels exciting, luxurious, celebratory, playful, and glamorous, with sharp focus, ultra-high detail, and a photorealistic 8k finish.": "Uzun, dalgalı saçlı, nefes kesici güzellikte genç bir kadın, gece şık bir lüks otomobilin açık kapısından dışarı eğilmiş, yüzü canlı neon şehir ışıklarıyla aydınlanıyor. Kusursuz beyaz dişlerini gösteren büyük, neşeli bir gülümsemesi var, dili hafifçe dışarıda, şakacı ve tasasız bir ifadeyle. Lenslerinde renkli yansımalar olan büyük, kare Gucci tarzı güneş gözlükleri, altın halka küpeler ve yumuşak ve lüks görünen leopar desenli suni kürk bir palto giyiyor. İçinde berrak bir kokteyl ve şişte üç yeşil zeytin bulunan kristal bir martini bardağı tutuyor. Arka planda, parlak neon tabelalar, yanıp sönen pembe ve mavi acil durum/polis ışıkları, ıslak yansıtıcı caddeler ve geçen lüks arabalarla hareketli bir şehir gece hayatı sahnesi var. Yüksek şehir binaları ve modern mimari, göz alıcı bir kentsel ortam yaratıyor. Aydınlatma, dramatik neon parıltısı, kenar ışığı ve detaylı cilt dokusunu, parlak dudaklarını ve yüksek moda makyajını vurgulayan flaş fotoğrafçılık efekti ile sinematik. Sahne, keskin odak, ultra yüksek detay ve fotogerçekçi 8k bitiş ile heyecan verici, lüks, kutlamalı, eğlenceli ve göz alıcı hissettiriyor.",
-  "negative_prompt": "blurry, low quality, deformed face, ugly, distorted sunglasses, missing fingers, extra limbs, bad anatomy, cartoon, drawing, painting, watermark, text, logo, overexposed, underexposed, day time, indoors",
-  "aspect_ratio": "3:4",
-  "style": "photorealistic fashion photography",
-  "lighting": "neon nightlife, colorful reflections, rim light, flash photography effect",
-  "mood": "exciting, luxurious, celebratory, playful, glamorous"
+  "project_configuration": {
+    "version": "2.0",
+    "output_quality": "Ultra-HD 8K",
+    "aspect_ratio": "3:4",
+    "render_engine_hints": [
+      "Yol izleme (Path tracing)",
+      "Yüzey altı saçılımı (Subsurface scattering)",
+      "Fiziksel tabanlı işleme (PBR)"
+    ]
+  },
+  "subject_profile": {
+    "model": "{argument name=\"model name\" default=\"Ana de Armas\"}",
+    "physical_attributes": {
+      "skin": {
+        "texture": "Porselen",
+        "finish": "Parlak, pürüzsüz",
+        "complexion": "Açık/Soluk"
+      },
+      "anatomy": {
+        "eyes": "Kapalı",
+        "head_angle": "Hafifçe geriye eğik",
+        "expression": "Sakin, uhrevi, sofistike"
+      },
+      "hair": {
+        "color": "Kuzgun siyahı",
+        "texture": "Düz, hacimli, akıcı",
+        "length": "Ekstra uzun, sırttan aşağı dökülen",
+        "styling": "Zarif, yandan ayrılmış, çiçekli toka"
+      }
+    },
+    "pose_and_gesture": {
+      "overall_stance": "Zarif, heykelsi",
+      "hand_positioning": {
+        "left_hand": "Çene hizasına yakın kaldırılmış, narin parmak yerleşimi",
+        "right_hand": "Şakak hizasına yakın kaldırılmış, yumuşak dokunuşlu jest",
+        "gesture_quality": "Akıcı, zarif, yüksek moda editoryal"
+      }
+    }
+  },
+  "styling_and_cosmetics": {
+    "apparel": {
+      "primary_garment": "Koyu kızıl kırmızı, omuzları açık elbise",
+      "construction_details": {
+        "sleeves": "Uzun, büzgülü kumaş, dar kesim",
+        "bodice": "Sofistike terzilik",
+        "skirt": "Yüksek uyluk yırtmaçlı",
+        "layering": "Uyumlu kırmızı ipek iç etek"
+      },
+      "fabric_physics": {
+        "materials": ["İpek", "Ağır krep", "Saten"],
+        "behavior": "Yumuşak dökümler, zengin dokulu kıvrımlar"
+      }
+    },
+    "makeup_artistry": {
+      "palette": "Monokromatik kırmızı ve yumuşak gül tonları",
+      "lips": "Mat bitiş, cesur kızıl kırmızı, keskin hatlar",
+      "eyes": "Hafif kedi gözü eyeliner, uzun kirpikler",
+      "cheeks": "Yumuşak pembe allık, yüksekte vurgu",
+      "style": "Soft-glam, editoryal"
+    },
+    "accessories": {
+      "ear_jewelry": {
+        "type": "Ponpon sallantılı küpeler",
+        "color": "Canlı kırmızı",
+        "charms": "Küçük beyaz fiyonk detayı",
+        "aesthetic": "Zarif tuhaflık"
+      },
+      "hair_jewelry": {
+        "item": "Büyük boy kumaş gül",
+        "color": "Ateşli kırmızı",
+        "placement": "Sol kulağın arkasında"
+      }
+    }
+  },
+  "environment_and_scenery": {
+    "background_type": "Yoğun çiçek düzenlemesi",
+    "floral_composition": {
+      "species": "Begonvil",
+      "primary_colors": ["Ateşli kırmızı", "Parlak turuncu"],
+      "secondary_colors": ["Pembe ipuçları", "Zümrüt yeşili yapraklar"],
+      "density": "Sürükleyici duvar, sıfır boşluk, sıkıca paketlenmiş"
+    },
+    "spatial_depth": "Sığ, dokulu arka plan"
+  },
+  "cinematography_and_optics": {
+    "camera_settings": {
+      "lens": "35mm prime",
+      "aperture": "f/1.8",
+      "focus_mode": "Göz hizası odaklama, yumuşak geçiş"
+    }
+  }
 }
 ```
 
@@ -6565,21 +6109,215 @@ Gece lüks bir arabadan dışarı eğilen, dramatik neon şehir ışıkları ve 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769322274004_6xkzyy_G_cV6Vya8AAtosf.jpg" width="600" alt="Ürün Pazarlaması - Sinematik Neon Gece Hayatı Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408655934_y0uq58_G_gvFrEbkAALbkw.jpg" width="600" alt="Ürün Pazarlaması - Ana de Armas Kırmızı Elbiseli Editoryal İstemi - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Kaynak:** [Twitter Post](https://x.com/Vishnudxe/status/2015103453362819349)
-- **Yayınlandı:** 24 Ocak 2026
+- **Yazar:** [Mikasa](https://x.com/Mikasa_rose729)
+- **Kaynak:** [Twitter Post](https://x.com/Mikasa_rose729/status/2015412624205459875)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7422)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7551)**
 
 ---
 
-### No. 95: E-ticaret Ana Görseli - Minimalist Lüks Güzellik Ürünü Fotoğrafçılığı Şablonu
+### No. 93: Ürün Pazarlaması - Altın Saat Otomotiv Yaşam Tarzı Fotoğrafçılığı (JSON Format)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Altın saatte hiper gerçekçi otomotiv yaşam tarzı fotoğrafçılığı oluşturmak için oldukça ayrıntılı bir JSON istemi. Sahne, lüks bir ortamda {argument name="car type" default="Lamborghini Aventador"} (bağlam/görüntü tarafından ima edilen) yıkayan, fit bir fiziğe sahip profesyonel bir modeli içeriyor. İstem, dramatik arka ışıklandırma, ıslak yüzeyde yoğun speküler vurgular ve şehvetli, göz alıcı bir ruh hali belirtiyor.
+
+#### 📝 İstem
+
+```
+{
+  "image_type": "Fotogerçekçi ticari fotoğrafçılık",
+  "shot": "Orta Tam Çekim",
+  "shot_details": "Lüks otomobil kaputu ve ana özneye ön planda vurgu yapan yatay sinematik kompozisyon.",
+  "style": "Hiperrealizm, Altın Saat Cazibesi, Otomotiv Yaşam Tarzı Fotoğrafçılığı",
+  "quality": "Ultra detaylı, Profesyonel Sınıf, Yüksek Dinamik Aralık (HDR)",
+  "color_grade": "Sıcak, Sinematik, Yüksek Kontrast, zengin altınlar, derin siyahlar ve sıcak ten renkleri hakim.",
+  "meta": {
+    "aspect_ratio": "16:9 Geniş Ekran",
+    "resolution": "Yüksek Çözünürlüklü, detaylı"
+  },
+  "camera": {
+    "device": "Profesyonel DSLR",
+    "lens": "Orta Telefoto (85mm veya 100mm)",
+    "aperture": "f/4",
+    "distance": "Özneye ve araca yakın mesafe",
+    "angle": "Hafif alçak açı",
+    "framing": "Özne arabaya karşı dengelenmiş, güneş patlaması sağ üst çeyreği sabitliyor.",
+    "pov": "Samimi, üst düzey ticari izleyici bakış açısı",
+    "focus": "Öznenin kalçaları ve sünger/araba kaputu üzerinde keskin odak",
+    "lens_effect": "Belirgin altın lens parlaması ve güneş patlaması efekti, dokusal detaylar oluşturan görünür su damlacıkları"
+  },
+  "lighting": {
+    "description": "Batan güneşten gelen dramatik, yoğun sıcak arka aydınlatma.",
+    "type": "Yansıyan dolgu ışığıyla hafifletilmiş sert, yönlü güneş ışığı.",
+    "source": "Doğal Güneş (Altın Saat)",
+    "primary": "Kadının vücudunun ve saçının ıslak hatlarını vurgulayan güçlü altın kenar ışığı.",
+    "secondary": "Öznenin ön tarafını ve araba boyasını aydınlatan yumuşak, yansıyan dolgu ışığı.",
+    "highlights": "Parlak siyah boya (Lamborghini Aventador), ıslak cilt ve damlayan saç üzerinde yoğun speküler vurgular.",
+    "shadows": "Özellikle arabanın altında ve mimari girintilerde güçlü kontrast sağlayan derin, zengin gölgeler."
+  },
+  "scene": {
+    "location": "Lüks konut garaj yolu veya modern tatil köyü avlusu",
+    "environment": "Lüks, minimalist mimari (beton/sıva), tropikal bitki örtüsü görünür.",
+    "time": "Gün Batımı / Altın Saat",
+    "atmosphere": "Sıcak, nemli, göz alıcı, lüks, şehvetli"
+  },
+  "subject": {
+    "gender": "Kadın",
+    "age": "20'li yaşların başı ila ortası",
+    "ethnicity": "Akdenizli veya Latin görünümlü",
+    "appearance": "Fit, atletik, ıslak cilt ve saç, profesyonel model fiziği.",
+    "body": {
+      "type": "Fit, atletik yapı",
+      "waist": "Belirgin",
+      "hips": "Kıvrımlı ve belirgin",
+      "chest": "Orta, minimal kapatıcılık",
+      "ass": "Belirgin, pozla vurgulanmış",
+      "skin": "Bronz, ıslak, yüksek parlaklığa sahip pürüzsüz doku"
+    },
+    "expression": {
+      "eyes": "Aşağı dönük, kapalı veya araba kaputuna bakıyor",
+      "gaze": "Odaklanmış, içe dönük",
+      "mouth": "Rahat, yumuşak duruş",
+      "face_vibe": "Sakin, şehvetli konsantrasyon"
+    },
+    "hair": {
+      "color": "Koyu b"
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408691368_63tbcy_G_guEFUW8AEm_S5.jpg" width="600" alt="Ürün Pazarlaması - Altın Saat Otomotiv Yaşam Tarzı Fotoğrafçılığı (JSON Format) - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Dominus the Prompter](https://x.com/iamdomprompt)
+- **Kaynak:** [Twitter Post](https://x.com/iamdomprompt/status/2015411487741747404)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7596)**
+
+---
+
+### No. 94: E-ticaret Ana Görseli - Ürün Çekimi Geliştirme İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bir kullanıcı, Nano Banana Pro'nun basit ürün çekimlerini nasıl geliştirebileceğini, onlara profesyonel bir görsel ağırlık ve estetik çekicilik katabileceğini gösteriyor.
+
+#### 📝 İstem
+
+```
+Basit bir ürün çekimini hak ettiği görsel ağırlığa kavuşturmak
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408704899_huy3ta_G_gXQMpWIAA6USn.jpg" width="600" alt="E-ticaret Ana Görseli - Ürün Çekimi Geliştirme İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Haulah | Ecom Design & CRO](https://x.com/haulahindesign)
+- **Kaynak:** [Twitter Post](https://x.com/haulahindesign/status/2015387259172716695)
+- **Yayınlandı:** 25 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7613)**
+
+---
+
+### No. 95: E-ticaret Ana Görseli - Moutai Marka 3x3 Hikaye Taslağı Tasarım İstemleri
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Moutai içki şişesini dokuz farklı, üst düzey, editoryal kompozisyonda sergileyen 3x3'lük bir görsel storyboard ızgarası oluşturmak için kapsamlı bir istem. Ürünün kimliğini sıkı bir şekilde kilitlemek için yüklenmiş bir referans görseli gerektirir ve tüm panellerde malzeme dokusuna, aydınlatma tutarlılığına ve tasarım odaklı estetiğe odaklanır.
+
+#### 📝 İstem
+
+```
+Bağımsız 4:5 oranında, dokuz eşit boyutlu panelden oluşan temiz bir 3×3 storyboard ızgarası.
+
+Referans görselini temel ürün referansı olarak kullanın. Dokuz panelin tamamında aynı ürünü, ambalaj tasarımını, markalamayı, malzemeleri, renkleri, oranları ve genel kimliği referanstakiyle tamamen aynı tutun. Ürün her karede açıkça tanınabilir kalmalıdır. Etiket, logo ve oranlar tamamen aynı kalmalıdır.
+
+Bu storyboard, bir markalama portföyü için üst düzey bir tasarımcı maket sunumudur. Odak noktası, gerçekçilik veya yaşam tarzı anlatısından ziyade biçim, kompozisyon, materyalite ve görsel ritimdir. Genel görünüm, özenle seçilmiş, editoryal ve tasarım odaklı hissettirmelidir.
+
+**KARE 1:**
+Temiz bir stüdyo kurulumunda {argument name="product name" default="Moutai Baijiu"}'nun önden çekilmiş kahraman fotoğrafı. Nötr arka plan, dengeli kompozisyon, {argument name="detail 1" default="şişe gövdesi kabartması"} ve {argument name="detail 2" default="etiket sıcak damgalama"} ile ürünün tamamını gösteren sakin ve kendinden emin sunum.
+
+**KARE 2:**
+Odak noktası {argument name="product name" default="Moutai Baijiu"}'nun {argument name="detail 2" default="etiket sıcak damgalaması"} üzerinde yoğunlaşan yakın çekim. Cam, seramik dokular, hassas işçilik ve sıvı şeffaflığına odaklanma.
+
+**KARE 3:**
+{argument name="product name" default="Moutai Baijiu"}'yu Çin yemek masası ortamında gösterir. Üst düzey zarif estetikten ilham alan stüdyo ortamı - temiz çizgiler, doğal malzemeler, yumuşak aydınlatma, otantik bir marka atmosferi yaratır.
+
+**KARE 4:**
+Nötr bir stüdyo arka planında kullanımda veya etkileşimde gösterilen ürün. Doğal bir jestle zarifçe içki döken eller, insan-ürün bağlantısını yakalar, görünüm üst düzey zarif estetiğe uyar.
+
+**KARE 5:**
+Çok sayıda {argument name="product name" default="Moutai Baijiu"} ünitesinin üst izometrik açıdan hassas bir geometrik düzende düzenlendiği izometrik kompozisyon. Tüm ürünler aynı izometrik üst açıda, eşit aralıklarla, temiz, yapılandırılmış ve grafiksel olarak yerleştirilmiştir.
+
+**KARE 6:**
+{argument name="product name" default="Moutai Baijiu"}, marka renk paletiyle uyumlu nötr bir arka plan üzerinde hafifçe eğik bir şekilde havada süzülüyor. Yüzen konum açılı ve kasıtlıdır, ürün dramatik aydınlatma efektleriyle uzayda doğal olarak süzülüyor.
+
+**KARE 7:**
+{argument name="product name" default="Moutai Baijiu"}'nun belirli bir detayına odaklanan aşırı yakın çekim - şişe kapağı mührü, malzeme mikro dokusu veya hassas mühendislik detayları.
+
+**KARE 8:**
+{argument name="product name" default="Moutai Baijiu"}, cesur, editoryal ve görsel olarak çarpıcı hissettiren beklenmedik ancak estetik açıdan güçlü bir ortamda. Sıçrayan içkinin anında asılı kalmış, stüdyo tabanlı ve tasarımcı odaklı, markayı yücelten cesur bir kompozisyon.
+
+**KARE 9:**
+Ürünü rafine bir yaşam tarzı kurulumunda kullanımda gösteren geniş kompozisyon. Temiz aksesuarlar, kontrollü stil, serinin geri kalanıyla uyumlu, ürünün günlük yaşamdaki rolünü düşündürüyor.
+
+**KAMERA & STİL:**
+Gerçek kamera görünümüne sahip ultra yüksek kaliteli stüdyo görüntüleri. Kareler arasında farklı kamera açıları ve çerçevelemeler. Kontrollü alan derinliği, hassas aydınlatma, doğru malzemeler ve yansımalar. Altın vurgularla dramatik kontrast. Aydınlatma mantığı, renk paleti, ruh hali ve görsel dil, dokuz panelin tamamında tek bir uyumlu seri olarak tutarlı kalmalıdır.
+
+**ÇIKTI:**
+Kenarlıksız, metinsiz, altyazısız ve filigransız temiz bir 3×3 ızgara.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769408671978_4x2abs_G_br_bDacAABZUa.jpg" width="600" alt="E-ticaret Ana Görseli - Moutai Marka 3x3 Hikaye Taslağı Tasarım İstemleri - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [松果先森](https://x.com/songguoxiansen)
+- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/2015058087246438648)
+- **Yayınlandı:** 24 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7527)**
+
+---
+
+### No. 96: E-ticaret Ana Görseli - Minimalist Lüks Güzellik Ürünü Fotoğrafçılığı Şablonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6650,7 +6388,7 @@ Tek bir damlalıklı serum şişesinin minimalist lüks ürün fotoğrafçılı�
 
 ---
 
-### No. 96: E-ticaret Ana Görseli - Zırhlı Mecha Kız Figür/Model Kiti Ambalajı İçin İstemler
+### No. 97: E-ticaret Ana Görseli - Zırhlı Mecha Kız Figür/Model Kiti Ambalajı İçin İstemler
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6712,7 +6450,7 @@ Fiyat: 28.600 yen
 
 ---
 
-### No. 97: E-ticaret Ana Görseli - Dört Panelli Lüks Saç Bakım Kampanyası Izgarası
+### No. 98: E-ticaret Ana Görseli - Dört Panelli Lüks Saç Bakım Kampanyası Izgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6798,7 +6536,7 @@ Düşük kaliteli ambalaj, yanlış markalama, bozuk metin, okunaksız etiket, a
 
 ---
 
-### No. 98: E-ticaret Ana Görseli - Ultra Gerçekçi Ticari Espresso Fotoğrafçılığı
+### No. 99: E-ticaret Ana Görseli - Ultra Gerçekçi Ticari Espresso Fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6842,7 +6580,7 @@ PROMPT - "Profesyonel bir espresso makinesinin taze bir shot çektiği ultra ger
 
 ---
 
-### No. 99: E-ticaret Ana Görseli - Göz Hizasında Belçika Gofreti Yemek Fotoğrafçılığı İstemleri
+### No. 100: E-ticaret Ana Görseli - Göz Hizasında Belçika Gofreti Yemek Fotoğrafçılığı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6875,7 +6613,7 @@ Göz hizasından çekilmiş yemek fotoğrafı, dolgun beyaz bir tabağın üzeri
 
 ---
 
-### No. 100: E-ticaret Ana Görseli - Makro Dana Burger Yemek Fotoğrafçılığı İstemleri
+### No. 101: E-ticaret Ana Görseli - Makro Dana Burger Yemek Fotoğrafçılığı İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6908,7 +6646,7 @@ Yanlarından erimiş cheddar peyniri sızan, parlayan yağlı, kızarmış brio�
 
 ---
 
-### No. 101: E-ticaret Ana Görseli - Boba Çayı Kutusu için Stüdyo Ürün Fotoğrafı İstemleri (Kopya)
+### No. 102: E-ticaret Ana Görseli - Boba Çayı Kutusu için Stüdyo Ürün Fotoğrafı İstemleri (Kopya)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6986,7 +6724,7 @@ BOBAco Popping Bubble Tea içecek kutusunun birinci sınıf ticari stüdyo ürü
 
 ---
 
-### No. 102: E-ticaret Ana Görseli - Amiral Gemisi Marka Kimliği Mockup'ı (Nano Banana Pro)
+### No. 103: E-ticaret Ana Görseli - Amiral Gemisi Marka Kimliği Mockup'ı (Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7053,7 +6791,7 @@ Nano Banana Pro için, amiral gemisi bir marka ekosisteminin (Lovart) ambalaj, y
 
 ---
 
-### No. 103: E-ticaret Ana Görseli - Sıfır Yerçekimi Ürün Videosu İstemi (Çilekli Gazoz)
+### No. 104: E-ticaret Ana Görseli - Sıfır Yerçekimi Ürün Videosu İstemi (Çilekli Gazoz)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7089,7 +6827,7 @@ Gazoz kutusu havada asılı duruyor, hafifçe eğik, görünürde yer çekimi yo
 
 ---
 
-### No. 104: E-ticaret Ana Görseli - Nano Banana Pro kullanarak üst düzey görseller için istem
+### No. 105: E-ticaret Ana Görseli - Nano Banana Pro kullanarak üst düzey görseller için istem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7135,21 +6873,18 @@ Bu tweet, Nano Banana Pro modelini kullanarak üst düzey görseller oluşturmak
 
 ---
 
-### No. 105: E-ticaret Ana Görseli - Hiper gerçekçi gazlı içecek kutusu ürün reklamı istemi
+### No. 106: Oyun Varlığı - LEGO Dağ Sel Kurtarma Sahnesi İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Bir soda kutusunun ultra gerçekçi, üst düzey ticari ürün fotoğrafını oluşturmak için bir istem. Dinamik kompozisyonu, asılı öğeleri (çilek ve buz), akan sıvı şeritleri, belirli aydınlatmayı (üst düzey stüdyo, güçlü ana ışık, kenar vurguları) ve sinematik bir reklam stilini detaylandırır.
+Şiddetli yağmur, nehir taşması, kurtarma botları ve ipler kullanan LEGO itfaiyeciler, yamaçlardaki evler ve arka planda sisli dağların olduğu, yoğun gerçekçilik ve dramatik aydınlatmayı vurgulayan, LEGO dağ köyü afet sahnesinin dramatik, sinematik bir görüntüsünü oluşturan bir istem.
 
 #### 📝 İstem
 
 ```
-Çerçevede dinamik eğimli bir açıyla çapraz olarak yüzen, üzerinde “{argument name="soda flavor" default="DOC Soda Strawberry"}” yazan şık beyaz alüminyum bir soda kutusunun ultra gerçekçi, birinci sınıf ürün fotoğrafı. Kutu, havada asılı duran taze bütün çilekler ve kristal berraklığında buz küpleriyle çevrili. Canlı, yarı saydam kırmızı çilekli soda sıvısı, kutunun arkasında ve etrafında çapraz olarak akıyor ve sıçrıyor; parlak vurgular ve hareket halinde donmuş dağınık damlacıklarla zarif, akıcı kurdeleler oluşturuyor. Çilekler olgun ve doygun kırmızı renkte, belirgin tohumları ve yeşil yapraklı üst kısımları görünüyor; buz küpleri ise keskin kenarları, iç yansımaları ve gerçekçi kırılmalarıyla oldukça şeffaf. Kutu yüzeyi pürüzsüz mat alüminyumdan yapılmış, hafif metalik bir parlaklığa, net tipografiye ve temiz bir grafik tasarıma sahip. Tazeliği ve lezzeti vurgulayan, kesintisiz yumuşak kırmızıdan pembeye geçişli bir degrade arka plan ve uyumlu renk paletiyle kontrollü bir stüdyo ortamında çekildi. Aydınlatma, güçlü ana ışık, yumuşak dolgu ışığı ve kenar vurgularıyla üst düzey ticari stüdyo aydınlatması olup, buz ve sıvı üzerinde keskin yansımalar, yumuşak gölgeler ve yüksek kontrastlı netlik sağlıyor.
-
-Kamera açısı hafifçe alçak ve çapraz, orta yakın çekim kadrajlama, kutu ve ön plan öğeleri üzerinde jilet gibi keskin odaklamayla sığ alan derinliği. Ruh hali enerjik, ferahlatıcı, modern ve premium, hiper-gerçekçi, sinematik reklam stili, ultra detaylı, 8K, yüksek hızlı flaş yakalama, lüks içecek markası.
+LEGO dağ sel kurtarma sahnesi, şiddetli yağmurun LEGO dağ köyünde nehrin taşmasına neden olması, LEGO itfaiyecileri tarafından kullanılan kurtarma botları ve halatlar, çamurlu sel sularıyla çevrili yamaçlarda duran evler, arka planda sisli dağlar, dramatik sinematik aydınlatma, yoğun LEGO afet gerçekçiliği --ar 3:4
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -7157,116 +6892,33 @@ Kamera açısı hafifçe alçak ve çapraz, orta yakın çekim kadrajlama, kutu 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063173941_2b0dwt_G_MhaaibYAAhu6g.jpg" width="600" alt="E-ticaret Ana Görseli - Hiper gerçekçi gazlı içecek kutusu ürün reklamı istemi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063173878_hnptez_G_MhaWhWMAA_0hd.jpg" width="600" alt="E-ticaret Ana Görseli - Hiper gerçekçi gazlı içecek kutusu ürün reklamı istemi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063173962_n9m87m_G_MhaU2bMAAd0tp.jpg" width="600" alt="E-ticaret Ana Görseli - Hiper gerçekçi gazlı içecek kutusu ürün reklamı istemi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063175383_e0gxqr_G_MhaWkXwAAGdmk.jpg" width="600" alt="E-ticaret Ana Görseli - Hiper gerçekçi gazlı içecek kutusu ürün reklamı istemi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769408657745_qrgt94_G_hyJtRbIAELZNz.jpg" width="600" alt="Oyun Varlığı - LEGO Dağ Sel Kurtarma Sahnesi İstemi - Image 1">
 </div>
 
 #### 📌 Detaylar
 
 - **Yazar:** [𝐌](https://x.com/Strength04_X)
-- **Kaynak:** [Twitter Post](https://x.com/Strength04_X/status/2013990261978989007)
-- **Yayınlandı:** 21 Ocak 2026
+- **Kaynak:** [Twitter Post](https://x.com/Strength04_X/status/2015486383713116644)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7051)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7553)**
 
 ---
 
-### No. 106: E-ticaret Ana Görseli - Görselden İçecek Maketine Dönüştürme
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Bu, bir girdi görüntüsünü (bir simge veya logo gibi) şişelenmiş bir içecek için fotogerçekçi bir ürün reklamına dönüştürmek üzere tasarlanmış yapılandırılmış bir istemdir. Yapay zekaya, girdi görüntüsünü motifi, atmosferi ve renk paleti açısından analiz etmesi, ardından buna uygun bir içecek (örn. meyveli su, soda) ve etiket tasarlaması talimatını verirken, profesyonel stüdyo fotoğrafçılığına, sığ alan derinliğine ve 8k fotogerçekçiliğe vurgu yapar.
-
-#### 📝 İstem
-
-```
-[AI Talimatı: Görsel → Şişelenmiş İçecek Dönüşümü]
-
-[Giriş Görseli]'ni analiz edin.
-
-Şunları çıkarın: [Ana Motif], [Atmosfer] ve [Renk Paleti]'ni okuyun.
-İçecek Seçimi: Görselin rengine ve atmosferine göre içeceği serbestçe belirleyin (örn. {argument name="İçecek türü" default="meyveli su, gazlı, çay, süt asidi içeceği, enerji içeceği, smoothie"}).
-Etiket Tasarımı: Motifi etiket illüstrasyonu veya logosu için kullanın. Renkler, sıvı rengine ve etikete yansıtılmalıdır.
-Metin: Görselde metin varsa, bunu ürün adı veya lezzet adı olarak kullanın.
-[Ana Motif]
-Market içecek reyonunda dikkat çeken yeni bir ürün plastik şişesi. Tasarım, [Giriş Görseli]'nin dünya görüşü bir içeceğe dönüştürülmüş gibi görünmelidir. [Algılanan Motif] etiketi süsler ve sıvı rengi tema rengiyle eşleşir. Şişe şekli de serbesttir (ince, yuvarlak, kutu tipi vb.).
-
-[Atmosfer]
-Profesyonel bir stüdyoda çekilmiş ürün reklam fotoğrafı. Şişede yoğuşma var, bu da soğuk olduğu hissini veriyor. Arka planda meyveler veya malzemeler dağınık olabilir. 8k, f/1.8'de sığ alan derinliği, ürün fotoğrafçılığı aydınlatması. Fotogerçekçi.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063243187_gq8fht_G_LXE20bcAAUq5q.jpg" width="600" alt="E-ticaret Ana Görseli - Görselden İçecek Maketine Dönüştürme - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063243318_sfqi4b_G_LW9LPaUAA0Kx2.jpg" width="600" alt="E-ticaret Ana Görseli - Görselden İçecek Maketine Dönüştürme - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
-- **Kaynak:** [Twitter Post](https://x.com/lovart_jp/status/2013914733817299301)
-- **Yayınlandı:** 21 Ocak 2026
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7165)**
-
----
-
-### No. 107: E-ticaret Ana Görseli - 'PILLow' Uyku Hapı için Gerçeküstü Kavramsal Ürün Reklamı
+### No. 107: Oyun Varlığı - Stilize Edilmiş 3D Animasyonlu Kadın Fotoğrafçı Karakteri (Pixar Tarzı)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-'PILLow' adlı kurgusal bir uyku hapı için minimalist, kavramsal bir reklam natürmortu oluşturmaya yönelik bir komut. Bu komut, mat mavi bir yüzeye minyatür, pelüş, kapitone yastıklar döken, devasa kehribar rengi bir cam şişeyi içeriyor ve gerçeküstülüğü, temiz ticari aydınlatmayı ve markalama için net negatif alanı vurguluyor.
+Referans olarak yüklenen bir yüz görüntüsü kullanılarak, Pixar-Disney tarzında stilize edilmiş 3 boyutlu animasyonlu kadın fotoğrafçı karakteri oluşturmak için ayrıntılı bir bilgi istemi. Karakterin kısa kıvırcık kahverengi saçları, yuvarlak gözlükleri var ve retro aksesuarlar ve sıcak aydınlatma ile dolu şirin bir vintage fotoğraf stüdyosunda duruyor.
 
 #### 📝 İstem
 
 ```
-Yan yatırılmış, devasa kehribar cam bir takviye şişesi ve yakınına yerleştirilmiş açık siyah kapağı içeren minimalist bir reklam natürmortu. Şişe etiketinde temiz ve modern bir tipografiyle "Şarj İçin Kullanın" yazıyor. Şişenin ağzından, pürüzsüz mat mavi bir yüzeye dökülmüş gibi organik bir şekilde düzenlenmiş birkaç küçük beyaz yastık taşıyor.
-
-Yastıklar yumuşak, dikdörtgen, kapitone ve pelüş olup minyatür ergonomik yatak yastıklarını andırıyor. Koyu kehribar cam, canlı beyaz yastıklar ve soluk mavi arka plan arasında güçlü bir görsel kontrast var.
-
-Kompozisyon: yukarıdan aşağıya / üç çeyrek açılı ürün çekimi, şişe sol üstte konumlandırılmış, yastıklar çerçevenin sağ altına doğru çapraz olarak dağılmış. Alt kısımda "PILLow" marka metni için net bir negatif alan bulunuyor.
-
-Aydınlatma: yumuşak yönlü gölgelerle stüdyo aydınlatması, yüksek netlik, cam üzerinde hafif yansımalar, kontrollü vurgular.
-Stil: modern ticari ürün fotoğrafçılığı, sürreal kavramsal reklam estetiği.
-Renk paleti: koyu mavi arka plan, sıcak kehribar cam, beyaz tekstiller, siyah vurgular.
-Ruh hali: sakin, zekice, dinlendirici, çağdaş.
-Kalite ipuçları: ultra keskin odak, yüksek çözünürlük, profesyonel reklam kampanyası görünümü.
-
-İsteğe Bağlı Negatif İstem
-
-dağınık sahne, sert aydınlatma, plastik doku, düşük kontrast, dağınık gölgeler, bozuk metin, gerçekçi olmayan malzemeler
+Yüklenen yüz görüntüsünü tam yüz referansı olarak kullanarak, Pixar–Disney tarzında, yumuşak sinematik aydınlatmaya sahip stilize edilmiş 3 boyutlu animasyonlu bir kadın fotoğrafçı karakteri oluşturun. Kısa kıvırcık kahverengi saçlı, büyük etkileyici gözlü, yuvarlak gözlüklü ve sakin, kendinden emin bir ifadeye sahip genç bir kadın. Kolları kavuşturmuş bir şekilde duruyor, boynunda vintage bir analog kamera asılı. Kolları sıyrılmış krem rengi bir düğmeli gömlek ve yüksek belli zeytin yeşili pantolon giyiyor.
+Arka plan, eski kameralar, film ruloları, duvara asılı fotoğraf baskıları, ahşap masalar ve sıcak masa lambalarıyla dolu rahat bir vintage fotoğraf stüdyosu. Retro estetik, nostaljik ruh hali, sıcak tonlar, sığ alan derinliği, ultra detaylı dokular, yumuşak gölgeler, yüksek düzeyde cilalanmış 3 boyutlu render, stüdyo kalitesi, sinematik kompozisyon, 4k, portre yönlendirme.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -7274,17 +6926,17 @@ dağınık sahne, sert aydınlatma, plastik doku, düşük kontrast, dağınık 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977257576_7k95ul_G_HesMUXEAEKZ-L.jpg" width="600" alt="E-ticaret Ana Görseli - 'PILLow' Uyku Hapı için Gerçeküstü Kavramsal Ürün Reklamı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769408691310_rh6g0o_G_fwh6TbIAAsyQM.jpg" width="600" alt="Oyun Varlığı - Stilize Edilmiş 3D Animasyonlu Kadın Fotoğrafçı Karakteri (Pixar Tarzı) - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Kaynak:** [Twitter Post](https://x.com/Vishnudxe/status/2013635362175029432)
-- **Yayınlandı:** 20 Ocak 2026
+- **Yazar:** [ailabs.zone](https://x.com/zhoumeng780)
+- **Kaynak:** [Twitter Post](https://x.com/zhoumeng780/status/2015343847212224899)
+- **Yayınlandı:** 25 Ocak 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=6867)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7597)**
 
 ---
 
@@ -7457,7 +7109,58 @@ Bu, sağlanan bir referans görüntüsünü temiz, koleksiyon ölçeğinde bir m
 
 ---
 
-### No. 110: Oyun Varlığı - NES BG Nokta Sanatı Dönüşüm İstemcisi
+### No. 110: Oyun Varlığı - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Bu bilgi istemi, bir konuyu (bu durumda Nikola Tesla) LEGO Technic tarzı mekanik bir kitbash'in hiper gerçekçi makro stüdyo ürün çekimine dönüştürmek için tasarlanmıştır. İnşaat için bölge haritalaması, mekanizma mantığı ve sığ alan derinliği ile gerçekçi plastik dokuları vurgulayan bir stüdyo estetiği için belirli fotoğraf kuralları hakkında ayrıntılı talimatlar içerir.
+
+#### 📝 İstem
+
+```
+Nikola Tesla -> Sistem Talimatı: {argument name="subject" default="Nikola Tesla"} öğesini, zekice bir poz veren LEGO Technic tarzı bir kitbash'in hiper gerçekçi bir makro stüdyo ürün çekimine dönüştürün
+
+1) Bölge Haritalama:
+A: Kavisli eğimlerden yapılmış baş/ön kısım; gözler/farlar = şeffaf saplamalar/lensler.
+B: Technic kirişler ve panellerden yapılmış gövde; desen çizgileri renk bloklu parçalar ve bağlantı geometrisi haline gelir.
+C: Uzuvlar akslar, dişliler, amortisörler ve bağlantılar kullanır.
+
+2) Mekanizma Mantığı:
+Hareketi makul bir şekilde sağlayan dişli takımlarını ve diferansiyelleri gösterin. Eğer yaratıksa: gövdede krank mekanizması. Eğer arabaysa: görünür şanzıman + süspansiyon.
+
+3) Fotoğraf Kuralları:
+Stüdyo gri dikişsiz, sığ alan derinliği, gerçekçi plastik mikro çizikler. Kesinlikle metin yok, kutu resmi yok, talimatlar görünür değil. 1:1, 8k.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769322296590_xxr3i7_G_Tvb_CW8AE9OVs.jpg" width="600" alt="Oyun Varlığı - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769322296605_qs3drh_G_Tvf1JWEAAka31.jpg" width="600" alt="Oyun Varlığı - LEGO Technic Kitbash'in Hiper Gerçekçi Makro Stüdyo Çekimi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Gadgetify](https://x.com/Gdgtify)
+- **Kaynak:** [Twitter Post](https://x.com/Gdgtify/status/2015117645037871527)
+- **Yayınlandı:** 24 Ocak 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7451)**
+
+---
+
+### No. 111: Oyun Varlığı - NES BG Nokta Sanatı Dönüşüm İstemcisi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7595,7 +7298,7 @@ CBDBFC,ADB5BD,EEC39A,696A6A
 
 ---
 
-### No. 111: Oyun Varlığı - Scooter Üzerinde Erkek Çocuk ve Tüylü Canavarın 3D Render'ı
+### No. 112: Oyun Varlığı - Scooter Üzerinde Erkek Çocuk ve Tüylü Canavarın 3D Render'ı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7634,7 +7337,7 @@ Küçük, yuvarlak, tüylü mavi bir canavarın yanında turuncu bir elektrikli 
 
 ---
 
-### No. 112: Oyun Varlığı - Anime Karakterinden 3DCG Figür İstemine
+### No. 113: Oyun Varlığı - Anime Karakterinden 3DCG Figür İstemine
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7669,7 +7372,7 @@ Ona "Anime çizimindeki saçları ve kıyafetleri giyen 3DCG bir kadın görünt
 
 ---
 
-### No. 113: Oyun Varlığı - Nano Banana Pro için Yapılandırılmış Figür/Diorama Üretim İstemleri
+### No. 114: Oyun Varlığı - Nano Banana Pro için Yapılandırılmış Figür/Diorama Üretim İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7754,7 +7457,7 @@ Sinematik: Bir hikayeden bir sahne gibi derin bir atmosfer yaratmak için güçl
 
 ---
 
-### No. 114: Oyun Varlığı - Çalıştırılabilir Birden Fazla Mod/Durum Oluşturma
+### No. 115: Oyun Varlığı - Çalıştırılabilir Birden Fazla Mod/Durum Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7787,7 +7490,7 @@ Farklı Çalıştırılabilir modlarının tüm farklı durumlarını oluşturun
 
 ---
 
-### No. 115: Oyun Varlığı - Nesne Tabanlı Dünya: Donmuş Bir Nesneden Ortaya Çıkan Gerçeklik
+### No. 116: Oyun Varlığı - Nesne Tabanlı Dünya: Donmuş Bir Nesneden Ortaya Çıkan Gerçeklik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7852,7 +7555,7 @@ Hiper detaylı dokular, dramatik aydınlatma, sinematik derinlik, ultra gerçek�
 
 ---
 
-### No. 116: Oyun Varlığı - Hibrit İnsansı-At Portresi (Ronaldo/Messi esintili)
+### No. 117: Oyun Varlığı - Hibrit İnsansı-At Portresi (Ronaldo/Messi esintili)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7989,7 +7692,7 @@ Cristiano Ronaldo ve Lionel Messi arasındaki rekabetten esinlenmiş olabilecek,
 
 ---
 
-### No. 117: Oyun Varlığı - Örgü İsimli Pixar/Disney 3D Çizgi Film Karakteri
+### No. 118: Oyun Varlığı - Örgü İsimli Pixar/Disney 3D Çizgi Film Karakteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8023,7 +7726,7 @@ Pixar/Disney tarzı bir render'da, düz parlak {argument name="background color"
 
 ---
 
-### No. 118: Oyun Varlığı - Yüzen Halka Destekli Hiper Gerçekçi Stüdyo Portresi İstemleri
+### No. 119: Oyun Varlığı - Yüzen Halka Destekli Hiper Gerçekçi Stüdyo Portresi İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8060,7 +7763,7 @@ Arka Plan: [RENK 1]'den [RENK 2]'ye uzanan, eşit şekilde aydınlatılmış ve 
 
 ---
 
-### No. 119: Oyun Varlığı - Venom Benzeri Bir Sembolle Karanlık Bilim Kurgu Aksiyon Sahnesi
+### No. 120: Oyun Varlığı - Venom Benzeri Bir Sembolle Karanlık Bilim Kurgu Aksiyon Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8165,50 +7868,13 @@ Karanlık bir endüstriyel depoda ultra gerçekçi, 16K sinematik bir aksiyon sa
 
 ---
 
-### No. 120: Oyun Varlığı - Ultra Detaylı 3D Stilize Karakter Tasarımı İstemleri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Yumuşak hatlara, etkileyici gözlere, rahat ve şık modern bir kıyafete odaklanan ve Octane/Arnold tarzı ve 8K çözünürlük gibi yüksek kaliteli render özelliklerine sahip, Pixar/Disney esintili 3D stilize bir karakter oluşturmak için ayrıntılı bir komut istemi.
-
-#### 📝 İstem
-
-```
-Referans figürü1'i kullanarak Pixar/Disney esintili, yumuşak yuvarlak yüz hatlarına, büyük etkileyici gözlere, pürüzsüz porselen cilde ve eğlenceli oranlara sahip, sevimli, ultra detaylı 3D stilize karakter tasarımı oluşturun.
-Kıyafet rahat şık ve moderndir: büyük beden örgü kazaklar, tüylü ceketler, kısa üstler, etekler veya geniş paçalı kot pantolonlar, yün, polar ve örgü gibi dokulu kumaşlar, kalın spor ayakkabılar veya pelüş botlarla eşleştirilmiştir. Pastel ve canlı tonlarda sıcak renk paleti ({argument name="Color Palette" default="turuncu, camgöbeği, mor, sarı"}).
-Aksesuarlar arasında küçük bir sırt çantası veya askılı çanta, kulaklık veya gözlük ve kişinin omzunda duran sevimli bir hayvan arkadaşı (küçük bir {argument name="Animal Companion" default="baykuş"} gibi) bulunur. Kendinden emin ama rahat bir poz, moda modeli duruşu veya eğlenceli yürüme hareketi.
-Ultra yüksek kaliteli 3D olarak oluşturulmuş, yumuşak stüdyo aydınlatması, pürüzsüz gradyanlar, temiz düz arka plan renkleri, sığ alan derinliği, sinematik kompozisyon, yüksek detaylı kumaş dokuları, gerçekçi yüzey altı saçılımı, cilalı oyuncak benzeri bitiş, sevimli ve sağlıklı estetik, birinci sınıf karakter sanatı, 8K çözünürlük, Octane/Arnold tarzı render.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149390493_3akc2w_G_Pq-uHakAEI5re.jpg" width="600" alt="Oyun Varlığı - Ultra Detaylı 3D Stilize Karakter Tasarımı İstemleri - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [ailabs.zone](https://x.com/zhoumeng780)
-- **Kaynak:** [Twitter Post](https://x.com/zhoumeng780/status/2014211847579406750)
-- **Yayınlandı:** 22 Ocak 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=7232)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 6602 burada gösterilmeyen daha fazla istem
+### 🎯 6677 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8271,6 +7937,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-01-26T04:48:24.364Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-01-26T08:18:58.057Z</sub>
 
 </div>
