@@ -1,5 +1,5 @@
 
-> 💡 🆕 Nano Banana 2 來了！看看它與 Nano Banana Pro 的對比 👉 [體驗對比競技場](https://youmind.com/zh-TW/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro：𝕏 最熱 100 個提示詞逐一對比。Flash 級速度，積分消耗更低——大多數場景根本不需要 Pro 👉 [查看對比結果](https://youmind.com/zh-TW/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **10017** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年2月27日 星期五 凌晨1:22:48 [UTC]** |
+| 🔄 最後更新 | **2026年2月27日 星期五 凌晨2:46:11 [UTC]** |
 
 </div>
 
@@ -7179,6 +7179,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-27T01:22:48.868Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-27T02:46:11.468Z</sub>
 
 </div>

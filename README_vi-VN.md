@@ -1,5 +1,5 @@
 
-> 💡 🆕 Nano Banana 2 ra mắt! So sánh với Nano Banana Pro 👉 [Thử Arena](https://youmind.com/vi-VN/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro: 100 prompt viral trên 𝕏 được test song song. Tốc độ Flash, ít credits hơn — hầu hết không cần Pro 👉 [Xem kết quả](https://youmind.com/vi-VN/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Tuyển tập Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **10017** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 01:22:57 UTC Thứ Sáu, 27 tháng 2, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 02:46:30 UTC Thứ Sáu, 27 tháng 2, 2026** |
 
 </div>
 
@@ -7134,6 +7134,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-27T01:22:57.995Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-27T02:46:30.068Z</sub>
 
 </div>
