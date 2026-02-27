@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro: 100 prompts virales de 𝕏 comparados en paralelo. Velocidad Flash, menos créditos — la mayoría no necesita Pro 👉 [Ver resultados](https://youmind.com/es-419/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro: 100 prompts virales de 𝕏 comparados en paralelo. Velocidad Flash, a mitad de precio — la mayoría no necesita Pro 👉 [Ver resultados](https://youmind.com/es-419/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Prompts Increíbles de Nano Banana Pro
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **10017** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 27 de febrero de 2026, 2:46:43 a.m. UTC** |
+| 🔄 Última actualización | **viernes, 27 de febrero de 2026, 3:07:30 a.m. UTC** |
 
 </div>
 
@@ -7132,6 +7132,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T02:46:43.663Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T03:07:30.031Z</sub>
 
 </div>

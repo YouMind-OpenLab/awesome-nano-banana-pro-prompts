@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro：𝕏 人気トップ 100 プロンプトで徹底比較。Flash 速度・低コスト — ほとんどのケースで Pro は不要 👉 [結果を見る](https://youmind.com/ja-JP/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro：𝕏 人気トップ 100 プロンプトで徹底比較。Flash 速度・価格は半額 — ほとんどのケースで Pro は不要 👉 [結果を見る](https://youmind.com/ja-JP/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **10017** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年2月27日金曜日 2:46:16 UTC** |
+| 🔄 最終更新 | **2026年2月27日金曜日 3:07:03 UTC** |
 
 </div>
 
@@ -7182,6 +7182,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-02-27T02:46:16.080Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-02-27T03:07:03.541Z</sub>
 
 </div>

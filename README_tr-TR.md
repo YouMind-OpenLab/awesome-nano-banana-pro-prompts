@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro: 𝕏 en popüler 100 prompt yan yana test edildi. Flash hızı, daha az kredi — çoğu kullanım için Pro gerekmez 👉 [Sonuçları gör](https://youmind.com/tr-TR/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro: 𝕏 en popüler 100 prompt yan yana test edildi. Flash hızı, yarı fiyatına — çoğu kullanım için Pro gerekmez 👉 [Sonuçları gör](https://youmind.com/tr-TR/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Harika Nano Banana Pro İstemleri
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **10017** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **27 Şubat 2026 Cuma 02:47:09 UTC** |
+| 🔄 Son Güncelleme | **27 Şubat 2026 Cuma 03:07:54 UTC** |
 
 </div>
 
@@ -7132,6 +7132,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-27T02:47:09.574Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-27T03:07:54.228Z</sub>
 
 </div>

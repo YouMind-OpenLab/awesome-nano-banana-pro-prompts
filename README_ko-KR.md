@@ -1,5 +1,5 @@
 
-> 💡 ⚡ Nano Banana 2 vs Pro: 𝕏 인기 프롬프트 100개 나란히 비교. Flash 속도, 낮은 크레딧 — 대부분의 경우 Pro 불필요 👉 [결과 보기](https://youmind.com/ko-KR/model-arena/nano-banana-2-vs-nano-banana-pro)
+> 💡 ⚡ Nano Banana 2 vs Pro: 𝕏 인기 프롬프트 100개 나란히 비교. Flash 속도, 가격은 절반 — 대부분의 경우 Pro 불필요 👉 [결과 보기](https://youmind.com/ko-KR/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **10017** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 2월 27일 금요일 오전 2시 46분 20초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 2월 27일 금요일 오전 3시 7분 7초 UTC** |
 
 </div>
 
@@ -7128,6 +7128,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-27T02:46:20.660Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-27T03:07:07.567Z</sub>
 
 </div>
