@@ -95,7 +95,7 @@ const en: Translation = {
   title: 'Awesome Nano Banana Pro Prompts',
   gemini3Promo: 'If you\'re interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
   aiRecommendPromo: 'Agent Skill to find the prompts you want with one click 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)',
-  arenaPromo: '⚡ Nano Banana 2 vs Pro: 100 top 𝕏 prompts tested side-by-side. Flash speed, lower credits — most use cases don't need Pro 👉 [See the results]({{arenaUrl}})',
+  arenaPromo: '⚡ Nano Banana 2 vs Pro: 100 top 𝕏 prompts tested side-by-side. Flash speed, lower credits — most use cases don\'t need Pro 👉 [See the results]({{arenaUrl}})',
   christmasPromo: '🎄 We\'ve created a Nano Banana Pro Christmas Card Prompts collection, click [here 🔗]({{link}}) to try it out 🎁',
   subtitle: "A curated collection of creative prompts for Google's Nano Banana Pro",
   copyright: "**Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.",
