@@ -6393,6 +6393,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=YouMind-OpenLab_awesome-nano-banana-pro-prompts) - Follow developers on GitHub and get a feed of what they star and build.
 ## 📄 License
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
