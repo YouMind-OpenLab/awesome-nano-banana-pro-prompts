@@ -195,6 +195,7 @@ A wide quote card featuring a famous person, with a brown background and a light
 - **Source:** [Twitter Post](https://x.com/stark_nico99/status/1991718646570426763)
 - **Published:** November 21, 2025
 - **Languages:** zh
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=151)**
 
