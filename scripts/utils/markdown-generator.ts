@@ -112,8 +112,13 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale: str
 
 function generateHeader(locale: string): string {
   const arenaUrl = `https://youmind.com/${getLocalePrefix(locale)}/model-arena/nano-banana-2-vs-nano-banana-pro`;
+  const galleryUrl = `https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts`;
   return `
-> 💡 ${t('seedancePromo', locale)}
+<a href="${galleryUrl}">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 ${t('gptImage2Promo', locale)}
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
