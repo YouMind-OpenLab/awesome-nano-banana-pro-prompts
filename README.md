@@ -7,10 +7,6 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
-> 💡 <a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2">
-  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
 > 💡 🎨 Check out our GPT Image 2 Prompts Collection — the next-generation image model, updated daily 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Awesome Nano Banana Pro Prompts
 
@@ -149,7 +145,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **12588** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, April 22, 2026 at 8:30:38 AM UTC** |
+| 🔄 Last Updated | **Wednesday, April 22, 2026 at 9:57:55 AM UTC** |
 
 </div>
 
@@ -5713,6 +5709,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T08:30:39.355Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T09:57:55.626Z</sub>
 
 </div>
