@@ -145,7 +145,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **12633** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年4月24日金曜日 8:37:16 UTC** |
+| 🔄 最終更新 | **2026年4月24日金曜日 12:15:40 UTC** |
 
 </div>
 
@@ -1615,19 +1615,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - Cinematic night drive photography
+### No. 21: ソーシャルメディア投稿 - シネマティックな夜のドライブ写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+夜の街を走るモダンな車と、その中でハンドルを握るエレガントな女性を、ボケ味の効いた美しい光の中で写し出すフォトリアルなシーンを作成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"夜に車を運転するエレガントな若い女性\"}","focal_point":"詳細な顔の表情、穏やかな表情","apparel":"{argument name=\"clothing\" default=\"水色のストライプ柄の襟付きシャツ\"}","vehicle_interior":"モダンな車の車内、レザーシート、手前に見えるステアリングホイール","environment":{"setting":"{argument name=\"location\" default=\"夜の市街地\"}","background":"ぼやけた都会の光、ボケ味のある街灯","lighting":"ダッシュボードの光、シネマティックな影、高コントラスト"},"camera_settings":{"shot_type":"フロントガラス越しの視点","lens":"35mm 単焦点レンズ","aperture":"f/1.8","quality":"8k フォトリアル、シネマティックなフィルムグレイン"}}}
 ```
 
 #### 🖼️ 生成画像
@@ -1635,7 +1635,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="ソーシャルメディア投稿 - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="ソーシャルメディア投稿 - シネマティックな夜のドライブ写真 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5933,6 +5933,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-04-24T08:37:16.642Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-04-24T12:15:40.393Z</sub>
 
 </div>

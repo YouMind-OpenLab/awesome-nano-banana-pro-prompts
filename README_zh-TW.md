@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **12633** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年4月24日 星期五 上午8:37:12 [UTC]** |
+| 🔄 最後更新 | **2026年4月24日 星期五 中午12:15:38 [UTC]** |
 
 </div>
 
@@ -1615,19 +1615,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - Cinematic night drive photography
+### No. 21: 社群媒體貼文 - 電影感夜間駕駛攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+這是一份詳細的提示詞，用於創作一張寫實風格的攝影作品，描繪一位優雅女性在夜晚駕駛現代汽車穿梭於充滿散景效果的城市街道。
 
 #### 📝 提示詞
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"夜晚駕駛的年輕優雅女性\"}","focal_point":"細緻的面部特徵，冷靜的表情","apparel":"{argument name=\"clothing\" default=\"淺藍色條紋襯衫\"}","vehicle_interior":"現代汽車車廂，皮革座椅，前景為方向盤","environment":{"setting":"{argument name=\"location\" default=\"夜晚的城市街道\"}","background":"模糊的城市燈光，散景街燈","lighting":"儀表板光暈，電影感陰影，高對比度"},"camera_settings":{"shot_type":"前擋風玻璃視角","lens":"35mm 定焦鏡頭","aperture":"f/1.8","quality":"8k 寫實攝影，電影級膠片顆粒感"}}}
 ```
 
 #### 🖼️ 生成圖片
@@ -1635,7 +1635,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="社群媒體貼文 - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="社群媒體貼文 - 電影感夜間駕駛攝影 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5930,6 +5930,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-24T08:37:12.683Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-24T12:15:38.131Z</sub>
 
 </div>

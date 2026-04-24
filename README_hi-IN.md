@@ -145,7 +145,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **12633** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 8:37:32 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 12:15:48 pm UTC बजे** |
 
 </div>
 
@@ -1578,19 +1578,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - Cinematic night drive photography
+### No. 21: सोशल मीडिया पोस्ट - सिनेमैटिक नाइट ड्राइव फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+रात के समय शहर की सड़कों पर बोकेह (bokeh) इफेक्ट के साथ आधुनिक कार चलाती एक सुंदर महिला के फोटो-रियलिस्टिक दृश्य को बनाने के लिए एक विस्तृत प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"रात में गाड़ी चलाती एक युवा सुंदर महिला\"}","focal_point":"चेहरे की विस्तृत विशेषताएं, शांत अभिव्यक्ति","apparel":"{argument name=\"clothing\" default=\"हल्की नीली धारीदार कॉलर वाली शर्ट\"}","vehicle_interior":"आधुनिक कार का केबिन, लेदर की सीटें, सामने की ओर स्टीयरिंग व्हील","environment":{"setting":"{argument name=\"location\" default=\"रात में शहर की सड़क\"}","background":"धुंधली शहरी रोशनी, बोकेह स्ट्रीट लैंप","lighting":"डैशबोर्ड की चमक, सिनेमैटिक छाया, उच्च कंट्रास्ट"},"camera_settings":{"shot_type":"विंडशील्ड से सामने का दृश्य","lens":"35mm प्राइम","aperture":"f/1.8","quality":"8k फोटो-रियलिस्टिक, सिनेमैटिक फिल्म ग्रेन"}}}
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -1598,7 +1598,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="सोशल मीडिया पोस्ट - सिनेमैटिक नाइट ड्राइव फोटोग्राफी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5893,6 +5893,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T08:37:32.725Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T12:15:48.812Z</sub>
 
 </div>

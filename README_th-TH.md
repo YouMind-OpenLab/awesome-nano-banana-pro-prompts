@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **12633** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 8 นาฬิกา 37 นาที 24 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 12 นาฬิกา 15 นาที 44 วินาที UTC** |
 
 </div>
 
@@ -1615,19 +1615,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - Cinematic night drive photography
+### No. 21: โพสต์บนโซเชียลมีเดีย - การถ่ายภาพการขับรถยามค่ำคืนในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+คำสั่ง (prompt) โดยละเอียดสำหรับการสร้างภาพถ่ายที่สมจริงของหญิงสาวผู้สง่างามกำลังขับรถยนต์สมัยใหม่ในยามค่ำคืน ท่ามกลางถนนในเมืองที่เต็มไปด้วยแสงโบเก้
 
 #### 📝 คำสั่ง
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"หญิงสาวผู้สง่างามกำลังขับรถในยามค่ำคืน\"}","focal_point":"รายละเอียดใบหน้าชัดเจน สีหน้าสงบนิ่ง","apparel":"{argument name=\"clothing\" default=\"เสื้อเชิ้ตคอปกแขนยาวลายทางสีฟ้าอ่อน\"}","vehicle_interior":"ห้องโดยสารรถยนต์สมัยใหม่ เบาะหนัง พวงมาลัยอยู่ด้านหน้า","environment":{"setting":"{argument name=\"location\" default=\"ถนนในเมืองยามค่ำคืน\"}","background":"แสงไฟในเมืองที่เบลอเป็นโบเก้ ไฟถนน","lighting":"แสงจากหน้าปัดรถยนต์ เงาแบบภาพยนตร์ คอนทราสต์สูง"},"camera_settings":{"shot_type":"มุมมองจากกระจกหน้า","lens":"เลนส์ฟิกซ์ 35 มม.","aperture":"f/1.8","quality":"สมจริงระดับ 8k มีเกรนฟิล์มแบบภาพยนตร์"}}}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1635,7 +1635,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพการขับรถยามค่ำคืนในสไตล์ภาพยนตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5930,6 +5930,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T08:37:24.392Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T12:15:44.927Z</sub>
 
 </div>

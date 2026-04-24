@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **12633** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 08:38:03 UTC** |
+| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 12:16:06 UTC** |
 
 </div>
 
@@ -1578,19 +1578,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Cinematic night drive photography
+### No. 21: Sosyal Medya Gönderisi - Sinematik gece sürüşü fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+Modern bir otomobili gece vakti, bokeh efektli bir şehir caddesinde süren zarif bir kadının fotogerçekçi sahnesini oluşturmak için detaylı bir komut.
 
 #### 📝 İstem
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Gece araba süren genç ve zarif bir kadın\"}","focal_point":"Detaylı yüz hatları, sakin ifade","apparel":"{argument name=\"clothing\" default=\"Açık mavi çizgili yakalı gömlek\"}","vehicle_interior":"Modern araç içi, deri koltuklar, ön planda direksiyon simidi","environment":{"setting":"{argument name=\"location\" default=\"Gece şehir caddesi\"}","background":"Bulanık şehir ışıkları, bokeh sokak lambaları","lighting":"Ön panel parıltısı, sinematik gölgeler, yüksek kontrast"},"camera_settings":{"shot_type":"Ön camdan görünüm","lens":"35mm prime","aperture":"f/1.8","quality":"8k fotogerçekçi, sinematik film greni"}}}
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1598,7 +1598,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Sinematik gece sürüşü fotoğrafçılığı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5893,6 +5893,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T08:38:03.781Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T12:16:06.456Z</sub>
 
 </div>

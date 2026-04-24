@@ -145,7 +145,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **12633** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 08:37:48 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 12:15:57 UTC** |
 
 </div>
 
@@ -1615,19 +1615,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publication sur les réseaux sociaux - Cinematic night drive photography
+### No. 21: Publication sur les réseaux sociaux - Photographie cinématographique de conduite nocturne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+Un prompt détaillé pour créer une scène photoréaliste d'une femme élégante conduisant une voiture moderne de nuit dans une rue urbaine avec un effet bokeh.
 
 #### 📝 Prompt
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Jeune femme élégante conduisant de nuit\"}","focal_point":"Traits du visage détaillés, expression calme","apparel":"{argument name=\"clothing\" default=\"Chemise à col rayée bleu clair\"}","vehicle_interior":"Habitacle de voiture moderne, sièges en cuir, volant au premier plan","environment":{"setting":"{argument name=\"location\" default=\"Rue urbaine de nuit\"}","background":"Lumières urbaines floues, effet bokeh des lampadaires","lighting":"Lueur du tableau de bord, ombres cinématographiques, contraste élevé"},"camera_settings":{"shot_type":"Vue frontale à travers le pare-brise","lens":"35mm fixe","aperture":"f/1.8","quality":"Photoréalisme 8k, grain de film cinématographique"}}}
 ```
 
 #### 🖼️ Images générées
@@ -1635,7 +1635,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Publication sur les réseaux sociaux - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Publication sur les réseaux sociaux - Photographie cinématographique de conduite nocturne - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5928,6 +5928,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T08:37:48.378Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T12:15:57.611Z</sub>
 
 </div>

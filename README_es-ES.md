@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **12633** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 24 de abril de 2026, 8:37:36 UTC** |
+| 🔄 Última actualización | **viernes, 24 de abril de 2026, 12:15:51 UTC** |
 
 </div>
 
@@ -1578,19 +1578,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Cinematic night drive photography
+### No. 21: Publicación en redes sociales - Fotografía cinematográfica de conducción nocturna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A detailed prompt for creating a photorealistic scene of an elegant woman driving a modern car at night through a bokeh-filled city street.
+Un prompt detallado para crear una escena fotorrealista de una mujer elegante conduciendo un coche moderno por la noche a través de una calle urbana con efecto bokeh.
 
 #### 📝 Prompt
 
 ```
-{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Young elegant woman driving at night\"}","focal_point":"Detailed facial features, calm expression","apparel":"{argument name=\"clothing\" default=\"Light blue striped collared shirt\"}","vehicle_interior":"Modern car cabin, leather seats, steering wheel in foreground","environment":{"setting":"{argument name=\"location\" default=\"City street at night\"}","background":"Blurred urban lights, bokeh street lamps","lighting":"Dashboard glow, cinematic shadows, high contrast"},"camera_settings":{"shot_type":"Frontal windshield view","lens":"35mm prime","aperture":"f/1.8","quality":"8k photorealistic, cinematic film grain"}}}
+{"image_parameters":{"subject":"{argument name=\"subject\" default=\"Mujer joven y elegante conduciendo de noche\"}","focal_point":"Rasgos faciales detallados, expresión serena","apparel":"{argument name=\"clothing\" default=\"Camisa de cuello a rayas azul claro\"}","vehicle_interior":"Interior de coche moderno, asientos de cuero, volante en primer plano","environment":{"setting":"{argument name=\"location\" default=\"Calle de la ciudad de noche\"}","background":"Luces urbanas desenfocadas, efecto bokeh de farolas","lighting":"Brillo del tablero, sombras cinematográficas, alto contraste"},"camera_settings":{"shot_type":"Vista frontal desde el parabrisas","lens":"35mm prime","aperture":"f/1.8","quality":"Fotorrealismo 8k, grano de película cinematográfica"}}
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1598,7 +1598,7 @@ A detailed prompt for creating a photorealistic scene of an elegant woman drivin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Publicación en redes sociales - Cinematic night drive photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777014242370_b0teu0_HGpnKwbWYAAobHQ.jpg" width="600" alt="Publicación en redes sociales - Fotografía cinematográfica de conducción nocturna - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5893,6 +5893,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-24T08:37:36.724Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-24T12:15:51.046Z</sub>
 
 </div>
