@@ -145,7 +145,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **12800** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年4月29日水曜日 8:42:24 UTC** |
+| 🔄 最終更新 | **2026年4月29日水曜日 12:25:44 UTC** |
 
 </div>
 
@@ -654,18 +654,18 @@ Grok からの検索結果
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - Cinematic Penthouse Portrait of Celeste
+### No. 1: プロフィール / アバター - Celeste のシネマティックなペントハウスポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-A detailed prompt for generating a high-resolution, photorealistic portrait of a blonde woman in an emerald silk dress in a luxury penthouse setting during the golden hour.
+ゴールデンアワーの豪華なペントハウスを舞台に、エメラルドグリーンのシルクドレスを纏ったブロンド女性の高解像度でフォトリアルなポートレートを生成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A medium shot of a captivating young woman with a platinum blonde bob, pale skin with delicate beauty marks, steel grey eyes, and a slim graceful silhouette, sitting by a large window in a penthouse looking over the city. She wears an elegant emerald silk slip dress with a plunging neckline. Soft golden hour sunlight streaming through the glass. High-resolution, photorealistic, realistic photography style, cinematic lighting, sharp focus. A half-empty crystal champagne glass rests on the table beside her, condensation gleaming as it catches the warm light. A close-up portrait of the same woman in the penthouse, looking back over her shoulder with a confident, direct gaze. She wears the same emerald silk slip dress. The warm ambient lighting highlights the smooth textures of her pale skin. Highly detailed realistic photography, shallow depth of field, soft bokeh background with out-of-focus city lights. The golden hour light reflects subtly in her steel grey eyes.
+プラチナブロンドのボブヘア、繊細なほくろのある色白の肌、スチールグレーの瞳、そしてスリムで優美なシルエットを持つ魅力的な若い女性のミディアムショット。彼女は街を見下ろすペントハウスの大きな窓際に座っています。胸元が大きく開いたエレガントなエメラルドグリーンのシルクスリップドレスを着用。窓からはゴールデンアワーの柔らかな陽光が差し込んでいます。高解像度、フォトリアル、リアルな写真スタイル、シネマティックなライティング、シャープなフォーカス。彼女の隣のテーブルには中身が半分入ったクリスタルのシャンパングラスが置かれ、結露が温かい光を反射して輝いています。同じ女性のペントハウスでのクローズアップポートレート。自信に満ちた真っ直ぐな視線で肩越しに振り返る姿。同じエメラルドグリーンのシルクスリップドレスを着用。温かみのある環境光が、彼女の滑らかな肌の質感を際立たせています。非常に詳細なリアルな写真、浅い被写界深度、背景にはぼやけた街の明かりがソフトなボケ味として表現されています。ゴールデンアワーの光が、彼女のスチールグレーの瞳にほのかに反射しています。
 ```
 
 #### 🖼️ 生成画像
@@ -673,7 +673,7 @@ A medium shot of a captivating young woman with a platinum blonde bob, pale skin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447788782_ytydjq_HHAnW8ub0AA2NiH.jpg" width="600" alt="プロフィール / アバター - Cinematic Penthouse Portrait of Celeste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447788782_ytydjq_HHAnW8ub0AA2NiH.jpg" width="600" alt="プロフィール / アバター - Celeste のシネマティックなペントハウスポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -687,19 +687,19 @@ A medium shot of a captivating young woman with a platinum blonde bob, pale skin
 
 ---
 
-### No. 2: プロフィール / アバター - Studio Portrait with Persian Cat
+### No. 2: プロフィール / アバター - ペルシャ猫とスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A elegant studio portrait prompt featuring a woman in a dusty rose dress holding a white Persian cat against a black background.
+ダスティローズのドレスを纏い、白いペルシャ猫を抱いた女性を黒背景で捉えた、エレガントなスタジオポートレートのプロンプト。
 
 #### 📝 プロンプト
 
 ```
-​A high-quality studio portrait of a {argument name="subject" default="smiling young woman with long, wavy brunette hair"}, sitting gracefully on a velvet ottoman. She is wearing a floor-length, flowing {argument name="dress" default="dusty rose maxi dress"} with three-quarter sleeves. She is cradling a {argument name="pet" default="large, fluffy white Persian cat"} in her lap. The background is a solid matte black, creating a sharp contrast. The lighting is soft and directional, highlighting the textures of the dress and the cat's fur.
+ベルベットのオットマンに優雅に座る {argument name="subject" default="長くウェーブのかかったブルネットヘアの微笑む若い女性"} を捉えた、高品質なスタジオポートレート。彼女は、七分袖の床まで届く流れるような {argument name="dress" default="ダスティローズのマキシ丈ドレス"} を着用しています。膝の上には {argument name="pet" default="大きくふわふわした白いペルシャ猫"} を抱いています。背景はマットな黒一色で、鋭いコントラストを生み出しています。照明は柔らかく指向性があり、ドレスの質感と猫の毛並みを際立たせています。
 ```
 
 #### 🖼️ 生成画像
@@ -707,7 +707,7 @@ A elegant studio portrait prompt featuring a woman in a dusty rose dress holding
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447792600_wi88a6_HHARJq5bYAEV6gE.jpg" width="600" alt="プロフィール / アバター - Studio Portrait with Persian Cat - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447792600_wi88a6_HHARJq5bYAEV6gE.jpg" width="600" alt="プロフィール / アバター - ペルシャ猫とスタジオポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -721,19 +721,19 @@ A elegant studio portrait prompt featuring a woman in a dusty rose dress holding
 
 ---
 
-### No. 3: プロフィール / アバター - Graphic Portrait with Optical Illusion Background
+### No. 3: プロフィール / アバター - 錯視背景のグラフィカルなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for a high-definition portrait of a young man against a striped background that creates an optical illusion, featuring specific textures and lighting.
+錯視を生み出すストライプ柄の背景に、特定の質感とライティングを施した、若者の高精細なポートレートを作成するためのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A medium close-up, high-definition portrait photo of a handsome young man with striking {argument name="eye color" default="green"} eyes, dark {argument name="hair style" default="styled"} hair, and defined facial features. He is looking directly at the camera with a calm, neutral expression. The man is wearing dark blue over-ear noise-canceling headphones. His outfit consists of an oversized, distressed {argument name="hoodie color" default="olive-green"} hoodie, which has small distressed details on the hood and pocket, layered over a black t-shirt. He is also wearing dark grey cargo pants. He is seated on a surface that has a bold pattern of black and off-white vertical stripes, which continues into the background wall with the same pattern, creating a graphic, optical illusion effect. His pose is relaxed, with his right hand casually resting in his pocket and his left hand on his thigh, showing a simple silver band ring on his finger. The lighting is clean and even, highlighting the textures of his skin, the fabric of the hoodie, and the patterns. The composition is centered.
+鮮やかな {argument name="eye color" default="緑色"} の瞳、ダークトーンの {argument name="hair style" default="スタイリングされた"} ヘア、そしてはっきりとした顔立ちが特徴的な、ハンサムな若者の高精細なミディアムクローズアップポートレート写真。彼は落ち着いたニュートラルな表情でカメラを真っ直ぐに見つめている。耳にはダークブルーのオーバーイヤー型ノイズキャンセリングヘッドホンを装着。服装は、フードとポケットに小さなダメージ加工が施されたオーバーサイズの {argument name="hoodie color" default="オリーブグリーン"} のフーディーを着用し、その下に黒の T シャツを重ね着している。ボトムスはダークグレーのカーゴパンツ。彼は黒とオフホワイトの太い縦縞模様が施された場所に座っており、その模様は背景の壁まで続いており、グラフィカルな錯視効果を生み出している。ポーズはリラックスしており、右手はポケットに自然に入れ、左手は太ももの上に置かれ、指にはシンプルなシルバーのバンドリングが光る。ライティングはクリーンで均一であり、肌の質感、フーディーの生地、そして背景のパターンを際立たせている。構図は中央配置。
 ```
 
 #### 🖼️ 生成画像
@@ -741,7 +741,7 @@ A medium close-up, high-definition portrait photo of a handsome young man with s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447795691_ebcwxr_HG_9EWTbIAARw4l.jpg" width="600" alt="プロフィール / アバター - Graphic Portrait with Optical Illusion Background - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447795691_ebcwxr_HG_9EWTbIAARw4l.jpg" width="600" alt="プロフィール / アバター - 錯視背景のグラフィカルなポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -755,19 +755,19 @@ A medium close-up, high-definition portrait photo of a handsome young man with s
 
 ---
 
-### No. 4: プロフィール / アバター - Professional Ash-Blonde Bob Portrait
+### No. 4: プロフィール / アバター - プロフェッショナルなアッシュブロンド・ボブのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-An elegant studio portrait prompt featuring a woman with an ash-blonde bob and metallic turtleneck using Rembrandt lighting.
+アッシュブロンドのボブヘアとメタリックなタートルネックを身にまとった女性を、レンブラントライティングで撮影したエレガントなスタジオポートレート用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A professional studio portrait of a woman with a {argument name="hair style" default="textured, ash-blonde bob"}, featuring a sophisticated and confident expression. She wears a {argument name="clothing" default="high-neck, shimmering charcoal metallic turtleneck"} that creates a distinct sparkle against a deep, seamless black background. The image is defined by dramatic "{argument name="lighting" default="Rembrandt"}" lighting, highlighting the contours of her face and the intricate, tinsel-like texture of her clothing for a high-contrast, elegant aesthetic.
+洗練された自信に満ちた表情を浮かべる、{argument name="hair style" default="質感のあるアッシュブロンドのボブヘア"}の女性のプロフェッショナルなスタジオポートレート。彼女は、深みのあるシームレスな黒の背景に際立つ輝きを放つ、{argument name="clothing" default="ハイネックのきらめくチャコールメタリック・タートルネック"}を着用しています。この画像は、ドラマチックな「{argument name="lighting" default="レンブラント"}」ライティングによって定義されており、顔の輪郭と衣服の繊細なきらめく質感を強調し、コントラストの効いたエレガントな美しさを表現しています。
 ```
 
 #### 🖼️ 生成画像
@@ -775,7 +775,7 @@ A professional studio portrait of a woman with a {argument name="hair style" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447801606_kl6d3o_HG_bWaFaAAAqpxk.jpg" width="600" alt="プロフィール / アバター - Professional Ash-Blonde Bob Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447801606_kl6d3o_HG_bWaFaAAAqpxk.jpg" width="600" alt="プロフィール / アバター - プロフェッショナルなアッシュブロンド・ボブのポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -789,50 +789,50 @@ A professional studio portrait of a woman with a {argument name="hair style" def
 
 ---
 
-### No. 5: プロフィール / アバター - Romantic Whimsical Garden Portrait
+### No. 5: プロフィール / アバター - ロマンチックで幻想的なガーデンポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A structured structured prompt for a serene, romantic garden path scene featuring a subject in a yellow midi dress during golden hour.
+ゴールデンアワーの光の中、黄色いミディ丈のドレスをまとった被写体が佇む、穏やかでロマンチックな庭園の小道のシーンを生成するための構成されたプロンプトです。
 
 #### 📝 プロンプト
 
 ```
 {
   "subject": {
-    "identity": "{argument name="subject" default="Woman from reference image"}",
-    "pose": "Standing, looking upward toward the sky",
-    "expression": "Serene, romantic, hopeful",
-    "hair": "Long, dark, wavy, flowing"
+    "identity": "{argument name="subject" default="参照画像の女性"}",
+    "pose": "立ち姿、空を見上げている",
+    "expression": "穏やか、ロマンチック、希望に満ちた",
+    "hair": "長く、ダークな、ウェーブのかかった、流れるような髪"
   },
   "wardrobe": {
-    "style": "Romantic feminine aesthetic",
-    "garment": "Midi dress",
-    "color": "{argument name="outfit color" default="Soft buttery yellow"}",
+    "style": "ロマンチックでフェミニンな美学",
+    "garment": "ミディ丈のドレス",
+    "color": "{argument name="outfit color" default="柔らかなバターイエロー"}",
     "details": [
-      "Puff sleeves",
-      "Sweetheart neckline",
-      "Lace trim accents",
-      "Cinched waist"
+      "パフスリーブ",
+      "スウィートハートネックライン",
+      "レースのトリムアクセント",
+      "ウエストシェイプ"
     ],
-    "footwear": "Red stiletto heels"
+    "footwear": "赤いスティレットヒール"
   },
   "environment": {
-    "background": "Dreamy garden path",
-    "lighting": "Golden hour, soft sunlight, natural glow",
+    "background": "夢のような庭園の小道",
+    "lighting": "ゴールデンアワー、柔らかな太陽光、自然な輝き",
     "elements": [
-      "Lush greenery",
-      "Blurred floral background",
-      "Dirt pathway"
+      "青々とした緑",
+      "ぼかした花の背景",
+      "土の小道"
     ]
   },
   "special_effects": {
-    "action": "{argument name="action" default="Two small birds kissing/touching beaks in the sky"}",
-    "focal_length": "Portrait mode, shallow depth of field (bokeh)",
-    "atmosphere": "Whimsical, soft focus"
+    "action": "{argument name="action" default="空で2羽の小鳥がキスをしている、またはくちばしを合わせている"}",
+    "focal_length": "ポートレートモード、浅い被写界深度（ボケ味）",
+    "atmosphere": "幻想的、ソフトフォーカス"
   }
 }
 ```
@@ -842,7 +842,7 @@ A structured structured prompt for a serene, romantic garden path scene featurin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447794876_fwg624_HG_Bu2MbQAAAT2h.jpg" width="600" alt="プロフィール / アバター - Romantic Whimsical Garden Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447794876_fwg624_HG_Bu2MbQAAAT2h.jpg" width="600" alt="プロフィール / アバター - ロマンチックで幻想的なガーデンポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -856,19 +856,19 @@ A structured structured prompt for a serene, romantic garden path scene featurin
 
 ---
 
-### No. 6: プロフィール / アバター - Portrait of a Woman with Emerald Ring
+### No. 6: プロフィール / アバター - エメラルドの指輪をつけた女性のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A studio portrait prompt focusing on accessories like gold hoop earrings and a large emerald signet ring.
+ゴールドのフープピアスや大きなエメラルドのシグネットリングといったアクセサリーに焦点を当てた、スタジオポートレート用のプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-​A high-quality, close-up portrait of a {argument name="subject" default="smiling woman with dark, shoulder-length hair"} tucked behind her ears. She has a warm, approachable expression and prominent freckles across her nose and cheeks. She is wearing {argument name="jewelry" default="gold hoop earrings and a large, gold signet ring featuring a square-cut vibrant emerald green gemstone"}. Her hand is gracefully placed near her collarbone. She is dressed in a {argument name="attire" default="simple, charcoal gray textured top"}. The background is a soft, out-of-focus neutral gray and beige texture, creating a professional and elegant aesthetic with natural, soft lighting.
+肩までの長さのダークヘアを耳にかけた {argument name="subject" default="微笑む女性"} の高品質なクローズアップポートレート。温かく親しみやすい表情で、鼻と頬にはそばかすが目立ちます。{argument name="jewelry" default="ゴールドのフープピアスと、鮮やかなエメラルドグリーンのスクエアカットの宝石があしらわれた大きなゴールドのシグネットリング"} を身につけています。手は鎖骨の近くに優雅に添えられています。{argument name="attire" default="シンプルなチャコールグレーのテクスチャード加工トップス"} を着用。背景はソフトでピントのぼけたニュートラルなグレーとベージュの質感で、自然で柔らかな光がプロフェッショナルでエレガントな美しさを演出しています。
 ```
 
 #### 🖼️ 生成画像
@@ -876,7 +876,7 @@ A studio portrait prompt focusing on accessories like gold hoop earrings and a l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447790067_vywrai_HG-bt0sagAAwjuX.jpg" width="600" alt="プロフィール / アバター - Portrait of a Woman with Emerald Ring - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447790067_vywrai_HG-bt0sagAAwjuX.jpg" width="600" alt="プロフィール / アバター - エメラルドの指輪をつけた女性のポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -890,19 +890,19 @@ A studio portrait prompt focusing on accessories like gold hoop earrings and a l
 
 ---
 
-### No. 7: プロフィール / アバター - Dramatic Cinematic Silhouette
+### No. 7: プロフィール / アバター - ドラマチックなシネマティック・シルエット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A stylized cinematic silhouette prompt using a double exposure effect and strong red lighting to create a moody and emotional portrait.
+二重露光効果と鮮烈な赤いライティングを用い、情緒的でムードのあるポートレートを描き出す、スタイライズされたシネマティック・シルエットのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Dramatic {argument name="color scheme" default="red"} cinematic silhouette portrait of a young women in side profile, messy hair, wearing a {argument name="clothing item" default="hoodie"}, touching his temple with his fin gers in a thoughtful pose, strong {argument name="lighting color" default="red"} lighting and deep shadows, dark black silhouette with glowing red highlights, double exposure effect with a large shadow of the same person behind him, minimal back ground with soft red and gray gradient, moody and emotional atmo sphere, high contrast lighting, digital art style, cinematic composition, soft haze, depth.
+ドラマチックな {argument name="color scheme" default="赤"} のシネマティック・シルエットのポートレート、横顔の若い女性、乱れた髪、{argument name="clothing item" default="パーカー"} を着用、思索にふけるポーズで指をこめかみに当てている、強い {argument name="lighting color" default="赤"} のライティングと深い影、鮮やかな赤いハイライトが入ったダークな黒のシルエット、背後に同じ人物の大きな影を重ねた二重露光効果、ソフトな赤とグレーのグラデーションによるミニマルな背景、ムードのある情緒的な雰囲気、高コントラストなライティング、デジタルアートスタイル、シネマティックな構図、ソフトなヘイズ、奥行き。
 ```
 
 #### 🖼️ 生成画像
@@ -910,7 +910,7 @@ Dramatic {argument name="color scheme" default="red"} cinematic silhouette portr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447800481_jfqort_HG-JEVQaYAA-gax.jpg" width="600" alt="プロフィール / アバター - Dramatic Cinematic Silhouette - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447800481_jfqort_HG-JEVQaYAA-gax.jpg" width="600" alt="プロフィール / アバター - ドラマチックなシネマティック・シルエット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -924,40 +924,40 @@ Dramatic {argument name="color scheme" default="red"} cinematic silhouette portr
 
 ---
 
-### No. 8: プロフィール / アバター - Ultra Realistic Editorial Portrait Prompt
+### No. 8: プロフィール / アバター - 超リアルなエディトリアルポートレート用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-A detailed prompt for generating high-end editorial fashion photography with specific instructions for preserving facial identity, skin texture, and cinematic lighting effects.
+顔のアイデンティティ、肌の質感、映画のようなライティング効果を維持するための、ハイエンドなエディトリアルファッション写真生成用詳細プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Use the uploaded photo as the identity reference and preserve 100% of the original facial identity, proportions, skin tone and unique features.
+アップロードされた写真をアイデンティティの参照元として使用し、元の顔のアイデンティティ、プロポーション、肌の色、および独自の特徴を 100% 維持してください。
 
-Ultra realistic editorial portrait, vertical composition, subject leaning forward toward the camera with hands clasped near the chin.
+超リアルなエディトリアルポートレート、縦構図、被写体はカメラに向かって前傾姿勢、顎の近くで手を組んでいる。
 
-Pose: both forearms forward, fingers interlaced, one finger slightly raised near lips, hands in foreground with natural anatomy.
+ポーズ：両前腕を前に出し、指を組み、片方の指を唇の近くに軽く上げ、手は前景に配置し、自然な解剖学的構造を維持。
 
-Expression: calm, focused, intense eye contact.
+表情：穏やかで集中した、強烈なアイコンタクト。
 
-Face must remain identical with ultra-realistic skin texture, visible pores, natural imperfections.
+顔は完全に同一である必要があり、超リアルな肌の質感、目に見える毛穴、自然な欠陥を再現すること。
 
-Hair: natural texture with realistic strands and volume.
+髪：リアルな毛束とボリューム感のある自然な質感。
 
-Outfit: black button-up shirt with open collar, metallic accessories (bracelet, watch, chain).
+服装：襟を開いた黒のボタンアップシャツ、メタリックなアクセサリー（ブレスレット、時計、チェーン）。
 
-Lighting: cinematic low-key lighting with green/cyan rim light on one side and red/orange rim light on the other, soft frontal fill for facial visibility.
+ライティング：映画のようなローキーライティング。片側にグリーン/シアンのリムライト、もう片側にレッド/オレンジのリムライトを配置し、顔の視認性を高めるための柔らかなフロントフィルライトを使用。
 
-Background: dark studio background, almost black, minimal.
+背景：ダークなスタジオ背景、ほぼ黒、ミニマル。
 
-Camera: medium format look (Hasselblad / Fujifilm), 80mm lens, shallow depth of field, sharp focus on face and hands.
+カメラ：中判カメラのルック（Hasselblad / Fujifilm）、80mm レンズ、浅い被写界深度、顔と手にシャープなピント。
 
-Editorial fashion photography, cinematic lighting, high-end commercial quality, realistic textures, no artificial look.
+エディトリアルファッション写真、映画のようなライティング、ハイエンドな商業品質、リアルな質感、人工的なルックは排除。
 
-Camera RAW: texture +10, clarity +10, sharpness +8
+Camera RAW：テクスチャ +10、明瞭度 +10、シャープネス +8
 ```
 
 #### 🖼️ 生成画像
@@ -965,7 +965,7 @@ Camera RAW: texture +10, clarity +10, sharpness +8
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447792607_9n7a8a_HG9dZQxaEAAABTt.jpg" width="600" alt="プロフィール / アバター - Ultra Realistic Editorial Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447792607_9n7a8a_HG9dZQxaEAAABTt.jpg" width="600" alt="プロフィール / アバター - 超リアルなエディトリアルポートレート用プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1480,19 +1480,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - Fisheye Lens Slushy Ice Portrait
+### No. 21: ソーシャルメディア投稿 - 魚眼レンズで捉えたスラッシーアイス越しのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A stylized fisheye lens prompt focusing on a woman's facial features through a container of pink slushy ice, optimized for hyper-realism.
+ピンク色のスラッシーアイスが入った容器越しに女性の顔立ちを捉える、ハイパーリアリズムに最適化されたスタイリッシュな魚眼レンズ用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A high-angle fisheye lens shot captures a young {argument name="ethnicity" default="[reference image ethnicity]"} woman with striking, model-like features based on the reference image, framed dramatically through the transparent opening of a container filled with {argument name="ice color" default="slushy pink ice"}. Hyper-realistic human skin texture with visible natural pores, fine micro-details, subtle imperfections, and realistic tonal variation; soft cinematic lighting interacting naturally with skin surface; authentic subsurface scattering for lifelike depth balanced matte and natural sheen (no plastic or waxy look); ultra-photoreal finish with film-grade detail, high dynamic range.
+ハイアングルの魚眼レンズで、参照画像に基づいた印象的でモデルのような顔立ちの {argument name="ethnicity" default="[参照画像の民族]"} 女性を捉える。{argument name="ice color" default="ピンク色のスラッシーアイス"} で満たされた容器の透明な開口部越しにドラマチックにフレーミング。自然な毛穴、微細なディテール、わずかな不完全さ、リアルな色調変化を備えたハイパーリアリスティックな肌の質感。肌の表面と自然に相互作用する柔らかなシネマティックライティング。プラスチックやワックスのような質感のない、マットさと自然な光沢のバランスが取れた、生き生きとした深みのある本格的なサブサーフェス・スキャタリング（表面下散乱）。フィルムグレードのディテールと高いダイナミックレンジを備えた、超フォトリアルな仕上がり。
 ```
 
 #### 🖼️ 生成画像
@@ -1500,7 +1500,7 @@ A high-angle fisheye lens shot captures a young {argument name="ethnicity" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447797190_i3xcm7_HHAj4vsbkAAf0r7.jpg" width="600" alt="ソーシャルメディア投稿 - Fisheye Lens Slushy Ice Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447797190_i3xcm7_HHAj4vsbkAAf0r7.jpg" width="600" alt="ソーシャルメディア投稿 - 魚眼レンズで捉えたスラッシーアイス越しのポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1514,19 +1514,19 @@ A high-angle fisheye lens shot captures a young {argument name="ethnicity" defau
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - Italian Café Pizza Scene
+### No. 22: ソーシャルメディア投稿 - イタリアのカフェでのピザシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A travel-style photography prompt aimed at generating a realistic image of a man eating pizza at an Italian cafe while maintaining face consistency.
+イタリアのカフェでピザを食べる男性のリアルな画像を、顔の整合性を保ちながら生成するためのトラベルスタイルの写真プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A handsome man attached in the uploaded reference image (keep the face of the person 100% accurate from the reference image) sits at a sunlit Italian café table, holding a slice of {argument name="pizza type" default="margherita pizza"} while making direct eye contact with the camera through {argument name="accessories" default="stylish dark sunglasses with soft reflections"}, smiling confidently. He wears a {argument name="clothing" default="light green linen shirt"} and a simple gold bracelet. A full Neapolitan pizza with fresh basil leaves is placed on the wooden table. The surroundings include yellow café chairs, cobblestone streets, flower pots, and Italian street signs mounted on stone walls. The warm Italian afternoon sun creates a cozy golden atmosphere across the entire frame. No blur — every element remains crisp, detailed, and perfectly in focus. Ultra-realistic street café photography. Aspect ratio 4:6
+アップロードされた参照画像に写るハンサムな男性（参照画像の人物の顔を 100% 正確に維持すること）が、陽光あふれるイタリアのカフェのテーブルに座っている。{argument name="pizza type" default="マルゲリータピザ"} のスライスを手に持ち、{argument name="accessories" default="柔らかな反射を伴うスタイリッシュなダークサングラス"} 越しにカメラをまっすぐ見つめ、自信に満ちた笑顔を浮かべている。彼は {argument name="clothing" default="ライトグリーンのリネンシャツ"} を着用し、シンプルなゴールドのブレスレットを身につけている。新鮮なバジルの葉が乗ったナポリ風ピザが木製のテーブルに置かれている。周囲には黄色いカフェチェア、石畳の通り、植木鉢、石壁に取り付けられたイタリアの道路標識が見える。イタリアの午後の暖かい日差しが、フレーム全体に心地よい黄金色の雰囲気を作り出している。ぼかしは一切なし。すべての要素が鮮明で詳細、かつ完璧にピントが合っていること。超リアルなストリートカフェ写真。アスペクト比 4:6
 ```
 
 #### 🖼️ 生成画像
@@ -1534,7 +1534,7 @@ A handsome man attached in the uploaded reference image (keep the face of the pe
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447797612_uqnrm1_HHABRquagAAr6tm.jpg" width="600" alt="ソーシャルメディア投稿 - Italian Café Pizza Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447797612_uqnrm1_HHABRquagAAr6tm.jpg" width="600" alt="ソーシャルメディア投稿 - イタリアのカフェでのピザシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1548,19 +1548,19 @@ A handsome man attached in the uploaded reference image (keep the face of the pe
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - Urban Fashion Portrait
+### No. 23: ソーシャルメディア投稿 - 都会的なファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for an urban-style portrait featuring a woman against a gritty graffiti background with realistic skin textures.
+都会的なスタイルのポートレート用プロンプト。グラフィティが描かれた無骨な背景と、リアルな肌の質感が特徴です。
 
 #### 📝 プロンプト
 
 ```
-A high-angle shot depicts a young {argument name="ethnicity" default="[reference image ethnicity]"} woman with distinct model-like features based on the reference image, crouching on an urban sidewalk against a {argument name="background element" default="graffiti-covered metal shutter layered in gritty tones of gray, red, and black"}. Hyper-realistic human skin texture with visible natural pores, fine micro-details, subtle imperfections, and realistic tonal variation; soft cinematic lighting interacting naturally with skin surface; authentic subsurface scattering for lifelike depth.
+ハイアングルから撮影された、{argument name="ethnicity" default="[参照画像の民族]"} の若い女性の姿。参照画像に基づいたモデルのような際立った特徴を持ち、都会の歩道でしゃがみ込んでいる。背景には {argument name="background element" default="グレー、赤、黒の無骨な色調が重なり合う、グラフィティで覆われた金属製のシャッター"}。自然な毛穴、微細なディテール、わずかな不完全さまで再現されたハイパーリアルな肌の質感。肌の表面に自然に馴染む柔らかなシネマティックライティングと、生命感あふれる奥行きを生み出すリアルなサブサーフェス・スキャタリング（表面下散乱）を表現。
 ```
 
 #### 🖼️ 生成画像
@@ -1568,7 +1568,7 @@ A high-angle shot depicts a young {argument name="ethnicity" default="[reference
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447799813_w556xm_HG-3GWwaUAAYDRT.jpg" width="600" alt="ソーシャルメディア投稿 - Urban Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447799813_w556xm_HG-3GWwaUAAYDRT.jpg" width="600" alt="ソーシャルメディア投稿 - 都会的なファッションポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1582,35 +1582,35 @@ A high-angle shot depicts a young {argument name="ethnicity" default="[reference
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - Hyper-Realistic Digicam Portrait
+### No. 24: ソーシャルメディア投稿 - ハイパーリアルなデジカメ風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A highly detailed prompt for achieving a 2000s digital camera look, featuring realistic skin textures, direct flash lighting, and a dreamy editorial mood.
+2000 年代のデジタルカメラの質感を再現するための詳細なプロンプト。リアルな肌の質感、直射フラッシュ、夢のようなエディトリアルな雰囲気が特徴です。
 
 #### 📝 プロンプト
 
 ```
-A hyper-photorealistic shot of {argument name="subject" default="the same subject in the attached image"}, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush on cheeks and nose, high identity consistency, realistic human anatomy.
-Expression or mood:
-{argument name="mood" default="dreamy half-lidded gaze looking directly at the camera"}, slightly parted lips, relaxed facial muscles, soft intimate candid mood.
-Camera settings:
-shot on an old CCD digital camera, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel, candid and imperfect composition
-Makeup style:
-{argument name="makeup style" default="luminous glass-skin finish"}, glossy lips, soft shimmer eyelids, aegyosal highlight, natural contour, blended blush across cheeks and nose
-Hair:
-loose romantic updo with soft curls around the face, wispy baby hairs, slightly messy windswept texture.
-Outfit:
-delicate off-shoulder silk styling with embroidered floral fabric draped around the body, soft feminine luxury vibe.
-Background:
-pastel floral bedding with pale blue and pink tones, soft daylight, airy romantic atmosphere.
-Composition:
-horizontal close-up, face resting on layered fabric, shallow depth of field, intimate editorial framing.
-Negative prompt:
-over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face
+ハイパーフォトリアルな {argument name="subject" default="添付画像と同じ被写体"} のショット、超詳細な顔の造作、目立つ毛穴、自然な肌の質感、血色の良い肌と瑞々しいツヤ肌、抖音（Douyin）／韓国風のガラス肌メイク、グロッシーな唇、涙袋、頬と鼻筋のベビーピンクのチーク、高い本人再現度、リアルな人体構造。
+表情やムード：
+{argument name="mood" default="カメラを真っ直ぐに見つめる、夢見心地で少しとろんとした眼差し"}、少し開いた唇、リラックスした表情、親密で自然な雰囲気。
+カメラ設定：
+古い CCD デジタルカメラで撮影、2000 年代初頭のデジカメ風の美学、オンカメラの直射フラッシュ、強いフラッシュの減衰、目立つ粒子感とデジタルノイズ、わずかに白飛びしたハイライト、フラットなシャドウ、ソフトなコントラスト、わずかに色あせた色味、クールからニュートラルなホワイトバランス、わずかなモーションブラー、低照度のスナップショット感、自然で不完全な構図。
+メイクスタイル：
+{argument name="makeup style" default="輝くガラス肌仕上げ"}、グロッシーな唇、まぶたのソフトなシマー、涙袋のハイライト、自然なコントゥアリング、頬と鼻筋に馴染ませたチーク。
+髪型：
+顔周りにソフトなカールを残したルーズでロマンチックなアップスタイル、繊細な後れ毛、少し乱れた風になびくような質感。
+服装：
+繊細なオフショルダーのシルクスタイリング、体にドレープさせた刺繍入りの花柄生地、ソフトでフェミニンなラグジュアリー感。
+背景：
+パステルカラーの花柄の寝具、淡いブルーとピンクのトーン、柔らかな自然光、軽やかでロマンチックな雰囲気。
+構図：
+横型のクローズアップ、重ねた布の上に顔を乗せている、浅い被写界深度、親密さを感じさせるエディトリアルなフレーミング。
+ネガティブプロンプト：
+過度に滑らかな肌、プラスチックのような質感、非現実的なプロポーション、スタジオ照明、過度にシャープな HDR、硬いポーズ、人工的な対称性、過剰にレタッチされた顔
 ```
 
 #### 🖼️ 生成画像
@@ -1618,13 +1618,13 @@ over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793639_cd1hxz_HG-chnqaIAAeEIX.jpg" width="600" alt="ソーシャルメディア投稿 - Hyper-Realistic Digicam Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447793639_cd1hxz_HG-chnqaIAAeEIX.jpg" width="600" alt="ソーシャルメディア投稿 - ハイパーリアルなデジカメ風ポートレート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793618_kidbmh_HG-ciHCbwAAx35r.jpg" width="600" alt="ソーシャルメディア投稿 - Hyper-Realistic Digicam Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1777447793618_kidbmh_HG-ciHCbwAAx35r.jpg" width="600" alt="ソーシャルメディア投稿 - ハイパーリアルなデジカメ風ポートレート - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1638,19 +1638,19 @@ over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, o
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - Action Shot of a Young Girl
+### No. 25: ソーシャルメディア投稿 - 少女のアクションショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A high-energy, wide-angle action prompt designed to create a hyper-realistic image of a young girl leaning out of a moving vehicle with cinematic lighting.
+走行中の車両から身を乗り出す少女の超リアルな画像を生成するために設計された、躍動感あふれる広角アクションプロンプトです。シネマティックなライティングが特徴です。
 
 #### 📝 プロンプト
 
 ```
-A wide-angle action shot captures a cheerful young {argument name="ethnicity" default="[reference image ethnicity]"} girl (around 10-14 years old) with adorable striking features based on the reference image, leaning her head dramatically out of a fast-moving vehicle, her face playfully exaggerated by wide-angle lens distortion for a fun, kinetic editorial effect. Hyper-realistic child girl skin texture with visible natural pores, fine micro-details, subtle freckles or imperfections, soft youthful glow, delicate feminine features, and realistic tonal variation; soft cinematic lighting interacting naturally with skin surface; authentic subsurface scattering for lifelike depth.
+広角レンズで捉えた躍動感のあるショット。参照画像に基づいた、愛らしく印象的な顔立ちの元気な {argument name="ethnicity" default="[参照画像の民族]"} の少女（10〜14 歳くらい）が、走行中の車両からドラマチックに身を乗り出している様子を表現。広角レンズ特有の歪みによって表情が遊び心たっぷりに強調され、楽しくダイナミックなエディトリアル効果を生み出しています。毛穴や微細なディテール、かすかなそばかすや肌の欠点まで再現された超リアルな子供の肌の質感、若々しく柔らかな輝き、繊細な女性らしい特徴、そしてリアルな色調の変化を表現。肌の表面に自然に馴染む柔らかなシネマティックライティングと、生き生きとした奥行きを生む本物のサブサーフェス・スキャタリング（表面下散乱）が特徴です。
 ```
 
 #### 🖼️ 生成画像
@@ -1658,7 +1658,7 @@ A wide-angle action shot captures a cheerful young {argument name="ethnicity" de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447796660_3r4nfn_HG96k4QacAArl37.jpg" width="600" alt="ソーシャルメディア投稿 - Action Shot of a Young Girl - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447796660_3r4nfn_HG96k4QacAArl37.jpg" width="600" alt="ソーシャルメディア投稿 - 少女のアクションショット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1672,38 +1672,39 @@ A wide-angle action shot captures a cheerful young {argument name="ethnicity" de
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - Neo-Noir Editorial Collage
+### No. 26: ソーシャルメディア投稿 - ネオ・ノワール・エディトリアル・コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A cinematic prompt for a 2x2 grid featuring dark fantasy and high-fashion streetwear elements in a strictly red, black, and white color palette.
+ダークファンタジーとハイファッションなストリートウェアの要素を、赤・黒・白の厳格なカラーパレットで表現した 2x2 グリッド用シネマティックプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A 2x2 grid of cinematic, hyper-realistic editorial portraits of a {argument name="subject" default="young women"}(keep the facial features unchanged as uploaded image)with a sharp jawline and dark, textured hair. The aesthetic is {argument name="style" default="Neo-Noir dark fantasy"}, blending high-fashion streetwear with surreal, symbolic elements. The color palette is strictly limited to {argument name="colors" default="deep crimson, obsidian black, and crisp white"}.
-Quadrants & Details
+シネマティックで超写実的なエディトリアルポートレートの 2x2 グリッド。{argument name="subject" default="若い女性"}（アップロードした画像の顔の特徴を維持）を被写体とし、シャープな顎のラインとダークで質感のある髪を強調する。スタイルは {argument name="style" default="ネオ・ノワール・ダークファンタジー"} で、ハイファッションなストリートウェアとシュールで象徴的な要素を融合させる。カラーパレットは {argument name="colors" default="深紅、漆黒、鮮やかな白"} に厳格に限定する。
 
-Top Left: Close-up portrait. The man has a dark, thorny crown across his eyes with a single
-blood-red rose covering one eye. He exhales a thick, volumetric plume of cigarette smoke. White ash-like particles are scattered across the shoulder of his black wool coat.
+各象限と詳細
 
-Top Right: A surreal double-exposure style portrait. His face is framed by two glowing, out-of-focus candle flames in the foreground. He has intense, slightly glowing reddish-amber eyes.
+左上：クローズアップポートレート。被写体は目にダークな棘の冠を戴き、片目を一輪の血のように赤いバラで覆っている。口から濃密でボリューム感のあるタバコの煙を吐き出している。黒いウールコートの肩には、白い灰のような粒子が散らばっている。
 
-Bottom Left: Full-body shot. He stands in a minimalist white studio space, wearing an oversized black trench coat and wide-leg trousers. He confidently rests one foot on a glowing, intricate glass chandelier placed on the floor, surrounded by thousands of fallen red rose petals.
+右上：シュールな多重露光スタイルのポートレート。前景にある 2 つのぼやけたキャンドルの炎が顔を縁取っている。被写体は、かすかに発光する赤みがかった琥珀色の瞳をしている。
 
-Bottom Right: Waist-up portrait against a deep red gradient background. He holds a large bouquet of dark red roses. Fine white snow or ash falls softly through the air, caught by high-speed photography.
-Technical & Lighting
+左下：全身ショット。ミニマルな白いスタジオ空間に立ち、オーバーサイズの黒いトレンチコートとワイドレッグパンツを着用。床に置かれた複雑な輝きを放つガラス製シャンデリアに片足を乗せ、周囲には何千枚もの散った赤いバラの花びらが広がっている。
 
-Lighting: Masterful chiaroscuro and rim lighting. High-contrast shadows define the facial structure and the premium textures of the heavy wool coat and silk burgundy tie.
+右下：深紅のグラデーション背景を背にしたウエストアップのポートレート。ダークレッドのバラの花束を抱えている。細かい白い雪か灰が空中に静かに舞い落ち、ハイスピード撮影で捉えられている。
 
-Camera: Shot on Arri Alexa 65 with an 85mm f/1.2 lens for supreme clarity and buttery bokeh.
+技術とライティング
 
-Rendering: 16k resolution, Unreal Engine 5.4, ray-traced reflections on the glass chandelier, subsurface scattering on the skin, and hyper-detailed fabric weaves.
+ライティング：巧みなキアロスクーロ（明暗法）とリムライト。ハイコントラストな影が顔の骨格を際立たせ、厚手のウールコートやバーガンディのシルクタイの高級感ある質感を強調する。
 
-Atmosphere: Moody, avant-garde, "Vogue" editorial, dark romanticism.
+カメラ：Arri Alexa 65、85mm f/1.2 レンズを使用し、最高の鮮明さと滑らかなボケ味を実現。
+
+レンダリング：16k 解像度、Unreal Engine 5.4、ガラス製シャンデリアのレイトレーシング反射、肌のサブサーフェス・スキャタリング、超精細な生地の織り目。
+
+雰囲気：ムーディー、アヴァンギャルド、「Vogue」エディトリアル、ダークロマンティシズム。
 ```
 
 #### 🖼️ 生成画像
@@ -1711,7 +1712,7 @@ Atmosphere: Moody, avant-garde, "Vogue" editorial, dark romanticism.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447794616_u7d84b_HG9j2vXbMAELzkc.jpg" width="600" alt="ソーシャルメディア投稿 - Neo-Noir Editorial Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447794616_u7d84b_HG9j2vXbMAELzkc.jpg" width="600" alt="ソーシャルメディア投稿 - ネオ・ノワール・エディトリアル・コラージュ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1725,27 +1726,27 @@ Atmosphere: Moody, avant-garde, "Vogue" editorial, dark romanticism.
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - Hyper-Photorealistic CCD Camera Portrait
+### No. 27: ソーシャルメディア投稿 - ハイパーフォトリアルな CCD カメラ風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A detailed prompt for generating an aesthetic portrait with direct flash and a vintage digital camera look, focusing on skin texture and specific makeup styles.
+ダイレクトフラッシュとヴィンテージデジタルカメラの質感を活かし、肌の質感やメイクにこだわった、美しいポートレートを生成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed skin texture, visible pores, rosy complexion and dewy skin, glossy lips, aegyosal, baby pink blush, {argument name="contact lens color" default="grey"} contact lenses.
-Expression / Pose: resting chin on hand, slight pout, playful relaxed mood.
-Camera: old CCD digital camera, direct flash, harsh highlights, grainy texture, washed tones.
-Makeup: glass skin glow, glossy lips, subtle contour.
-Hair: ash brown, butterfly cut modern soft waves with inward curls, slightly messy.
-Outfit: {argument name="top color" default="yellow pastel"} fitted top, paisley red head bandana , trival jewelries .
-Background: beach setting, blue sky, colorful cocktail drink props, vibrant colors.
-Composition: low angle close-up, subject leaning forward, strong foreground element. -ar 2:3
-Negative prompt: over-smooth skin, fake lighting, stiff posture, multiple limbs
+画像生成：添付画像と同一人物のハイパーフォトリアルなショット。詳細な肌の質感、目立つ毛穴、血色の良い肌、ツヤ肌、グロッシーな唇、涙袋、{argument name="contact lens color" default="grey"} のコンタクトレンズ。
+表情 / ポーズ：頬杖をつき、少し口を尖らせた、遊び心のあるリラックスした雰囲気。
+カメラ：古い CCD デジタルカメラ、ダイレクトフラッシュ、強いハイライト、粒状感のあるテクスチャ、色あせたトーン。
+メイク：水光肌、グロッシーな唇、自然なコントゥアリング。
+髪型：アッシュブラウン、バタフライカットのモダンで柔らかなウェーブ、内巻き、少し無造作なスタイル。
+服装：{argument name="top color" default="yellow pastel"} のフィットしたトップス、ペイズリー柄の赤いヘッドバンダナ、トライバルジュエリー。
+背景：ビーチ、青い空、カラフルなカクテルドリンクの小道具、鮮やかな色彩。
+構図：ローアングルのクローズアップ、前傾姿勢、手前に強い要素を配置。 -ar 2:3
+ネガティブプロンプト：過度に滑らかな肌、不自然なライティング、硬いポーズ、手足の欠損や多重生成
 ```
 
 #### 🖼️ 生成画像
@@ -1753,7 +1754,7 @@ Negative prompt: over-smooth skin, fake lighting, stiff posture, multiple limbs
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447795327_1bvtxh_HG9Tf2qbYAAEo_U.jpg" width="600" alt="ソーシャルメディア投稿 - Hyper-Photorealistic CCD Camera Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447795327_1bvtxh_HG9Tf2qbYAAEo_U.jpg" width="600" alt="ソーシャルメディア投稿 - ハイパーフォトリアルな CCD カメラ風ポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1767,35 +1768,35 @@ Negative prompt: over-smooth skin, fake lighting, stiff posture, multiple limbs
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - Digicam Aesthetic Nightlife Portrait
+### No. 28: ソーシャルメディア投稿 - デジカメ風ナイトライフ・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for a hyper-photorealistic shot with early-2000s digital camera aesthetics, featuring a subject at a cafe with a unique heart-shaped smoke effect.
+2000年代初頭のデジタルカメラの質感を再現した、ハート型の煙が印象的なカフェでの超写実的なポートレート用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Create image: A hyper-photorealistic shot of the {argument name="subject" default="same subject in the attached image"}, ultra-detailed 8K realism, sharp facial details, visible pores, rosy complexion and dewy skin, {argument name="makeup style" default="Douyin/Korean glass-skin makeup"}, glossy lips, aegyosal, baby pink blush on cheeks and nose, grey contact lenses, natural skin texture with subtle imperfections, high identity consistency.
+画像生成: {argument name="subject" default="添付画像と同じ被写体"} の超写実的なショット、8K の極めて詳細なリアリズム、鮮明な顔のディテール、毛穴まで見える肌、血色の良い肌と瑞々しい質感、{argument name="makeup style" default="中国風（Douyin）／韓国風の水光肌メイク"}、艶やかな唇、涙袋、頬と鼻筋のベビーピンクのチーク、グレーのカラーコンタクト、自然な肌の質感とわずかな欠点、高い本人再現性。
 
-Expression / Pose: sitting sideways at a dim café table, holding a cigarrete near lips in one hand is holding a packet of cigarretes, smokes from the cigarettes are visible forming a heart, eyes partially hidden behind sunglasses, relaxed confident nightlife mood, one elbow resting on table, body angled away, candid and effortless.
+表情 / ポーズ: 薄暗いカフェのテーブルに横向きに座り、片手にタバコを持ち唇に近づけている、もう片方の手にはタバコの箱、タバコの煙がハート型に立ち上っている、サングラスで目が半分隠れている、リラックスした自信に満ちたナイトライフの雰囲気、片肘をテーブルにつき、体を斜めに向けた、自然体で気取らないスナップショット。
 
-Camera: shot on an {argument name="camera" default="old CCD digital camera"}, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel.
+カメラ: {argument name="camera" default="古い CCD デジタルカメラ"} で撮影、2000年代初頭のデジカメ風の美学、オンカメラの直接フラッシュ、強いフラッシュの減衰、目立つ粒子感とデジタルノイズ、わずかに白飛びしたハイライト、フラットなシャドウ、柔らかなコントラスト、少し色あせた色彩、クールからニュートラルなホワイトバランス、わずかなモーションブラー、ローライトなスナップショットの質感。
 
-Makeup: Douyin/Korean glass-skin makeup, glossy pink lips, aegyosal highlight, soft shimmer eyelids, baby pink blush across cheeks and nose, luminous dewy finish.
+メイク: 中国風（Douyin）／韓国風の水光肌メイク、艶やかなピンクの唇、涙袋のハイライト、まぶたの柔らかなシマー、頬と鼻筋に広がるベビーピンクのチーク、発光するような瑞々しい仕上がり。
 
-Hair: long sleek black hair with inward-upward curled ends, soft volume, clean middle part, subtle flyaways.
+髪型: 内巻きにカールした毛先を持つロングのストレート黒髪、柔らかなボリューム感、清潔感のあるセンター分け、わずかな後れ毛。
 
-Outfit: fitted black mini dress with thin straps, gold layered necklace, minimalist luxury aesthetic.
+服装: 細いストラップのタイトな黒のミニドレス、ゴールドのレイヤードネックレス、ミニマルでラグジュアリーな美学。
 
-Background: moody café interior with warm tungsten lighting, wooden tables, blurred patrons, leading lines from table edges.
+背景: 温かみのあるタングステン照明が灯るムーディーなカフェのインテリア、木製のテーブル、ぼやけた客席、テーブルの縁が作るリーディングライン。
 
-Composition: mid-shot from slight low angle, subject off-center, table edge guiding eye toward face, cinematic framing. -ar 2:3
+構図: ややローアングルからのミドルショット、被写体はオフセンター、テーブルの縁が視線を顔へと誘導する、シネマティックなフレーミング。 -ar 2:3
 
-Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, centered ID-photo style.
+ネガティブプロンプト: アニメ調、AI っぽさ、プラスチックのような肌、歪んだ解剖学的構造、過度に滑らかな顔、ぼやけた顔、強いボケ味、硬いポーズ、証明写真のような中央配置。
 ```
 
 #### 🖼️ 生成画像
@@ -1803,7 +1804,7 @@ Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447791217_55ebkb_HG86YxlbsAAG_Wc.jpg" width="600" alt="ソーシャルメディア投稿 - Digicam Aesthetic Nightlife Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447791217_55ebkb_HG86YxlbsAAG_Wc.jpg" width="600" alt="ソーシャルメディア投稿 - デジカメ風ナイトライフ・ポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1817,19 +1818,19 @@ Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-s
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - Mumbai Street Style Fashion Portrait
+### No. 29: ソーシャルメディア投稿 - ムンバイのストリートスタイル・ファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A portrait prompt utilizing a reference face to generate a realistic image of a girl in Mumbai with cinematic lighting.
+参照顔を使用して、ムンバイにいる少女のリアルな画像を映画のようなライティングで生成するためのポートレートプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic 8K full-body portrait using my reference face (100% same). {argument name="subject" default="Young girl"} standing behind {argument name="location" default="Grand Hotel"} holding flowers bookeh in hands, {argument name="city" default="Mumbai"} with flying pigeons. Wearing oversized light blue-white half-sleeve shirt, baggy blue cargo pants, black sunglasses, square watch, black-white sneakers. Bright daylight, cinematic, deep vibrant colors, photorealistic.
+参照顔を 100% 反映した超リアルな 8K 全身ポートレート。{argument name="subject" default="若い少女"} が {argument name="location" default="グランドホテル"} の後ろに立ち、手には花とボケ味のある本を持っている。{argument name="city" default="ムンバイ"} の街並みと飛び交う鳩。オーバーサイズの水色と白の半袖シャツ、バギーなブルーのカーゴパンツ、黒のサングラス、スクエアウォッチ、白黒のスニーカーを着用。明るい昼光、映画のような質感、深みのある鮮やかな色彩、フォトリアルな仕上がり。
 ```
 
 #### 🖼️ 生成画像
@@ -1837,7 +1838,7 @@ Ultra-realistic 8K full-body portrait using my reference face (100% same). {argu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447800930_1sx5m9_HG82NGpbIAABW4o.jpg" width="600" alt="ソーシャルメディア投稿 - Mumbai Street Style Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447800930_1sx5m9_HG82NGpbIAABW4o.jpg" width="600" alt="ソーシャルメディア投稿 - ムンバイのストリートスタイル・ファッションポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1851,19 +1852,19 @@ Ultra-realistic 8K full-body portrait using my reference face (100% same). {argu
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - Exaggerated Perspective Fashion Shot
+### No. 30: ソーシャルメディア投稿 - 誇張されたパースペクティブのファッションショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for a low-angle wide-angle shot with perspective distortion, designed to create a playful fashion-forward composition with human skin texture.
+パースペクティブの歪みを活かしたローアングル・広角ショットのプロンプト。肌の質感をリアルに表現し、遊び心のあるファッショナブルな構図を作成します。
 
 #### 📝 プロンプト
 
 ```
-A low-angle, wide-angle shot features a young {argument name="ethnicity" default="[reference image ethnicity]"} woman with striking features based on the reference image, posed dramatically with her hands casually tucked into her pockets, creating a confident, fashion-forward stance while maintaining exaggerated perspective distortion that enlarges her facial features and lower body proportions for a playful, immersive composition. Hyper-realistic human skin texture with visible natural pores ine micro-details, subtle imperfections, and realistic tonal variation.
+ローアングルかつ広角で捉えた、若く印象的な顔立ちの {argument name="ethnicity" default="[reference image ethnicity]"} 女性のショット。リファレンス画像に基づいたドラマチックなポーズで、両手をポケットに軽く入れ、自信に満ちたファッショナブルな立ち姿を演出しています。パースペクティブの歪みをあえて強調することで、顔立ちや下半身の比率を大きく見せ、遊び心のある没入感の高い構図に仕上げました。肌の質感はハイパーリアルに表現し、目に見える自然な毛穴の微細なディテール、わずかな不完全さ、そしてリアルな色調の変化まで再現しています。
 ```
 
 #### 🖼️ 生成画像
@@ -1871,7 +1872,7 @@ A low-angle, wide-angle shot features a young {argument name="ethnicity" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793353_tnbp0w_HG82HwrbwAAIPm7.jpg" width="600" alt="ソーシャルメディア投稿 - Exaggerated Perspective Fashion Shot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447793353_tnbp0w_HG82HwrbwAAIPm7.jpg" width="600" alt="ソーシャルメディア投稿 - 誇張されたパースペクティブのファッションショット - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1932,14 +1933,14 @@ A low-angle, wide-angle shot features a young {argument name="ethnicity" default
 
 ---
 
-### No. 32: インフォグラフィック / 教育ビジュアル - Infographic Product Photography Prompt
+### No. 32: インフォグラフィック / 教育ビジュアル - インフォグラフィック製品写真用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A structured JSON prompt for generating clean, professional product photography with technical overlays, suitable for health or beauty products.
+ヘルスケアや美容製品に適した、技術的なオーバーレイを備えたクリーンでプロフェッショナルな製品写真を生成するための構造化 JSON プロンプトです。
 
 #### 📝 プロンプト
 
@@ -1947,23 +1948,23 @@ A structured JSON prompt for generating clean, professional product photography 
 {
   "camera_settings": {
     "lens": "85mm f/1.8",
-    "perspective": "Eye-level portrait",
-    "depth_of_field": "Shallow with soft background bokeh"
+    "perspective": "アイレベルのポートレート",
+    "depth_of_field": "浅い被写界深度、柔らかな背景ボケ"
   },
   "lighting": {
-    "type": "Soft natural morning light",
-    "mood": "Clean, airy, optimistic",
-    "highlights": "Subtle sheen on hair and product bottle"
+    "type": "柔らかな朝の自然光",
+    "mood": "クリーン、軽やか、前向き",
+    "highlights": "髪と製品ボトルへの繊細な光沢"
   },
   "subject_details": {
-    "hair": "{argument name="hair style" default="Voluminous beach waves, honey blonde, high shine"}",
-    "expression": "Joyful, authentic smile",
-    "wardrobe": "Cream-colored knit sweater"
+    "hair": "{argument name="hair style" default="ボリュームのあるビーチウェーブ、ハニーブロンド、高い光沢"}",
+    "expression": "喜びにあふれた自然な笑顔",
+    "wardrobe": "クリーム色のニットセーター"
   },
   "graphic_design": {
-    "layout": "Infographic overlay on the right",
-    "elements": ["Keratin powder", "{argument name="product type" default="Argan oil bottle"}", "Green leaves", "Oat stalks"],
-    "typography": "Clean sans-serif {argument name="label style" default="labels in white boxes"}"
+    "layout": "右側にインフォグラフィックのオーバーレイ",
+    "elements": ["ケラチンパウダー", "{argument name="product type" default="アルガンオイルボトル"}", "緑の葉", "オーツ麦の茎"],
+    "typography": "クリーンなサンセリフ体 {argument name="label style" default="白いボックス内のラベル"}"
   }
 }
 ```
@@ -1973,7 +1974,7 @@ A structured JSON prompt for generating clean, professional product photography 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447801955_u6eqof_HHDiO5BbEAADeKO.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - Infographic Product Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447801955_u6eqof_HHDiO5BbEAADeKO.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - インフォグラフィック製品写真用プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1987,19 +1988,19 @@ A structured JSON prompt for generating clean, professional product photography 
 
 ---
 
-### No. 33: インフォグラフィック / 教育ビジュアル - Tropical Rainforest Wildlife Ecosystem
+### No. 33: インフォグラフィック / 教育ビジュアル - 熱帯雨林の野生生物エコシステム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-An expansive prompt for a photorealistic scene of a tropical jungle featuring a Bengal tiger, elephants, and exotic birds.
+ベンガルトラ、ゾウ、エキゾチックな鳥たちが生息する熱帯ジャングルのフォトリアルなシーンを作成するための詳細なプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A lush, cinematic photorealistic depiction of a {argument name="environment" default="dense tropical rainforest ecosystem"}, bursting with diverse wildlife. The central focus is a {argument name="main animal" default="majestic Bengal tiger"} walking towards the viewer on a dirt path, surrounded by rich green ferns, orchids, and massive moss-covered trees. In the mid-ground, on the left, a mother Asian elephant and her calf are drinking from a rocky, flowing river that leads back to a small waterfall in the distance. The jungle canopy is thick with vines and air plants. Perched on a thick branch on the right are a vibrant Great Hornbill and a black Siamang gibbon, while a Macaque monkey sits further down. A spotted Chital deer grazes near the tiger, and a wild boar is visible on the right. Various colorful birds, including a Kingfisher, a Hummingbird, and a Macaw, are flying or perched throughout the scene, along with several species of parakeets. The forest floor features a {argument name="reptile" default="large python"} resting on a log. The air is slightly humid, with soft, ambient light filtering through the canopy, and the environment is dense with layers of vegetation.
+多様な野生生物が息づく {argument name="environment" default="鬱蒼とした熱帯雨林のエコシステム"} を描いた、映画のように美しくフォトリアルな描写。中心には、こちらに向かって土の道を歩いてくる {argument name="main animal" default="威厳のあるベンガルトラ"} が配置され、周囲には豊かな緑のシダ植物、蘭、苔に覆われた巨大な木々が広がっています。中景の左側では、アジアゾウの母子が、遠くの小さな滝へと続く岩場の川で水を飲んでいます。ジャングルの天蓋は、蔓や着生植物で覆われ、非常に密度が高い様子です。右側の太い枝には鮮やかなオオサイチョウと黒いクロテナガザルが止まっており、その少し下にはニホンザルが座っています。トラの近くではアクシスジカが草を食み、右側にはイノシシの姿も見えます。カワセミ、ハチドリ、コンゴウインコなど、さまざまな色彩豊かな鳥たちが空を舞ったり枝に止まったりしており、数種類のインコも確認できます。林床には {argument name="reptile" default="大きなニシキヘビ"} が丸太の上で休んでいます。空気はわずかに湿り気を帯び、天蓋から差し込む柔らかな環境光が、幾重にも重なる植物の層を照らし出しています。
 ```
 
 #### 🖼️ 生成画像
@@ -2007,7 +2008,7 @@ A lush, cinematic photorealistic depiction of a {argument name="environment" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447789470_j9ng4c_HG_GhvwbYAAigOy.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - Tropical Rainforest Wildlife Ecosystem - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447789470_j9ng4c_HG_GhvwbYAAigOy.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - 熱帯雨林の野生生物エコシステム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3404,19 +3405,19 @@ Nano Banana 2 に、屋外で夕暮れ時に車の横に立つ同じ女性被写
 
 ---
 
-### No. 65: コミック / ストーリーボード - Neo Goku in the Machine City
+### No. 65: コミック / ストーリーボード - マシンシティに降り立った Neo Goku
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for generating an image of Neo Goku arriving in a futuristic city populated by machines, created with Nano Banana Pro.
+Nano Banana Pro を使用して作成された、マシンが支配する近未来都市に到着した Neo Goku の画像を生成するためのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-{argument name="character" default="Neo Goku"} - Arrives at the {argument name="location" default="city of machines"}
+{argument name="character" default="Neo Goku"} - {argument name="location" default="マシンシティ"} に到着
 ```
 
 #### 🖼️ 生成画像
@@ -3424,7 +3425,7 @@ A prompt for generating an image of Neo Goku arriving in a futuristic city popul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447803074_yxlxqe_HHAjWRtWkAANxP1.jpg" width="600" alt="コミック / ストーリーボード - Neo Goku in the Machine City - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447803074_yxlxqe_HHAjWRtWkAANxP1.jpg" width="600" alt="コミック / ストーリーボード - マシンシティに降り立った Neo Goku - Image 1">
 </div>
 
 #### 📌 詳細
@@ -3438,19 +3439,19 @@ A prompt for generating an image of Neo Goku arriving in a futuristic city popul
 
 ---
 
-### No. 66: コミック / ストーリーボード - Persian Court Robe Portrait
+### No. 66: コミック / ストーリーボード - ペルシャ宮廷衣装のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt designed to dress a reference subject in regal Persian court attire with complex pleats and silk textures, set in a luxurious palace interior.
+複雑なプリーツとシルクの質感が特徴的な、豪華な宮廷衣装をまとった被写体を生成するためのプロンプトです。舞台は贅沢な宮殿の室内です。
 
 #### 📝 プロンプト
 
 ```
-Ultra-detailed portrait of {argument name="subject" default="the same person from the reference image"}, wearing an {argument name="attire" default="elegant Persian court robe with intricate pleats"}, rich silk fabric, and ornate embroidery inspired by Safavid Empire royal attire, {argument name="color scheme" default="deep jewel tones (emerald, maroon, gold)"}, fine textile patterns, layered drapery, regal posture, soft cinematic lighting, sharp facial resemblance, realistic skin texture, shallow depth of field, symmetrical composition, luxurious palace background with Persian motifs, high resolution, photorealistic, 85mm lens style, ultra aesthetic, highly detailed fabric folds and textures
+超高精細なポートレート：{argument name="subject" default="参照画像と同一人物"}、{argument name="attire" default="複雑なプリーツが施された優雅なペルシャ宮廷衣装"}を着用、リッチなシルク生地、サファヴィー朝の王室衣装に着想を得た華やかな刺繍、{argument name="color scheme" default="深い宝石の色調（エメラルド、マルーン、ゴールド）"}、繊細なテキスタイルパターン、重なり合うドレープ、威厳のある姿勢、柔らかなシネマティックライティング、鮮明な顔立ち、リアルな肌の質感、浅い被写界深度、左右対称の構図、ペルシャのモチーフが施された豪華な宮殿の背景、高解像度、フォトリアル、85mm レンズスタイル、極めて美しい仕上がり、細部まで描き込まれた布のひだや質感
 ```
 
 #### 🖼️ 生成画像
@@ -3458,25 +3459,25 @@ Ultra-detailed portrait of {argument name="subject" default="the same person fro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg" width="600" alt="コミック / ストーリーボード - Persian Court Robe Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447794017_fe4x8e_HG_12voaoAAtkDK.jpg" width="600" alt="コミック / ストーリーボード - ペルシャ宮廷衣装のポートレート - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg" width="600" alt="コミック / ストーリーボード - Persian Court Robe Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1777447793902_2oxkox_HG_12_6a4AAG2La.jpg" width="600" alt="コミック / ストーリーボード - ペルシャ宮廷衣装のポートレート - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg" width="600" alt="コミック / ストーリーボード - Persian Court Robe Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1777447793959_loayp8_HG_13R8bkAAw_C_.jpg" width="600" alt="コミック / ストーリーボード - ペルシャ宮廷衣装のポートレート - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg" width="600" alt="コミック / ストーリーボード - Persian Court Robe Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1777447794471_ta95v9_HG_13h3aUAALFQl.jpg" width="600" alt="コミック / ストーリーボード - ペルシャ宮廷衣装のポートレート - Image 4">
 </div>
 
 #### 📌 詳細
@@ -4194,19 +4195,19 @@ Nano Banana 2 向けのシュールで映画のようなプロンプト。水の
 
 ---
 
-### No. 83: プロダクトマーケティング - High-End Fashion and Automotive Photography
+### No. 83: プロダクトマーケティング - ハイエンドなファッション＆自動車写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A detailed studio photography prompt for generating a sophisticated image of a man posing with a Porsche 911 GT3 in a minimalist setting.
+ミニマルな空間で Porsche 911 GT3 とポーズをとる男性の洗練された画像を生成するための、詳細なスタジオ撮影用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A sophisticated, high-end studio photograph. Subject: {argument name="subject description" default="A handsome young man in his 20s with short, styled dark hair, leaning confidently against a sports car"}. Attire: {argument name="clothing" default="He is wearing a luxurious, dark emerald green velvet tuxedo jacket with satin black peak lapels, a white dress shirt, a black bow tie, and black trousers"}. His pose is relaxed, with one hand near his jacket pocket. The Car: {argument name="car model" default="A stunning, polished silver Porsche 911 GT3 (991.2 generation)"}. The man is leaning on the driver's side front fender and hood. The car is angled slightly toward the viewer. Environment & Composition: The scene is a minimalist, elegant studio with an off-white/cream background. The most striking element is the dynamic red, white, and blue stripe pattern. The stripes run vertically up the wall behind the car and man, and horizontally across the floor toward the viewer in a vanishing perspective, creating a striking line of leading stripes. Lighting & Style: The image has polished, commercial fashion and automotive photography lighting, with soft shadows. The depth of field is shallow, rendering the background in sharp detail. A subtle, four-pointed star graphic is visible in the bottom right corner of the foreground stripes. 9:13 image format
+洗練されたハイエンドなスタジオ写真。被写体: {argument name="subject description" default="短くスタイリングされた黒髪の 20 代のハンサムな青年が、スポーツカーに自信ありげに寄りかかっている"}。服装: {argument name="clothing" default="サテンの黒いピークドラペルがあしらわれた高級感のあるダークエメラルドグリーンのベルベットタキシードジャケットに、白いドレスシャツ、黒の蝶ネクタイ、黒のトラウザーを着用"}。ポーズはリラックスしており、片手をジャケットのポケット付近に置いている。車: {argument name="car model" default="美しく磨き上げられたシルバーの Porsche 911 GT3 (991.2 世代)"}。男性は運転席側のフロントフェンダーとボンネットに寄りかかっている。車は視聴者に対してわずかに角度がついている。環境と構図: オフホワイト／クリーム色の背景を持つ、ミニマルでエレガントなスタジオ。最も印象的な要素は、赤、白、青のダイナミックなストライプ模様である。ストライプは車の背後の壁を垂直に走り、床を水平に視聴者の方へ向かって消失点へと伸びており、視線を誘導する印象的なラインを作り出している。照明とスタイル: 洗練されたコマーシャルファッションおよび自動車写真のライティングで、柔らかな影が特徴。被写界深度は浅く、背景までシャープに描写されている。前景のストライプの右下隅には、かすかな 4 つ星のグラフィックが見える。9:13 の画像フォーマット
 ```
 
 #### 🖼️ 生成画像
@@ -4214,7 +4215,7 @@ A sophisticated, high-end studio photograph. Subject: {argument name="subject de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447796549_z5jws0_HHAoGODawAAkdAy.jpg" width="600" alt="プロダクトマーケティング - High-End Fashion and Automotive Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447796549_z5jws0_HHAoGODawAAkdAy.jpg" width="600" alt="プロダクトマーケティング - ハイエンドなファッション＆自動車写真 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4228,19 +4229,19 @@ A sophisticated, high-end studio photograph. Subject: {argument name="subject de
 
 ---
 
-### No. 84: プロダクトマーケティング - High-energy sports advertisement poster
+### No. 84: プロダクトマーケティング - エネルギッシュなスポーツ広告ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A dynamic sports ad prompt featuring a cheerful female athlete in a vibrant mountain landscape with stylized light trails.
+鮮やかな山の風景とスタイリッシュな光の軌跡を背景に、快活な女性アスリートを描いたダイナミックなスポーツ広告用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A high-energy, vertical sports advertisement poster featuring a {argument name="subject" default="blonde female athlete"} with a cheerful expression, resembling a pop star. She is captured mid-stride, leaping through a vibrant, stylized mountain landscape. She wears a {argument name="clothing" default="purple hoodie under a bright yellow and red patterned windbreaker"}, paired with black leggings and one uniquely colorful, puffed leg warmer. On her feet are chunky, oversized multi-colored sneakers ({argument name="sneaker colors" default="orange, blue, and white"}) that are the focal point of the foreground. The background is a digital illustration of green mountains with glowing teal and purple light trails swirling through a valley. The text on the poster reads "PULSE" in large faded letters behind her, and bold white text at the bottom says "PULSE GEAR: POWER. PERFORMANCE. STYLE." with a tagline "IGNITE YOUR PASSION." The overall style is a blend of hyper-realistic character rendering and graphic vector art.
+エネルギッシュな縦型のスポーツ広告ポスター。{argument name="subject" default="ブロンドの女性アスリート"}がポップスターのような快活な表情で、鮮やかに様式化された山の風景の中を駆け抜ける瞬間を捉えています。彼女は{argument name="clothing" default="鮮やかな黄色と赤の柄入りウィンドブレーカーの下に紫のパーカー"}を着用し、黒のレギンスと片足だけにカラフルなパフ素材のレッグウォーマーを合わせています。足元には、前景の焦点となるチャンキーでオーバーサイズのマルチカラーのスニーカー（{argument name="sneaker colors" default="オレンジ、ブルー、ホワイト"}）を履いています。背景は、緑の山々と、谷間を渦巻くティールとパープルの光の軌跡が描かれたデジタルイラストです。ポスターには、彼女の背後に大きくかすれた文字で「PULSE」と書かれ、下部には太字の白いテキストで「PULSE GEAR: POWER. PERFORMANCE. STYLE.」、タグラインとして「IGNITE YOUR PASSION.」と記されています。全体的なスタイルは、超写実的なキャラクター描写とグラフィックベクターアートを融合させたものです。
 ```
 
 #### 🖼️ 生成画像
@@ -4248,7 +4249,7 @@ A high-energy, vertical sports advertisement poster featuring a {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447796206_ga9ck5_HG_3adWboAA9Vaj.jpg" width="600" alt="プロダクトマーケティング - High-energy sports advertisement poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447796206_ga9ck5_HG_3adWboAA9Vaj.jpg" width="600" alt="プロダクトマーケティング - エネルギッシュなスポーツ広告ポスター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4262,33 +4263,33 @@ A high-energy, vertical sports advertisement poster featuring a {argument name="
 
 ---
 
-### No. 85: プロダクトマーケティング - Hyper-Realistic Luxury Fashion Portrait
+### No. 85: プロダクトマーケティング - 超リアルなラグジュアリーファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A luxury fragrance campaign style prompt for high-contrast, dramatic studio photography based on an identity reference.
+アイデンティティ参照に基づいた、ハイコントラストでドラマチックなスタジオ撮影スタイルの高級フレグランスキャンペーン用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Using the provided photo as the exact identity reference, generate a hyper-realistic cinematic luxury fashion portrait while preserving 100% identical facial features, bone structure, skin tone, hairstyle, facial hair, and natural likeness with zero alteration
+提供された写真を正確なアイデンティティ参照として使用し、顔の特徴、骨格、肌の色、髪型、髭、自然な外見を一切変更せずに 100% 維持したまま、超リアルで映画のようなラグジュアリーファッションポートレートを生成してください。
 
-Transform into an ultra-dark high-end commercial studio shoot with a {argument name="background" default="deep black-to-burgundy gradient background"}, almost fading into pure black, with a very heavy vignette consuming the edges.
+極めてダークなハイエンドのコマーシャルスタジオ撮影に変換してください。背景は {argument name="background" default="深い黒からバーガンディへのグラデーション"} とし、ほぼ純粋な黒に溶け込むようにし、エッジを非常に強いビネットで覆ってください。
 
-Lighting: extremely low-key and dramatic, a very narrow, hard spotlight beam from upper front-left cuts diagonally across the face, creating a razor-sharp strip of light across the forehead, eye, and cheek, while 80-90% of the face remains in deep shadowStrong negative fill to deepen shadowsAdd a very subtle warm rim light from behind to barely outline the jawline and hair edges.
+ライティング：極めてローキーでドラマチックに。前方左上から非常に狭く鋭いスポットライトを斜めに当て、額、目、頬に鋭い光の帯を作り出します。顔の 80 ～ 90% は深い影の中に沈めてください。強力なネガティブフィルを使用して影を深め、背後から非常に微かな温かみのあるリムライトを当て、顎のラインと髪の輪郭をわずかに浮かび上がらせてください。
 
-Mood: dark, intense, mysterious, premium luxury fragrance campaign. Cinematic, moody, bold. Deep blacks, crushed shadows, rich dark red tones, high contrast, glossy editorial finish.
+ムード：ダーク、強烈、ミステリアス、プレミアムな高級フレグランスキャンペーン。映画のようで、ムーディーかつ大胆。深い黒、潰れたシャドウ、リッチなダークレッドのトーン、ハイコントラスト、光沢のあるエディトリアルな仕上がり。
 
-Wardrobe: {argument name="clothing" default="premium matte black turtleneck or textured sweater"} ab sorbing light (non-reflective).
+衣装：光を吸収する（反射しない）{argument name="clothing" default="高級なマットブラックのタートルネックまたは質感のあるセーター"}。
 
-Framing & pose: {argument name="shot type" default="chest-up portrait"}. Shoulders turned 45 degrees to the right in a slight profile, but face turned back to look directly at the camera. Chin lifted very slightly higher than before, eyes looking piercingly forward, serious dominant expression.
+フレーミングとポーズ：{argument name="shot type" default="胸から上のポートレート"}。肩を右に 45 度向けたわずかな横顔にしつつ、顔はカメラを真っ直ぐに見るように向けてください。顎を以前よりわずかに上げ、鋭い眼差しで前を見据え、威厳のある真剣な表情で。
 
-Details: ultra-realistic skin texture with visible pores, sharp focus on illuminated eye, 85mm lens look, shallow depth of field, studio photography, dramatic shadow falloff, strong light sculpting.
+詳細：毛穴まで見える超リアルな肌の質感、光が当たった目にピントを合わせ、85mm レンズのようなルック、浅い被写界深度、スタジオ撮影、ドラマチックなシャドウの減衰、光による強力な造形。
 
-Style keywords: low-key lighting, chiaroscuro, noir, high fashion editorial, cinematic grading.
+スタイルキーワード：ローキーライティング、キアロスクーロ、ノワール、ハイファッションエディトリアル、シネマティックグレーディング。
 ```
 
 #### 🖼️ 生成画像
@@ -4296,7 +4297,7 @@ Style keywords: low-key lighting, chiaroscuro, noir, high fashion editorial, cin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447801879_gb6bvk_HG_QTXebUAAQiuy.jpg" width="600" alt="プロダクトマーケティング - Hyper-Realistic Luxury Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447801879_gb6bvk_HG_QTXebUAAQiuy.jpg" width="600" alt="プロダクトマーケティング - 超リアルなラグジュアリーファッションポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4310,19 +4311,19 @@ Style keywords: low-key lighting, chiaroscuro, noir, high fashion editorial, cin
 
 ---
 
-### No. 86: プロダクトマーケティング - Studio Fashion Portrait with Abstract Pattern
+### No. 86: プロダクトマーケティング - 抽象柄のスタジオファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A professional studio photography prompt for a woman in a colorful abstract matching set, designed for high-quality, eye-level framing in a studio setting.
+カラフルな抽象柄のセットアップを着用した女性の、高品質なアイレベルのスタジオ撮影用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-{ “image_description”: “A medium shot three-quarter back view photograph of a young woman with long, wavy blonde hair. She is turning to look over her shoulder. She is wearing a matching abstract patterned two-piece set, consisting of a tie-back crop top and a mini skirt with a high side slit. She holds a black bag with a silver chain. The background is a plain white studio setting.”, “subject”: { “gender”: “Female”, “appearance”: “Young woman with light skin and voluminous, wavy {argument name="hair color" default="blonde"} hair falling down her back.”, “pose”: “Three-quarter back view, turning slightly to her left and looking back over her left shoulder towards the camera. Her left arm holds a black bag, her right arm is bent near her body.”, “expression”: “A side-glance expression looking towards the viewer.” }, “clothing”: { “outfit”: “{argument name="outfit" default="Matching two-piece set"}.”, “top”: “Red and orange multi-color abstract patterned tie-back crop top with thin straps.”, “skirt”: “Matching mini skirt with a prominent, high slit on the left side (visible from the side/back view).”, “pattern_details”: “Abstract, irregular print pattern using red, orange, navy blue, and black accents.” }, “accessories”: { “bag”: “A black shoulder bag made of soft leather-like material, with a chunky silver chain strap, held in her left hand and slung over her left shoulder.”, “jewelry”: “A delicate silver chain bracelet on her right wrist.” }, “setting”: { “environment”: “Inside a professional photography studio.”, “background”: “{argument name="background" default="Solid, seamless white background"}.”, “flooring”: “Light gray or white textured studio floor, slightly out of focus.” }, “composition”: { “shot_type”: “Medium shot.”, “angle”: “Eye level, slightly behind and to the side of the subject.”, “framing”: “Focuses on the subject from the head to just above the ankles, highlighting the back detailing and the skirt slit.” }, “lighting”: { “type”: “Bright, even studio lighting, casting subtle shadows to define form.” } }
+{ “image_description”: “ロングのウェーブがかかったブロンドヘアの若い女性を捉えた、背中側からのミディアムショット。彼女は肩越しにこちらを振り返っている。タイバック式のクロップトップと、サイドに深いスリットが入ったミニスカートの抽象柄セットアップを着用。黒いチェーンバッグを手に持っている。背景はシンプルな白いスタジオ。”, “subject”: { “gender”: “女性”, “appearance”: “色白で、背中に流れるようなボリュームのあるウェーブヘアの若い女性（髪色：{argument name="hair color" default="ブロンド"}）。”, “pose”: “背中側からのアングルで、左側に少し体をひねり、左肩越しにカメラを見つめている。左腕には黒いバッグを持ち、右腕は体の近くで曲げている。”, “expression”: “カメラを流し目で見るような表情。” }, “clothing”: { “outfit”: “{argument name="outfit" default="お揃いのツーピースセット"}。”, “top”: “赤とオレンジのマルチカラーの抽象柄で、細いストラップが付いたタイバック式のクロップトップ。”, “skirt”: “左側に目立つ深いスリットが入ったお揃いのミニスカート（サイド／バックビューから見える）。”, “pattern_details”: “赤、オレンジ、ネイビーブルー、黒のアクセントを用いた、不規則な抽象プリント柄。” }, “accessories”: { “bag”: “柔らかなレザー調素材の黒いショルダーバッグ。太めのシルバーチェーンストラップが付いており、左手で持ち、左肩にかけている。”, “jewelry”: “右の手首に繊細なシルバーのチェーンブレスレット。” }, “setting”: { “environment”: “プロ仕様のフォトスタジオ内。”, “background”: “{argument name="background" default="無地で継ぎ目のない白い背景"}。”, “flooring”: “わずかにピントが外れた、ライトグレーまたは白のテクスチャのあるスタジオフロア。” }, “composition”: { “shot_type”: “ミディアムショット。”, “angle”: “アイレベル、被写体の斜め後ろから。”, “framing”: “頭部から足首の少し上までを捉え、背中のディテールとスカートのスリットを強調。” }, “lighting”: { “type”: “明るく均一なスタジオライティング。被写体のフォルムを際立たせる繊細な影を落としている。” } }
 ```
 
 #### 🖼️ 生成画像
@@ -4330,7 +4331,7 @@ A professional studio photography prompt for a woman in a colorful abstract matc
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447802548_2e4n1d_HG-2IAcawAEW9k8.jpg" width="600" alt="プロダクトマーケティング - Studio Fashion Portrait with Abstract Pattern - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447802548_2e4n1d_HG-2IAcawAEW9k8.jpg" width="600" alt="プロダクトマーケティング - 抽象柄のスタジオファッションポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -4344,32 +4345,35 @@ A professional studio photography prompt for a woman in a colorful abstract matc
 
 ---
 
-### No. 87: プロダクトマーケティング - Bold Editorial Fitness Portrait
+### No. 87: プロダクトマーケティング - 大胆なエディトリアル・フィットネス・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-An editorial fitness prompt featuring an athletic woman with an oversized dumbbell prop, focusing on vibrant colors and concrete gym aesthetics.
+巨大なダンベルを小道具として使用した、アスリートの女性が主役のフィットネス系エディトリアル・プロンプト。鮮やかな色彩とコンクリート打ちっぱなしのジムの美学に焦点を当てています。
 
 #### 📝 プロンプト
 
 ```
-A powerful, athletic woman sitting confidently on a concrete gym bench. She is leaning one arm against a massive, vertically oriented dumbbell that stands nearly as tall as her. The composition is centered and symmetrical, creating a bold, editorial fitness look.
-​Wardrobe & Styling
-​Top: Vibrant {argument name="top color" default="yellow"} athletic crop top.
-​Bottom: {argument name="bottom color" default="Red"} high-waisted leggings with a yellow racing stripe down the side.
-​Footwear: Matching yellow and red athletic sneakers.
-​Hair: Sleek, high dark ponytail.
-​Environment & Background
-​Background: A deep blue minimalist gym wall featuring the word "{argument name="background text" default="POWER"}" in massive, white, bold sans-serif typography.
-​Floor: Polished concrete with a high-gloss finish, showing a clear reflection of the subject and the weights.
-​The Prop: A stylized, oversized dumbbell standing upright. The top weight plate is labeled "POWER" and the base is labeled "100 KG".
-​Lighting & Atmosphere
-​Lighting: Clean, cinematic studio lighting with cool blue rim lighting along the ceiling edges.
-​Mood: Intense, motivating, and modern.
-​Quality: High-resolution, photorealistic, sharp focus with vibrant color saturation.
+コンクリート製のジム用ベンチに自信たっぷりに座る、力強く鍛え上げられた女性。彼女は、自身の背丈ほどもある巨大な縦置きのダンベルに片腕を預けています。構図は中央揃えのシンメトリーで、大胆でエディトリアルなフィットネスの雰囲気を演出しています。
+
+衣装とスタイリング
+トップス：鮮やかな {argument name="top color" default="イエロー"} のアスレチック・クロップトップ。
+ボトムス：サイドにイエローのレーシングストライプが入った {argument name="bottom color" default="レッド"} のハイウエスト・レギンス。
+フットウェア：イエローとレッドを合わせたアスレチック・スニーカー。
+ヘアスタイル：艶のある高い位置でのダークポニーテール。
+
+環境と背景
+背景：深いブルーのミニマルなジムの壁。巨大で太字のホワイトのサンセリフ体で「{argument name="background text" default="POWER"}」という文字が描かれています。
+床：光沢仕上げの磨き上げられたコンクリート。被写体とウェイトがはっきりと反射しています。
+小道具：スタイリッシュで巨大な直立したダンベル。上部のウェイトプレートには「POWER」、ベース部分には「100 KG」と刻印されています。
+
+ライティングと雰囲気
+ライティング：クリーンで映画のようなスタジオ照明。天井の端にはクールなブルーのリムライトが当たっています。
+ムード：強烈でモチベーションが高まる、モダンな雰囲気。
+クオリティ：高解像度、フォトリアル、シャープなフォーカス、鮮やかな色彩の彩度。
 ```
 
 #### 🖼️ 生成画像
@@ -4377,7 +4381,7 @@ A powerful, athletic woman sitting confidently on a concrete gym bench. She is l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="プロダクトマーケティング - Bold Editorial Fitness Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="プロダクトマーケティング - 大胆なエディトリアル・フィットネス・ポートレート - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5274,19 +5278,19 @@ No.203 Umbra Directive
 
 ---
 
-### No. 109: ゲームアセット - 3D Gaming Character Battle Scene
+### No. 109: ゲームアセット - 3D ゲームキャラクターのバトルシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A prompt for generating 3D gaming characters, specifically Spartacus and a ninja, on a minimalist background.
+スパルタクスと忍者をミニマリストな背景で生成するための、3D ゲームキャラクター用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-3D gaming character {argument name="character name" default="Spartacus"} with {argument name="weapon" default="axe"} and a ninja with a katana in {argument name="background" default="white minimalist background"} neat and clean 16:9
+3D ゲームキャラクター {argument name="character name" default="スパルタクス"} （武器：{argument name="weapon" default="斧"}）と、刀を持った忍者が {argument name="background" default="白のミニマリストな背景"} にいる様子、すっきりと洗練された 16:9 の構図
 ```
 
 #### 🖼️ 生成画像
@@ -5294,7 +5298,7 @@ A prompt for generating 3D gaming characters, specifically Spartacus and a ninja
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447789375_37q2fd_HG_9vXybwAAqHYR.jpg" width="600" alt="ゲームアセット - 3D Gaming Character Battle Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447789375_37q2fd_HG_9vXybwAAqHYR.jpg" width="600" alt="ゲームアセット - 3D ゲームキャラクターのバトルシーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5308,19 +5312,19 @@ A prompt for generating 3D gaming characters, specifically Spartacus and a ninja
 
 ---
 
-### No. 110: ゲームアセット - 3D Gaming Character Composition
+### No. 110: ゲームアセット - 3D ゲームキャラクターの構図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A detailed instruction to generate a 3D gaming character based on a specific composition, featuring a monk and an Indian landscape.
+僧侶とインドの風景を特徴とする、特定の構図に基づいた 3D ゲームキャラクターを生成するための詳細な指示。
 
 #### 📝 プロンプト
 
 ```
-use the exact composition of @walk for a highly detailed 3D gaming character of a {argument name="subject" default="buddhist monk with a buddha statue strapped to his back"} walking through a {argument name="landscape" default="indian landscape with palmtrees in the back"}. background landscape is even and does not rise towards the edges
+@walk の構図をそのまま使用し、{argument name="subject" default="背中に仏像を背負った仏教の僧侶"} が {argument name="landscape" default="ヤシの木が並ぶインドの風景"} を歩いている様子を、高精細な 3D ゲームキャラクターとして生成してください。背景の風景は平坦で、端に向かって盛り上がらないようにしてください。
 ```
 
 #### 🖼️ 生成画像
@@ -5328,7 +5332,7 @@ use the exact composition of @walk for a highly detailed 3D gaming character of 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447800534_3s8wui_HG_XodBa8AAlBEn.jpg" width="600" alt="ゲームアセット - 3D Gaming Character Composition - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447800534_3s8wui_HG_XodBa8AAlBEn.jpg" width="600" alt="ゲームアセット - 3D ゲームキャラクターの構図 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -5806,6 +5810,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-04-29T08:42:24.987Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-04-29T12:25:44.809Z</sub>
 
 </div>
