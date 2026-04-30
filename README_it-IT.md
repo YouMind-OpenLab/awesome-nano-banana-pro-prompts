@@ -143,9 +143,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **12839** |
+| 📝 Totale prompt | **12837** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **giovedì 30 aprile 2026 alle ore 08:43:42 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 30 aprile 2026 alle ore 12:27:19 UTC** |
 
 </div>
 
@@ -2027,41 +2027,7 @@ Un'inquadratura dall'alto a pieno formato mostra una griglia di {argument name="
 
 ---
 
-### No. 31: Post sui social media - Ritratto di moda urbana
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un ritratto di strada urbano, minimalista e alla moda, di una donna con hijab e felpa.
-
-#### 📝 Prompt
-
-```
-Una giovane donna alla moda che indossa un {argument name="headwear" default="hijab beige"} e occhiali tondi si trova in una tranquilla strada urbana fiancheggiata da moderni edifici in mattoni e boutique. Indossa una {argument name="top style" default="felpa a maniche lunghe"} {argument name="top color" default="bordeaux"} con strisce bianche sulle maniche e un audace logo grafico sul davanti, abbinata a pantaloni neri ampi. Porta una piccola borsa a tracolla nera e posa con disinvoltura con una mano in tasca, guardando con sicurezza verso la fotocamera. Dietro di lei, si nota un'insegna verticale in stile vintage sull'edificio e ampie vetrine che espongono abbigliamento. La strada è pulita, con un cielo leggermente coperto che crea un'illuminazione naturale e uniforme. L'estetica generale è minimalista, alla moda e leggermente cinematografica, con toni tenui e un'atmosfera urbana accogliente.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533348389_utx1wd_HHC3KZVagAAuKeo.jpg" width="600" alt="Post sui social media - Ritratto di moda urbana - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Kashberg](https://x.com/Kashberg_0)
-- **Fonte:** [Twitter Post](https://x.com/Kashberg_0/status/2049340792079339854)
-- **Pubblicato:** 29 aprile 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16974)**
-
----
-
-### No. 32: Post sui social media - Ritratto maschile con cappuccio ultra-realistico
+### No. 31: Post sui social media - Ritratto maschile con cappuccio ultra-realistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,6 +2058,40 @@ Ritratto 4K ultra-realistico di un {argument name="subject" default="bell'uomo c
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16979)**
+
+---
+
+### No. 32: Post sui social media - Ritratto digitale in stile Y2K
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt stilistico pensato per ricreare l'estetica delle fotografie digitali dell'era Y2K, con toni sbiaditi e grana della pellicola, utilizzando le funzionalità image-to-image.
+
+#### 📝 Prompt
+
+```
+Una fotografia digitale iperrealistica dell'era Y2K di una {argument name="subject" default="donna adulta"}, utilizza i tratti del viso dell'immagine allegata. Soggetto principale: lineamenti delicati, pelle rosea. Espressione: sguardo rivolto verso il basso, atmosfera sognante. Fotocamera: ritratto ravvicinato, flash diretto con sfumatura morbida. Capelli: chignon spettinato con ciocche libere. Outfit: {argument name="outfit" default="Top rosa con spalle scoperte"}. Sfondo: {argument name="floral background" default="Fiori rosa brillante che riempiono l'inquadratura"}. Composizione: profilo laterale, sfondo ricco di fiori. Stile: Y2K simile alla pellicola, toni sbiaditi, grana, graffi. Negativo: sovrasaturazione, colori non realistici
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777533350732_wrf053_HHCkFpMaQAAKvkL.jpg" width="600" alt="Post sui social media - Ritratto digitale in stile Y2K - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Chryz leen](https://x.com/Chryzleenprompt)
+- **Fonte:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049318254972379633)
+- **Pubblicato:** 29 aprile 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16978)**
 
 ---
 
@@ -4524,70 +4524,7 @@ La donna ha una linea della mascella definita, rossetto rosso opaco intenso e un
 
 ---
 
-### No. 89: Marketing di Prodotto - Ritratto di una ballerina in chiffon
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un prompt JSON per un ritratto di danza editoriale ad alta moda di una ballerina con tessuto in chiffon nero fluttuante su uno sfondo da studio bianco.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": "Una graziosa ballerina inginocchiata elegantemente su uno sfondo da studio bianco puro senza giunture, gli occhi chiusi dolcemente in una concentrazione serena, la testa leggermente inclinata. Ha uno chignon da balletto liscio e stretto senza ciocche fuori posto, pelle impeccabile con un trucco naturale e sottile. Indossa un body nero aderente con spalline sottili, calze a rete semi-trasparenti che accentuano le sue gambe lunghe e bellissime {argument name="shoes" default="scarpette da punta in raso"} rosa pallido con lunghi nastri abbinati avvolti e legati con grazia attorno alle caviglie. Tra le mani tiene un grande pezzo di {argument name="fabric" default="tessuto in chiffon nero trasparente"} fluttuante catturato a metà movimento, il tessuto vortica e si drappeggia dinamicamente attorno al suo corpo e alle braccia come se danzasse nell'aria. Una morbida illuminazione direzionale dall'alto a sinistra crea riflessi delicati e ombre soffuse che scolpiscono magnificamente la sua forma, illuminazione editoriale ad alto contrasto con gradienti puliti. Posa in ginocchio elegante e raffinata, un ginocchio a terra, l'altra gamba elegantemente piegata, punte dei piedi perfettamente tese nelle scarpette da punta. Estetica di danza alta moda minimale e moderna, ambiente da studio pulito senza distrazioni, sfondo bianco puro. Composizione cinematografica, messa a fuoco nitida sulla ballerina, profondità di campo ridotta, anatomia impeccabile, mani e dita delicate, atmosfera eterea e potente, ritratto editoriale in stile Vogue, fotografia di moda di {argument name="photographers" default="Annie Leibovitz e Mario Testino"}, 8k ultra-dettagliato, fotorealistico, capolavoro, qualità eccellente",
-  "negative_prompt": "sfocato, deformato, brutto, arti extra, anatomia errata, filigrana, testo, logo, volto distorto, occhi aperti, capelli disordinati, chignon spettinato, colori vivaci saturi, sfondo disordinato, oggetti di scena, gioielli, illuminazione dura, illuminazione piatta, bassa risoluzione, cartone animato, illustrazione, dipinto, rendering 3d, pelle di plastica, sovraesposto, sottoesposto, granuloso, rumoroso",
-  "aspect_ratio": "2:3",
-  "style": "fotografia di moda editoriale",
-  "lighting": "morbida illuminazione da studio direzionale con delicata luce di contorno",
-  "quality": "ultra dettagliato, 8k, fotorealistico, capolavoro",
-  "parameters": {
-    "seed": -1,
-    "steps": 50,
-    "cfg_scale": 7.5,
-    "sampler": "Euler a",
-    "face_lock": true,
-    "do_not_change_face": true,
-    "keep_original_face": true
-  },
-  "description": "Graziosa ballerina in body nero e calze a rete inginocchiata su sfondo da studio bianco, occhi chiusi, chignon liscio, tiene in mano tessuto nero trasparente fluttuante a metà movimento, scarpette da punta rosa pallido, elegante ritratto di danza alta moda, rapporto d'aspetto 2:3"
-}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358722_ql3vnj_HHCfAXobkAAVGCU.jpg" width="600" alt="Marketing di Prodotto - Ritratto di una ballerina in chiffon - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_xl2lcf_HHCfAXxaoAAgKTJ.jpg" width="600" alt="Marketing di Prodotto - Ritratto di una ballerina in chiffon - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_syyxhd_HHCfAZhawAAW5gx.jpg" width="600" alt="Marketing di Prodotto - Ritratto di una ballerina in chiffon - Image 3">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Sydney](https://x.com/XSydneyFan)
-- **Fonte:** [Twitter Post](https://x.com/XSydneyFan/status/2049312674161504329)
-- **Pubblicato:** 29 aprile 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16993)**
-
----
-
-### No. 90: Marketing di Prodotto - Fotografia di moda e automobilistica di alto livello
+### No. 89: Marketing di Prodotto - Fotografia di moda e automobilistica di alto livello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4621,7 +4558,7 @@ Una fotografia in studio sofisticata e di alto livello. Soggetto: {argument name
 
 ---
 
-### No. 91: Marketing di Prodotto - Ritratto con ghiaccio tritato e obiettivo fisheye
+### No. 90: Marketing di Prodotto - Ritratto con ghiaccio tritato e obiettivo fisheye
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4655,7 +4592,7 @@ Un'inquadratura dall'alto con obiettivo fisheye cattura una giovane donna {argum
 
 ---
 
-### No. 92: Marketing di Prodotto - Poster pubblicitario sportivo ad alta energia
+### No. 91: Marketing di Prodotto - Poster pubblicitario sportivo ad alta energia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4689,7 +4626,7 @@ Un poster pubblicitario sportivo verticale ad alta energia con una {argument nam
 
 ---
 
-### No. 93: Marketing di Prodotto - Ritratto di moda di lusso iper-realistico
+### No. 92: Marketing di Prodotto - Ritratto di moda di lusso iper-realistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4737,7 +4674,7 @@ Parole chiave di stile: illuminazione low-key, chiaroscuro, noir, editoriale di 
 
 ---
 
-### No. 94: Marketing di Prodotto - Ritratto di moda urbana
+### No. 93: Marketing di Prodotto - Ritratto di moda urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4771,7 +4708,7 @@ Un'inquadratura dall'alto ritrae una giovane donna {argument name="ethnicity" de
 
 ---
 
-### No. 95: Marketing di Prodotto - Ritratto di moda in studio con motivo astratto
+### No. 94: Marketing di Prodotto - Ritratto di moda in studio con motivo astratto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4805,7 +4742,7 @@ Un prompt di fotografia professionale in studio per una donna con un completo co
 
 ---
 
-### No. 96: Marketing di Prodotto - Ritratto iper-realistico in stile fotocamera digitale
+### No. 95: Marketing di Prodotto - Ritratto iper-realistico in stile fotocamera digitale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4852,6 +4789,53 @@ pelle troppo levigata, texture plastica, proporzioni irrealistiche, illuminazion
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16751)**
+
+---
+
+### No. 96: Marketing di Prodotto - Ritratto fitness editoriale audace
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt fitness in stile editoriale che ritrae una donna atletica con un manubrio oversize come oggetto di scena, focalizzato su colori vivaci ed estetica da palestra in cemento.
+
+#### 📝 Prompt
+
+```
+Una donna atletica e potente seduta con sicurezza su una panca da palestra in cemento. Appoggia un braccio contro un enorme manubrio posizionato verticalmente, alto quasi quanto lei. La composizione è centrata e simmetrica, creando un look fitness audace e editoriale.
+​Abbigliamento e Styling
+​Top: Vivace crop top sportivo {argument name="top color" default="giallo"}.
+​Parte inferiore: Leggings a vita alta {argument name="bottom color" default="rossi"} con una striscia da corsa gialla lungo il fianco.
+​Calzature: Sneakers sportive abbinate gialle e rosse.
+​Capelli: Coda di cavallo alta, scura e liscia.
+​Ambiente e Sfondo
+​Sfondo: Una parete da palestra minimalista blu intenso che presenta la parola "{argument name="background text" default="POWER"}" in un carattere tipografico sans-serif bianco, audace e massiccio.
+​Pavimento: Cemento levigato con finitura lucida, che mostra un chiaro riflesso del soggetto e dei pesi.
+​L'oggetto di scena: Un manubrio stilizzato e sovradimensionato posizionato in verticale. Il disco superiore è etichettato "POWER" e la base è etichettata "100 KG".
+​Illuminazione e Atmosfera
+​Illuminazione: Illuminazione da studio cinematografica e pulita con luci di contorno blu freddo lungo i bordi del soffitto.
+​Atmosfera: Intensa, motivante e moderna.
+​Qualità: Alta risoluzione, fotorealistico, messa a fuoco nitida con saturazione cromatica vivace.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="Marketing di Prodotto - Ritratto fitness editoriale audace - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Minahil](https://x.com/Minahil42298354)
+- **Fonte:** [Twitter Post](https://x.com/Minahil42298354/status/2048960830310387974)
+- **Pubblicato:** 28 aprile 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=16757)**
 
 ---
 
@@ -5819,7 +5803,7 @@ Includi le tipiche stranezze grafiche della PS1: sottili effetti di vertex snapp
 
 <div align="center">
 
-### 🎯 12719 altri prompt non mostrati qui
+### 🎯 12717 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5882,6 +5866,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-30T08:43:42.778Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-30T12:27:19.302Z</sub>
 
 </div>

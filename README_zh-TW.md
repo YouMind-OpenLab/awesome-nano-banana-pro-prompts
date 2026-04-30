@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **12839** |
+| 📝 提示詞總數 | **12837** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年4月30日 星期四 上午8:42:37 [UTC]** |
+| 🔄 最後更新 | **2026年4月30日 星期四 中午12:26:15 [UTC]** |
 
 </div>
 
@@ -2027,41 +2027,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社群媒體貼文 - 都市時尚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張極簡且時尚的都市街頭人像，主角為一位穿著頭巾與運動衫的女性。
-
-#### 📝 提示詞
-
-```
-一位時尚的年輕女性戴著 {argument name="headwear" default="米色頭巾"} 並配戴圓形眼鏡，站在一條寧靜的都市街道上，街道兩旁是現代磚造建築與精品店。她穿著一件 {argument name="top color" default="栗色"} 的 {argument name="top style" default="長袖運動衫"}，袖口有白色條紋，正面印有醒目的圖形標誌，下身搭配寬鬆的黑色長褲。她背著一個黑色小肩背包，單手插在口袋裡隨性擺拍，自信地注視著鏡頭。她身後的建築上有一個垂直的復古風格招牌，大型玻璃櫥窗內展示著服飾。街道乾淨整潔，天空呈現柔和的陰天，營造出均勻的自然光線。整體美學風格極簡、時尚且帶有微電影感，色調柔和，散發著舒適的城市氛圍。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533348389_utx1wd_HHC3KZVagAAuKeo.jpg" width="600" alt="社群媒體貼文 - 都市時尚人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Kashberg](https://x.com/Kashberg_0)
-- **來源:** [Twitter Post](https://x.com/Kashberg_0/status/2049340792079339854)
-- **發布時間:** 2026年4月29日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16974)**
-
----
-
-### No. 32: 社群媒體貼文 - 超寫實連帽男性肖像
+### No. 31: 社群媒體貼文 - 超寫實連帽男性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,6 +2058,40 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16979)**
+
+---
+
+### No. 32: 社群媒體貼文 - Y2K 風格數位肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個旨在重現 Y2K 年代數位攝影風格的提示詞，透過 image-to-image 功能，呈現褪色色調與底片顆粒感。
+
+#### 📝 提示詞
+
+```
+一張超逼真的 Y2K 年代數位照片，主角為 {argument name="subject" default="成年女性"}，請使用附件圖片的臉部特徵。主要特徵：柔和細緻的五官，紅潤的皮膚。表情：低頭，夢幻氛圍。相機：近距離肖像，直閃光柔和衰減。髮型：凌亂髮髻，帶有散落髮絲。服裝：{argument name="outfit" default="粉色露肩上衣"}。背景：{argument name="floral background" default="充滿畫面的亮粉色花朵"}。構圖：側面輪廓，花卉密集背景。風格：底片感 Y2K，褪色色調，顆粒感，刮痕。負面提示：過度飽和，不真實的色彩
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777533350732_wrf053_HHCkFpMaQAAKvkL.jpg" width="600" alt="社群媒體貼文 - Y2K 風格數位肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Chryz leen](https://x.com/Chryzleenprompt)
+- **來源:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049318254972379633)
+- **發布時間:** 2026年4月29日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16978)**
 
 ---
 
@@ -4525,70 +4525,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 89: 產品行銷 - 優雅雪紡芭蕾舞者肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個用於高階時尚舞蹈肖像的 JSON 提示詞，描繪了一位在白色攝影棚背景下，身披飄逸黑色雪紡布料的芭蕾舞者。
-
-#### 📝 提示詞
-
-```
-{
-  "prompt": "一位優雅的芭蕾舞者優雅地跪在純白無縫攝影棚背景前，雙眼輕閉，神情寧靜專注，頭部微微傾斜。她梳著俐落緊緻的芭蕾舞髮髻，沒有一絲散髮，肌膚無瑕，妝容自然細緻。她身穿貼身的黑色細肩帶緊身衣、凸顯修長雙腿的半透明網襪，以及美麗的淡粉色 {argument name="shoes" default="緞面芭蕾舞鞋"}，長長的同色系緞帶優雅地纏繞並繫在腳踝上。她手中拿著一大塊飄逸的 {argument name="fabric" default="黑色透明雪紡布料"}，捕捉其舞動瞬間，布料如在空中起舞般圍繞著她的身體與手臂動態地旋轉垂墜。來自左上方的柔和定向光創造出溫潤的亮部與柔和的陰影，完美雕塑出她的身形，高對比度的時尚雜誌風格光影，過渡乾淨。優雅精緻的跪姿，一膝著地，另一條腿優雅彎曲，腳尖在芭蕾舞鞋中完美繃直。極簡現代的高階時尚舞蹈美學，乾淨的攝影棚場景，無雜物干擾，純白背景。電影級構圖，焦點清晰地對準舞者，淺景深，人體結構完美，手指與手部細膩，氛圍空靈且充滿力量，Vogue 風格時尚肖像，攝影風格參考 {argument name="photographers" default="Annie Leibovitz 和 Mario Testino"}，8k 超高細節，照片級真實感，傑作，最高品質",
-  "negative_prompt": "模糊，變形，醜陋，多餘的肢體，人體結構錯誤，浮水印，文字，標誌，臉部扭曲，睜眼，凌亂的頭髮，鬆散的髮髻，明亮飽和的色彩，雜亂的背景，道具，珠寶，強光，平光，低解析度，卡通，插畫，繪畫，3D 渲染，塑膠感皮膚，過度曝光，曝光不足，顆粒感，噪點",
-  "aspect_ratio": "2:3",
-  "style": "時尚雜誌攝影",
-  "lighting": "柔和定向攝影棚光，帶有輕微的輪廓光",
-  "quality": "超高細節，8k，照片級真實感，傑作",
-  "parameters": {
-    "seed": -1,
-    "steps": 50,
-    "cfg_scale": 7.5,
-    "sampler": "Euler a",
-    "face_lock": true,
-    "do_not_change_face": true,
-    "keep_original_face": true
-  },
-  "description": "優雅的芭蕾舞者身穿黑色緊身衣與網襪，跪在白色攝影棚背景前，閉眼，俐落髮髻，手中拿著飄逸的黑色透明布料，淡粉色芭蕾舞鞋，優雅的高階時尚舞蹈肖像，2:3 比例"
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358722_ql3vnj_HHCfAXobkAAVGCU.jpg" width="600" alt="產品行銷 - 優雅雪紡芭蕾舞者肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_xl2lcf_HHCfAXxaoAAgKTJ.jpg" width="600" alt="產品行銷 - 優雅雪紡芭蕾舞者肖像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_syyxhd_HHCfAZhawAAW5gx.jpg" width="600" alt="產品行銷 - 優雅雪紡芭蕾舞者肖像 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Sydney](https://x.com/XSydneyFan)
-- **來源:** [Twitter Post](https://x.com/XSydneyFan/status/2049312674161504329)
-- **發布時間:** 2026年4月29日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16993)**
-
----
-
-### No. 90: 產品行銷 - 高端時尚與汽車攝影
+### No. 89: 產品行銷 - 高端時尚與汽車攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4559,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 91: 產品行銷 - 魚眼鏡頭冰沙人像
+### No. 90: 產品行銷 - 魚眼鏡頭冰沙人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4656,7 +4593,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 92: 產品行銷 - 高能量運動廣告海報
+### No. 91: 產品行銷 - 高能量運動廣告海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4690,7 +4627,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 93: 產品行銷 - 超寫實奢華時尚人像
+### No. 92: 產品行銷 - 超寫實奢華時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4738,7 +4675,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 94: 產品行銷 - 城市時尚人像
+### No. 93: 產品行銷 - 城市時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4772,7 +4709,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 95: 產品行銷 - 具備抽象圖案的攝影棚時尚人像
+### No. 94: 產品行銷 - 具備抽象圖案的攝影棚時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4806,7 +4743,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 96: 產品行銷 - 超寫實數位相機人像
+### No. 95: 產品行銷 - 超寫實數位相機人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4853,6 +4790,56 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16751)**
+
+---
+
+### No. 96: 產品行銷 - 大膽的編輯風格健身人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個編輯風格的健身提示詞，以一位手持超大啞鈴道具的運動型女性為主角，強調鮮豔的色彩與水泥健身房的美學風格。
+
+#### 📝 提示詞
+
+```
+一位強壯、充滿運動感的女性自信地坐在水泥健身房的長椅上。她的一隻手臂靠在一個幾乎與她同高、垂直放置的巨大啞鈴上。構圖採用居中對稱，營造出大膽的編輯風格健身視覺效果。
+
+服裝與造型
+上衣：鮮豔的 {argument name="top color" default="黃色"} 運動短版上衣。
+下身：{argument name="bottom color" default="紅色"} 高腰緊身褲，側面帶有黃色賽車條紋。
+鞋類：搭配黃色與紅色的運動鞋。
+髮型：俐落的高馬尾深色髮型。
+
+環境與背景
+背景：深藍色的極簡健身房牆面，牆上以巨大的白色粗體無襯線字體寫著「{argument name="background text" default="POWER"}」。
+地板：拋光水泥地，具有高光澤飾面，清晰地反射出拍攝主體與重量器材。
+道具：一個造型化的超大直立啞鈴。頂部的配重片標示為「POWER」，底部標示為「100 KG」。
+
+燈光與氛圍
+燈光：乾淨的電影級攝影棚燈光，天花板邊緣帶有冷藍色的輪廓光。
+氛圍：強烈、激勵人心且現代感十足。
+品質：高解析度、照片級真實感、對焦清晰且色彩飽和度鮮豔。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="產品行銷 - 大膽的編輯風格健身人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **來源:** [Twitter Post](https://x.com/Minahil42298354/status/2048960830310387974)
+- **發布時間:** 2026年4月28日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=16757)**
 
 ---
 
@@ -5820,7 +5807,7 @@ No.203 Umbra Directive
 
 <div align="center">
 
-### 🎯 12719 更多提示詞未在此顯示
+### 🎯 12717 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5883,6 +5870,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-30T08:42:37.959Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-30T12:26:15.724Z</sub>
 
 </div>

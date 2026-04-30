@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **12839** |
+| 📝 Total de prompts | **12837** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quinta-feira, 30 de abril de 2026 às 08:43:55 UTC** |
+| 🔄 Última atualização | **quinta-feira, 30 de abril de 2026 às 12:27:31 UTC** |
 
 </div>
 
@@ -2026,41 +2026,7 @@ Uma foto em ângulo superior e enquadramento total exibe uma grade de {argument 
 
 ---
 
-### No. 31: Publicação em Redes Sociais - Retrato de Moda Urbana
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um retrato urbano minimalista e moderno de uma mulher usando hijab e moletom.
-
-#### 📝 Prompt
-
-```
-Uma jovem estilosa usando um {argument name="headwear" default="hijab bege"} e óculos redondos está em uma rua urbana tranquila, cercada por edifícios de tijolos modernos e lojas sofisticadas. Ela veste um {argument name="top style" default="moletom de manga comprida"} na cor {argument name="top color" default="bordô"} com listras brancas nas mangas e um logotipo gráfico ousado na frente, combinado com calças pretas largas. Ela carrega uma pequena bolsa de ombro preta e posa casualmente com uma mão no bolso, olhando com confiança para a câmera. Atrás dela, há uma placa vertical de estilo vintage no edifício e grandes vitrines de vidro exibindo roupas. A rua está limpa, sob um céu nublado suave, criando uma iluminação natural e uniforme. A estética geral é minimalista, moderna e levemente cinematográfica, com tons suaves e uma atmosfera urbana aconchegante.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533348389_utx1wd_HHC3KZVagAAuKeo.jpg" width="600" alt="Publicação em Redes Sociais - Retrato de Moda Urbana - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Kashberg](https://x.com/Kashberg_0)
-- **Fonte:** [Twitter Post](https://x.com/Kashberg_0/status/2049340792079339854)
-- **Publicado:** 29 de abril de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16974)**
-
----
-
-### No. 32: Publicação em Redes Sociais - Retrato Masculino de Capuz Ultra-Realista
+### No. 31: Publicação em Redes Sociais - Retrato Masculino de Capuz Ultra-Realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2091,6 +2057,40 @@ Retrato 4K ultra-realista de um {argument name="subject" default="homem bonito c
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16979)**
+
+---
+
+### No. 32: Publicação em Redes Sociais - Retrato Digital Estilo Y2K
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt estilístico destinado a recriar o visual de uma fotografia digital da era Y2K com tons desbotados e granulação de filme, utilizando recursos de imagem para imagem.
+
+#### 📝 Prompt
+
+```
+Uma fotografia digital hiper-realista da era Y2K de uma {argument name="subject" default="mulher adulta"}, use as características faciais da imagem anexada. Assunto principal: Traços delicados e suaves, pele rosada. Expressão: Olhando para baixo, clima sonhador. Câmera: Retrato fechado, flash direto com queda suave. Cabelo: Coque bagunçado com fios soltos. Roupa: {argument name="outfit" default="Blusa rosa ombro a ombro"}. Fundo: {argument name="floral background" default="Flores rosa brilhantes preenchendo o quadro"}. Composição: Perfil lateral, fundo com muitas flores. Estilo: Y2K estilo filme, tons desbotados, granulação, arranhões. Negativo: saturação excessiva, cores irreais
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777533350732_wrf053_HHCkFpMaQAAKvkL.jpg" width="600" alt="Publicação em Redes Sociais - Retrato Digital Estilo Y2K - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Chryz leen](https://x.com/Chryzleenprompt)
+- **Fonte:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049318254972379633)
+- **Publicado:** 29 de abril de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16978)**
 
 ---
 
@@ -4523,70 +4523,7 @@ A mulher tem uma linha do maxilar bem definida, batom vermelho matte intenso e u
 
 ---
 
-### No. 89: Marketing de Produto - Retrato de Bailarina em Chiffon Elegante
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um prompt JSON para um retrato de dança editorial de alta moda de uma bailarina com tecido de chiffon preto fluido em um fundo de estúdio branco.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": "Uma bailarina graciosa ajoelhada elegantemente em um fundo de estúdio branco puro e sem emendas, seus olhos suavemente fechados em concentração serena, cabeça levemente inclinada. Ela tem um coque de balé elegante e justo, sem fios soltos, pele impecável com maquiagem natural sutil. Ela usa um collant preto de alças finas que se ajusta ao corpo, meia-calça arrastão semitransparente que acentua suas pernas longas e lindas {argument name="shoes" default="sapatilhas de ponta de cetim"} rosa-pálido com longas fitas combinando graciosamente enroladas e amarradas ao redor de seus tornozelos. Em suas mãos, ela segura um grande pedaço de {argument name="fabric" default="tecido de chiffon preto transparente"} fluido capturado em movimento, o tecido girando e drapeando dinamicamente ao redor de seu corpo e braços como se estivesse dançando no ar. Iluminação direcional suave vinda do canto superior esquerdo cria reflexos gentis e sombras suaves que esculpem sua forma lindamente, iluminação editorial de alto contraste com gradientes limpos. Pose ajoelhada elegante e refinada, um joelho no chão, a outra perna elegantemente dobrada, dedos perfeitamente apontados nas sapatilhas de ponta. Estética de dança de alta moda minimalista e moderna, cenário de estúdio limpo sem distrações, fundo branco puro. Composição cinematográfica, foco nítido na bailarina, profundidade de campo rasa, anatomia impecável, mãos e dedos delicados, clima etéreo e poderoso, retrato editorial estilo vogue, fotografia de moda por {argument name="photographers" default="Annie Leibovitz e Mario Testino"}, 8k ultra detalhado, fotorrealista, obra-prima, melhor qualidade",
-  "negative_prompt": "embaçado, deformado, feio, membros extras, anatomia ruim, marca d'água, texto, logotipo, rosto distorcido, olhos abertos, cabelo bagunçado, coque solto, cores saturadas brilhantes, fundo confuso, adereços, joias, iluminação forte, iluminação plana, baixa resolução, desenho animado, ilustração, pintura, renderização 3d, pele de plástico, superexposto, subexposto, granulado, ruidoso",
-  "aspect_ratio": "2:3",
-  "style": "fotografia de moda editorial",
-  "lighting": "iluminação de estúdio direcional suave com luz de contorno gentil",
-  "quality": "ultra detalhado, 8k, fotorrealista, obra-prima",
-  "parameters": {
-    "seed": -1,
-    "steps": 50,
-    "cfg_scale": 7.5,
-    "sampler": "Euler a",
-    "face_lock": true,
-    "do_not_change_face": true,
-    "keep_original_face": true
-  },
-  "description": "Bailarina graciosa em collant preto e meia-calça arrastão ajoelhada em fundo de estúdio branco, olhos fechados, coque elegante, segurando tecido preto transparente fluido em movimento, sapatilhas de ponta rosa-pálido, retrato de dança de alta moda elegante, proporção 2:3"
-}
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358722_ql3vnj_HHCfAXobkAAVGCU.jpg" width="600" alt="Marketing de Produto - Retrato de Bailarina em Chiffon Elegante - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_xl2lcf_HHCfAXxaoAAgKTJ.jpg" width="600" alt="Marketing de Produto - Retrato de Bailarina em Chiffon Elegante - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_syyxhd_HHCfAZhawAAW5gx.jpg" width="600" alt="Marketing de Produto - Retrato de Bailarina em Chiffon Elegante - Image 3">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Sydney](https://x.com/XSydneyFan)
-- **Fonte:** [Twitter Post](https://x.com/XSydneyFan/status/2049312674161504329)
-- **Publicado:** 29 de abril de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16993)**
-
----
-
-### No. 90: Marketing de Produto - Fotografia de Moda e Automotiva de Alto Padrão
+### No. 89: Marketing de Produto - Fotografia de Moda e Automotiva de Alto Padrão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4620,7 +4557,7 @@ Uma fotografia de estúdio sofisticada e de alto padrão. Sujeito: {argument nam
 
 ---
 
-### No. 91: Marketing de Produto - Retrato com Efeito Slushy Ice e Lente Olho de Peixe
+### No. 90: Marketing de Produto - Retrato com Efeito Slushy Ice e Lente Olho de Peixe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4654,7 +4591,7 @@ Uma foto em ângulo zenital com lente olho de peixe captura uma jovem mulher {ar
 
 ---
 
-### No. 92: Marketing de Produto - Cartaz publicitário esportivo de alta energia
+### No. 91: Marketing de Produto - Cartaz publicitário esportivo de alta energia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4688,7 +4625,7 @@ Um cartaz publicitário esportivo vertical de alta energia apresentando uma {arg
 
 ---
 
-### No. 93: Marketing de Produto - Retrato de Moda de Luxo Hiper-Realista
+### No. 92: Marketing de Produto - Retrato de Moda de Luxo Hiper-Realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4736,7 +4673,7 @@ Palavras-chave de estilo: iluminação low-key, chiaroscuro, noir, editorial de 
 
 ---
 
-### No. 94: Marketing de Produto - Retrato de Moda Urbana
+### No. 93: Marketing de Produto - Retrato de Moda Urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4770,7 +4707,7 @@ Uma foto em ângulo elevado retrata uma jovem mulher {argument name="ethnicity" 
 
 ---
 
-### No. 95: Marketing de Produto - Retrato de Moda em Estúdio com Estampa Abstrata
+### No. 94: Marketing de Produto - Retrato de Moda em Estúdio com Estampa Abstrata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4804,7 +4741,7 @@ Um prompt de fotografia profissional de estúdio para uma mulher usando um conju
 
 ---
 
-### No. 96: Marketing de Produto - Retrato Hiper-Realista Estilo Câmera Digital
+### No. 95: Marketing de Produto - Retrato Hiper-Realista Estilo Câmera Digital
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4851,6 +4788,53 @@ pele excessivamente suavizada, textura de plástico, proporções irreais, ilumi
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16751)**
+
+---
+
+### No. 96: Marketing de Produto - Retrato Fitness Editorial Ousado
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt de fitness editorial apresentando uma mulher atlética com um halter gigante como acessório, focando em cores vibrantes e estética de academia com concreto.
+
+#### 📝 Prompt
+
+```
+Uma mulher atlética e poderosa sentada com confiança em um banco de academia de concreto. Ela está apoiando um braço contra um halter maciço, orientado verticalmente, que é quase tão alto quanto ela. A composição é centralizada e simétrica, criando um visual fitness editorial ousado.
+​Vestuário e Estilo
+​Parte superior: Top esportivo vibrante na cor {argument name="top color" default="amarelo"}.
+​Parte inferior: Leggings de cintura alta na cor {argument name="bottom color" default="vermelha"} com uma faixa lateral amarela.
+​Calçados: Tênis esportivos combinando nas cores amarelo e vermelho.
+​Cabelo: Rabo de cavalo alto, escuro e elegante.
+​Ambiente e Fundo
+​Fundo: Uma parede de academia minimalista em azul profundo com a palavra "{argument name="background text" default="POWER"}" em tipografia sem serifa, branca, grande e em negrito.
+​Piso: Concreto polido com acabamento de alto brilho, mostrando um reflexo nítido da modelo e dos pesos.
+​O Acessório: Um halter estilizado e gigante posicionado na vertical. A anilha superior está rotulada como "POWER" e a base como "100 KG".
+​Iluminação e Atmosfera
+​Iluminação: Iluminação de estúdio cinematográfica e limpa, com luz de contorno azul fria ao longo das bordas do teto.
+​Clima: Intenso, motivador e moderno.
+​Qualidade: Alta resolução, fotorrealista, foco nítido com saturação de cores vibrantes.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="Marketing de Produto - Retrato Fitness Editorial Ousado - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Minahil](https://x.com/Minahil42298354)
+- **Fonte:** [Twitter Post](https://x.com/Minahil42298354/status/2048960830310387974)
+- **Publicado:** 28 de abril de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=16757)**
 
 ---
 
@@ -5818,7 +5802,7 @@ Inclua as peculiaridades gráficas típicas do PS1: sutil oscilação/jitter/def
 
 <div align="center">
 
-### 🎯 12719 mais prompts não mostrados aqui
+### 🎯 12717 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5881,6 +5865,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-30T08:43:55.694Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-30T12:27:31.107Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **12839** |
+| 📝 Total Prompts | **12837** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Thursday, April 30, 2026 at 8:42:26 AM UTC** |
+| 🔄 Last Updated | **Thursday, April 30, 2026 at 12:26:07 PM UTC** |
 
 </div>
 
@@ -2027,41 +2027,7 @@ A high-angle, full-frame shot displays a grid of {argument name="subject" defaul
 
 ---
 
-### No. 31: Social Media Post - Urban Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A minimalist and fashionable urban street portrait of a woman in a hijab and sweatshirt.
-
-#### 📝 Prompt
-
-```
-A stylish young woman wearing a {argument name="headwear" default="beige hijab"} and round glasses stands on a quiet urban street lined with modern brick buildings and boutique shops. She wears a {argument name="top color" default="maroon"} {argument name="top style" default="long-sleeve sweatshirt"} with white stripes on the sleeves and a bold graphic logo on the front, paired with loose black pants. She carries a small black shoulder bag and poses casually with one hand in her pocket, looking confidently at the camera. Behind her, there is a vertical vintage-style sign on the building and large glass storefront windows displaying clothing. The street is clean with a soft overcast sky, creating even, natural lighting. The overall aesthetic is minimalist, fashionable, and slightly cinematic, with muted tones and a cozy city vibe.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533348389_utx1wd_HHC3KZVagAAuKeo.jpg" width="600" alt="Social Media Post - Urban Fashion Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Kashberg](https://x.com/Kashberg_0)
-- **Source:** [Twitter Post](https://x.com/Kashberg_0/status/2049340792079339854)
-- **Published:** April 29, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16974)**
-
----
-
-### No. 32: Social Media Post - Ultra-Realistic Hooded Male Portrait
+### No. 31: Social Media Post - Ultra-Realistic Hooded Male Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,6 +2058,40 @@ Ultra-realistic 4K portrait of a {argument name="subject" default="handsome man 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16979)**
+
+---
+
+### No. 32: Social Media Post - Y2K Style Digital Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A stylistic prompt intended to recreate the look of a Y2K-era digital photograph with faded tones and film grain, using image-to-image features.
+
+#### 📝 Prompt
+
+```
+A hyper-realistic Y2K-era digital photograph of an {argument name="subject" default="adult woman"}, use the facial feature of the attached image. Main subject: Soft delicate features, rosy skin. Expression: Looking down, dreamy mood. Camera: Close portrait, direct flash soft falloff. Hair: Messy bun with loose strands. Outfit: {argument name="outfit" default="Pink off-shoulder top"}. Background: {argument name="floral background" default="Bright pink flowers filling frame"}. Composition: Side profile, floral-heavy background. Style: Film-like Y2K, faded tones, grain, scratches. Negative: over-saturation, unrealistic colors
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777533350732_wrf053_HHCkFpMaQAAKvkL.jpg" width="600" alt="Social Media Post - Y2K Style Digital Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Chryz leen](https://x.com/Chryzleenprompt)
+- **Source:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049318254972379633)
+- **Published:** April 29, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16978)**
 
 ---
 
@@ -4523,70 +4523,7 @@ The woman has a sharp jawline, deep red matte lipstick, and a small silver nose 
 
 ---
 
-### No. 89: Product Marketing - Graceful Chiffon Ballerina Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A JSON prompt for a high-fashion editorial dance portrait of a ballerina with flowing black chiffon fabric on a white studio background.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": "A graceful ballerina kneeling elegantly on a pure white seamless studio backdrop, her eyes gently closed in serene concentration, head slightly tilted. She has a sleek, tight ballet bun with no loose strands, flawless skin with subtle natural makeup. She wears a form-fitting black spaghetti-strap leotard with delicate thin straps, semi-sheer fishnet tights that accentuate her long legs, and beautiful pale pink {argument name="shoes" default="satin pointe shoes"} with long matching ribbons gracefully wrapped and tied around her ankles. In her hands she holds a large piece of flowing {argument name="fabric" default="black sheer chiffon fabric"} captured mid-motion, the fabric swirling and draping dynamically around her body and arms as if dancing in the air. Soft directional lighting from the upper left creates gentle highlights and soft shadows that sculpt her form beautifully, high-contrast editorial lighting with clean gradients. Elegant and refined kneeling pose, one knee down, the other leg elegantly bent, toes perfectly pointed in pointe shoes. Minimal and modern high-fashion dance aesthetic, clean studio setting with no distractions, pure white background. Cinematic composition, sharp focus on the dancer, shallow depth of field, impeccable anatomy, delicate hands and fingers, ethereal and powerful mood, vogue-style editorial portrait, fashion photography by {argument name="photographers" default="Annie Leibovitz and Mario Testino"}, 8k ultra-detailed, photorealistic, masterpiece, best quality",
-  "negative_prompt": "blurry, deformed, ugly, extra limbs, bad anatomy, watermark, text, logo, distorted face, open eyes, messy hair, loose bun, bright saturated colors, cluttered background, props, jewelry, harsh lighting, flat lighting, low resolution, cartoon, illustration, painting, 3d render, plastic skin, overexposed, underexposed, grainy, noisy",
-  "aspect_ratio": "2:3",
-  "style": "editorial fashion photography",
-  "lighting": "soft directional studio lighting with gentle rim light",
-  "quality": "ultra detailed, 8k, photorealistic, masterpiece",
-  "parameters": {
-    "seed": -1,
-    "steps": 50,
-    "cfg_scale": 7.5,
-    "sampler": "Euler a",
-    "face_lock": true,
-    "do_not_change_face": true,
-    "keep_original_face": true
-  },
-  "description": "Graceful ballerina in black leotard and fishnet tights kneeling on white studio backdrop, eyes closed, sleek bun, holding flowing black sheer fabric mid-motion, pale pink pointe shoes, elegant high-fashion dance portrait, 2:3 aspect ratio"
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358722_ql3vnj_HHCfAXobkAAVGCU.jpg" width="600" alt="Product Marketing - Graceful Chiffon Ballerina Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_xl2lcf_HHCfAXxaoAAgKTJ.jpg" width="600" alt="Product Marketing - Graceful Chiffon Ballerina Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533358710_syyxhd_HHCfAZhawAAW5gx.jpg" width="600" alt="Product Marketing - Graceful Chiffon Ballerina Portrait - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Sydney](https://x.com/XSydneyFan)
-- **Source:** [Twitter Post](https://x.com/XSydneyFan/status/2049312674161504329)
-- **Published:** April 29, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16993)**
-
----
-
-### No. 90: Product Marketing - High-End Fashion and Automotive Photography
+### No. 89: Product Marketing - High-End Fashion and Automotive Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4620,7 +4557,7 @@ A sophisticated, high-end studio photograph. Subject: {argument name="subject de
 
 ---
 
-### No. 91: Product Marketing - Fisheye Lens Slushy Ice Portrait
+### No. 90: Product Marketing - Fisheye Lens Slushy Ice Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4654,7 +4591,7 @@ A high-angle fisheye lens shot captures a young {argument name="ethnicity" defau
 
 ---
 
-### No. 92: Product Marketing - High-energy sports advertisement poster
+### No. 91: Product Marketing - High-energy sports advertisement poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4688,7 +4625,7 @@ A high-energy, vertical sports advertisement poster featuring a {argument name="
 
 ---
 
-### No. 93: Product Marketing - Hyper-Realistic Luxury Fashion Portrait
+### No. 92: Product Marketing - Hyper-Realistic Luxury Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4736,7 +4673,7 @@ Style keywords: low-key lighting, chiaroscuro, noir, high fashion editorial, cin
 
 ---
 
-### No. 94: Product Marketing - Urban Fashion Portrait
+### No. 93: Product Marketing - Urban Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4770,7 +4707,7 @@ A high-angle shot depicts a young {argument name="ethnicity" default="[reference
 
 ---
 
-### No. 95: Product Marketing - Studio Fashion Portrait with Abstract Pattern
+### No. 94: Product Marketing - Studio Fashion Portrait with Abstract Pattern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4804,7 +4741,7 @@ A professional studio photography prompt for a woman in a colorful abstract matc
 
 ---
 
-### No. 96: Product Marketing - Hyper-Realistic Digicam Portrait
+### No. 95: Product Marketing - Hyper-Realistic Digicam Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4851,6 +4788,53 @@ over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, o
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16751)**
+
+---
+
+### No. 96: Product Marketing - Bold Editorial Fitness Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+An editorial fitness prompt featuring an athletic woman with an oversized dumbbell prop, focusing on vibrant colors and concrete gym aesthetics.
+
+#### 📝 Prompt
+
+```
+A powerful, athletic woman sitting confidently on a concrete gym bench. She is leaning one arm against a massive, vertically oriented dumbbell that stands nearly as tall as her. The composition is centered and symmetrical, creating a bold, editorial fitness look.
+​Wardrobe & Styling
+​Top: Vibrant {argument name="top color" default="yellow"} athletic crop top.
+​Bottom: {argument name="bottom color" default="Red"} high-waisted leggings with a yellow racing stripe down the side.
+​Footwear: Matching yellow and red athletic sneakers.
+​Hair: Sleek, high dark ponytail.
+​Environment & Background
+​Background: A deep blue minimalist gym wall featuring the word "{argument name="background text" default="POWER"}" in massive, white, bold sans-serif typography.
+​Floor: Polished concrete with a high-gloss finish, showing a clear reflection of the subject and the weights.
+​The Prop: A stylized, oversized dumbbell standing upright. The top weight plate is labeled "POWER" and the base is labeled "100 KG".
+​Lighting & Atmosphere
+​Lighting: Clean, cinematic studio lighting with cool blue rim lighting along the ceiling edges.
+​Mood: Intense, motivating, and modern.
+​Quality: High-resolution, photorealistic, sharp focus with vibrant color saturation.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="Product Marketing - Bold Editorial Fitness Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Minahil](https://x.com/Minahil42298354)
+- **Source:** [Twitter Post](https://x.com/Minahil42298354/status/2048960830310387974)
+- **Published:** April 28, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=16757)**
 
 ---
 
@@ -5818,7 +5802,7 @@ Include typical PS1 graphical quirks: subtle vertex snapping/jitter/wobbling on 
 
 <div align="center">
 
-### 🎯 12719 more prompts not shown here
+### 🎯 12717 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5881,6 +5865,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-30T08:42:26.337Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-30T12:26:07.258Z</sub>
 
 </div>
