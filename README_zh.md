@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **12837** |
+| 📝 提示词总数 | **12884** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年5月1日星期五 UTC 05:13:10** |
+| 🔄 最后更新 | **2026年5月1日星期五 UTC 08:35:25** |
 
 </div>
 
@@ -654,7 +654,479 @@ Grok 的搜索结果
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - 3D 风格化漫画肖像
+### No. 1: 个人资料 / 头像 - 吉他手炭笔肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+这是一个详细的传统美术提示词，用于创作一幅在舒适房间里弹奏吉他的年轻男子的炭笔和石墨肖像画。
+
+#### 📝 提示词
+
+```
+一幅竖构图的炭笔和石墨肖像画，主角是 {argument name="subject" default="一位英俊的年轻人"}，留着 {argument name="hair style" default="波浪般的凌乱发型"}，坐在 {argument name="object" default="木凳"} 上弹奏木吉他。他带着温暖、柔和的微笑，专注而放松地注视着琴弦。画作采用传统美术风格，具有清晰可见的炭笔笔触、柔和的过渡和高对比度的阴影。背景是一个舒适、光线昏暗的房间，模糊的书架和窗户营造出炭笔画中柔和的“焦外成像”效果。毛衣和吉他抛光木材的质感丰富，呈现于纹理细腻的奶油色纸张上。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620035877_uqbmtg_HHK2IswWcAAx1h4.jpg" width="600" alt="个人资料 / 头像 - 吉他手炭笔肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049901047133638916)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17222)**
+
+---
+
+### No. 2: 个人资料 / 头像 - 身着蕾丝裙的女性影棚肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于身着白色蕾丝裙的红发女性的影棚肖像提示词，强调质感与专业布光。
+
+#### 📝 提示词
+
+```
+一张高度精细的影棚肖像，主角是 {argument name="subject" default="一位皮肤白皙、拥有迷人亮蓝色双眼，以及鲜艳红发并梳成利落高发髻的年轻女性"}。她带着温柔且自信的微笑，涂着 {argument name="makeup" default="深红色口红"}，身着优雅的 {argument name="outfit" default="露肩白色蕾丝连衣裙，领口和短袖处饰有精致的花卉图案和细腻的扇形边缘"}。这件修身蕾丝裙采用心形领设计，裙长刚好及膝。她姿态优雅地坐着，双臂自然垂放于身体两侧，带着温暖的表情直视镜头。灯光柔和且专业，突显了她的五官以及蕾丝的质感，背景为平滑的 {argument name="background" default="深色渐变影棚背景"}，呈现出电影级的高分辨率摄影风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620062776_xvhx9t_HHKgKTKawAAWYdQ.jpg" width="600" alt="个人资料 / 头像 - 身着蕾丝裙的女性影棚肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **来源:** [Twitter Post](https://x.com/Jodie_Noraa/status/2049876903390298566)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17261)**
+
+---
+
+### No. 3: 个人资料 / 头像 - 萨法维王朝风格波斯细密画肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个专门用于将参考人物转换为高度精细的萨法维王朝风格波斯细密画的提示词。
+
+#### 📝 提示词
+
+```
+参考图像中人物的高度精细波斯细密画肖像，保留其准确的面部特征和表情。以传统的 {argument name="historical style" default="萨法维王朝服饰"} 描绘主体，配以复杂的刺绣面料、精致的珠宝和庄重的姿态。使用波斯细密画特有的平涂而鲜艳的色彩、细腻的线条和华丽的细节。将主体置于装饰丰富的背景中，背景包含花卉蔓藤纹样、金箔装饰和对称的几何图案。确保面部柔和且风格化，具有杏仁状眼睛和精致的轮廓，同时保持人物相似度。采用手稿风格的构图，布局平衡优雅，并融入微妙的叙事元素。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620054975_kaddo0_HHJ7V8fa4AAyJN4.jpg" width="600" alt="个人资料 / 头像 - 萨法维王朝风格波斯细密画肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620055035_78popw_HHJ7WOlaQAADTaW.jpg" width="600" alt="个人资料 / 头像 - 萨法维王朝风格波斯细密画肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620055592_haqko5_HHJ7WgWa4AAJwZP.jpg" width="600" alt="个人资料 / 头像 - 萨法维王朝风格波斯细密画肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620056281_rne81k_HHJ7WxEbgAALEnJ.jpg" width="600" alt="个人资料 / 头像 - 萨法维王朝风格波斯细密画肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
+- **来源:** [Twitter Post](https://x.com/shushant_l/status/2049836415505387717)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17252)**
+
+---
+
+### No. 4: 个人资料 / 头像 - 赫梯仪式斗篷肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个角色转换提示词，将参考图像中的主体置于具有真实质感和图案的赫梯历史仪式服装中。
+
+#### 📝 提示词
+
+```
+参考图像中 {argument name="subject" default="人物"} 的写实肖像，保留其精确的面部特征和表情。为该主体穿上 {argument name="clothing type" default="传统的赫梯仪式斗篷"}，采用厚重的羊毛面料、层叠的褶皱以及带有象征性图案的古代安纳托利亚纹样。包含华丽的配饰，如宽腰带、金属扣和符合历史时期的珠宝。使用 {argument name="color scheme" default="深红色、棕色和金色点缀"} 的大地色调。场景设置在古代赫梯背景中，背景为石质建筑或神庙浮雕。确保主体呈现庄重、威严的姿态，并采用柔和的电影级光影和富有历史感的细节刻画。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620065938_n1iq87_HHJtgafaMAAdJsz.jpg" width="600" alt="个人资料 / 头像 - 赫梯仪式斗篷肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620065967_w5pvry_HHJtgp9bcAAzjGX.jpg" width="600" alt="个人资料 / 头像 - 赫梯仪式斗篷肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620066286_31vvf2_HHJtg25b0AAj6oJ.jpg" width="600" alt="个人资料 / 头像 - 赫梯仪式斗篷肖像 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
+- **来源:** [Twitter Post](https://x.com/shushant_l/status/2049821194988441837)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17265)**
+
+---
+
+### No. 5: 个人资料 / 头像 - 私密卧室镜面自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个高度详细的 JSON 提示词，用于生成一张年轻女性在现代卧室中跪姿的抓拍镜面自拍。
+
+#### 📝 提示词
+
+```
+{
+  "meta": {
+    "quality": "超写实，原始风格，杰作，高度细腻的纹理",
+    "camera": "垂直中景镜头，以镜面反射形式呈现。视角与镜面齐平，从略微偏后的四分之三角度展示主体回眸的状态。自然的胶片颗粒感，焦点清晰。",
+    "lighting": "来自未入镜窗户的柔和自然环境光，照亮了卧室和主体。光线均匀且柔和。",
+    "style": "抓拍生活照，卧室镜面自拍美学。",
+    "aspect_ratio": "9:16"
+  },
+  "scene": {
+    "location": "一间现代、略显杂乱的卧室。",
+    "details": "深色木质复合地板，主体跪在一块纹理丰富的浅米色地毯上。一张带有灰色软包床头的床，床铺未整理，混搭着条纹毯子和青色毛绒毯，以及一些深色的起球床品。右侧可见一个带有两个抽屉和金色拉手的深色木质床头柜，上面放着一个小瓶子。",
+    "background": "可见床和床头柜，以及上面散落的小物件，背景略微模糊。",
+    "atmosphere": "随意、放松、私密、真实。"
+  },
+  "subject": {
+    "gender": "女性",
+    "age": "年轻成年人",
+    "hair": {
+      "color": "金色",
+      "style": "长而卷曲的自然金发，垂落在肩头。"
+    },
+    "expression": "专注地看着镜中反射出的手机屏幕，表情中性，略显严肃。",
+    "pose": "跪在地毯上，从略微偏后的四分之三角度拍摄。她回头看向肩膀后方，右手拿着一部银色 iPhone（Pro 款式），配有透明手机壳和清晰可见的圆形 MagSafe 磁吸环，用于捕捉镜面反射。她的身体呈拱形并扭转以看向手机。左手放在左膝上。可见赤脚，一只脚蜷缩，另一只脚放在身体附近。",
+    "outfit": {
+      "description": "长袖黑色高领上衣。深海军蓝短裤（内裤款式）。赤脚。",
+      "fabric": "黑色上衣和短裤展现出细腻的棉质或平纹针织面料纹理。"
+    },
+    "accessories": "一部银色 iPhone（例如 iPhone 15 Pro 款式），配有透明手机壳和明显的圆形 MagSafe 充电环，正对着镜子。赤脚。没有其他明显的配饰。"
+  },
+  "composition": "镜面反射的居中垂直构图。主体的身形，特别是她跪姿下的背部和腿部，是视觉焦点。她身体的复杂姿态、手机以及视线方向形成了强烈的视觉引导。杂乱的床铺构成了细腻的背景纹理。主体和手机反射焦点清晰。"
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620037681_9m67zq_HHJXmR3agAAzRmG.jpg" width="600" alt="个人资料 / 头像 - 私密卧室镜面自拍 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Lore](https://x.com/l_w_lorenzen)
+- **来源:** [Twitter Post](https://x.com/l_w_lorenzen/status/2049797167473459707)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17224)**
+
+---
+
+### No. 6: 个人资料 / 头像 - 宁静年轻女性卧室肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个高度结构化的 JSON 风格提示词，用于生成一张年轻女性的宁静肖像，她长有雀斑，留着波浪形金发，正坐在床上。
+
+#### 📝 提示词
+
+```
+{
+  "subject": {
+    "description": "年轻女性，目光柔和且直视镜头",
+    "pose": "盘腿坐在床上，身体微微前倾，右手放在锁骨附近",
+    "expression": "中性、平静且宁静"
+  },
+  "physical_characteristics": {
+    "hair": "长而波浪形的亚麻色头发，垂在右肩上",
+    "facial_features": {
+      "eyes": "榛色或浅绿色，画着黑色上扬眼线",
+      "skin": "白皙肤色，鼻梁和脸颊上有明显的雀斑",
+      "lips": "丰满，涂有亮面粉色唇彩",
+      "eyebrows": "修剪整齐，呈现自然弧度"
+    }
+  },
+  "attire": {
+    "outfit_type": "两件套睡衣",
+    "color_pattern": "柔粉色，带有小碎花图案",
+    "top_details": "短款吊带背心，细肩带，荷叶边下摆",
+    "bottom_details": "配套的高腰短裤，带有荷叶边下摆",
+    "accessories": [
+      "精致的细金链项链",
+      "白色中筒袜"
+    ]
+  },
+  "environment": {
+    "location": "室内卧室",
+    "background_elements": [
+      "深灰色簇绒软包床头板",
+      "米色/灰白色床品和堆叠的枕头"
+    ],
+    "lighting": "柔和的漫射室内光，营造出轻柔的阴影",
+    "color_palette": [
+      "柔粉色",
+      "米色",
+      "板岩灰",
+      "自然肤色"
+    ]
+  },
+  "image_composition": {
+    "shot_type": "中景镜头",
+    "orientation": "竖构图/肖像",
+    "focus": "主体清晰对焦，背景呈现浅景深效果"
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620035843_pv7vp4_HHJCh5YXQAA365L.jpg" width="600" alt="个人资料 / 头像 - 宁静年轻女性卧室肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sadia](https://x.com/SadiaMalik182)
+- **来源:** [Twitter Post](https://x.com/SadiaMalik182/status/2049773945386107106)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17221)**
+
+---
+
+### No. 7: 个人资料 / 头像 - 潮流镜面自拍与运动鞋
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一份关于女性身着粉色褶皱连衣裙搭配经典高帮运动鞋的镜面自拍详细提示词。
+
+#### 📝 提示词
+
+```
+一份镜面自拍提示词，聚焦于一位梳着红棕色哪吒头、身穿淡粉色紧身连衣裙的年轻女性。内容特别描述了“Dark Mocha”风格的运动鞋和串珠项圈，场景设定在室内走廊，配有柔和的自然光，并提供了多种姿势选择。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620049671_y3obgc_HHIb3XCXYAEl_l1.jpg" width="600" alt="个人资料 / 头像 - 潮流镜面自拍与运动鞋 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620049642_b4y77x_HHIb3XCWYAIrCsD.jpg" width="600" alt="个人资料 / 头像 - 潮流镜面自拍与运动鞋 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sadia](https://x.com/SadiaMalik182)
+- **来源:** [Twitter Post](https://x.com/SadiaMalik182/status/2049731436949729774)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17243)**
+
+---
+
+### No. 8: 个人资料 / 头像 - 舒适波波头人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+两组关于一位留着波波头女性在舒适美观房间内进行超写实人像拍摄的相关提示词。
+
+#### 📝 提示词
+
+```
+超写实人像，一位年轻女性，留着凌乱的 {argument name="hair color" default="深棕色"} 波波头和柔和的刘海，自然的露水肌，淡淡的粉色嘴唇，极简妆容，穿着一件超大号的 {argument name="clothing" default="褪色炭灰色卫衣"}，手托着脸，表情平静略显疲惫，温暖的室内光线，背景是带有搁板和护肤品瓶子的舒适美学房间，浅景深，柔和的阴影，50mm 镜头，高细节，电影感，自然质感
+
+超写实人像，一位年轻女性，留着凌乱的短款深色波波头，发丝微湿且富有质感，自然发光的皮肤，柔和的粉色嘴唇，穿着超大号灰色卫衣，双手向后撩起头发，侧头看向一侧，神情若有所思，温暖的室内环境光，背景是带有搁板和瓶子的极简美学房间，浅景深，柔和的电影感光效，高细节，50mm 镜头，真实的皮肤质感
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620039281_eh9lff_HHIW3pkaIAAQTLM.jpg" width="600" alt="个人资料 / 头像 - 舒适波波头人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620038280_1z8co2_HHIW3pibIAAqMzV.jpg" width="600" alt="个人资料 / 头像 - 舒适波波头人像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2049725973483168063)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17227)**
+
+---
+
+### No. 9: 个人资料 / 头像 - 分屏衰老效果
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个电影级的提示词，用于创建完美对齐的垂直分屏肖像，展示同一个人在青年和老年时期的对比。
+
+#### 📝 提示词
+
+```
+一张超写实、电影级的垂直分屏肖像。右侧展示了 {argument name="subject" default="[Subject Name]"} 青年时期的高分辨率清晰照片，皮肤光滑，五官生动。左侧展示了同一个人年老时的样子，有着深深的皱纹、老年斑和灰白的头发，在中心完美对齐。8k 分辨率，细腻的皮肤毛孔，戏剧性的摄影棚灯光，中性背景，使用 85mm 镜头拍摄。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620037971_0vwxaj_HHINoLdXcAA6Pvc.jpg" width="600" alt="个人资料 / 头像 - 分屏衰老效果 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620037890_0b2888_HHINqENWYAAz7VM.jpg" width="600" alt="个人资料 / 头像 - 分屏衰老效果 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620038028_nz4680_HHINqWYWEAAUPO9.jpg" width="600" alt="个人资料 / 头像 - 分屏衰老效果 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620038802_fbx314_HHINrA0XgAAMfBM.jpg" width="600" alt="个人资料 / 头像 - 分屏衰老效果 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **来源:** [Twitter Post](https://x.com/Ozayrr_irl/status/2049715815910441053)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17225)**
+
+---
+
+### No. 10: 个人资料 / 头像 - 幽默的人猫影棚肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个图像转换提示词，通过参考图保持身份一致性，将一只调皮的猫添加到人的肩膀上。
+
+#### 📝 提示词
+
+```
+这是一个基于参考图创建幽默影棚肖像的详细提示词。它指示 AI 在保持人物和猫的外貌特征不变的同时，添加猫咪遮住人物眼睛的动作。风格为超写实摄影，采用黑色背景和专业布光。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620047394_ai0xw2_HHHyVp7aUAAU86d.jpg" width="600" alt="个人资料 / 头像 - 幽默的人猫影棚肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Dr. Samia](https://x.com/oye_samia)
+- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049685767417733190)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17240)**
+
+---
+
+### No. 11: 个人资料 / 头像 - 3D 风格化漫画肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -727,7 +1199,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 2: 个人资料 / 头像 - 照片级逼真的健身房镜面自拍
+### No. 12: 个人资料 / 头像 - 照片级逼真的健身房镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -871,7 +1343,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 3: 个人资料 / 头像 - 温馨卧室自拍摄影
+### No. 13: 个人资料 / 头像 - 温馨卧室自拍摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -897,7 +1369,7 @@ Grok 的搜索结果
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533356409_h2qz26_HHFK-VCbwAApYKK.jpg" width="600" alt="个人资料 / 头像 - 温馨卧室自拍摄影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620064799_atd4ox_HHFK-VCbwAApYKK.jpg" width="600" alt="个人资料 / 头像 - 温馨卧室自拍摄影 - Image 1">
 </div>
 
 #### 📌 详情
@@ -911,7 +1383,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 4: 个人资料 / 头像 - 楼道抓拍闪光灯自拍
+### No. 14: 个人资料 / 头像 - 楼道抓拍闪光灯自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -951,7 +1423,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 5: 个人资料 / 头像 - 抖音妆容人物摄影
+### No. 15: 个人资料 / 头像 - 抖音妆容人物摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1001,7 +1473,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 6: 个人资料 / 头像 - Y2K 一次性相机美学
+### No. 16: 个人资料 / 头像 - Y2K 一次性相机美学
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1045,7 +1517,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 7: 个人资料 / 头像 - Celeste 的电影感顶层公寓肖像
+### No. 17: 个人资料 / 头像 - Celeste 的电影感顶层公寓肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1078,7 +1550,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 8: 个人资料 / 头像 - 波斯猫影棚肖像
+### No. 18: 个人资料 / 头像 - 波斯猫影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1112,7 +1584,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 9: 个人资料 / 头像 - 带有视觉错觉背景的图形肖像
+### No. 19: 个人资料 / 头像 - 带有视觉错觉背景的图形肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1143,425 +1615,6 @@ Grok 的搜索结果
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16756)**
-
----
-
-### No. 10: 个人资料 / 头像 - 专业灰金色波波头肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张优雅的摄影棚肖像提示词，展示了一位留着灰金色波波头、身穿金属质感高领衫的女性，并采用了伦勃朗式布光。
-
-#### 📝 提示词
-
-```
-一张专业的摄影棚肖像，主角是一位留着 {argument name="hair style" default="富有质感的灰金色波波头"} 的女性，表情精致而自信。她身穿一件 {argument name="clothing" default="高领、闪烁着炭灰色金属光泽的针织衫"}，在深邃且无缝的黑色背景衬托下显得格外耀眼。画面采用了极具戏剧性的 {argument name="lighting" default="伦勃朗式"} 布光，突显出她面部的轮廓以及服装上精细的金属丝质感，营造出一种高对比度且优雅的视觉美感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447801606_kl6d3o_HG_bWaFaAAAqpxk.jpg" width="600" alt="个人资料 / 头像 - 专业灰金色波波头肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049097537248776691)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16768)**
-
----
-
-### No. 11: 个人资料 / 头像 - 浪漫奇幻花园肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个结构化的提示词，用于生成宁静、浪漫的花园小径场景，主角身穿黄色中长裙，背景为黄金时刻。
-
-#### 📝 提示词
-
-```
-{
-  "subject": {
-    "identity": "{argument name="subject" default="参考图中的女性"}",
-    "pose": "站立，仰望天空",
-    "expression": "宁静、浪漫、充满希望",
-    "hair": "长发，深色，波浪卷，飘逸"
-  },
-  "wardrobe": {
-    "style": "浪漫女性化美学",
-    "garment": "中长裙",
-    "color": "{argument name="outfit color" default="柔和的奶油黄"}",
-    "details": [
-      "泡泡袖",
-      "心形领口",
-      "蕾丝边装饰",
-      "收腰设计"
-    ],
-    "footwear": "红色细高跟鞋"
-  },
-  "environment": {
-    "background": "梦幻花园小径",
-    "lighting": "黄金时刻，柔和阳光，自然光泽",
-    "elements": [
-      "茂密的绿植",
-      "模糊的花卉背景",
-      "泥土小径"
-    ]
-  },
-  "special_effects": {
-    "action": "{argument name="action" default="两只小鸟在空中亲吻/触碰喙部"}",
-    "focal_length": "人像模式，浅景深（焦外成像）",
-    "atmosphere": "奇幻，柔焦"
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447794876_fwg624_HG_Bu2MbQAAAT2h.jpg" width="600" alt="个人资料 / 头像 - 浪漫奇幻花园肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [RM_Pets & Animals](https://x.com/RM_uii)
-- **来源:** [Twitter Post](https://x.com/RM_uii/status/2049069368987050095)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16753)**
-
----
-
-### No. 12: 个人资料 / 头像 - 佩戴祖母绿戒指的女性肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个专注于配饰（如金质圆环耳环和大型祖母绿印章戒指）的摄影棚肖像提示词。
-
-#### 📝 提示词
-
-```
-一张高质量的特写肖像，主角是 {argument name="subject" default="一位留着深色齐肩短发、将头发别在耳后的微笑女性"}。她表情温暖亲切，鼻梁和脸颊上布满明显的雀斑。她佩戴着 {argument name="jewelry" default="金质圆环耳环和一枚镶嵌着方形切割、鲜艳祖母绿宝石的大型金质印章戒指"}。她的手优雅地放在锁骨附近。她身穿 {argument name="attire" default="一件简约的炭灰色质感上衣"}。背景是柔和、失焦的中性灰与米色纹理，营造出一种专业且优雅的审美，并配以自然柔和的灯光。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447790067_vywrai_HG-bt0sagAAwjuX.jpg" width="600" alt="个人资料 / 头像 - 佩戴祖母绿戒指的女性肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049027570402803863)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16745)**
-
----
-
-### No. 13: 个人资料 / 头像 - 戏剧性电影感剪影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个使用双重曝光效果和强烈红色光影的风格化电影感剪影提示词，旨在营造情绪化且富有感染力的肖像。
-
-#### 📝 提示词
-
-```
-戏剧性的 {argument name="color scheme" default="red"} 电影感剪影肖像，侧面轮廓，凌乱的头发，穿着 {argument name="clothing item" default="hoodie"}，手指轻触太阳穴，呈现沉思姿态，强烈的 {argument name="lighting color" default="red"} 光影与深邃阴影，深黑色剪影伴随发光的红色高光，双重曝光效果，身后带有巨大的同人影，极简背景，柔和的红灰色渐变，情绪化且富有感染力的氛围，高对比度光影，数字艺术风格，电影级构图，柔和雾气，景深。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447800481_jfqort_HG-JEVQaYAA-gax.jpg" width="600" alt="个人资料 / 头像 - 戏剧性电影感剪影 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Ai Bella](https://x.com/zahra4sure)
-- **来源:** [Twitter Post](https://x.com/zahra4sure/status/2049007067227357381)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16767)**
-
----
-
-### No. 14: 个人资料 / 头像 - 超写实编辑人像提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一份用于生成高端时尚编辑摄影作品的详细提示词，包含保持面部特征、皮肤纹理及电影级光影效果的具体指令。
-
-#### 📝 提示词
-
-```
-请使用上传的照片作为身份参考，并 100% 保留原始的面部特征、比例、肤色及独特细节。
-
-超写实编辑人像，竖构图，主体身体前倾，双手在下巴附近交叠。
-
-姿势：双前臂向前，手指交错，一根手指轻触唇边，双手位于前景，解剖结构自然。
-
-表情：冷静、专注、强烈的眼神交流。
-
-面部必须保持一致，呈现超写实的皮肤纹理、可见毛孔及自然瑕疵。
-
-发型：自然质感，发丝清晰且富有体积感。
-
-服装：黑色衬衫，领口敞开，佩戴金属配饰（手链、手表、项链）。
-
-光影：电影级低调摄影（low-key lighting），一侧带有绿色/青色轮廓光，另一侧带有红色/橙色轮廓光，正面有柔和补光以确保面部可见。
-
-背景：深色摄影棚背景，近乎黑色，极简风格。
-
-相机：中画幅质感（Hasselblad / Fujifilm），80mm 镜头，浅景深，焦点清晰对准面部和双手。
-
-编辑时尚摄影，电影级光影，高端商业品质，纹理真实，无人工痕迹。
-
-Camera RAW 参数：纹理 +10，清晰度 +10，锐度 +8
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447792607_9n7a8a_HG9dZQxaEAAABTt.jpg" width="600" alt="个人资料 / 头像 - 超写实编辑人像提示词 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Nexora](https://x.com/frametheory058)
-- **来源:** [Twitter Post](https://x.com/frametheory058/status/2048959054949879879)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16749)**
-
----
-
-### No. 15: 个人资料 / 头像 - 剪纸动画风格肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个将参考图像转换为手工分层剪纸动画风格肖像的提示词。
-
-#### 📝 提示词
-
-```
-参考图像人物的剪纸动画风格肖像，采用扁平的分层纸张纹理、粗轮廓线和简化的几何形状；在准确还原人物面部特征、发型和表情的同时，将其风格化为拼贴画般的手工美学；在图层之间使用柔和的阴影以营造深度，通过略微夸张的比例呈现趣味感，并配以简约、干净的背景和柔和的淡雅色调；确保图层之间具有高对比度、边缘清晰，并呈现出现代编辑风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361046286_8mcszv_HG6sP88aIAA-QNL.jpg" width="600" alt="个人资料 / 头像 - 剪纸动画风格肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361046426_4ta05g_HG6sQNNbIAEFH61.jpg" width="600" alt="个人资料 / 头像 - 剪纸动画风格肖像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361046245_bmdb44_HG6sQcEbkAAugvz.jpg" width="600" alt="个人资料 / 头像 - 剪纸动画风格肖像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361047014_i8bit2_HG6sQsiaIAAmvHZ.jpg" width="600" alt="个人资料 / 头像 - 剪纸动画风格肖像 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
-- **来源:** [Twitter Post](https://x.com/shushant_l/status/2048764286374477832)
-- **发布时间:** 2026年4月27日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16456)**
-
----
-
-### No. 16: 个人资料 / 头像 - 写实风格镜面自拍提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一套高度具体的结构化提示词，用于生成超写实的智能手机镜面自拍，重点在于姿势和身体细节的呈现。
-
-#### 📝 提示词
-
-```
-{"style": "超写实智能手机镜面自拍，自然日光，高细节，逼真纹理，整洁现代的房间", "aspect_ratio": "4:5", "camera": {"type": "通过镜面拍摄的智能手机后置摄像头", "angle": "从左侧微调的近距离镜面反射", "height": "胸部高度左右", "tilt": "轻微向下倾斜", "distance": "靠近镜子", "lens": "24mm 至 28mm 智能手机镜头", "focus": "主体与环境均清晰对焦", "depth_of_field": "深景深", "resolution": "4K"}, "subject": {"gender": "女性", "pose": {"position": "低位跪姿，身体重心向下", "orientation": "斜向镜子，背部/臀部通过反射最靠近镜头", "lower_body": {"left_leg": {"position": "完全折叠于身体下方", "contact": "小腿和膝盖平贴地面"}, "right_leg": {"position": "向后沿地面伸展", "contact": "整条腿平贴地面，无抬起"}, "hip_position": "降低并向脚跟靠拢", "weight_distribution": "大部分重量落在臀部和大腿上", "effect": "自然的挤压感营造出更丰满圆润的下半身外观"}, "upper_body": {"posture": "身体微向前倾", "support": "前臂部分支撑在柔软表面上", "torso_alignment": "略有角度但大部分面向镜子", "arms": {"right_hand": "手持智能手机靠近面部", "left_arm": "向前放置"}}, "head": {"direction": "转向镜子", "tilt": "轻微向下倾斜", "gaze": "注视手机屏幕"}, "expression": {"mouth": "轻微嘟嘴", "eyes": "专注且放松"}}, "appearance": {"skin_tone": "浅至中等暖色调", "body_type": "曲线型，下半身丰满，臀部和大腿线条明显，自然比例", "hair": {"color": "深棕色", "style": "长发，微卷", "length": "及背", "parting": "中分"}, "facial_features": {"reference_image": "使用附件参考图", "instruction": "精确匹配参考图中的所有面部特征：脸型、眼型/颜色/位置、鼻子、唇形/饱满度、眉毛、下颌线、颧骨、前额、皮肤纹理/细节以及整体面部结构。在保持描述的头部角度、倾斜度、视线和表情的同时，迁移参考图中的精确面部特征。", "visibility": "镜中可见部分正面/侧面", "eyes": "深色", "lips": "饱满", "makeup": "柔和自然妆容"}}, "clothing": {"top": {"type": "修身背心", "color": "浅灰色", "fit": "紧身"}, "bottom": {"type": "高腰紧身裤", "color": "深红色/褐红色", "fit": "紧身，压缩面料强调自然轮廓"}, "footwear": "赤脚"}}, "environment": {"location": "明亮的现代卧室/工作室", "mirror": {"type": "带金色边框的全身镜", "placement": "靠在左侧墙上"}, "floor": {"type": "浅色木地板", "covering": "主体下方铺有粉色软地毯"}, "background": {"window": {"type": "大窗户", "light": "明亮的日光"}, "door": "白色房门开启", "vanity": {"desk": "白色梳妆台", "chair": "粉色椅子"}}, "foreground": {"object": "部分可见的浅灰色毯子"}}, "props": {"smartphone": {"type": "现代智能手机", "case": "亮粉色图案手机壳", "orientation": "竖屏", "position": "靠近面部，轻微遮挡"}}, "lighting": {"type": "自然日光", "direction": "来自右侧（窗户）", "quality": "柔和，漫射", "effect": "柔和的高光，自然的阴影，增强深度感"}, "composition": {"subject_placement": "镜框中左侧", "perspective": "后侧四分之三反射，下半身着地", "focus": "姿势结构与自然的身体挤压感", "depth": "前景（毯子）、中景（主体）、背景（房间）"}, "rendering_notes": {"realism_priority": "极致写实", "pose_accuracy": "双腿完全着地，臀部降低并压缩", "body_physics": "自然的重量挤压感和逼真的比例", "mirror_accuracy": "正确的反射几何结构", "no_distortion": true, "no_extra_limbs": true, "accurate_anatomy": true, "consistent_lighting": true, "high_texture_detail": true, "face_reference_priority": "高 - 精确匹配参考面部，同时保留身体、高度和比例"}}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361048529_9dpvpu_HG5sqd3bMAART6L.jpg" width="600" alt="个人资料 / 头像 - 写实风格镜面自拍提示词 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Diamond](https://x.com/DiamondZPetSpa)
-- **来源:** [Twitter Post](https://x.com/DiamondZPetSpa/status/2048694501951349138)
-- **发布时间:** 2026年4月27日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16460)**
-
----
-
-### No. 17: 个人资料 / 头像 - 黑白咖啡馆肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张关于年轻男子在乡村风格咖啡馆中的电影感黑白肖像提示词。
-
-#### 📝 提示词
-
-```
-一张高质量的黑白肖像，主角是留着凌乱且富有质感发型的 {argument name="subject" default="年轻男子"}，他正坐在一家 {argument name="setting" default="乡村风格咖啡馆"} 中。他穿着一件 {argument name="clothing" default="深色麻花针织毛衣"}，带着微妙而温暖的微笑直视镜头。他的一只手托着下巴，另一只手拿着咖啡杯放在斑驳的木桌上。背景呈现出柔和的焦外成像效果，模糊的咖啡馆灯光和窗边的砖墙清晰可见。电影级光影，8k 分辨率，胶片颗粒感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361047470_933xrz_HG5qq-NaoAAadO9.jpg" width="600" alt="个人资料 / 头像 - 黑白咖啡馆肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2048692170102604167)
-- **发布时间:** 2026年4月27日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16457)**
-
----
-
-### No. 18: 个人资料 / 头像 - 电影感城市日落人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个关于城市背景下黄金时刻短发女性的电影感人像提示词，强调自然的皮肤质感与真实的情绪流露。
-
-#### 📝 提示词
-
-```
-电影感人像，{argument name="subject" default="短发凌乱的年轻女性，脸上有淡淡雀斑"}，羞涩微笑，手部轻掩口部，身穿 {argument name="clothing" default="暖色调橙色廓形夹克"} 内搭休闲 T 恤，{argument name="lighting" default="黄金时刻的阳光勾勒出头发轮廓"}，发丝边缘光，浅景深，背景为梦幻的城市灯光虚化，城市街道场景，柔和暖色调，自然的皮肤质感，真实情绪，85mm 镜头，f/1.8，超写实，胶片摄影风格
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361052053_ndu8i9_HG5EHGyaoAArbrS.jpg" width="600" alt="个人资料 / 头像 - 电影感城市日落人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361051752_jzb3ny_HG5EHGzaYAAmLsI.jpg" width="600" alt="个人资料 / 头像 - 电影感城市日落人像 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Sairah](https://x.com/Sairah_0)
-- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2048649779744571608)
-- **发布时间:** 2026年4月27日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16181)**
-
----
-
-### No. 19: 个人资料 / 头像 - 梦幻宝丽来人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于生成超写实宝丽来风格人像的提示词，具有柔和的女性化氛围和可见的胶片颗粒感。
-
-#### 📝 提示词
-
-```
-一张与附件图片中主体一致的超写实宝丽来照片，特写人像，手持 {argument name="flowers" default="柔和色调花束"}，佩戴 {argument name="headwear" default="彩色柔和色调针织帽"}，柔和的自然光，梦幻般的女性化氛围，拍立得胶片的柔和感，奶油般的皮肤高光，褪色的柔和色彩，可见的胶片颗粒，细小的灰尘颗粒，真实的白色宝丽来边框，柔和的面部质感，柔和放松的注视，不完美的抓拍构图。
-{argument name="makeup" default="抖音妆容，粉色唇釉"}。
-
- 负面提示词：AI 假人皮肤，过度磨皮的面部，假睫毛，手指扭曲，不真实的眼睛，数字 HDR，卡通，水印。浮动边框
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777361050326_8gsivf_HG41JSuacAAauCw.jpg" width="600" alt="个人资料 / 头像 - 梦幻宝丽来人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Chryz leen](https://x.com/Chryzleenprompt)
-- **来源:** [Twitter Post](https://x.com/Chryzleenprompt/status/2048633320075092427)
-- **发布时间:** 2026年4月27日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16465)**
 
 ---
 
@@ -1615,184 +1668,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社交媒体帖子 - 深红机能风美学肖像
+### No. 21: 社交媒体帖子 - 详细人像生成 JSON 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一幅充满活力、电影质感的数字艺术作品，展现了一位身着红色街头服饰的时尚男模特，周围环绕着未来感 UI 元素和发光的 X 标志。
-
-#### 📝 提示词
-
-```
-一幅具有电影质感、充满活力的数字艺术作品，采用 {argument name="color palette" default="单色深红色调"}。画面中心是一位 {argument name="subject" default="年轻男模特"}，表情犀利且强烈，身着时尚的红色超大款街头服饰，包括短款夹克和工装裤，长长的飘带在运动中飞舞。他周围环绕着多个悬浮的半透明 UI 屏幕，显示着 X（前身为 Twitter）个人资料界面。屏幕上显示着用户名 "{argument name="handle" default="@OzairAI"}"、蓝色认证勾选标记、关于 AI 影响力的个人简介文本，以及展示 "PROMPT" 艺术缩略图的动态信息流。背景中，一个巨大的霓虹发光 X 标志悬挂在带有深色金属电路板纹理的墙面上。地面为红色工业金属格栅。灯光效果极具戏剧性，对比强烈，带有发光的红色霓虹灯点缀，前景中的 UI 元素呈现出浅景深模糊效果。高分辨率，8k，未来机能风美学。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533344791_6c8iwm_HHFwS0UbUAAgMlY.jpg" width="600" alt="社交媒体帖子 - 深红机能风美学肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **来源:** [Twitter Post](https://x.com/Ozayrr_irl/status/2049542777998885064)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16966)**
-
----
-
-### No. 22: 社交媒体帖子 - 中目黑的樱花
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个电影感提示词，描绘了一位穿着春季外套的女性，站在夜晚被灯光照亮的传统日本运河旁，周围环绕着樱花。
-
-#### 📝 提示词
-
-```
-一位年轻女性穿着 {argument name="outfit" default="轻便春季外套"}，站在传统的 {argument name="location" default="日本运河（如东京中目黑）"} 背景前，周围环绕着被纸灯笼暖光照亮的樱花（“夜樱”）。床头灯发出的暖光营造出柔和且迷人的阴影。数码单反相机，35 mm 镜头，具有高细节的电影级写实感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533366904_7ujzp5_HHFj6G0akAUTdld.jpg" width="600" alt="社交媒体帖子 - 中目黑的樱花 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533366855_mwtbuy_HHFj6GyWwAAD-wD.jpg" width="600" alt="社交媒体帖子 - 中目黑的樱花 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533366848_zayl6q_HHFj6G6bYAAkEVv.jpg" width="600" alt="社交媒体帖子 - 中目黑的樱花 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533367664_xknnnh_HHFj6G2akAQpXst.jpg" width="600" alt="社交媒体帖子 - 中目黑的樱花 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [BananaBanana](https://x.com/_BB_pro)
-- **来源:** [Twitter Post](https://x.com/_BB_pro/status/2049529184347898216)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17001)**
-
----
-
-### No. 23: 社交媒体帖子 - 电影感城市汽车聚会场景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份详细的提示词，用于创作超写实、夜间洛圣都风格停车场内的日系性能车（JDM）与美式肌肉车聚会场景，包含酷炫的女性主体和氛围感霓虹灯光。
-
-#### 📝 提示词
-
-```
-超写实竖版照片，比例 4:5。{argument name="location" default="夜晚，洛圣都某多层混凝土停车场三楼的地下汽车聚会"}。裸露的柱子上布满涂鸦，低矮的天花板上延伸着外露的导管，油渍斑斑的地面上留有轮胎印。日系性能车与美式肌肉车配备了宽体套件、激进的前唇、大尾翼，以及在混凝土路面上反射出粉色、蓝色和紫色的炫目底盘灯。
-一位留着深色波浪长发的年轻美女作为主体，姿态从容地站在一辆改装了空气悬挂、底盘极低的深蓝色 Annis Elegy 旁。她身穿 {argument name="outfit" default="橄榄绿色短款飞行员夹克，搭配米色阔腿工装裤"}，耳后别着一支香烟。一只手插在口袋里，姿态自信放松，直视镜头，表情冷峻从容。
-在她身后，一群穿着街头服饰的年轻人靠在车旁交谈。背景中可见一辆 {argument name="background car" default="亮黄色 Nissan GT-R"} 和其他改装车。铁丝网围栏、半撕裂的“禁止停车”标志，以及柱子上的监控摄像头。
-灯光：戏剧性的夜间场景，混合了霓虹底盘灯、头顶的荧光灯，以及透过停车场开放侧面透进来的城市灯光。电影级氛围。
-摄影风格：照片级真实感，Rockstar Games 视觉品质，超高细节，焦点清晰地对准女性和前景车辆，色彩丰富，电影级布光，8K 清晰度，自然的皮肤纹理。无塑料感，无 AI 伪影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533355040_y745zu_HHFUAPhaUAAyNji.jpg" width="600" alt="社交媒体帖子 - 电影感城市汽车聚会场景 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049511692477022215)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16986)**
-
----
-
-### No. 24: 社交媒体帖子 - 电影感孤独风格街头摄影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于生成电影感街头摄影的提示词，画面主体置身于拥挤街道，带有动态模糊效果和黄金时刻光影。
-
-#### 📝 提示词
-
-```
-电影感街头摄影，画面主体为一位 {argument name="subject" default="年轻女性"}，她静止地站在拥挤的城市街道中央，时间处于 {argument name="lighting" default="黄金时刻"}。焦点清晰地落在她的面部，周围人群匆匆走过并呈现出动态模糊，在喧嚣中营造出一种孤独与宁静的氛围。她妆容自然，留着柔软的波浪金发，身穿 {argument name="outfit" default="极简白衬衫搭配深色西装外套"}。背景是两侧高耸的城市建筑和公交车，温暖的阳光从后方照射，为她的头发勾勒出柔和的光晕。浅景深效果，50mm 镜头质感，高动态范围，真实的皮肤纹理，细腻的胶片颗粒感，对称式构图，汇聚线引导视觉聚焦于主体，表情忧郁而平静，超写实，时尚编辑摄影风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533353264_7zkb5g_HHE6mowbEAA4NhK.jpg" width="600" alt="社交媒体帖子 - 电影感孤独风格街头摄影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533353300_xbjkoc_HHE6momagAACVm8.jpg" width="600" alt="社交媒体帖子 - 电影感孤独风格街头摄影 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Sairah](https://x.com/Sairah_0)
-- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2049483749847658916)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16983)**
-
----
-
-### No. 25: 社交媒体帖子 - 名人海滩冲浪自拍
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于生成具有名人相似度和复古汽车的写实海滩场景的 JSON 提示词。
+一个高度结构化的 JSON 风格提示词，用于生成具有特定身体特征、服饰和环境设置的年轻女性详细人像。
 
 #### 📝 提示词
 
 ```
 {
-  "prompt": "一位长相酷似 {argument name="subject" default="Sabrina Carpenter"} 的年轻女性，留着白金色的头发，从沿海沙滩旁一辆 {argument name="car" default="复古甲壳虫汽车"} 的敞开车窗探出身子。她穿着一件 {argument name="outfit" default="柔和桃色连体泳衣"}，双臂轻轻搭在车门框上。天空多云，光线柔和，营造出一种电影般的朦胧光感。她神情放松，带着自然的微笑直视镜头。在她身后，海滩和海洋向远处延伸，车顶上架着一块冲浪板。玻璃上可以看到一个精致的磨砂 'Love' 贴纸。居中平视构图，照片级真实感，8k"
+  "subject": {
+    "description": "{argument name=\"subject description\" default=\"目光柔和且直视镜头的年轻女性\"}",
+    "pose": "{argument name=\"pose\" default=\"盘腿坐在床上，身体微微前倾，右手放在锁骨附近\"}",
+    "expression": "中性、冷静且宁静"
+  },
+  "physical_characteristics": {
+    "hair": "长波浪卷发，亚麻色，垂在右肩上",
+    "facial_features": {
+      "eyes": "榛色或浅绿色，画有黑色猫眼眼线",
+      "skin": "白皙肤色，鼻梁和脸颊上有明显的雀斑",
+      "lips": "丰满，涂有粉色唇彩",
+      "eyebrows": "修剪整齐，自然的拱形"
+    }
+  },
+  "attire": {
+    "outfit_type": "{argument name=\"outfit\" default=\"两件套睡衣\"}",
+    "color_pattern": "柔粉色，带有白色小碎花图案",
+    "top_details": "短款吊带背心，细肩带，荷叶边下摆",
+    "bottom_details": "配套的高腰短裤，带有荷叶边下摆",
+    "accessories": [
+      "精致的细金链项链",
+      "白色中筒袜"
+    ]
+  },
+  "environment": {
+    "location": "室内卧室",
+    "background_elements": [
+      "深灰色簇绒软包床头板",
+      "米色/灰白色床品和堆叠的枕头"
+    ],
+    "lighting": "柔和的漫射室内光，营造出轻柔的阴影",
+    "color_palette": [
+      "柔粉色",
+      "米色",
+      "板岩灰",
+      "自然肤色"
+    ]
+  },
+  "image_composition": {
+    "shot_type": "中景镜头",
+    "orientation": "竖构图/人像模式",
+    "focus": "主体清晰对焦，背景具有浅景深效果"
+  }
 }
 ```
 
@@ -1801,45 +1732,35 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533354678_yrcgjz_HHEZ3akbEAACIhz.jpg" width="600" alt="社交媒体帖子 - 名人海滩冲浪自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533354724_o2v2l6_HHEaCsxaEAEXSWk.jpg" width="600" alt="社交媒体帖子 - 名人海滩冲浪自拍 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533354760_vp60r8_HHEaFq8bAAEuhNT.jpg" width="600" alt="社交媒体帖子 - 名人海滩冲浪自拍 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1777620066567_ndpt69_HHNzbhaa4AAGWCu.jpg" width="600" alt="社交媒体帖子 - 详细人像生成 JSON 提示词 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **来源:** [Twitter Post](https://x.com/Ankit_patel211/status/2049448096623411227)
-- **发布时间:** 2026年4月29日
+- **作者:** [Diamond](https://x.com/DiamondZPetSpa)
+- **来源:** [Twitter Post](https://x.com/DiamondZPetSpa/status/2050109197652762832)
+- **发布时间:** 2026年5月1日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16987)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17266)**
 
 ---
 
-### No. 26: 社交媒体帖子 - 车内男士电影感肖像
+### No. 22: 社交媒体帖子 - iPhone 风格欢快人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份详细的提示词，用于生成一张在黄金时刻坐在车内的时尚年轻男士的精致且富有情绪感的肖像。
+一个综合性提示词，利用参考图像生成一张穿着云朵图案开衫的女性超写实 iPhone 照片。
 
 #### 📝 提示词
 
 ```
-一张电影级、高质量的肖像，画面中是一位留着修剪整齐的胡须、发型略显凌乱的时尚年轻男士，他正坐在车内的驾驶座上，时间处于黄金时刻。他身穿一件 {argument name="outerwear" default="黑色 Nike 绗缝羽绒背心"}，内搭黑色长袖衬衫，并佩戴着 {argument name="eyewear" default="金框 Clubmaster 风格太阳镜"}。他姿态沉思，右手轻抵下巴——露出佩戴的 {argument name="accessory" default="黑色串珠手链"}——左手搭在方向盘上，露出一块银色腕表。光线温暖且具有方向性，从侧面照射而来，在脸部和发丝上营造出柔和的高光，同时使车内空间沉浸在深邃、优雅的阴影中。背景经过柔焦处理，呈现出温暖的虚化效果，强调了浅景深。整体氛围精致、忧郁且宁静。
+创建图像：使用随附的参考图像作为角色外观的视觉指南。保留面部结构和整体比例等关键视觉特征，同时允许真实摄影中常见的细微自然变化。生成的对象应清晰地呈现出参考图像的特征，同时保持自然的摄影诠释。
+宽高比：3:4。
+一张由现代智能手机（特别是 iPhone 15 Pro）拍摄的超写实、超清晰照片，具有数字清晰度，使用配备广角镜头的现代高端智能手机相机，设置 ISO 50 和 f/1.8。拍摄对象是一位年轻女性，采用低角度视角，上半身前倾，向左倾斜 15 度。她的姿势展现了人体的不对称美：左臂直接伸向镜头，动作自然，手指放松且微微弯曲；右臂向后垂下，形成自然的重心偏移，使右肩低于左肩。她的 {argument name="hair color" default="深色"} 头发梳成带有轻盈法式刘海的造型，胸前垂下两条对称的长辫，细碎的发丝在微风中飘动。她表情洋溢着灿烂的喜悦，灿烂的笑容使鼻子微微皱起，呈现出真诚的“笑眼”，双眼微闭，外眼角有细微的收紧，内眼角闪烁着光泽。她的眉毛放松，因自发的喜悦而微微上扬。她的皮肤呈现出健康的红润光泽，毛孔清晰可见，质感通透，鼻梁和鼻尖上有柔和的高光。嘴唇上涂着淡淡的粉紫色唇彩，带有细微的闪光，高位粉色腮红突显了颧骨。她身穿 {argument name="clothing" default="浅蓝色罗纹棉质吊带短上衣"}，外搭一件 {argument name="outerwear" default="超大款钴蓝色粗棒针织开衫"}，上面装饰着白色大云朵图案；厚重的针织纹理在肩部滑落处细节极其丰富。她穿着高腰磨损感靛蓝色牛仔短裤，裤脚有复杂的磨边和白色线穗。整个场景在广阔、饱和的蔚蓝天空背景下呈现出极其清晰的焦点，在明亮的自然头顶阳光照射下，产生细微的镜头光晕，下颌线下方投下柔和的阴影。数字质感至关重要，展现出清晰的织物细节和皮肤的柔和光泽，没有胶片颗粒感，但带有少许细微的数字噪点，保持自然、低对比度的外观。
 ```
 
 #### 🖼️ 生成图片
@@ -1847,255 +1768,703 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533346882_prk2s1_HHEOXqFbwAAnXr_.jpg" width="600" alt="社交媒体帖子 - 车内男士电影感肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Heisenberg](https://x.com/rovvmut_)
-- **来源:** [Twitter Post](https://x.com/rovvmut_/status/2049435109632434496)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16970)**
-
----
-
-### No. 27: 社交媒体帖子 - 健身伙伴肖像提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张友好且自信的健身主题肖像，画面中包含两位发型和运动装束各异的女性，背景为木质风格。
-
-#### 📝 提示词
-
-```
-两位体格健美的女性并肩站立，对着镜头微笑，身处健身主题场景中，背景为 {argument name="background" default="木板墙"}。左侧女性留着 {argument name="left hair style" default="编成辫子的长款铂金色头发"}，身穿紫色运动上衣和配套的高腰紫色短裤。她右手拿着一个银色哑铃，左手拿着一个大型装饰性龙蛋，佩戴着刻有“{argument name="left name" default="Emilia"}”字样的银色姓名项链、手表和手链。右侧女性留着长波浪红发，身穿绿色运动上衣和配套的高腰绿色短裤。她右手拿着一个银色哑铃，左手拿着一副红黑相间的头戴式耳机，佩戴着刻有“Sadie”字样的银色姓名项链和手表。两位女性自信地站在木墙前，面向前方，露出友好的微笑。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533347109_8vbq16_HHEHoOTasAA7dvY.jpg" width="600" alt="社交媒体帖子 - 健身伙伴肖像提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533347113_woacyp_HHEHpRoaAAAJwXi.jpg" width="600" alt="社交媒体帖子 - 健身伙伴肖像提示词 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **来源:** [Twitter Post](https://x.com/Jodie_Noraa/status/2049427717133934762)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16971)**
-
----
-
-### No. 28: 社交媒体帖子 - 快餐用餐生活方式摄影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张超写实的俯视摄影提示词，描绘了一名女性在 McDonald's 卡座吃薯条的场景，包含对服装和环境的详细描述。
-
-#### 📝 提示词
-
-```
-超写实竖构图照片 4:5。从上方 50° 的对角俯视角度。地点 — {argument name="location" default="带有温暖木镶板和白色方块瓷砖墙的 McDonald’s 卡座"}。
-场景锚点：前景下方放置着打开的红色 McDonald’s 薯条盒，带有金色 M 标志，薯条半空，以一定角度伸出。
-姿势：坐在卡座中，右手拿着一根长薯条送往嘴边，用拇指和食指捏住。一只眼睛俏皮地眯起，显得有些调皮，另一只眼睛直视镜头。
-桌上物品：两个透明蘸酱杯，装有蜂蜜芥末酱；一杯可乐，插着白色吸管；一个棕色 McDonald’s 牛皮纸袋，带有金色 M 标志，垂直放置；带有条形码的收据贴纸。
-服装：{argument name="clothing" default="复古白色短袖 T 恤，带有红色滚边，黑色宽松百褶阔腿裤，红白配色 Adidas Samba 运动鞋，黑色棒球帽，带有白色标志徽章，帽檐侧戴，AP Royal Oak 手表，银色戒指"}。
-光影：{argument name="lighting" default="混合光影 — 桌面上方温暖的琥珀色光 + 肩部冷白色 LED 轮廓光。脏琥珀色与乳白色调"}。
-相机：Sony A7R V，35mm f/1.8 镜头，8K 清晰度，自然质感。无塑料感、CGI 或 AI 生成痕迹。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533360556_czc922_HHEBwTuaMAAcBJs.jpg" width="600" alt="社交媒体帖子 - 快餐用餐生活方式摄影 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049421244031013089)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16994)**
-
----
-
-### No. 29: 社交媒体帖子 - 复古海岸公路旅行肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张怀旧时尚肖像，一位金发女性从多云海滩上的复古甲壳虫汽车车窗探出身子。
-
-#### 📝 提示词
-
-```
-一位 {argument name="vibe" default="空灵之美"} 的年轻女性，留着飘逸的 {argument name="hair style" default="铂金色长发"}，优雅地从一辆浅色复古 {argument name="car" default="甲壳虫风格汽车"} 的敞开车窗探出身子。她被多云海岸天空柔和、漫射的光影所笼罩。她身着一件与夕阳交相辉映的鲜红色连体泳衣，双臂倚靠在磨损的车门框上，展现出一幅宁静满足的肖像。她清澈的双眸映照着大海，直视镜头，带着迷人而平和的微笑。广阔的沙滩延伸至与温柔的海浪相接。车顶行李架上绑着一块风化的木制冲浪板。构图为完美居中的平视中景，营造出怀旧与时尚的平衡感。玻璃上隐约可见“KeorUnreal”的磨砂贴花，作为一种低调的独特标志。整体氛围散发着永恒、从容的优雅气息。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533365158_x5tlfr_HHD9WqpaIAAw4JQ.jpg" width="600" alt="社交媒体帖子 - 复古海岸公路旅行肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533365127_kpvnt7_HHD9WyHaQAArOv0.jpg" width="600" alt="社交媒体帖子 - 复古海岸公路旅行肖像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533365213_y6jjsv_HHD9W3QaEAArWdV.jpg" width="600" alt="社交媒体帖子 - 复古海岸公路旅行肖像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533366065_vm9vd7_HHD9XAYXYAAvit6.jpg" width="600" alt="社交媒体帖子 - 复古海岸公路旅行肖像 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
-- **来源:** [Twitter Post](https://x.com/KeorUnreal/status/2049416414897795092)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16999)**
-
----
-
-### No. 30: 社交媒体帖子 - 复古磁带网格
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张从高角度拍摄的照片，展示了排列整齐、色彩各异且带有不同标签的复古磁带网格。
-
-#### 📝 提示词
-
-```
-一张高角度、全画幅的照片展示了一个由 {argument name="subject" default="复古磁带"} 组成的网格。磁带按行和列整齐排列，填满了整个画面。每一盘磁带都独一无二，拥有不同的品牌、颜色和标签，有些上面还有手写的笔记。光线均匀，突显了每一盘磁带的细节。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533363512_mzkrbb_HGN93dVbMAA7WkO.jpg" width="600" alt="社交媒体帖子 - 复古磁带网格 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **来源:** [Twitter Post](https://x.com/heathergreen/status/2049413380532838418)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16997)**
-
----
-
-### No. 31: 社交媒体帖子 - 超写实连帽男士肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张高细节 4K 肖像提示词，描绘了一位身穿黑色连帽夹克的男士，采用电影级布光和 iPhone 风格的浅景深效果。
-
-#### 📝 提示词
-
-```
-超写实 4K 肖像，{argument name="subject" default="身穿黑色连帽夹克的帅气男士"}，微微掀起兜帽，自信的浅笑，深邃的蓝色双眼，淡淡的胡茬，叠戴银色项链，{argument name="background" default="深红色摄影棚背景"}，电影级布光，浅景深效果，{argument name="camera style" default="iPhone 15 Pro 肖像风格"}，高细节皮肤质感，时尚杂志大片感，居中构图 –no 模糊，卡通，畸变，文字，水印
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533350939_l3ngay_HHCs9eiacAAbfIQ.jpg" width="600" alt="社交媒体帖子 - 超写实连帽男士肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Nawal](https://x.com/nawalsehar)
-- **来源:** [Twitter Post](https://x.com/nawalsehar/status/2049328014232887569)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16979)**
-
----
-
-### No. 32: 社交媒体帖子 - Y2K 风格数字肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-这是一个旨在通过“以图生图”功能，重现 Y2K 时代数字摄影质感（带有褪色调和胶片颗粒感）的风格化提示词。
-
-#### 📝 提示词
-
-```
-一张超写实的 Y2K 时代数字照片，拍摄对象为 {argument name="subject" default="成年女性"}，请使用所附图像的面部特征。主体：柔和精致的五官，红润的皮肤。表情：低头，梦幻氛围。相机：近景肖像，直闪光灯，柔和的光线衰减。发型：凌乱的发髻，带有几缕碎发。服装：{argument name="outfit" default="粉色露肩上衣"}。背景：{argument name="floral background" default="画面中充满亮粉色花朵"}。构图：侧面轮廓，花卉密集背景。风格：胶片感 Y2K，褪色调，颗粒感，划痕。负面提示词：过度饱和，不真实的色彩
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533350732_wrf053_HHCkFpMaQAAKvkL.jpg" width="600" alt="社交媒体帖子 - Y2K 风格数字肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620039038_fqvrfr_HHML-Dpa0AAwM2d.jpg" width="600" alt="社交媒体帖子 - iPhone 风格欢快人像 - Image 1">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Chryz leen](https://x.com/Chryzleenprompt)
-- **来源:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049318254972379633)
-- **发布时间:** 2026年4月29日
+- **来源:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049995424019386692)
+- **发布时间:** 2026年4月30日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16978)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17226)**
 
 ---
 
-### No. 33: 信息图 / 教育视觉图 - 花卉曼陀罗涂色页
+### No. 23: 社交媒体帖子 - Dafne Keen 时尚生活摄影
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张照片级写实的当代时尚生活提示词，展示了坐在白色楼梯上的主体，并采用机顶闪光灯照明效果。
+
+#### 📝 提示词
+
+```
+{
+  "type": "image_prompt",
+  "description": {
+    "style": "照片级写实的当代时尚生活摄影，带有机顶闪光灯美学",
+    "aspect_ratio": "9:16",
+    "subject": {
+      "identity": "{argument name="character name" default="Dafne Keen"}",
+      "appearance": {
+        "hair": "长直发，略微偏分，垂落在左肩上",
+        "makeup": "精致妆容，粉色嘴唇，眉形清晰",
+        "expression": "柔和、自信的表情，带着淡淡的微笑",
+        "skin": "光滑、水润，皮肤质感略带光泽",
+        "details": [
+          "小巧的金色圆环耳环",
+          "精致的细项链",
+          "右手腕佩戴黑色细手链",
+          "修剪整齐的双手，涂有浅粉色美甲"
+        ]
+      }
+    },
+    "clothing": {
+      "outfit": "{argument name="dress" default="短款无袖白色连衣裙，修身剪裁，带有垂坠感的风帽领口"}",
+      "footwear": "露趾高跟凉鞋，细带设计，带有玫瑰金或金属色调的细微水钻装饰"
+    },
+    "pose": {
+      "position": "优雅地坐在白色楼梯台阶上",
+      "body": "身体略微呈对角线倾斜，双膝弯曲，双脚放在较低的台阶上",
+      "hands": "双手轻轻放在膝盖或大腿下方，右手叠放在左手上",
+      "head": "直视镜头",
+      "posture": "放松且优雅"
+    },
+    "setting": {
+      "location": "{argument name="setting" default="夜晚的现代白色楼梯"}",
+      "background": "相邻的白色墙壁，嵌入式方形壁灯发出温暖的琥珀色光芒",
+      "elements": "深色金属扶手沿墙壁对角线延伸"
+    },
+    "props": [
+      "白色绗缝皮革手提包，配有金属与皮革交织的链条肩带，放置在她身旁的台阶上"
+    ],
+    "lighting": {
+      "primary": "强烈的正面直射光（相机闪光灯），使主体光照充足，身后投下清晰锐利的阴影",
+      "ambient": "来自壁灯的温暖琥珀色光线，形成对比"
+    },
+    "mood": "迷人、优雅、自信且充满时尚感的夜晚氛围",
+    "technical": {
+      "framing": "中景（美国镜头），略高于视平线",
+      "orientation": "竖构图",
+      "quality": "超精细、焦点清晰、逼真的皮肤纹理、专业布光、8K 分辨率"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620057705_t347g1_HHMHVrBXwAAH1nV.jpg" width="600" alt="社交媒体帖子 - Dafne Keen 时尚生活摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620058547_muhovu_HHMHVqrXwAAJhHV.jpg" width="600" alt="社交媒体帖子 - Dafne Keen 时尚生活摄影 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620057663_7a643y_HHMHV8KWYAEr8f1.jpg" width="600" alt="社交媒体帖子 - Dafne Keen 时尚生活摄影 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Giulia](https://x.com/Giulia_4i)
+- **来源:** [Twitter Post](https://x.com/Giulia_4i/status/2049990331605590204)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17255)**
+
+---
+
+### No. 24: 社交媒体帖子 - 奇幻书籍可视化网格
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一种富有创意的加权提示词公式，用于生成 2x2 的书籍内部奇幻立体模型网格。
+
+#### 📝 提示词
+
+```
+2x2 网格，针对 4 本名著执行此操作 render_target = ( {argument name="main object" default="giant_sliced_open_hardcover_fantasy_book"} * 2.0 ) + ( {argument name="inner scene" default="inferred_magical_library_diorama_inside"} * 1.8 ) + ( miniature_main_characters_fighting_bad_guys * 1.5 ) + ( floating_old_english_map_overlay_top_right * 2.0 ) + ( tiny_ink_bottles_and_quills_exterior * 1.0 ) + ( {argument name="background" default="clean_parchment_paper_studio_background"} * 1.2 ) - ( e_reader / 2.0 ) - ( modern_clothing / 2.0 ) - ( messy_desk )
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620059461_wtbh6l_HHAk_0ZbUAAqjvu.jpg" width="600" alt="社交媒体帖子 - 奇幻书籍可视化网格 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2049903356987195814)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17257)**
+
+---
+
+### No. 25: 社交媒体帖子 - 俯视视角时尚深蹲
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+这是一个技术性图像提示词，利用参考图生成特定深蹲姿势，并采用现代场景下的俯视相机角度。
+
+#### 📝 提示词
+
+```
+{ "image_description": { "subject": { "use_reference_image": true, "override": false, "physique": "苗条、紧致" }, "pose_and_composition": { "body_position": "紧凑的深蹲", "lower_body": { "stance": "双膝完全弯曲并靠近胸部", "feet": { "position": "双脚并拢，脚尖向前", "heels": "因高跟鞋而抬起", "weight_distribution": "重心平衡在前脚掌" } }, "upper_body": { "posture": "身体前倾，覆盖在膝盖上方", "arms": { "one_arm": "前臂横放在膝盖上", "other_arm": "手肘支撑在膝盖上，手托住头部" } }, "head": { "tilt": "微微侧倾", "direction": "向上倾斜", "gaze": "与上方的相机进行直接眼神接触", "facial_features": "完全源自参考图", "expression": "完全源自参考图" }, "camera_angle": { "position": "位于主体头部正上方", "angle": "俯视高角度（约 30–45 度向下）", "lens": "轻微广角智能手机视角", "distance": "近景构图，紧凑布局", "effect": "由于透视关系，膝盖和脚部显得略大" }, "aspect_ratio": "4:5 竖屏" }, "attire": { "outfit": { "type": "{argument name="outfit type" default="长袖修身迷你裙"}", "color": "黑色", "fabric": "天鹅绒或柔软哑光材质", "fit": "紧身，勾勒身体轮廓", "neckline": "深 V 领" }, "footwear": { "type": "高跟鞋", "color": "黑色漆皮", "details": "尖头，带有脚踝装饰" }, "accessories": { "bag": "随意拿着的小型金属/水钻手提包", "necklace": "细银项链" } }, "environment_and_lighting": { "setting": "{argument name="location" default="现代室内空间（电梯或走廊）"}", "background": "{argument name="background" default="金属墙板"}", "floor": "浅灰色瓷砖地面", "lighting": { "type": "头顶室内照明", "quality": "柔和但具有来自上方的方向性", "effect": "面部和反射表面上有微妙的高光" } }, "technical_details": { "style": "时尚/编辑摄影", "resolution": "高清晰度", "depth_of_field": "中等，主体清晰" }, "rendering_notes": { "identity_consistency": "所有面部特征必须与参考图完全一致", "camera_priority": "必须保留强烈的俯视视角", "pose_accuracy": "紧凑深蹲并前倾", "perspective_accuracy": "轻微广角镜头畸变（强调前景）", "anatomy": "自然比例，无畸变伪影", "consistency": "相机高度、视线方向和姿势之间的对齐" } } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620044952_gbyqfo_HHK2cJxbQAAapPX.jpg" width="600" alt="社交媒体帖子 - 俯视视角时尚深蹲 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sydney](https://x.com/XSydneyFan)
+- **来源:** [Twitter Post](https://x.com/XSydneyFan/status/2049901380488626308)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17236)**
+
+---
+
+### No. 26: 社交媒体帖子 - 高级时尚购物推车人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用于生成以名人风格为灵感、包含购物推车和超市背景的高级时尚生活方式人像的详细提示词。
+
+#### 📝 提示词
+
+```
+{
+  "prompt_metadata": {
+    "type": "image_generation",
+    "target_model": "Gemini 3 Flash Image",
+    "aspect_ratio": "9:16"
+  },
+  "prompt_components": {
+    "subject": {
+      "identity": "{argument name="person name" default="Millie Bobby Brown"}",
+      "physical_appearance": "长波浪卷发垂在背部和左肩上。妆容自然，眉形清晰，涂有唇彩，带有细腻的轮廓修容。",
+      "expression": "直视镜头，双唇微张，表情自信。",
+      "clothing": "{argument name="outfit style" default="紧身无袖黑色紧身胸衣式上衣，配有细肩带和结构化的垂直接缝。黄色短款百褶迷你裙"}。赤脚。"
+    },
+    "pose_and_action": "侧身跪在金属购物推车的篮筐内。身体倾斜在推车里，上半身和头部向后大幅转动，越过左肩看向观众。双手分别放在推车的前金属边缘和红色塑料把手上。",
+    "environment": {
+      "setting": "阳光明媚的户外商业停车场。",
+      "background": "超市拥有白色和绿色的外墙、黄色遮阳篷，以及清晰可见的“{argument name="store name" default="GiuliaSupermarket"}”招牌。",
+      "props": [
+        "带有红色塑料把手的金属购物推车"
+      ]
+    },
+    "cinematography_and_lighting": {
+      "camera_shot": "相对于她跪姿的略微仰拍中景。",
+      "depth_of_field": "浅景深，使背景中的汽车和建筑物呈现出柔和的虚化效果。",
+      "lighting": "自然的晴天日光，明亮清透的阳光，皮肤光泽感极佳，阴影柔和适中，对比度平衡，色彩鲜艳。"
+    },
+    "style_and_quality": {
+      "aesthetic": "照片级真实感的生活方式人像。清晰的电影质感氛围。",
+      "rendering": "高度细节化，主体焦点极其锐利，高分辨率。"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620053695_lk59q5_HHKuwnXXEAAZYF5.jpg" width="600" alt="社交媒体帖子 - 高级时尚购物推车人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620054995_3a8c4g_HHKuwogWUAAAcJm.jpg" width="600" alt="社交媒体帖子 - 高级时尚购物推车人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620053770_jaielk_HHKuwr3XUAA90VU.jpg" width="600" alt="社交媒体帖子 - 高级时尚购物推车人像 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Giulia](https://x.com/Giulia_4i)
+- **来源:** [Twitter Post](https://x.com/Giulia_4i/status/2049892934384763282)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17250)**
+
+---
+
+### No. 27: 社交媒体帖子 - 镜中倒影生活风肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于女性照镜子的写实过肩镜头提示词，将传统印度珠宝与现代环境相结合。
+
+#### 📝 提示词
+
+```
+一张照片级写实、抓拍风格的生活照，拍摄对象为一位 {argument name="subject" default="皮肤白皙、有雀斑且留着湿润红棕色头发的年轻女性"} 正在照一面大型浴室镜。她裹着一条 {argument name="outfit" default="白色浴巾"}，并佩戴着 {argument name="jewelry" default="双手腕上戴着传统的红金相间印度手镯，颈间戴着黑色珠饰的 mangalsutra 项链"}。在镜中倒影里，她右手轻触湿发，左手拿着一根完整的青瓜贴在额头上。场景设定在一个明亮的现代浴室，背景倒影中可见白色大理石墙面、大理石洗漱台和玻璃淋浴间。柔和的自然光照亮了整个画面，呈现出一种原始、自然的审美，色调略显冷峻。构图采用过肩镜头，聚焦于镜中的倒影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620064149_dlu406_HHKtiEvbYAMJpzO.jpg" width="600" alt="社交媒体帖子 - 镜中倒影生活风肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sadie 🥀](https://x.com/NameIsSudee)
+- **来源:** [Twitter Post](https://x.com/NameIsSudee/status/2049891788291531024)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17263)**
+
+---
+
+### No. 28: 社交媒体帖子 - Mini-Me 角色合成图像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个用于创建合成图像的复杂提示词，旨在让 3D Q 版角色与从照片中抠出的人物进行互动。
+
+#### 📝 提示词
+
+```
+一个用于利用参考照片创建合成图像的综合提示词。它详细说明了如何抠出人物，生成与人物特征相符的 3D Q 版“迷你我”角色，并将它们以互动姿态放置在画面中，同时添加阴影、涂鸦和美学标题，营造出社交媒体“生活方式”故事的氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620049126_433hk3_HHKKYD9a4AA5JV0.jpg" width="600" alt="社交媒体帖子 - Mini-Me 角色合成图像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Ai Bella](https://x.com/zahra4sure)
+- **来源:** [Twitter Post](https://x.com/zahra4sure/status/2049852941969072517)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17244)**
+
+---
+
+### No. 29: 社交媒体帖子 - 东京拉面馆抓拍人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个用于生成东京拉面馆趣味抓拍照片的图生图 (image-to-image) 提示词，重点突出美食与氛围感。
+
+#### 📝 提示词
+
+```
+这是一个用于东京拉面馆场景的结构化图生图 (image-to-image) 提示词。它强调在保留参考人物特征的同时，将其置于色彩丰富的餐厅环境中，并在前景放置一碗巨大的拉面。风格为 24mm 广角镜头的写实闪光灯纪实摄影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620047658_vr00mq_HHKIQSsXoAALgXI.jpg" width="600" alt="社交媒体帖子 - 东京拉面馆抓拍人像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Özge Döner](https://x.com/astronomerozge1)
+- **来源:** [Twitter Post](https://x.com/astronomerozge1/status/2049850635328143823)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17242)**
+
+---
+
+### No. 30: 社交媒体帖子 - 舒适室内生活方式肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个关于女性在阳光充足的房间里倚靠在沙发旁放松场景的生活方式摄影提示词。
+
+#### 📝 提示词
+
+```
+一个自然的生活方式摄影提示词，主角是一位身穿蓝色休闲套装的金发女性，在阳光充足的房间里放松。它强调温暖的阳光、柔和的阴影以及舒适、俏皮的氛围，并采用略微倾斜的俯视构图。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620046284_a5opm2_HHKHv9AaIAAbl7i.jpg" width="600" alt="社交媒体帖子 - 舒适室内生活方式肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Lipe](https://x.com/Liperoo)
+- **来源:** [Twitter Post](https://x.com/Liperoo/status/2049850058330493280)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17238)**
+
+---
+
+### No. 31: 社交媒体帖子 - 高角度时尚编辑人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个广角鱼眼时尚人像提示词，包含身着街头服饰的女性，以及特定的光影和摄影棚布置细节。
+
+#### 📝 提示词
+
+```
+高角度广角（轻微鱼眼）时尚人像，主体为 {argument name="subject" default="一位仰望镜头的年轻女性"}，佩戴 {argument name="accessories" default="黑色超大墨镜、米色棒球帽"}，身穿 {argument name="outfit" default="拼色羽绒服（橄榄绿、棕褐色、铁锈红）内搭黑色上衣"}，露出白色运动鞋；手部正在调整墨镜；自信且中性的表情；干净的摄影棚布置，配以平滑的绿色渐变背景；柔和的漫射光，焦点清晰，阴影极少，色彩鲜艳，编辑类街头风格，4K，超高清细节。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620061008_jdsb6x_HHJ9pgSboAAkbLr.jpg" width="600" alt="社交媒体帖子 - 高角度时尚编辑人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620061274_zec1fn_HHJ9picaYAAKOx5.jpg" width="600" alt="社交媒体帖子 - 高角度时尚编辑人像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2049838943164919965)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17258)**
+
+---
+
+### No. 32: 社交媒体帖子 - 舒适晨间生活方式咖啡肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个详细的图像提示词，描绘了一个舒适的早晨场景：一位身穿淡紫色连衣裙的女性在床上放松，身旁放着咖啡和红玫瑰。
+
+#### 📝 提示词
+
+```
+{
+  "type": "image_prompt",
+  "description": {
+    "style": "照片级真实感生活方式肖像，具有舒适的美学风格，高度风格化的室内拍摄",
+    "aspect_ratio": "9:16",
+
+    "subject": {
+      "identity": "{argument name="identity" default="[姓名]"}",
+      "view": "侧面轮廓",
+      "expression": "宁静而放松，柔和地看向镜头",
+      "details": "自然简约的妆容，柔和的皮肤质感带有微光，可见的肩胛骨和清晰的背部轮廓，头发柔和地垂落在脸部和肩部周围",
+      "hair_accessory": "左侧别着白色和紫色鸡蛋花发夹"
+    },
+
+    "clothing": {
+      "type": "修身迷你连衣裙",
+      "material": "罗纹针织",
+      "color": "{argument name="clothing color" default="淡紫色"}",
+      "details": "带有粉色郁金香和绿色茎秆的精致图案",
+      "design": "挂脖式和深露背设计",
+      "extra": "背部有复杂的白色花卉蕾丝拼接，以及粉色扇形下摆"
+    },
+
+    "pose": "俯卧在柔软的床上，用前臂支撑身体，躯干微微扭转以突出背部和侧面轮廓。手持带有托盘的咖啡杯靠近脸部，仿佛正要饮用。",
+
+    "setting": {
+      "location": "舒适的室内卧室",
+      "surface": "厚实、柔软且有质感的灰色毯子，类似于人造毛皮"
+    },
+
+    "props": [
+      "{argument name="stuffed animal" default="背景（左上角）有一只大型浅橙色泰迪熊"}",
+      "毯子上放着一束刚剪下的深红色玫瑰，带有绿色茎秆",
+      "带有花卉印花的复古风格咖啡杯和托盘",
+      "熊后面放着带有花卉图案和刺绣的装饰枕头"
+    ],
+
+    "lighting": {
+      "type": "高调照明",
+      "description": "明亮、柔和且漫射的灯光，阴影极淡，对比度低，脸部照明均匀"
+    },
+
+    "mood": "舒适、亲密、精致，唤起一种平静而放松的早晨时刻",
+
+    "technical": {
+      "camera": "中景，略微仰角，取景范围从大腿向上",
+      "depth_of_field": "浅景深，主体清晰对焦，背景柔和虚化",
+      "quality": "高度细节化，脸部精确对焦，自然的皮肤质感，逼真的织物渲染",
+      "resolution": "8K"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620041082_50dv5d_HHJzmADXsAAQ7RQ.jpg" width="600" alt="社交媒体帖子 - 舒适晨间生活方式咖啡肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620041030_ygc6md_HHJzmCzWQAAo5b4.jpg" width="600" alt="社交媒体帖子 - 舒适晨间生活方式咖啡肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620041121_65gv7k_HHJzmJRWgAA3nKa.jpg" width="600" alt="社交媒体帖子 - 舒适晨间生活方式咖啡肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042053_94j1xz_HHJzmLaXYAAThD8.jpg" width="600" alt="社交媒体帖子 - 舒适晨间生活方式咖啡肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Giulia](https://x.com/Giulia_4i)
+- **来源:** [Twitter Post](https://x.com/Giulia_4i/status/2049827882860486771)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17231)**
+
+---
+
+### No. 33: 社交媒体帖子 - 针织衫女性生活方式时尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个结构化的提示词，用于生成一张写实风格的女性居家生活照，场景设定在带有艺术元素的现代浴室中。
+
+#### 📝 提示词
+
+```
+{
+  "prompt_details": {
+    "subject": "{argument name="subject" default="皮肤白皙、浅色瞳孔的年轻女性。引人注目的铜红色头发，梳成蓬松的高发髻，脸颊两侧留有几缕随意的波浪状发丝。表情中性且深沉。"}",
+    "clothing_and_accessories": "{argument name="outfit" default="身穿浅灰色或米白色的配套居家套装，包括一件罗纹针织低胸短款上衣、一件配套的罗纹长袖短款开衫，以及高腰运动裤。佩戴精致的金色首饰：小巧的圆环耳环、细链项链以及手腕上的金手镯。"}",
+    "pose": "身体微微侧向站立，双手在腰前轻轻交握，目光看向镜头外。",
+    "setting": "优雅的现代浴室，墙面铺设奶油色方形瓷砖。左下角可见白色浴缸的一角。主体后方悬挂着一幅大型、装裱好的抽象立体主义风格艺术画作。",
+    "lighting": "柔和、漫射的暖色室内光，突显针织衣物的纹理，并在主体面部投下柔和且修饰脸型的阴影。",
+    "style": "写实风格、抓拍生活照、高分辨率、柔和的时尚杂志美学。"
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620059829_8koakx_HHJdykcawAAorUu.jpg" width="600" alt="社交媒体帖子 - 针织衫女性生活方式时尚人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620059834_jfj79h_HHJdyk4b0AE5YUn.jpg" width="600" alt="社交媒体帖子 - 针织衫女性生活方式时尚人像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sadie 🥀](https://x.com/NameIsSudee)
+- **来源:** [Twitter Post](https://x.com/NameIsSudee/status/2049803912941592635)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17256)**
+
+---
+
+### No. 34: 社交媒体帖子 - 体操更衣室生活方式摄影
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于生成体操馆场景中运动员抓拍生活照的超写实图像提示词，包含细腻的纹理和自然光效。
+
+#### 📝 提示词
+
+```
+{
+  "meta": {
+    "quality": "超写实，原始风格，8k，杰作，高度细腻的纹理",
+    "camera": "垂直全身中景照片，平视视角。使用定焦镜头的高分辨率数码相机。自然的景深，清晰的室内对焦。自然色彩。",
+    "lighting": "明亮、均匀的室内顶光，典型的更衣室或体育馆照明。柔和的阴影，纹理清晰可见。",
+    "style": "抓拍生活方式摄影，运动美学，高分辨率数码图像。",
+    "aspect_ratio": "9:16"
+  },
+  "scene": {
+    "location": "宽敞、整洁的体育馆更衣室。",
+    "details": "背景是成排的灰色和浅木纹储物柜。排与排之间放置着长木凳。白色瓷砖墙壁和柱子上带有蓝色小方块装饰。干净的灰色地板。",
+    "background": "更衣室内部，可见储物柜、长凳，白色天花板上有火灾报警器或传感器。",
+    "atmosphere": "青春、充满活力且随性。"
+  },
+  "subject": {
+    "gender": "女性",
+    "age": "年轻成年人",
+    "hair": {
+      "color": "浅棕色，带有蜂蜜色挑染",
+      "style": "长直发，自然垂落在背部，长度过腰。"
+    },
+    "expression": "灿烂、真诚的微笑，越过左肩直视镜头。眼神友好且自信。",
+    "pose": "四分之三背影站立，上半身扭转面向镜头。身体背对镜头，脸部回转。姿态放松且具有运动感。",
+    "outfit": {
+      "description": "一件 {argument name="outfit color" default="经典深海军蓝"} 连体运动泳衣。采用宽肩带设计，背部有大面积圆形镂空。高开叉腿部剪裁。",
+      "fabric": "光滑、优质的氨纶/尼龙混纺面料，带有细微光泽，边缘有清晰的缝线。"
+    },
+    "accessories": "极简风格，无可见首饰或纹身。裸露皮肤。"
+  },
+  "composition": "居中垂直全身中景构图。主体是清晰的焦点，置于更衣室的几何线条背景中。面部和泳衣纹理对焦清晰。自然的肤色和质感。",
+  "additional_details": [
+    "超写实皮肤细节：毛孔、细腻的皮肤纹理和自然的肤色。",
+    "海军蓝泳衣可见的织物纹理和整洁的接缝。",
+    "长发发丝的精细细节。",
+    "准确呈现更衣室背景元素，如木凳和金属储物柜。",
+    "干净的调色，平衡了冷暖色调。"
+  ]
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620040440_ys7uac_HHJdQ7dWgAAukRD.jpg" width="600" alt="社交媒体帖子 - 体操更衣室生活方式摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620040459_pdvne4_HHJdQ-BWUAAiZPq.jpg" width="600" alt="社交媒体帖子 - 体操更衣室生活方式摄影 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620040432_pjtojx_HHJdRIkWsAAyHtA.jpg" width="600" alt="社交媒体帖子 - 体操更衣室生活方式摄影 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Noira](https://x.com/Noira_exe)
+- **来源:** [Twitter Post](https://x.com/Noira_exe/status/2049803332839977307)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17229)**
+
+---
+
+### No. 35: 社交媒体帖子 - 生活方式博主阳台自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个关于女性在阳光明媚的阳台上拍摄镜面自拍的休闲生活方式照片的详细写实提示词。
+
+#### 📝 提示词
+
+```
+一个适用于生活方式博主审美风格的写实图像生成提示词。画面主体是一位留着长发、身穿黄色碎花短裙的女性，坐在铺有赤陶地砖的阳台上。该画面模拟了 iPhone 16 Pro Max 的拍摄效果，呈现出自然的黄金时刻光影，营造出轻松且自信的氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620046213_sazjq0_HHJZeeZaIAAHZW_.jpg" width="600" alt="社交媒体帖子 - 生活方式博主阳台自拍 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Diamond](https://x.com/DiamondZPetSpa)
+- **来源:** [Twitter Post](https://x.com/DiamondZPetSpa/status/2049799185323417631)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17237)**
+
+---
+
+### No. 36: 信息图 / 教育视觉图 - 花卉曼陀罗涂色页
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2129,7 +2498,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: 信息图 / 教育视觉图 - 高级时装营销信息图
+### No. 37: 信息图 / 教育视觉图 - 高级时装营销信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2163,7 +2532,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 35: 信息图 / 教育视觉图 - 信息图产品摄影提示词
+### No. 38: 信息图 / 教育视觉图 - 信息图产品摄影提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +2587,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 36: 信息图 / 教育视觉图 - 热带雨林野生动物生态系统
+### No. 39: 信息图 / 教育视觉图 - 热带雨林野生动物生态系统
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2252,7 +2621,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 37: 信息图 / 教育视觉图 - 温馨桌面平铺图与涂鸦
+### No. 40: 信息图 / 教育视觉图 - 温馨桌面平铺图与涂鸦
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2291,7 +2660,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 38: 信息图 / 教育视觉图 - 高尔夫挥杆渐进式艺术素描
+### No. 41: 信息图 / 教育视觉图 - 高尔夫挥杆渐进式艺术素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2324,7 +2693,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 39: 信息图 / 教育视觉图 - 产品爆炸图提示词
+### No. 42: 信息图 / 教育视觉图 - 产品爆炸图提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2364,7 +2733,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 40: 信息图 / 教育视觉图 - 多面板电影级工作室镜头
+### No. 43: 信息图 / 教育视觉图 - 多面板电影级工作室镜头
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2397,7 +2766,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 41: 信息图 / 教育视觉图 - 街头风格自拍与涂鸦
+### No. 44: 信息图 / 教育视觉图 - 街头风格自拍与涂鸦
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,7 +2843,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 42: 信息图 / 教育视觉图 - 医美分析对比提示词
+### No. 45: 信息图 / 教育视觉图 - 医美分析对比提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2508,7 +2877,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 43: 信息图 / 教育视觉图 - 语言循环信息图
+### No. 46: 信息图 / 教育视觉图 - 语言循环信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2548,7 +2917,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 44: 信息图 / 教育视觉图 - 美食爆炸图信息图
+### No. 47: 信息图 / 教育视觉图 - 美食爆炸图信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2582,7 +2951,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 45: 信息图 / 教育视觉图 - 美食银河：宇宙级印度街头小吃太阳系
+### No. 48: 信息图 / 教育视觉图 - 美食银河：宇宙级印度街头小吃太阳系
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2638,7 +3007,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 46: 信息图 / 教育视觉图 - Nano Banana 2 的图表风格提示词
+### No. 49: 信息图 / 教育视觉图 - Nano Banana 2 的图表风格提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2685,7 +3054,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 47: 信息图 / 教育视觉图 - 图像重绘与风格迁移提示词
+### No. 50: 信息图 / 教育视觉图 - 图像重绘与风格迁移提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2718,7 +3087,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 48: YouTube 缩略图 - 歌曲转图像可视化
+### No. 51: YouTube 缩略图 - 歌曲转图像可视化
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2770,7 +3139,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 49: YouTube 缩略图 - 电影感播客工作室人像
+### No. 52: YouTube 缩略图 - 电影感播客工作室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2804,7 +3173,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 50: YouTube 缩略图 - 日式电视节目风格图像生成
+### No. 53: YouTube 缩略图 - 日式电视节目风格图像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2859,7 +3228,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 51: YouTube 缩略图 - Millie Bobby Brown 的电影感节日摄影作品
+### No. 54: YouTube 缩略图 - Millie Bobby Brown 的电影感节日摄影作品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2917,7 +3286,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 52: YouTube 缩略图 - 电影感街头摄影：男子踩到香蕉皮滑倒
+### No. 55: YouTube 缩略图 - 电影感街头摄影：男子踩到香蕉皮滑倒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2950,7 +3319,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 53: YouTube 缩略图 - 愚人节假新闻图像生成提示词
+### No. 56: YouTube 缩略图 - 愚人节假新闻图像生成提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3001,7 +3370,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 54: YouTube 缩略图 - 适用于 Nano Banana Pro 的分屏场景‘发薪日之前和之后’提示
+### No. 57: YouTube 缩略图 - 适用于 Nano Banana Pro 的分屏场景‘发薪日之前和之后’提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3035,7 +3404,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 55: YouTube 缩略图 - 好莱坞大片般的街市漫步
+### No. 58: YouTube 缩略图 - 好莱坞大片般的街市漫步
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3068,7 +3437,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 56: YouTube 缩略图 - 一名女性在地铁站台上的电影感照片，带有运动模糊
+### No. 59: YouTube 缩略图 - 一名女性在地铁站台上的电影感照片，带有运动模糊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3101,7 +3470,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 57: YouTube 缩略图 - 如电影般静谧的银色定格
+### No. 60: YouTube 缩略图 - 如电影般静谧的银色定格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3134,7 +3503,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 58: YouTube 缩略图 - Nano Banana 2 Brushstroke Title Logo 提示词（4 种风格）
+### No. 61: YouTube 缩略图 - Nano Banana 2 Brushstroke Title Logo 提示词（4 种风格）
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3250,7 +3619,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 59: YouTube 缩略图 - 电影之夜出租车人像，青色和橙色调色
+### No. 62: YouTube 缩略图 - 电影之夜出租车人像，青色和橙色调色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3290,7 +3659,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 60: YouTube 缩略图 - Drake 与环绕式玻璃音乐界面
+### No. 63: YouTube 缩略图 - Drake 与环绕式玻璃音乐界面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3338,7 +3707,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 61: YouTube 缩略图 - 电影级美食短视频提示词 (总结)
+### No. 64: YouTube 缩略图 - 电影级美食短视频提示词 (总结)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3371,7 +3740,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 62: YouTube 缩略图 - Nano Banana Pro（内容创作者工作室）的图像转换提示
+### No. 65: YouTube 缩略图 - Nano Banana Pro（内容创作者工作室）的图像转换提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3411,7 +3780,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 63: YouTube 缩略图 - 电影级 3x3 网格摄像机角度提示
+### No. 66: YouTube 缩略图 - 电影级 3x3 网格摄像机角度提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3444,7 +3813,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 64: YouTube 缩略图 - 装饰性电影标题字体生成
+### No. 67: YouTube 缩略图 - 装饰性电影标题字体生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3496,18 +3865,19 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 65: YouTube 缩略图 - 西装制服动漫风格女孩，适用于 Nano Banana 2 的 Prompt
+### No. 68: 漫画 / 故事板 - 地铁艺术家写生视角
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-为 Nano Banana 2 生成一张可爱动漫风格女孩身穿西装校服的图片，用作直播屏幕背景的详细提示，其中包含外观、场景和构图的具体细节。
+一个第一人称视角的提示词，用于生成艺术家在地铁车厢内为乘客写生的场景。
 
 #### 📝 提示词
 
 ```
-一位可爱的动漫风格女孩。棕色波波头，轮廓圆润，大大的、温柔的棕色眼睛。身穿时尚的蓝色西装制服，系着棕色领结，搭配白色短袜和乐福鞋。她温柔地微笑着，带着腼腆而愉悦的表情看着镜头。构图为正面视角，展示她从腰部以上坐在桌子后面的样子。背景氛围平静，仿佛咖啡馆一角，有温暖的光线洒入。以闪闪发光的少女漫画风格描绘和柔和的色彩，表达出可爱和治愈感。作为直播画面，半透明的聊天窗口和观众人数 UI 被巧妙地放置。画面比例 16:9。
+请勿改变面部特征。第一人称视角的照片级写实画面，场景位于 {argument name="location" default="明亮的地铁车厢"} 内。手中拿着 {argument name="drawing tool" default="一本螺旋装订的素描本和一支铅笔"}。素描本页面上是同一个人的 {argument name="sketch style" default="黑白肖像素描"}，其中唯一有颜色的元素是他们的衣服。对面坐着同一个人，正在看手机。窗外是绿色的风景。两侧可以看到其他乘客的部分身影，未进行模糊处理。柔和的自然光，浅景深，电影感氛围。超写实皮肤，细腻的面部纹理，自然的表情。8K 照片级写实质量。宽高比 9:16。
 ```
 
 #### 🖼️ 生成图片
@@ -3515,21 +3885,140 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1773729534161_9rww1i_HDd4e_pXUAAICue.jpg" width="600" alt="YouTube 缩略图 - 西装制服动漫风格女孩，适用于 Nano Banana 2 的 Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620043515_o2p3pz_HHLHqz_asAAYqw6.jpg" width="600" alt="漫画 / 故事板 - 地铁艺术家写生视角 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620043472_qfbgae_HHLHq0JbsAAvGva.jpg" width="600" alt="漫画 / 故事板 - 地铁艺术家写生视角 - Image 2">
 </div>
 
 #### 📌 详情
 
-- **作者:** [MangaNow【公式】クリエイターズ](https://x.com/manganow_cr)
-- **来源:** [Twitter Post](https://x.com/manganow_cr/status/2033348271242887593)
-- **发布时间:** 2026年3月16日
-- **多语言:** ja
+- **作者:** [Ai Prompts Lab](https://x.com/Aipromptslap)
+- **来源:** [Twitter Post](https://x.com/Aipromptslap/status/2049920342618263722)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=12359)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17235)**
 
 ---
 
-### No. 66: 漫画 / 故事板 - 多格漫画插画
+### No. 69: 漫画 / 故事板 - 电影质感警察突袭场景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个复杂的图像提示词，描绘了在豪华公寓中，一名女性被特种部队包围并逮捕的写实场景，周围散落着现金。
+
+#### 📝 提示词
+
+```
+超写实照片，年轻女性，{argument name="subject appearance" default="皮肤白皙，留着黑色长发"}，与参考图面部一致，面无表情，眼神略显疲惫，双手背在身后仿佛戴着手铐，姿态放松，头部微倾，展现出自信且“毫无悔意”的态度
+
+{argument name="location" default="夜晚的豪华现代公寓，全景落地窗映衬城市灯光，昂贵的极简主义室内装潢"}，电影氛围
+
+她面前的大木桌上摆放着：
+成堆的 {argument name="currency" default="美元和欧元纸币"}，略显凌乱但整体有序，
+装满现金的黑色行李袋，半敞开，
+多部智能手机（最新款），
+2-3 台笔记本电脑（MacBook 风格），
+许多银行卡在桌面上整齐排列
+
+在她身后及周围：
+身穿黑色制服的战术警员（特种部队风格），蒙面，正在积极搜查公寓，
+有的在打开柜子和架子，
+有的在背景中走动，
+一名警员站在桌旁指向钱堆
+
+电影级布光，窗户透入的柔和冷光与室内暖光交织，逼真的阴影，桌面的倒影
+
+中景，略微低角度，聚焦于女孩，浅景深，背景轻微虚化
+
+暗黑奢华，紧张感，写实突袭场景，受控的混乱。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620043922_sr9jmd_HHKWo8SaoAEC2b5.jpg" width="600" alt="漫画 / 故事板 - 电影质感警察突袭场景 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620043867_3l2k81_HHKWo8YboAEdGCI.jpg" width="600" alt="漫画 / 故事板 - 电影质感警察突袭场景 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Dr. Samia](https://x.com/oye_samia)
+- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049866420671119605)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17233)**
+
+---
+
+### No. 70: 漫画 / 故事板 - 转描动画风格转换
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个将参考人物转换为具有手绘轮廓和电影级光影的转描风格插画的提示词。
+
+#### 📝 提示词
+
+```
+基于参考图像的 {argument name="subject" default="真实人物"} 转描风格插画，保留精确的面部特征、姿势和表情，干净的手绘轮廓，平滑的矢量感阴影，半写实比例，微妙的色彩渐变，极简但准确的背景，电影级光影，高细节，清晰的边缘，动画帧美学，灵感来源于 {argument name="animation style" default="经典转描动画技术"}，4k 画质，焦点清晰
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042121_8qa0nm_HHKI-Zka0AIMRYC.jpg" width="600" alt="漫画 / 故事板 - 转描动画风格转换 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042108_oshvm9_HHKI-oHa0AABUZm.jpg" width="600" alt="漫画 / 故事板 - 转描动画风格转换 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042146_oqh777_HHKI-1LaQAAD3qN.jpg" width="600" alt="漫画 / 故事板 - 转描动画风格转换 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042777_hdrc05_HHKI_CDbMAAyWpl.jpg" width="600" alt="漫画 / 故事板 - 转描动画风格转换 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
+- **来源:** [Twitter Post](https://x.com/shushant_l/status/2049851400046440834)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17232)**
+
+---
+
+### No. 71: 漫画 / 故事板 - 多格漫画插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3569,7 +4058,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 67: 漫画 / 故事板 - 超现实桦树皮肖像提示词
+### No. 72: 漫画 / 故事板 - 超现实桦树皮肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3663,7 +4152,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 68: 漫画 / 故事板 - 机器城市中的 Neo Goku
+### No. 73: 漫画 / 故事板 - 机器城市中的 Neo Goku
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3697,7 +4186,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 69: 漫画 / 故事板 - 波斯宫廷长袍肖像
+### No. 74: 漫画 / 故事板 - 波斯宫廷长袍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3743,7 +4232,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 70: 漫画 / 故事板 - 18 世纪风格电影感肖像
+### No. 75: 漫画 / 故事板 - 18 世纪风格电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3801,7 +4290,58 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 71: 漫画 / 故事板 - 骑滑板车的狗狗素描插画
+### No. 76: 漫画 / 故事板 - 剪纸动画风格肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个将参考图像转换为手工分层剪纸动画风格肖像的提示词。
+
+#### 📝 提示词
+
+```
+参考图像人物的剪纸动画风格肖像，采用扁平的分层纸张纹理、粗轮廓线和简化的几何形状；在准确还原人物面部特征、发型和表情的同时，将其风格化为拼贴画般的手工美学；在图层之间使用柔和的阴影以营造深度，通过略微夸张的比例呈现趣味感，并配以简约、干净的背景和柔和的淡雅色调；确保图层之间具有高对比度、边缘清晰，并呈现出现代编辑风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777361046286_8mcszv_HG6sP88aIAA-QNL.jpg" width="600" alt="漫画 / 故事板 - 剪纸动画风格肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777361046426_4ta05g_HG6sQNNbIAEFH61.jpg" width="600" alt="漫画 / 故事板 - 剪纸动画风格肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777361046245_bmdb44_HG6sQcEbkAAugvz.jpg" width="600" alt="漫画 / 故事板 - 剪纸动画风格肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777361047014_i8bit2_HG6sQsiaIAAmvHZ.jpg" width="600" alt="漫画 / 故事板 - 剪纸动画风格肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
+- **来源:** [Twitter Post](https://x.com/shushant_l/status/2048764286374477832)
+- **发布时间:** 2026年4月27日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16456)**
+
+---
+
+### No. 77: 漫画 / 故事板 - 骑滑板车的狗狗素描插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3835,7 +4375,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 72: 漫画 / 故事板 - 复古动漫剪影提示词
+### No. 78: 漫画 / 故事板 - 复古动漫剪影提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3869,7 +4409,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 73: 漫画 / 故事板 - 新黑色电影风格心理惊悚片海报
+### No. 79: 漫画 / 故事板 - 新黑色电影风格心理惊悚片海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3903,7 +4443,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 74: 漫画 / 故事板 - Whimsygoth 风格鹅插画
+### No. 80: 漫画 / 故事板 - Whimsygoth 风格鹅插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3937,7 +4477,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 75: 漫画 / 故事板 - 关系历史可视化
+### No. 81: 漫画 / 故事板 - 关系历史可视化
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3971,7 +4511,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 76: 漫画 / 故事板 - 奇幻魔法世界插画
+### No. 82: 漫画 / 故事板 - 奇幻魔法世界插画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4005,7 +4545,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 77: 漫画 / 故事板 - 电影胶片卷存档
+### No. 83: 漫画 / 故事板 - 电影胶片卷存档
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4039,7 +4579,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 78: 漫画 / 故事板 - 超现实蓝色时刻：鸟类蜕变
+### No. 84: 漫画 / 故事板 - 超现实蓝色时刻：鸟类蜕变
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4132,7 +4672,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 79: 漫画 / 故事板 - 硬朗城市肖像
+### No. 85: 漫画 / 故事板 - 硬朗城市肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4166,7 +4706,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 80: 漫画 / 故事板 - 法国海滨的抗议鱼群
+### No. 86: 漫画 / 故事板 - 法国海滨的抗议鱼群
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4202,52 +4742,183 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 81: 漫画 / 故事板 - 暗黑学院风图书馆肖像
+### No. 87: 产品营销 - 超现实化妆品舞厅广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个以“暗黑学院”美学为主题的详细角色提示词，描绘了在舒适的室内图书馆环境中，拥有柔和自然光线的特定主体。
+一个奢华的超现实化妆品广告提示词，以富丽堂皇的钻石舞厅为背景，展示一支巨大的口红。
+
+#### 📝 提示词
+
+```
+一个优雅的高端广告，为“{argument name="brand name" default="AM Cosmetics"}”展示了一支巨大的、{argument name="lipstick color" default="玫瑰粉色"}的口红，作为这座银色调宫殿式舞厅的中心装饰。口红管底座镶嵌着闪耀的钻石，放置在一个毛绒绒的圆形天鹅绒软垫凳上。一位身穿闪亮银色拖地晚礼服的女士优雅地倚靠在这支超大号化妆品旁，手中拿着同款标准尺寸的口红。
+背景散发着皇室的奢华气息，高耸的大理石拱门、悬挂的 {argument name="curtain color" default="丁香色"} 丝绸窗帘以及巨大的水晶吊灯，让整个房间沐浴在柔和而空灵的光影中。远处，几位身着正装和盔甲的人物如同大厅的静默守护者，增添了皇家精致感。顶部的文字写着“AM COSMETICS Est. 2024”，底部则是优雅的草书：“提升你的美。钻石系列。” 整体氛围充满了超现实的奢华与永恒的魅力。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620053792_9gse50_HHKJxsEXMAA3ul-.jpg" width="600" alt="产品营销 - 超现实化妆品舞厅广告 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049852272348106973)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17249)**
+
+---
+
+### No. 88: 产品营销 - 空灵海岸复古车肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个关于在海滩复古车中拍摄女性肖像的怀旧、空灵风格的描述性提示词。
+
+#### 📝 提示词
+
+```
+一个怀旧时尚风格的提示词，描绘了一位铂金发色女性在日落时分的海滩上，从一辆复古甲壳虫汽车的车窗探出身子。详细描述了深红色连体泳衣、海岸天空和木制冲浪板，旨在营造一种永恒优雅的氛围和平衡的构图。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620047581_n18iul_HHKIWqGaUAA03-A.jpg" width="600" alt="产品营销 - 空灵海岸复古车肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Lore](https://x.com/l_w_lorenzen)
+- **来源:** [Twitter Post](https://x.com/l_w_lorenzen/status/2049850713245892872)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17241)**
+
+---
+
+### No. 89: 产品营销 - 夏季时尚绣球花田大片
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一组高级时尚大片提示词，描绘了一位身着白色泡泡袖连衣裙的女性站在茂盛的蓝色绣球花田中。
+
+#### 📝 提示词
+
+```
+超写实高端时尚大片摄影，电影感户外春夏氛围。一位年轻女性站在茂盛的 {argument name="flowers" default="盛开的蓝色绣球花"} 田中，周围环绕着不同高度的硕大花簇，部分花朵极度靠近镜头，形成强有力的前景框架。姿势：女性侧身站立（侧面视角），身体朝向侧面，双臂自然下垂。头部微抬，目光望向远方（非直视镜头），神情平静安详。拍摄角度：低角度拍摄（仰拍），略微向上，强调花卉与人物的高度。构图：主体略微偏离中心，前景由大型绣球花（顶部和两侧）环绕，营造出深度与沉浸感。服装：{argument name="dress" default="蓬松的白色高定连衣裙，采用质感面料，超大泡泡袖，结构感廓形"}，优雅简约。环境：茂密的绣球花田，拥有浓郁的绿叶和柔和的蓝色花朵，花卉呈现多层次景深。背景：{argument name="sky" default="晴朗的蓝天，自然柔光，云层稀疏"}。光线：自然阳光，柔和且具有方向性，产生细腻的高光与柔和阴影，轻微逆光在发丝和裙摆周围营造出微妙的光晕。调色板：柔和的蓝色、白色、绿色，空气感自然色调，清新纯净的审美。景深：中等，前景花朵轻微虚化，主体清晰，背景柔和过渡。氛围：平静、优雅、空灵、高级时尚大片感，略带梦幻色彩。皮肤：自然、写实纹理，柔和高光。质量：8K，超细节，照片级真实感，中画幅相机，时尚大片，无畸变，无伪影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620042302_clfzkj_HHJJ6yzaEAAA_R0.jpg" width="600" alt="产品营销 - 夏季时尚绣球花田大片 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Dr. Samia](https://x.com/oye_samia)
+- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049782061737914831)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17230)**
+
+---
+
+### No. 90: 产品营销 - 3D 渲染眉笔广告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个专业的 3D 渲染化妆品广告提示词，展示了一支优雅的眉笔以及一个置于山脉背景前的风格化微型角色。
+
+#### 📝 提示词
+
+```
+一个专业的 3D 渲染广告，用于 "{argument name="brand name" default="AM Cosmetics"}"。画面中心垂直矗立着一支巨大的、优雅的 "{argument name="product style" default="带有金色字体的哑光黑色眉笔"}"。在眉笔旁边，一个时尚的微型 3D 风格化女性角色正倚靠在产品上，她留着波浪短金发，身穿飘逸的奶油色丝绸长裙。前景中，一个分离的螺旋刷笔盖放置在粗糙的深色岩石上。背景是柔焦的电影感山脉，天空湛蓝，空气中漂浮着金色颗粒和散景光斑。高端化妆品摄影风格，柔和的影棚灯光，超逼真的质感，8k 分辨率，优雅奢华的美学风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620055708_iqpntu_HHI8Qq8WYAAZjOZ.jpg" width="600" alt="产品营销 - 3D 渲染眉笔广告 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049767040378884157)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17251)**
+
+---
+
+### No. 91: 产品营销 - 超现实 Sprite 瓶身艺术作品
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个结构化的超现实主义提示词，描绘了一位女性被困在装满金色液体的水下 Sprite 瓶中。
 
 #### 📝 提示词
 
 ```
 {
-  "character_details": {
-    "name": "{argument name="character name" default="Wareen"}",
-    "gender": "女性",
-    "age_range": "20 岁出头",
-    "hair": {
-      "style": "短波波头，配直刘海",
-      "color": "{argument name="hair color" default="鲜艳的紫色"}",
-      "texture": "顺滑且直"
+  "prompt_details": {
+    "core_subject": "面带微笑的南亚女性，留着深色头发，佩戴金色 jhumka 耳环。",
+    "container": {
+      "type": "透明玻璃汽水瓶",
+      "label": "带有经典标志的绿色 Sprite 标签，文字显示为 'LEMON-LIME NATURAL FLAVORS'",
+      "contents": "充满气泡、闪烁着光芒的金色橙色液体",
+      "surreal_element": "女性的头部和肩膀神奇地被包裹在瓶中的液体里。"
     },
-    "facial_features": {
-      "eyes": "榛色，杏仁眼",
-      "skin": "白皙，鼻梁和脸颊上有淡淡的雀斑",
-      "expression": "平静而沉思"
+    "environment": {
+      "setting": "水下海洋场景",
+      "background_color": "鲜艳明亮的蓝色海水"
     },
-    "attire": {
-      "top": "超大款棕色灯芯绒衬衫",
-      "bottom": "高腰深棕色百褶长裤",
-      "accessories": ["手指上戴着简约的银戒指"]
-    }
+    "surrounding_elements": [
+      "银黑条纹神仙鱼在瓶子周围游动",
+      "橙白相间的小丑鱼在瓶子周围游动"
+    ],
+    "style_and_modifiers": [
+      "超现实主义",
+      "超写实",
+      "照片级真实感",
+      "电影级灯光",
+      "鲜艳的色彩",
+      "8k 分辨率",
+      "商业广告风格"
+    ]
   },
-  "scene_details": {
-    "location": "{argument name="location" default="靠近大窗户的舒适室内咖啡馆或图书馆"}",
-    "action": "坐在木质窗台上，手持米色陶瓷杯轻抿一口",
-    "background": {
-      "indoor": "摆满书籍的深色木质书架，圆木桌上放着《秘史》(The Secret History)",
-      "outdoor": "透过窗户可以看到柔和模糊的欧式砖建筑和街景",
-    },
-    "lighting": "来自窗户的自然柔和日光，温暖的室内氛围",
-    "camera_angle": "中景，平视角度，电影感构图"
-  },
-  "technical_style": {
-    "image_quality": "高分辨率，照片级真实感，8k",
-    "aesthetic": "暗黑学院风，温暖的大地色调，柔和的阴影"
+  "generation_parameters": {
+    "aspect_ratio": "4:5",
+    "negative_prompt": "模糊、低质量、文字扭曲、丑陋、面部绘制糟糕、浑浊的水、写实的雪碧液体（必须是橙色）"
   }
 }
 ```
@@ -4257,36 +4928,33 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777099785063_7hf3uj_HGooW03aAAAvfti.jpg" width="600" alt="漫画 / 故事板 - 暗黑学院风图书馆肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620037093_guq0i9_HHI7Q1dboAAgJyM.jpg" width="600" alt="产品营销 - 超现实 Sprite 瓶身艺术作品 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Wareen 💟](https://x.com/Wareenaa)
-- **来源:** [Twitter Post](https://x.com/Wareenaa/status/2047493357203812593)
-- **发布时间:** 2026年4月24日
+- **作者:** [RM_Pets & Animals](https://x.com/RM_uii)
+- **来源:** [Twitter Post](https://x.com/RM_uii/status/2049765944478871886)
+- **发布时间:** 2026年4月30日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=15496)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17223)**
 
 ---
 
-### No. 82: 漫画 / 故事板 - 灵虎踏水
+### No. 92: 产品营销 - 高级时尚杂志封面人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-这是一个为 Nano Banana 2 设计的超现实主义电影感提示词，描绘了一位女性在水面上行走，倒影中呈现出一只灵虎的画面。
+一个用于生成杂志风格特写人像的提示词，主角为一位有雀斑的女性，采用大胆的色彩和专业的影棚灯光。
 
 #### 📝 提示词
 
 ```
-一张宽画幅、电影质感的超写实夜景图像。场景中，一位 {argument name="subject" default="留着齐肩直发的年轻亚裔女性"} 神态安详，正赤脚侧身走在如镜面般的浅水之上。她身着一件 {argument name="outfit" default="优雅飘逸的银灰色亮片吊带长裙，裙摆处有高开叉设计"}，行走时裙摆微微拂动。她微微低着头。
-如果提供了参考照片，请尽量还原她的面部特征、发型、肤色、整体身材比例及其独特气质；同时，她的服装和配饰可以根据场景进行自然调整。
-水面呈现出完美的镜像倒影，但在她脚下，原本的倒影被一只宏伟且细节丰富的灵虎所取代。这只灵虎由精致的银白色线条构成，散发着柔和的蓝光。灵虎以倒影的形式出现，正清晰地嗅着一朵仅存在于倒影中的发光白金玫瑰花苞（其光芒如月光般纯净）。一串精致的发光玫瑰花苞和花瓣从女子的手中飘落，形成一道优雅的弧线，环绕在她身边，最终延伸至灵虎鼻尖下方的发光玫瑰处。她赤裸的双脚周围闪烁着微弱的荧光。
-极简主义的地平线上有远处的暗色岛屿。天空呈深靛色，点缀着细碎的星辰、清晰的银河和一轮巨大的发光满月。画面采用了来自月光和夜空的冷色调电影光效，并结合了灵虎与玫瑰自身散发的光芒。底部中央有优雅的银白色书法文字，内容为：'{argument name="text" default="心有猛虎，细嗅蔷薇。"}' 高动态范围（HDR）夜景倒影，极致细节，8K 分辨率，超现实主义风格。
+一张高级时尚风格的特写人像，主角是 {argument name="subject" default="一位五官鲜明的女性"}，正视镜头，拥有一双 {argument name="eye color" default="迷人的灰绿色眼睛"}。她留着 {argument name="hair style" default="蓬松的波浪卷金棕色齐肩发"}，鼻梁和脸颊上布满雀斑。嘴唇涂着 {argument name="lipstick" default="大胆的哑光红唇膏"}。她身穿 {argument name="outfit" default="一件华丽的芥末黄蕾丝衬衫，领口系着大蝴蝶结"}。背景为纯色且带有纹理的橄榄绿色。灯光强烈，投射出自然的阴影，勾勒出她的骨骼轮廓。整体风格为专业的杂志封面摄影，去除了所有文字排版。构图四周带有细窄的深色边框。
 ```
 
 #### 🖼️ 生成图片
@@ -4294,283 +4962,45 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014240706_9ga70k_HGmf6D7bIAAJlx8.jpg" width="600" alt="漫画 / 故事板 - 灵虎踏水 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [小卡｜Kirin🍥](https://x.com/NemoZhuge)
-- **来源:** [Twitter Post](https://x.com/NemoZhuge/status/2047343332855255262)
-- **发布时间:** 2026年4月23日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=15143)**
-
----
-
-### No. 83: 漫画 / 故事板 - 面包面团超级英雄
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个创意提示词，用于生成由未烘烤的生面团塑造而成的超级英雄形象，融合了漫画风格与烹饪美学。
-
-#### 📝 提示词
-
-```
-一个 2x2 的网格，展示了由 {argument name="material" default="生面团和面粉"} 摆放而成的飞行中的 {argument name="subject" default="超级英雄"}
-结构：[画面：英雄式着陆；揉捏出的肌肉线条，面粉扬起的披风，橄榄油的光泽，酵母发酵的蓬松感，芝麻装饰的装备带，蛋液涂抹的高光]
-风格：{argument name="art style" default="漫威漫画风格与《英国家庭烘焙大赛》的碰撞"}，温暖的黄金时刻光影，木质桌面，充满未烘烤的潜能。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777014235033_mrkhjd_HGYwXmhbMAAFCDu.jpg" width="600" alt="漫画 / 故事板 - 面包面团超级英雄 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2047246600997916726)
-- **发布时间:** 2026年4月23日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=15128)**
-
----
-
-### No. 84: 产品营销 - 奢侈腕表杂志广告
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份用于奢侈腕表品牌垂直杂志排版的提示词，结合了生活方式肖像与产品目录。
-
-#### 📝 提示词
-
-```
-一份高端的垂直杂志广告采用分栏设计，将专业的生活方式肖像与奢侈腕表品牌“{argument name="brand name" default="ROX"}”的详细产品目录相结合。左侧是一张色调温暖的大幅照片，展示了一位英俊的年轻人，他身穿 {argument name="outfit" default="海军蓝西装外套搭配炭灰色高领毛衣"}，正微笑着俯身在书桌前，手中拿着钢笔和笔记本，手腕上清晰地佩戴着一块 ROX 腕表。右侧是一个名为“THE ROX COLLECTION”的时尚白色侧边栏，采用菜单式结构，垂直排列了三款独特的腕表模型：配有皮质表带的银色“Aethelred Classic”、配有橡胶表带的黑色“Solis Diver”，以及配有金质网状表带的玫瑰金“Luna Chronograph”。每张产品图片下方都有精确的文字描述，详细说明了材质、表壳尺寸、机芯和防水性能，全部使用清晰易读的字体。整个构图顶部配有优雅的衬线品牌标题“{argument name="headline" default="ROX: TIMELESS ELEGANCE"}”，底部标语为“ROX THE ART OF TIME”，最后一行较小的文字列出了网站和系列详情，整体呈现出焦点清晰、超写实的细节效果。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533356852_zw9z08_HHE_gR3aIAA5H7k.jpg" width="600" alt="产品营销 - 奢侈腕表杂志广告 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049489132112552049)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16989)**
-
----
-
-### No. 85: 产品营销 - 超现实海滩巨型靴子雕塑
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个超现实的比例游戏提示词，描绘了热带海滩上正午烈日下的一只巨型 UGG 洞洞鞋和一位时尚女性。
-
-#### 📝 提示词
-
-```
-超写实竖构图照片，比例 4:5。白色热带沙滩，绿松石色泻湖，左上角有棕榈叶。画面右侧是一座 {argument name="sculpture" default="巨型麂皮 UGG 洞洞鞋"}，高约两米，呈现超现实的比例游戏效果。一位 {argument name="subject" default="美丽的女性"} 侧身站在巨型鞋旁，手臂优雅地靠在超大号靴子的侧面。
-服装：{argument name="outfit" default="橄榄色无袖短款背心"}，复古林地迷彩工装短裤，卡其米色宽檐丛林帽，麂皮沙米色 UGG 洞洞鞋，钢制 Audemars Piguet 手表，银戒指，细银链。
-光影：热带正午强烈的阳光，直射光，沙滩上清晰的图形阴影，皮肤上反射着绿松石色的水光。
-相机：Sony A7R V，35mm f/1.4 镜头，8K 清晰度，自然的皮肤纹理，自然的景深。无塑料感，无 CGI 感，无 AI 伪影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533354821_5u7tx4_HHErAefbIAA_-yD.jpg" width="600" alt="产品营销 - 超现实海滩巨型靴子雕塑 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049466601435783500)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16985)**
-
----
-
-### No. 86: 产品营销 - 太阳镜中的热带海滩倒影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于生成镜面飞行员太阳镜中海滩场景倒影的高分辨率微距摄影提示词。
-
-#### 📝 提示词
-
-```
-主体外观应与上传的参考图像完全一致，高精度保留面部特征、比例、发型、肤色和体型。
-一张 4:5 纵向比例的超写实摄影作品。构图采用 {argument name="shot type" default="特写"}，主体为超大号 {argument name="sunglasses" default="带有椭圆形镀铬镜面的金属飞行员太阳镜"}，以大胆的编辑风格占据画面中心。
-在镜片倒影中，可以清晰地看到 {argument name="reflection scene" default="热带海滩场景"} 在正午明亮的阳光下呈现。画面捕捉了一个人自然蹲姿的瞬间，姿态从容自信，双手在脸部附近做出“取景框”手势（大拇指和食指构成取景器形状）。姿势应显得时尚、平衡且自然。双手需保持简洁，不佩戴戒指或手指饰品。
-服装造型：奶油白色亚麻无袖背心，搭配复古林地迷彩工装短裤。配饰包括一顶柔和沙米色的宽檐草编奔尼帽、同色系麂皮木屐，以及手腕上的一条精致银链手链。
-光影与氛围：明亮的热带正午阳光，带有强烈的自然高光。镜片上有强烈的镀铬反光，可见天空倒影，并辅以微妙的轮廓光以增强深度和层次感。
-相机与图像质量：使用 Sony A7R V 搭配 100mm f/2.8 微距镜头拍摄。超高分辨率 8K 细节，焦点极其锐利，皮肤纹理真实，倒影清晰且具有复杂的微观细节。
-严格要求照片级真实感输出——无塑料质感，无 CGI 感，无 AI 伪影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533359130_t77icx_HHEZtYlbQAALKMz.jpg" width="600" alt="产品营销 - 太阳镜中的热带海滩倒影 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Nexora](https://x.com/frametheory058)
-- **来源:** [Twitter Post](https://x.com/frametheory058/status/2049447583177904317)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16992)**
-
----
-
-### No. 87: 产品营销 - 极简奢华科技广告
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份专业的未来感智能手表广告提示词，包含男性主体、醒目的排版以及电影级摄影棚灯光。
-
-#### 📝 提示词
-
-```
-极简奢华商业广告，展示一款超大号 {argument name="product" default="哑光黑色智能手表"}，设计时尚且充满未来感，构图极其简洁。一位身穿 {argument name="outfit" default="单色黑色套装"} 的年轻男子站在巨大的手表旁，一只手搭在表盘上，表情冷静自信，带着一丝浅笑，直视镜头。背景为柔和的炭灰色至深蓝色渐变，后方隐约浮现出巨大的醒目 {argument name="brand name" default="“AETHER”"} 发光文字。地面光洁如镜，带有柔和的倒影，电影级摄影棚灯光配合细腻的轮廓光勾勒出边缘。现代高端科技时尚摄影美学，细节丰富，8K 渲染。右上角小字标注“Designed by Snow”。底部中心标语采用极简白色字体：“Time, redefined with precision.”
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533349722_q2okc4_HHEEYdiaQAAilsp.jpg" width="600" alt="产品营销 - 极简奢华科技广告 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Snow](https://x.com/iamrealsnow)
-- **来源:** [Twitter Post](https://x.com/iamrealsnow/status/2049424134854382031)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16975)**
-
----
-
-### No. 88: 产品营销 - 奢华珠宝时尚大片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份针对高端时尚人像的提示词，聚焦于精致的金饰与深邃的青色背景。
-
-#### 📝 提示词
-
-```
-超写实时尚大片人像，拍摄对象为一位 {argument name="subject" default="年轻女性"}，侧脸姿势，采用高角度特写镜头聚焦于其面部与颈部。她佩戴着一条 {argument name="jewelry" default="精致厚重的金质颈圈项链"}，设计采用复杂的金丝工艺，点缀着交替的祖母绿与红宝石，并饰有垂坠的珍珠与珠饰。
-该女性下颌线清晰，涂着深红色哑光唇膏，鼻翼处有一枚小巧的银色鼻钉。深色头发向后梳成柔和的发髻，几缕发丝松散地垂在脸颊旁。灯光温暖且具有电影质感，投射出柔和的阴影，突显出皮肤的质感与珠宝的金属光泽。背景为 {argument name="background" default="质感丰富的青色丝绒垂褶面料"}，营造出深邃、忧郁的对比感。采用 9:16 竖屏比例拍摄，使用专业 85mm 镜头，呈现高端商业美学。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777533352181_fbboml_HHDTTJWaoAAJ3vH.jpg" width="600" alt="产品营销 - 奢华珠宝时尚大片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049370159895208162)
-- **发布时间:** 2026年4月29日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16981)**
-
----
-
-### No. 89: 产品营销 - 高端时尚与汽车摄影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份详细的摄影棚拍摄提示词，用于生成一张男士与 Porsche 911 GT3 在极简主义场景中合影的高级感照片。
-
-#### 📝 提示词
-
-```
-一张精致的高端摄影棚照片。主体：{argument name="subject description" default="一位 20 多岁、留着干练短发的帅气年轻男子，自信地倚靠在跑车旁"}。着装：{argument name="clothing" default="他身穿一件奢华的深祖母绿丝绒礼服夹克，搭配黑色缎面尖领、白色礼服衬衫、黑色领结和黑色长裤"}。他的姿势放松，一只手靠近夹克口袋。车辆：{argument name="car model" default="一辆令人惊叹、光泽闪耀的银色 Porsche 911 GT3 (991.2 代)"}。男子倚靠在驾驶座一侧的前翼子板和引擎盖上。车辆略微朝向观众。环境与构图：场景是一个极简且优雅的摄影棚，背景为米白色/奶油色。最引人注目的元素是动感的红、白、蓝条纹图案。条纹在车和人身后的墙上垂直延伸，并以消失点透视法水平穿过地面延伸向观众，形成引人注目的引导线条。光影与风格：图像采用精致的商业时尚和汽车摄影布光，带有柔和的阴影。景深较浅，背景细节清晰。前景条纹的右下角可见一个微妙的四角星图形。9:13 图像比例
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447796549_z5jws0_HHAoGODawAAkdAy.jpg" width="600" alt="产品营销 - 高端时尚与汽车摄影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620062376_gqd0s6_HHIpRRBb0AEGU_J.jpg" width="600" alt="产品营销 - 高级时尚杂志封面人像 - Image 1">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **来源:** [Twitter Post](https://x.com/Ozayrr_irl/status/2049181924309311748)
-- **发布时间:** 2026年4月28日
+- **来源:** [Twitter Post](https://x.com/Ozayrr_irl/status/2049746161561477400)
+- **发布时间:** 2026年4月30日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16759)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17260)**
 
 ---
 
-### No. 90: 产品营销 - 鱼眼镜头冰沙人像
+### No. 93: 产品营销 - 超现实可乐瓶囚禁肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个风格化的鱼眼镜头提示词，通过粉色冰沙容器聚焦于女性面部特征，专为超写实效果优化。
+一个引人注目的概念提示词，用于生成一张超现实图像：一个人被困在巨大的超写实 Coca-Cola 瓶子中，具有细腻的液体物理效果和电影级光影。
 
 #### 📝 提示词
 
 ```
-高角度鱼眼镜头拍摄，捕捉一位年轻的 {argument name="ethnicity" default="[参考图像种族]"} 女性，基于参考图像呈现出令人惊艳的模特级面部特征，通过装满 {argument name="ice color" default="粉色冰沙"} 的透明容器边缘进行戏剧性构图。超写实的人类皮肤纹理，可见自然的毛孔、细腻的微小细节、微妙的瑕疵以及真实的色调变化；柔和的电影级光效与皮肤表面自然交互；真实的次表面散射效果带来栩栩如生的深度，平衡了哑光质感与自然光泽（无塑料感或蜡质感）；超写实成品，具备电影级细节与高动态范围。
+超写实超现实概念广告摄影，描绘了一位焦虑的 {argument name="subject" default="年轻女性"} 被困在一个巨大的 {argument name="brand" default="Coca-Cola"} 汽水瓶中。高大的经典轮廓 Coca-Cola PET 塑料瓶像透明的监狱一样垂直矗立在中央。瓶身带有正宗的 Coca-Cola 品牌标识：亮红色背景上印有标志性的白色草书 Coca-Cola 徽标标签，环绕在瓶身中央，配有红色罗纹瓶盖。
+
+瓶身塑料呈半透明状，具有真实的 PET 材质感、细微划痕、模具接缝、冷凝水珠和浮雕握持纹理。强烈的折射效果透过弯曲的透明塑料，使内部景象产生扭曲。
+
+在瓶子内部，男子（上传的图片）蜷缩着身体，膝盖弯曲，部分浸没在深焦糖色的碳酸可乐中，伴随着上升的气泡和闪烁的起泡流。微小的碳酸气泡在他身体周围向上漂浮。汽水散发出淡淡的暖琥珀色高光，带有深棕色调。
+
+他穿着 {argument name="clothing" default="深灰色 T 恤"} 和黑色长裤，衣服上有自然的褶皱。他凌乱的短发因冷凝水而略显潮湿。他的表情流露出焦虑和疲惫，双眼因惊恐而睁大。
+
+他的手掌按在弯曲的瓶壁上，手指张开，仿佛试图逃脱。他的脸和手透过透明塑料和可乐液体显得扭曲且带有折射感。
+
+来自右上方的冷色调电影级摄影棚灯光，在湿润的塑料上营造出锐利的高光，在 Coca-Cola 标签上产生发光的反射，形成深红和琥珀色的阴影，以及透过气泡液体产生的焦散光斑。体积光展现了雾气、漂浮颗粒和碳酸轨迹。
+
+超细腻皮肤纹理，超写实塑料和液体物理效果，浅景深，超清晰对焦，深沉的摄影棚背景，高端超现实饮料广告摄影风格，象征着清爽转变为囚禁的概念，4K 画质，竖构图。
 ```
 
 #### 🖼️ 生成图片
@@ -4578,33 +5008,41 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447797190_i3xcm7_HHAj4vsbkAAf0r7.jpg" width="600" alt="产品营销 - 鱼眼镜头冰沙人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620051181_j6wecq_HHH_TDwa8AAo19i.jpg" width="600" alt="产品营销 - 超现实可乐瓶囚禁肖像 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049177297174065300)
-- **发布时间:** 2026年4月28日
+- **作者:** [Snow](https://x.com/iamrealsnow)
+- **来源:** [Twitter Post](https://x.com/iamrealsnow/status/2049700019742416995)
+- **发布时间:** 2026年4月30日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16761)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17246)**
 
 ---
 
-### No. 91: 产品营销 - 高能量运动广告海报
+### No. 94: 产品营销 - 全球高级定制时装拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个充满活力的运动广告提示词，描绘了一位在色彩鲜艳的山地景观中、带有时尚光轨的开朗女性运动员。
+一个复杂的提示词，用于生成 4x4 网格拼贴画，展示同一张面孔身着 16 个不同国家传统风格的高级定制时装。
 
 #### 📝 提示词
 
 ```
-一张高能量的竖版运动广告海报，主角是一位 {argument name="subject" default="金发女性运动员"}，她表情开朗，神似流行歌星。画面捕捉了她大步跨越、穿梭于色彩鲜艳的风格化山地景观中的瞬间。她身穿 {argument name="clothing" default="紫色连帽衫，外搭亮黄红相间的印花防风外套"}，搭配黑色紧身裤和一只极具个性的彩色蓬松护腿。脚上穿着厚底超大号的多色运动鞋（{argument name="sneaker colors" default="橙色、蓝色和白色"}），这是前景中的视觉焦点。背景是一幅数字插画，描绘了绿色山脉，青色和紫色的光轨在山谷间盘旋。海报背景中印有巨大的淡化文字“PULSE”，底部则有醒目的白色文字写着“PULSE GEAR: POWER. PERFORMANCE. STYLE.”，以及标语“IGNITE YOUR PASSION.”。整体风格融合了超写实的人物渲染与图形矢量艺术。
+创建一个超写实的电影级 4x4 网格拼贴画（{argument name="grid size" default="16 帧"}），主角为同一位美丽的年轻女性，每一帧代表一个不同国家的传统服饰，并将其重构为奢华的高级定制时装，包括 {argument name="featured country" default="尼泊尔"}。
+
+国家：日本、印度、韩国、法国、意大利、土耳其、埃及、中国、泰国、英国、美国、西班牙、沙特阿拉伯、印度尼西亚、俄罗斯和尼泊尔。
+
+保持所有帧中的面孔高度一致，但姿势和表情（自信、优雅、杂志大片感）需有所变化。在每一帧的右上角加入一面小国旗。使用具有文化特色的背景（寺庙、街道、山脉、宫殿）。
+
+风格：超写实、8K 分辨率、电影级灯光、Vogue 杂志大片风格、柔和的景深、整洁对称的网格、高度细节化、奢华美学。
+
+重要提示：保持面孔一致，无畸变，完美对齐，构图平衡。
 ```
 
 #### 🖼️ 生成图片
@@ -4612,103 +5050,125 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447796206_ga9ck5_HG_3adWboAA9Vaj.jpg" width="600" alt="产品营销 - 高能量运动广告海报 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777620053457_4g6b91_HHH226xa4AAwB15.jpg" width="600" alt="产品营销 - 全球高级定制时装拼贴画 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Ayzha Monroe](https://x.com/ayzha_ai)
+- **来源:** [Twitter Post](https://x.com/ayzha_ai/status/2049692100128915502)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17248)**
+
+---
+
+### No. 95: 产品营销 - 运动后健身人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于生成豪华健身房环境下女性运动后写实图像的 JSON 结构化提示词。
+
+#### 📝 提示词
+
+```
+{
+  "subject_parameters": {
+    "identity": "女性，与参考图一致的面部特征",
+    "expression": "自然微笑，皮肤透亮，容光焕发",
+    "physical_state": "可见汗水，运动后的光泽感，健美的姿态",
+    "attire": {
+      "top": "{argument name="clothing top" default="灰色混色工字背心短款上衣"}",
+      "bottom": "{argument name="clothing bottom" default="黑色高腰紧身裤"}",
+      "footwear": "亮红色运动鞋"
+    }
+  },
+  "environment_logic": {
+    "location": "{argument name="setting" default="现代豪华健身房内部"}",
+    "lighting": "明亮，顶部线性 LED 灯带，自然窗光",
+    "background_elements": [
+      "带有动态模糊的跑步机",
+      "重量架和史密斯机",
+      "反光镜面",
+      "木质地板"
+    ]
+  },
+  "foreground_objects": {
+    "table": "极简主义木质咖啡桌",
+    "drinks": [
+      "一杯鲜艳的橙汁",
+      "装有米色液体的蛋白粉摇摇杯"
+    ]
+  },
+  "technical_directives": [
+    "8k 分辨率",
+    "照片级真实感",
+    "浅景深",
+    "高细节皮肤纹理",
+    "主体清晰对焦",
+    "超写实光影"
+  ]
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620060927_yhycjw_HHHQWyybUAAe8Ls.jpg" width="600" alt="产品营销 - 运动后健身人像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [RM_Pets & Animals](https://x.com/RM_uii)
+- **来源:** [Twitter Post](https://x.com/RM_uii/status/2049648399218331964)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17259)**
+
+---
+
+### No. 96: 产品营销 - 前卫奢华时尚编辑广告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个针对奢侈品牌的时尚广告提示词，包含超现实的超大道具以及天鹅绒和碳纤维等特定面料质感。
+
+#### 📝 提示词
+
+```
+为名为 "LUXORA" 的奢侈品牌制作的高级时尚编辑广告。一位 {argument name="subject" default="扎着利落马尾辫的精致女性"} 优雅地坐在 {argument name="prop" default="一个巨大的、作为椅子使用的黑色网球拍"} 框架内。她穿着一件 {argument name="outfit" default="深海军蓝色的及地前卫天鹅绒礼服，配有锋利的奶油色褶皱装饰"}。背景是极简主义的高光香槟金摄影棚，墙上印有巨大的金属金色 "LUXORA" 字样。前景中，一枚镶钻金星胸针放置在反光的地面上。灯光柔和、具有电影感且质感高级，突显了天鹅绒、碳纤维和抛光金的质感。8k 分辨率，照片级真实感，Vogue 审美。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620064483_lcze5z_HHHJ13uWQAAGzd5.jpg" width="600" alt="产品营销 - 前卫奢华时尚编辑广告 - Image 1">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049128395787665862)
-- **发布时间:** 2026年4月28日
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2049641236584132848)
+- **发布时间:** 2026年4月30日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16758)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17264)**
 
 ---
 
-### No. 92: 产品营销 - 超写实奢华时尚肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一款基于身份参考的奢华香水广告风格提示词，适用于高对比度、戏剧性的摄影棚摄影。
-
-#### 📝 提示词
-
-```
-使用提供的照片作为精确的身份参考，生成一张超写实的电影级奢华时尚肖像，同时确保面部特征、骨骼结构、肤色、发型、面部毛发和自然相似度 100% 保持不变，不做任何改动。
-
-将其转化为超暗的高端商业摄影棚拍摄效果，背景为 {argument name="background" default="深黑到酒红色的渐变背景"}，几乎融入纯黑色，边缘带有非常厚重的晕影。
-
-灯光：极低调且富有戏剧性，从左前方上方射出一束非常狭窄、硬朗的聚光灯，斜向切过面部，在额头、眼睛和脸颊上形成一道锐利的光带，而 80% - 90% 的面部保持在深影中。使用强烈的负补光来加深阴影。从后方增加极其微妙的暖色轮廓光，以勉强勾勒出下颌线和发际边缘。
-
-氛围：黑暗、强烈、神秘，高端奢华香水广告风格。电影感、情绪化、大胆。深黑色、压暗的阴影、浓郁的深红色调、高对比度、光泽感的杂志大片质感。
-
-服装：{argument name="clothing" default="优质哑光黑色高领衫或纹理毛衣"}，具有吸光效果（非反光）。
-
-构图与姿势：{argument name="shot type" default="胸部以上肖像"}。肩膀向右转动 45 度呈微侧面，但脸部转回直视镜头。下巴比之前稍微抬高，眼神犀利地直视前方，表情严肃且具有统治力。
-
-细节：超写实的皮肤纹理，可见毛孔，焦点清晰地对准被照亮的眼睛，85mm 镜头感，浅景深，摄影棚摄影，戏剧性的阴影衰减，强烈的塑光效果。
-
-风格关键词：低调照明、明暗对照法、黑色电影风格、高级时尚杂志大片、电影级调色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447801879_gb6bvk_HG_QTXebUAAQiuy.jpg" width="600" alt="产品营销 - 超写实奢华时尚肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Ai Bella](https://x.com/zahra4sure)
-- **来源:** [Twitter Post](https://x.com/zahra4sure/status/2049085586175111647)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16769)**
-
----
-
-### No. 93: 产品营销 - 都市时尚肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个都市风格的肖像提示词，以布满涂鸦的粗犷背景为特色，展现女性写实的皮肤质感。
-
-#### 📝 提示词
-
-```
-一张高角度拍摄的照片，描绘了一位年轻的 {argument name="ethnicity" default="[参考图像种族]"} 女性，她拥有参考图像中标志性的模特面部特征，蹲在都市人行道上，背景是 {argument name="background element" default="布满涂鸦的金属卷帘门，呈现出灰、红、黑的粗犷色调"}。超写实的皮肤质感，可见自然的毛孔、细腻的微观细节、细微的瑕疵以及真实的色调变化；柔和的电影级光影与皮肤表面自然交互；真实的次表面散射效果带来栩栩如生的深度感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447799813_w556xm_HG-3GWwaUAAYDRT.jpg" width="600" alt="产品营销 - 都市时尚肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049057686646603939)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16764)**
-
----
-
-### No. 94: 产品营销 - 带有抽象图案的时尚摄影棚人像
+### No. 97: 电商主图 - 带有抽象图案的时尚摄影棚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4728,7 +5188,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447802548_2e4n1d_HG-2IAcawAEW9k8.jpg" width="600" alt="产品营销 - 带有抽象图案的时尚摄影棚人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1777447802548_2e4n1d_HG-2IAcawAEW9k8.jpg" width="600" alt="电商主图 - 带有抽象图案的时尚摄影棚人像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4742,107 +5202,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 95: 产品营销 - 超写实复古数码相机人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个高度详细的提示词，旨在呈现 2000 年代数码相机的视觉效果，具备逼真的皮肤纹理、直接闪光灯照明以及梦幻般的杂志大片氛围。
-
-#### 📝 提示词
-
-```
-一张超写实摄影作品，拍摄 {argument name="subject" default="附图中相同的主体"}，超精细面部特征，可见毛孔，自然皮肤纹理，红润肤色与水光肌，抖音/韩系水光妆容，亮面唇妆，卧蚕，脸颊和鼻尖的婴儿粉腮红，高身份一致性，真实人体解剖结构。
-表情或氛围：
-{argument name="mood" default="梦幻般的半眯眼直视镜头"}，微张的嘴唇，放松的面部肌肉，柔和亲密的抓拍感。
-相机设置：
-使用老式 CCD 数码相机拍摄，2000 年代初数码相机美学，机顶直闪，强烈的闪光灯衰减，可见颗粒感和数码噪点，高光轻微过曝，阴影扁平化，柔和对比度，色彩略微泛白，冷至中性白平衡，轻微运动模糊，低光抓拍感，随性且不完美的构图。
-妆容风格：
-{argument name="makeup style" default="光泽感水光肌妆效"}，亮面唇妆，眼睑微闪，卧蚕高光，自然修容，脸颊和鼻尖晕染的腮红。
-发型：
-浪漫的松散盘发，脸颊两侧带有柔和卷发，细碎的胎毛，略显凌乱的被风吹拂的质感。
-服装：
-精致的露肩丝绸造型，身体周围包裹着刺绣花卉面料，柔和的女性化奢华氛围。
-背景：
-带有淡蓝色和粉色调的柔和花卉床品，柔和的日光，轻盈浪漫的氛围。
-构图：
-横向特写，脸部靠在叠层织物上，浅景深，亲密的杂志大片构图。
-负面提示词：
-过度磨皮，塑料质感，不切实际的比例，影棚灯光，过度锐化的 HDR，僵硬的姿势，人工对称，过度修图的面部
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447793618_kidbmh_HG-ciHCbwAAx35r.jpg" width="600" alt="产品营销 - 超写实复古数码相机人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Chryz leen](https://x.com/Chryzleenprompt)
-- **来源:** [Twitter Post](https://x.com/Chryzleenprompt/status/2049028474594328971)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16751)**
-
----
-
-### No. 96: 产品营销 - 大胆的健身主题编辑人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个健身主题的编辑摄影提示词，主角是一位拥有超大哑铃道具的运动型女性，强调鲜艳的色彩和混凝土风格的健身房美学。
-
-#### 📝 提示词
-
-```
-一位充满力量感的运动型女性自信地坐在混凝土健身房长椅上。她的一只手臂靠在一个几乎与她同高的巨大垂直哑铃上。构图采用中心对称，营造出大胆的健身主题编辑视觉风格。
-
-服装与造型
-上装：鲜艳的 {argument name="top color" default="黄色"} 运动露脐上衣。
-下装：{argument name="bottom color" default="红色"} 高腰紧身裤，侧面带有黄色赛车条纹。
-鞋履：配套的黄红色运动鞋。
-发型：利落的高位深色马尾辫。
-
-环境与背景
-背景：深蓝色极简主义健身房墙面，墙上印有巨大的白色粗体无衬线字体“{argument name="background text" default="POWER"}”。
-地面：高光泽度的抛光混凝土，清晰地反射出主体和哑铃。
-道具：一个风格化的超大直立哑铃。顶部配重片上标有“POWER”，底部标有“100 KG”。
-
-光影与氛围
-灯光：干净的电影级摄影棚灯光，天花板边缘带有冷蓝色轮廓光。
-氛围：强烈、励志且现代。
-画质：高分辨率、照片级真实感、焦点清晰、色彩饱和度高。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447795763_vl3urz_HG9fBCxaUAAL0Dr.jpg" width="600" alt="产品营销 - 大胆的健身主题编辑人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2048960830310387974)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16757)**
-
----
-
-### No. 97: 电商主图 - 舒适英式小屋内景与笔记本电脑
+### No. 98: 电商主图 - 舒适英式小屋内景与笔记本电脑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4882,7 +5242,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 98: 电商主图 - 超写实精品店镜面自拍
+### No. 99: 电商主图 - 超写实精品店镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5010,7 +5370,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 99: 电商主图 - 复古欧式踏板车骑行
+### No. 100: 电商主图 - 复古欧式踏板车骑行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5044,7 +5404,7 @@ create a product design, {argument name="object" default="mazda rx7 fc3s"}, expl
 
 ---
 
-### No. 100: 电商主图 - 有机护肤品广告
+### No. 101: 电商主图 - 有机护肤品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5078,7 +5438,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 101: 电商主图 - 奢华美妆产品摄影
+### No. 102: 电商主图 - 奢华美妆产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5112,7 +5472,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 102: 电商主图 - 卡通猫咪图案 T 恤样机
+### No. 103: 电商主图 - 卡通猫咪图案 T 恤样机
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5145,7 +5505,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 103: 电商主图 - 照片级真实感汽车转换
+### No. 104: 电商主图 - 照片级真实感汽车转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5179,7 +5539,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 104: 电商主图 - 火龙果汁爆炸感摄影
+### No. 105: 电商主图 - 火龙果汁爆炸感摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5213,7 +5573,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 105: 电商主图 - 奢华计时码表微距设计
+### No. 106: 电商主图 - 奢华计时码表微距设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5247,7 +5607,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 106: 电商主图 - 柑橘类产品摄影
+### No. 107: 电商主图 - 柑橘类产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5281,7 +5641,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 107: 电商主图 - 编辑级微距马克杯设计
+### No. 108: 电商主图 - 编辑级微距马克杯设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5315,7 +5675,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 108: 电商主图 - 带有西瓜和气泡元素的护肤品广告
+### No. 109: 电商主图 - 带有西瓜和气泡元素的护肤品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5350,7 +5710,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 109: 电商主图 - Knolling 风格平铺提示词：带标签的拆解部件
+### No. 110: 电商主图 - Knolling 风格平铺提示词：带标签的拆解部件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5390,7 +5750,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 110: 电商主图 - 豪华轿车中优雅中国女性的高质量照片
+### No. 111: 电商主图 - 豪华轿车中优雅中国女性的高质量照片
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5440,7 +5800,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 111: 电商主图 - 奢华咖啡品牌产品摄影
+### No. 112: 电商主图 - 奢华咖啡品牌产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5473,7 +5833,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 112: 电商主图 - 豪华雪地胎图像生成
+### No. 113: 电商主图 - 豪华雪地胎图像生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5506,7 +5866,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 113: 电商主图 - 由 Nano Banana Pro 生成的机甲少女手办概念图
+### No. 114: 电商主图 - 由 Nano Banana Pro 生成的机甲少女手办概念图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5560,7 +5920,7 @@ No.203 Umbra Directive
 
 ---
 
-### No. 114: 电商主图 - 佩戴在模特身上的珠宝微距产品摄影
+### No. 115: 电商主图 - 佩戴在模特身上的珠宝微距产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5594,7 +5954,113 @@ No.203 Umbra Directive
 
 ---
 
-### No. 115: 游戏素材 - 3D 游戏角色对决
+### No. 116: 游戏素材 - 3D 电子游戏角色健身训练
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个利用输入图像生成 3D 电子游戏风格角色在健身房进行有氧运动并带有 UI 元素的提示词。
+
+#### 📝 提示词
+
+```
+使用 {argument name="character" default="女性角色"} 作为 {argument name="style" default="3D 电子游戏"} 风格，场景设定在 {argument name="location" default="健身房"}，角色正在进行有氧舞蹈动作并带有 UI 元素
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620035861_wh07vz_HHLB1-QaAAALRqQ.jpg" width="600" alt="游戏素材 - 3D 电子游戏角色健身训练 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Olivio Sarikas](https://x.com/OlivioSarikas)
+- **来源:** [Twitter Post](https://x.com/OlivioSarikas/status/2049915232919884264)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17220)**
+
+---
+
+### No. 117: 游戏素材 - 健身游戏开始界面 UI 渲染
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用于创建 3D 游戏开始界面布局的详细提示词，画面包含长椅上的人物以及右侧的 UI 元素。
+
+#### 📝 提示词
+
+```
+高度精细的 3D 游戏开始界面，类型为 {argument name="game type" default="健身游戏"}。左侧为 {argument name="character" default="一位坐在健身长椅上的女性，地上放着健身哑铃，长椅上搭着一条毛巾"}，右侧为 {argument name="UI elements" default="5 个用于选择特殊能力的技能按钮"}，背景为白色
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777620062836_fbh6hr_HHLBkuvboAAYTQa.jpg" width="600" alt="游戏素材 - 健身游戏开始界面 UI 渲染 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Olivio Sarikas](https://x.com/OlivioSarikas)
+- **来源:** [Twitter Post](https://x.com/OlivioSarikas/status/2049915229208039902)
+- **发布时间:** 2026年4月30日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=17262)**
+
+---
+
+### No. 118: 游戏素材 - 电影感城市汽车聚会场景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份详细的提示词，用于创作超写实、夜间洛圣都风格停车场内的日系性能车（JDM）与美式肌肉车聚会场景，包含酷炫的女性主体和氛围感霓虹灯光。
+
+#### 📝 提示词
+
+```
+超写实竖版照片，比例 4:5。{argument name="location" default="夜晚，洛圣都某多层混凝土停车场三楼的地下汽车聚会"}。裸露的柱子上布满涂鸦，低矮的天花板上延伸着外露的导管，油渍斑斑的地面上留有轮胎印。日系性能车与美式肌肉车配备了宽体套件、激进的前唇、大尾翼，以及在混凝土路面上反射出粉色、蓝色和紫色的炫目底盘灯。
+一位留着深色波浪长发的年轻美女作为主体，姿态从容地站在一辆改装了空气悬挂、底盘极低的深蓝色 Annis Elegy 旁。她身穿 {argument name="outfit" default="橄榄绿色短款飞行员夹克，搭配米色阔腿工装裤"}，耳后别着一支香烟。一只手插在口袋里，姿态自信放松，直视镜头，表情冷峻从容。
+在她身后，一群穿着街头服饰的年轻人靠在车旁交谈。背景中可见一辆 {argument name="background car" default="亮黄色 Nissan GT-R"} 和其他改装车。铁丝网围栏、半撕裂的“禁止停车”标志，以及柱子上的监控摄像头。
+灯光：戏剧性的夜间场景，混合了霓虹底盘灯、头顶的荧光灯，以及透过停车场开放侧面透进来的城市灯光。电影级氛围。
+摄影风格：照片级真实感，Rockstar Games 视觉品质，超高细节，焦点清晰地对准女性和前景车辆，色彩丰富，电影级布光，8K 清晰度，自然的皮肤纹理。无塑料感，无 AI 伪影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777533355040_y745zu_HHFUAPhaUAAyNji.jpg" width="600" alt="游戏素材 - 电影感城市汽车聚会场景 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Dr. Samia](https://x.com/oye_samia)
+- **来源:** [Twitter Post](https://x.com/oye_samia/status/2049511692477022215)
+- **发布时间:** 2026年4月29日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16986)**
+
+---
+
+### No. 119: 游戏素材 - 3D 游戏角色对决
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5628,7 +6094,7 @@ No.203 Umbra Directive
 
 ---
 
-### No. 116: 游戏素材 - 3D 游戏角色转换
+### No. 120: 游戏素材 - 3D 游戏角色转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5662,151 +6128,13 @@ No.203 Umbra Directive
 
 ---
 
-### No. 117: 游戏素材 - 3D 游戏角色战斗场景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-用于生成 3D 游戏角色的提示词，特别针对斯巴达克斯 (Spartacus) 和忍者在极简背景下的设计。
-
-#### 📝 提示词
-
-```
-3D 游戏角色 {argument name="character name" default="Spartacus"} 手持 {argument name="weapon" default="axe"}，与一名手持武士刀的忍者在 {argument name="background" default="白色极简背景"} 下的战斗场景，整洁清晰，16:9 比例
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447789375_37q2fd_HG_9vXybwAAqHYR.jpg" width="600" alt="游戏素材 - 3D 游戏角色战斗场景 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **来源:** [Twitter Post](https://x.com/Ankit_patel211/status/2049135362593939720)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16744)**
-
----
-
-### No. 118: 游戏素材 - 3D 游戏角色构图
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份基于特定构图生成 3D 游戏角色的详细指令，包含一位僧侣和印度景观。
-
-#### 📝 提示词
-
-```
-使用 @walk 的精确构图，生成一个高度精细的 3D 游戏角色，主体为 {argument name="subject" default="背着佛像的佛教僧侣"}，行走在 {argument name="landscape" default="背景有棕榈树的印度景观"} 中。背景景观应保持平坦，且边缘处不向上隆起
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777447800534_3s8wui_HG_XodBa8AAlBEn.jpg" width="600" alt="游戏素材 - 3D 游戏角色构图 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Olivio Sarikas](https://x.com/OlivioSarikas)
-- **来源:** [Twitter Post](https://x.com/OlivioSarikas/status/2049093754473316706)
-- **发布时间:** 2026年4月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16765)**
-
----
-
-### No. 119: 游戏素材 - 骑摩托车的 Q 版企鹅
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个充满趣味的 3D 风格提示词，描绘了一个穿着企鹅连体衣的 Q 版角色坐在复古巡航摩托车上，背景是日落时分。
-
-#### 📝 提示词
-
-```
-超写实、电影级 9:16 竖屏镜头，主角是 Gugo Gaga，一个留着黑色短发、灰色眼睛的 Q 版小角色，身穿 {argument name="character outfit" default="毛绒企鹅连体衣"}，颈部有巨大的拉链细节。角色心情极度愉悦，闭着双眼，张嘴大笑。Gugo Gaga 坐在停靠在 {argument name="setting" default="蜿蜒沿海公路"} 上的 {argument name="vehicle" default="复古青色镀铬巡航摩托车"} 上。光线为柔和的黄金时刻日落，为场景投下温暖的光辉，背景是模糊的海洋和山脉。8k 分辨率，毛绒织物和抛光镀铬材质细节丰富，商业摄影风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777274454077_isepyb_HG1HjTcbcAIOc0k.jpg" width="600" alt="游戏素材 - 骑摩托车的 Q 版企鹅 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Minahil](https://x.com/Minahil42298354)
-- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2048372082493329840)
-- **发布时间:** 2026年4月26日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=16188)**
-
----
-
-### No. 120: 游戏素材 - PS1 复古游戏风格提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一套全面的提示词，旨在将图像转换为 PlayStation 1 时代的低多边形电子游戏截图，并呈现真实的视觉技术特征。
-
-#### 📝 提示词
-
-```
-将整张图像转换为一张直接从 {argument name="console era" default="90 年代末 PlayStation 1 (PS1)"} 游戏机运行在原始硬件上的电子游戏截图。将场景中的每一个元素——所有物体、角色、表面、背景、光照和细节——重新渲染为 {argument name="geometry style" default="低多边形 3D 模型"}，要求具有清晰可见的三角形切面、平坦的几何棱角，且完全不进行任何平滑或细分处理。使用极低分辨率的纹理（256×256 像素或更小），使其呈现模糊、像素化且高度压缩的效果，并带有明显的平铺接缝、多级渐远纹理（mipmapping）伪影以及粗糙的 UV 映射。
-在所有表面应用经典的 PS1 仿射纹理映射，使纹理随着视角或摄像机角度的变化而产生明显的拉伸、扭曲、晃动和变形（在地板、墙壁和曲面物体上尤为明显）。完全移除所有抗锯齿效果——每一条边缘都必须呈现尖锐的锯齿状，并带有明显的阶梯感。仅使用基础的平面着色或简单的 Gouraud 顶点着色，不包含动态光照、实时阴影、高光反射或任何高级特效。通过在所有色彩渐变、天空、阴影和半透明区域引入可见的棋盘格或有序抖动图案，模拟 PS1 的 16 位色深和 5-5-5 RGB 限制，以防止色彩断层。
-包含典型的 PS1 图形特征：移动或倾斜几何体上细微的顶点捕捉/抖动/晃动，适当的多边形闪烁或 Z-fighting（深度冲突），以及逐渐淡入低细节雾气的有限绘制距离。整体分辨率应呈现出原始的 {argument name="resolution" default="320×240"} 或 640×480 PS1 帧缓冲区输出效果，使整张图像在现代屏幕尺寸下观看时，既有轻微的柔和感，又具备独特的复古像素质感。在完全保留原始场景构图和摄像机角度的同时，将所有内容转换为纯粹的 PS1 3D 风格，就像照片本身是在真实的 PS1 游戏中建模并渲染的一样。无需文字覆盖、HUD 元素、字幕、菜单图形、扫描线、CRT 曲率，也不要进行任何现代后期处理——只需一张干净、直接的来自游戏机视频输出的截图。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg" width="600" alt="游戏素材 - PS1 复古游戏风格提示词 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Christopher Fryant](https://x.com/cfryant)
-- **来源:** [Twitter Post](https://x.com/cfryant/status/2048117943201054721)
-- **发布时间:** 2026年4月25日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=15828)**
-
----
-
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 12717 更多提示词未在此显示
+### 🎯 12764 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5869,6 +6197,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-01T05:13:10.949Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-01T08:35:25.373Z</sub>
 
 </div>
