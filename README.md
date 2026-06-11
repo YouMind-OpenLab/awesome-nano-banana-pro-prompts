@@ -145,7 +145,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **14292** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Thursday, June 11, 2026 at 5:09:49 PM UTC** |
+| 🔄 Last Updated | **Thursday, June 11, 2026 at 8:45:00 PM UTC** |
 
 </div>
 
@@ -5457,6 +5457,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T17:09:49.894Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T20:45:00.178Z</sub>
 
 </div>
