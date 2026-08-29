@@ -443,7 +443,7 @@ ${t('licensedUnder', locale)}
 
 ## ⭐ ${t('starHistory', locale)}
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.dera.page/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
 
 ---
 
