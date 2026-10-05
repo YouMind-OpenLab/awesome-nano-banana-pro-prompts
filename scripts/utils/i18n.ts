@@ -31,6 +31,7 @@ export interface Translation {
   description: string;
   prompt: string;
   generatedImages: string;
+  image: string;
   details: string;
   author: string;
   source: string;
@@ -38,6 +39,8 @@ export interface Translation {
   tryItNow: string;
   morePrompts: string;
   morePromptsDesc: string;
+  lengthLimitation: string;
+  galleryIncludes: string;
   viewAll: string;
   featured: string; // Used in stats table
   // What is section
@@ -125,6 +128,7 @@ const en: Translation = {
   description: 'Description',
   prompt: 'Prompt',
   generatedImages: 'Generated Images',
+  image: 'Image',
   details: 'Details',
   author: 'Author',
   source: 'Source',
@@ -132,6 +136,8 @@ const en: Translation = {
   tryItNow: '👉 Try it now →',
   morePrompts: 'More Prompts Available',
   morePromptsDesc: 'more prompts not shown here',
+  lengthLimitation: "Due to GitHub's content length limitations, we can only display the first {{max}} regular prompts in this README.",
+  galleryIncludes: 'The gallery features:',
   viewAll: '👉 View all prompts in our Web Gallery',
   featured: 'Featured',
   whatIsIntro: "**Nano Banana Pro** is Google's latest multimodal AI model featuring:",
@@ -214,6 +220,7 @@ const zh: Translation = {
   description: '描述',
   prompt: '提示词',
   generatedImages: '生成图片',
+  image: '图片',
   details: '详情',
   author: '作者',
   source: '来源',
@@ -221,6 +228,8 @@ const zh: Translation = {
   tryItNow: '👉 立即尝试 →',
   morePrompts: '更多提示词',
   morePromptsDesc: '更多提示词未在此显示',
+  lengthLimitation: '由于 GitHub 的内容长度限制，本 README 仅显示前 {{max}} 个常规提示词。',
+  galleryIncludes: '图库特色：',
   viewAll: '👉 在网页图库中查看所有提示词',
   featured: '精选',
   whatIsIntro: '**Nano Banana Pro** 是 Google 最新的多模态 AI 模型，具有以下特点：',
@@ -1350,6 +1359,98 @@ const hi: Translation = {
   browseByCategory: 'श्रेणी के अनुसार ब्राउज़ करें',
 };
 
+const ru: Translation = {
+  title: 'Потрясающие промпты Nano Banana Pro',
+  gemini3Promo: 'Если вас интересуют промпты для Gemini 3, загляните в наш другой репозиторий с 50+ отобранными промптами: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
+  aiRecommendPromo: 'Agent Skill, который одним кликом находит нужные вам промпты 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)',
+  gptImage2Promo: '🎨 Посмотрите нашу коллекцию промптов GPT Image 2 — модель изображений нового поколения, обновляется ежедневно 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)',
+  arenaPromo: '⚡ Nano Banana 2 против Pro: 100 лучших промптов 𝕏 в прямом сравнении. Скорость Flash и вдвое ниже цена — большинству задач Pro не нужен 👉 [Смотреть результаты]({{arenaUrl}})',
+  christmasPromo: '🎄 Мы собрали коллекцию промптов для рождественских открыток Nano Banana Pro, попробуйте [здесь 🔗]({{link}}) 🎁',
+  subtitle: 'Кураторская подборка креативных промптов для Google Nano Banana Pro',
+  copyright: '**Уведомление об авторских правах**: все промпты собраны из сообщества и предназначены для образовательных целей. Если вы считаете, что какой-либо контент нарушает ваши права, [создайте issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml), и мы незамедлительно удалим его.',
+  viewInGallery: 'Посмотреть в веб-галерее',
+  browseGallery: '👉 Перейти в галерею промптов YouMind Nano Banana Pro',
+  galleryFeatures: 'Зачем использовать нашу галерею?',
+  visualLayout: 'Визуальный макет',
+  search: 'Поиск',
+  languages: 'Языки',
+  mobile: 'Мобильные устройства',
+  aiGenerate: 'Генерация ИИ в один клик',
+  toc: 'Содержание',
+  whatIs: 'Что такое Nano Banana Pro?',
+  stats: 'Статистика',
+  featuredPrompts: 'Избранные промпты',
+  allPrompts: 'Все промпты',
+  howToContribute: 'Как внести свой вклад',
+  license: 'Лицензия',
+  acknowledgements: 'Благодарности',
+  starHistory: 'История звёзд',
+  totalPrompts: 'Всего промптов',
+  lastUpdated: 'Последнее обновление',
+  metric: 'Метрика',
+  count: 'Количество',
+  description: 'Описание',
+  prompt: 'Промпт',
+  generatedImages: 'Сгенерированные изображения',
+  image: 'Изображение',
+  details: 'Подробности',
+  author: 'Автор',
+  source: 'Источник',
+  published: 'Опубликовано',
+  tryItNow: '👉 Попробуйте сейчас →',
+  morePrompts: 'Другие доступные промпты',
+  morePromptsDesc: 'промптов, не показанных здесь',
+  lengthLimitation: 'Из-за ограничений на длину контента GitHub в этом README показаны только первые {{max}} промптов.',
+  galleryIncludes: 'В галерее представлены:',
+  viewAll: '👉 Посмотреть все промпты в нашей веб-галерее',
+  featured: 'Избранные',
+  whatIsIntro: '**Nano Banana Pro** — это новейшая мультимодальная модель искусственного интеллекта от Google, включающая:',
+  multimodalUnderstanding: '**Мультимодальное понимание** — обработка текста, изображений и видео',
+  highQualityGeneration: '**Генерация высокого качества** — от фотореализма до художественных стилей',
+  fastIteration: '**Быстрая итерация** — быстрое редактирование и вариации',
+  diverseStyles: '**Разнообразие стилей** — от пиксель-арта до картин маслом',
+  preciseControl: '**Точный контроль** — детализированная композиция и освещение',
+  complexScenes: '**Сложные сцены** — рендеринг множества объектов и персонажей',
+  learnMore: '**Подробнее:** [Nano Banana Pro: 10 реальных случаев](https://youmind.com/blog/nano-banana-pro-10-real-cases)',
+  raycastIntegration: 'Интеграция с Raycast',
+  raycastDescription: 'Некоторые промпты поддерживают **динамические аргументы** с синтаксисом [Raycast Snippets](https://raycast.com/help/snippets). Ищите значок 🚀 Raycast Friendly!',
+  example: 'Пример:',
+  raycastExample: 'A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"\nby {argument name="author" default="Steve Jobs"}',
+  raycastUsage: 'При использовании в Raycast вы можете динамически заменять аргументы для быстрых итераций!',
+  galleryFeature1: '✨ Красивая каскадная сетка',
+  galleryFeature2: '🔍 Полнотекстовый поиск и фильтры',
+  galleryFeature3: '🌍 Поддержка 17 языков',
+  galleryFeature4: '📱 Оптимизация для мобильных устройств',
+  welcomeContributions: 'Мы приветствуем вклады! Вы можете отправить промпты через:',
+  githubIssue: 'Issue на GitHub',
+  submitNewPrompt: 'Отправить новый промпт',
+  fillForm: 'Заполните форму: укажите промпт и прикрепите изображение.',
+  submitWait: 'Отправьте заявку и дождитесь рассмотрения командой.',
+  approvedSync: 'Если одобрено (мы добавим метку `approved`), запись автоматически синхронизируется с CMS',
+  appearInReadme: 'Ваш промпт появится в README в течение 4 часов',
+  note: 'Примечание:',
+  noteContent: 'Мы принимаем материалы только через GitHub Issues, чтобы обеспечить контроль качества.',
+  seeContributing: 'Подробные инструкции — в [CONTRIBUTING.md](docs/CONTRIBUTING.md).',
+  licensedUnder: 'Лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).',
+  autoGenerated: 'Этот README генерируется автоматически. Последнее обновление:',
+  submitPrompt: 'Отправить промпт',
+  starRepo: 'Отметить репозиторий звездой',
+  sortedByDate: 'Сортировка по дате публикации (сначала самые новые)',
+  handPicked: 'Отобрано нашей командой за исключительное качество и креативность',
+  githubReadme: 'README на GitHub',
+  youmindGallery: 'Галерея youmind.com',
+  linearList: 'Линейный список',
+  masonryGrid: 'Красивая каскадная сетка',
+  ctrlFOnly: 'Только Ctrl+F',
+  fullTextSearch: 'Полнотекстовый поиск с фильтрами',
+  basic: 'Базовый',
+  fullyResponsive: 'Полностью адаптивный',
+  aiOneClickGen: 'Генерация ИИ в один клик',
+  categories: 'Категории',
+  categoryBrowsing: 'Просмотр категорий',
+  browseByCategory: 'Просмотр по категориям',
+};
+
 const I18N: Record<string, Translation> = {
   'en': en,
   'zh': zh,
@@ -1367,6 +1468,7 @@ const I18N: Record<string, Translation> = {
   'pt-BR': pt,
   'pt-PT': pt, // Fallback to pt-BR or similar if not distinct enough yet
   'tr-TR': tr,
+  'ru-RU': ru,
 };
 
 export function t(key: keyof Translation, locale: string, params?: Record<string, string>): string {

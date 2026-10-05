@@ -35,6 +35,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'pt-BR', name: 'Português (Brasil)', readmeFileName: 'README_pt-BR.md' },
   { code: 'pt-PT', name: 'Português', readmeFileName: 'README_pt-PT.md' },
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
+  { code: 'ru-RU', name: 'Русский', readmeFileName: 'README_ru.md' },
 ];
 
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
@@ -264,9 +265,9 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
     md += `#### 🖼️ ${t('generatedImages', locale)}\n\n`;
 
     prompt.sourceMedia.forEach((imageUrl, imgIndex) => {
-      md += `##### Image ${imgIndex + 1}\n\n`;
+      md += `##### ${t('image', locale)} ${imgIndex + 1}\n\n`;
       md += `<div align="center">\n`;
-      md += `<img src="${imageUrl}" width="${prompt.featured ? '700' : '600'}" alt="${prompt.title} - Image ${imgIndex + 1}">\n`;
+      md += `<img src="${imageUrl}" width="${prompt.featured ? '700' : '600'}" alt="${prompt.title} - ${t('image', locale)} ${imgIndex + 1}">\n`;
       md += `</div>\n\n`;
     });
   }
@@ -312,9 +313,9 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, local
     md += `## 📚 ${t('morePrompts', locale)}\n\n`;
     md += `<div align="center">\n\n`;
     md += `### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}\n\n`;
-    md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
+    md += `${t('lengthLimitation', locale, { max: String(MAX_REGULAR_PROMPTS_TO_DISPLAY) })}\n\n`;
     md += `**[${t('viewAll', locale)}](https://youmind.com/${getLocalePrefix(locale)}/nano-banana-pro-prompts)**\n\n`;
-    md += `The gallery features:\n\n`;
+    md += `${t('galleryIncludes', locale)}\n\n`;
     md += `${t('galleryFeature1', locale)}\n\n`;
     md += `${t('galleryFeature2', locale)}\n\n`;
     md += `${t('galleryFeature3', locale)}\n\n`;
