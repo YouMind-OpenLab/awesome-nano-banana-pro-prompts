@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15827** |
+| 📝 총 프롬프트 수 | **15828** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 11월 2일 월요일 AM 4시 2분 2초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 2일 월요일 AM 8시 3분 3초 UTC** |
 
 </div>
 
@@ -1645,7 +1645,48 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - 보헤미안 거실 초상화
+### No. 21: 소셜 미디어 게시물 - 하이패션 에디토리얼 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Nano Banana 2(Pro 호환 가능)를 위해 설계된, 호숫가에 앉아 붉은 꽃을 배경으로 하는 여성이 등장하는 하이패션 에디토리얼 이미지 생성용 상세 프롬프트.
+
+#### 📝 프롬프트
+
+```
+잔잔한 호수나 물이 반사되는 야외 정찬 테이블 옆에서 하이패션 에디토리얼 느낌의 세로형 이미지를 생성하세요. 선명한 방향성 자연광 아래 촬영되며, 피사체를 둘러싼 짙은 붉은 꽃들이 여러 깊이감(레이어)에 걸쳐 배치되어야 합니다. 긴 아이보리색 식탁보를 덮은 테이블 옆에 앉은 성인 여성의 무릎 부근부터 머리 위까지가 프레임에 담기도록 구도를 잡으세요. 비대칭 구도를 유지하여, 짙은 진홍색 꽃 덩어리가 화면 왼쪽을 압도적으로 채우고 초점이 흐려진 추가적인 붉은 꽃송이들이 하단 전경에서 카메라와 아주 가까운 곳으로 들어와 테이블과 하반신을 부분적으로 가리도록 연출하세요. 여성 뒤쪽으로는 배경을 충분히 열어두어 부드럽게 아웃포커싱된 수면, 짙은 녹색 잎사귀, 차분한 색감의 가을 나무들이 드러나게 하되, 장소 자체가 풍경 인물 사진처럼 보이지 않도록 주의하세요.
+
+포즈는 식사하는 동작보다는 고요하고 정적인 분위기에 기반해야 합니다. 한쪽 팔꿈치를 테이블 가장자리에 자연스럽게 기대고, 같은 쪽 손으로 뺨과 턱선 근처를 받쳐주세요. 손목은 섬세하게 꺾어 포즈를 취하기보다 힘을 빼고 편안하게 두세요. 반대쪽 팔은 몸 옆으로 낮게 늘어뜨리거나 허벅지 위에 느슨하게 올려둡니다. 상체는 곧게 세우되 한쪽 골반으로 무게를 살짝 실어 어깨선이 비대칭이고 편안한 상태가 되도록 합니다. 얼굴은 카메라를 향해 아주 약간만 돌리고, 시선은 카메라를 살짝 스쳐 지나가듯 처리하세요. 표정은 로맨틱하거나 미소 짓는 모습, 몽환적인 느낌이 아닌 절제되고 무심하며 어딘가 미세하게 조급한 듯한 분위기를 유지해야 합니다. 입술은 힘을 빼되 짙은 진홍색 립으로 또렷한 윤곽을 살려주세요.
+
+옷차림은 넓은 라펠과 볼륨감 있는 어깨 라인, 매트한 질감의 두꺼운 울이나 캐시미어 소재로 된 오버사이즈 롱 에메랄드그린 코트로 연출합니다. 코트는 앞을 여미지 않은 채 흘러내리게 하여 팔과 몸통을 묵직하게 감싸도록 하고, 몸에 너무 딱 맞게 재단된 것처럼 보이지 않게 하세요. 그 안에는 유려한 아이보리색 실크 새틴 드레스를 입혀, 목선이 부드럽게 드레이프되고 긴 스커트가 앉아 있는 다리 위로 넓고 은은한 광택의 주름을 이루며 떨어지게 합니다. 코트는 빛을 흡수하고 드레스는 길고 부드러운 하이라이트를 받아내어 소재 간의 대비가 명확히 드러나야 합니다.
+
+헤어는 매끄럽고 어두운 톤으로 머리에 밀착시켜, 정확한 딥 사이드 파트를 넣고 단정한 로우 번이나 깔끔하게 모아 묶은 형태로 연출해 얼굴, 목, 귀걸이가 가리지 않도록 합니다. 귀걸이는 두 개의 타원형 또는 티어드롭 형태가 겹쳐진 오버사이즈 크리스털 또는 파베 드롭 이어링을 착용하여, 어두운 코트와 헤어 사이에서도 존재감이 뚜렷하게 보이도록 합니다. 다른 주얼리는 최소화하거나 아예 생략하여, 얼굴 주변에서 날카롭게 반짝이는 금속성 포인트가 이 귀걸이뿐이 되도록 하세요.
+
+꽃 장식은 단일 품종을 반복하지 말고, 짙은 붉은색 장미, 카네이션, 라넌큘러스 등 주름진 형태의 꽃들을 빽빽하게 섞어 구성하세요. 크기를 다양하게 하고, 꽃잎 모양을 완벽하지 않게 표현하며, 간간이 짙은 녹색 줄기나 잎을 포함시키세요. 붉은 꽃 덩어리는 밝은 스칼렛이나 신부용 파스텔 톤이 아닌, 깊고 입체감 있는 색감으로 표현해야 합니다. 테이블 디테일은 극도로 절제하여, 텍스처가 살아있는 아이보리색 식탁보, 한두 개의 투명한 컷 크리스털 잔, 눈에 띄지 않는 실버웨어, 그리고 꽃에 반쯤 가려진 소박한 접시 몇 개 정도만 배치하세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="소셜 미디어 게시물 - 하이패션 에디토리얼 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **출처:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **게시일:** 2026년 11월 1일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: 소셜 미디어 게시물 - 보헤미안 거실 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1678,7 +1719,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - 시네마틱 컨택 시트 프롬프트
+### No. 23: 소셜 미디어 게시물 - 시네마틱 컨택 시트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1723,7 +1764,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 소셜 미디어 게시물 - 복싱 체육관 웨딩 화보
+### No. 24: 소셜 미디어 게시물 - 복싱 체육관 웨딩 화보
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1768,7 +1809,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 소셜 미디어 게시물 - 사막의 고독한 연기 풍경 비교
+### No. 25: 소셜 미디어 게시물 - 사막의 고독한 연기 풍경 비교
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1813,7 +1854,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro), Grok-imagine2가 고독한 연�
 
 ---
 
-### No. 25: 소셜 미디어 게시물 - 장미를 든 해변 초상화
+### No. 26: 소셜 미디어 게시물 - 장미를 든 해변 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1846,7 +1887,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro), Grok-imagine2가 고독한 연�
 
 ---
 
-### No. 26: 소셜 미디어 게시물 - 앰버 브루탈리즘 포트레이트
+### No. 27: 소셜 미디어 게시물 - 앰버 브루탈리즘 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1982,7 +2023,7 @@ Nano Banana Pro를 사용하여 허니콤 가운을 입은 여성의 초현실�
 
 ---
 
-### No. 27: 소셜 미디어 게시물 - 크롬 고래와 장미가 있는 초현실적 에디토리얼 포트레이트
+### No. 28: 소셜 미디어 게시물 - 크롬 고래와 장미가 있는 초현실적 에디토리얼 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2083,7 +2124,7 @@ Nano Banana Pro를 사용하여 허니콤 가운을 입은 여성의 초현실�
 
 ---
 
-### No. 28: 소셜 미디어 게시물 - 불을 뿜는 퍼포먼스 사진
+### No. 29: 소셜 미디어 게시물 - 불을 뿜는 퍼포먼스 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2132,7 +2173,7 @@ Grok Imagine과 Nano Banana Pro/2.1을 비교합니다. 제공된 프롬프트�
 
 ---
 
-### No. 29: 소셜 미디어 게시물 - 헬레니즘 메두사 에디토리얼 프롬프트
+### No. 30: 소셜 미디어 게시물 - 헬레니즘 메두사 에디토리얼 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2184,7 +2225,7 @@ Grok Imagine과 Nano Banana Pro/2.1을 비교합니다. 제공된 프롬프트�
 
 ---
 
-### No. 30: 소셜 미디어 게시물 - 에마 왓슨 아방가르드 초상화
+### No. 31: 소셜 미디어 게시물 - 에마 왓슨 아방가르드 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2285,7 +2326,7 @@ Nano Banana Pro를 사용하여 에마 왓슨의 아방가르드 스타일 초�
 
 ---
 
-### No. 31: 소셜 미디어 게시물 - 클린걸 스타일 에디토리얼 패션 초상화
+### No. 32: 소셜 미디어 게시물 - 클린걸 스타일 에디토리얼 패션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2338,7 +2379,7 @@ Nano Banana Pro를 사용하여 에마 왓슨의 아방가르드 스타일 초�
 
 ---
 
-### No. 32: 소셜 미디어 게시물 - 황혼의 언덕에서 촬영한 시네마틱 인물 사진
+### No. 33: 소셜 미디어 게시물 - 황혼의 언덕에서 촬영한 시네마틱 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2368,102 +2409,6 @@ Nano Banana Pro를 사용하여 에마 왓슨의 아방가르드 스타일 초�
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: 소셜 미디어 게시물 - 마블 무관심 에디토리얼 초상화 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-마블 조각상들에 둘러싸인 여성의 초현실적 에디토리얼 사진을 생성하기 위한 복잡한 JSON 형식 프롬프트로, 하이엔드 아날로그 사진 미학과 관음적 구도를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "겹겹이 쌓인 클래식한 흰색 대리석 흉상들로 이루어진 초현실적이고 비현실적으로 빽빽한 아카이브에 빠져 있는 주인공(The Protagonist)을 담은 영화적이고 관음증적인 사진. 이미지는 밀려드는 조각상들의 폐소공포증을 유발하는 시각적 기하학을 엄격하게 반영하지만, 고예산의 실제 효과와 사진적 사실주의로 촬영되었다. 피사체는 'Haute Apathy(오트 무관심)'를 발산한다—무표정하고 중립적인 얼굴에 무겁게 내려앉은 편안한 눈꺼풀, 힘없이 늘어졌지만 세련된 자세로 값나가는 대리석 두상에 극도로 태연하게 기대어 있다. 미니멀하고 강렬한 블랙 터틀넥을 입고 있어 하얀 돌의 바다와 극명한 대비를 이룬다. 200mm 장초점 렌즈로 촬영하여 공간을 강렬하게 압축했다. 구도는 'Voyeuristic Glimpse(관음적 엿보기)'로, 전경에 있는 두 개의 대리석 조각상 사이로 초점이 크게 흐려진 좁은 틈새를 통해 촬영되어 마치 사적인 순간을 몰래 훔쳐보듯 피사체의 얼굴을 프레이밍한다. 하이키의 깔끔하고 부드러운 스튜디오 조명이 다공성 대리석과 피사체의 자연스러운 피부 질감 모두의 흠잡을 데 없는 초현실적 마감을 강조한다. Hasselblad H6D-100c 로 촬영하고 Kodak Portra 160 필름 스톡을 사용하여, 피부 모공, 흩어진 머리카락, 공기 중에 떠다니는 미세한 대리석 먼지까지 진정성 있는 마이크로 디테일을 담아냈다. 네온 조명이나 CGI 느낌은 절대 배제하며, 순수한 아날로그 사진 텍스처를 구현한다.",
-  "meta": {
-    "intent": "초현실적 아방가르드 에디토리얼",
-    "priorities": "전경 가림(occlusion), 강한 망원 압축, 피부와 대리석 간의 질감 대비",
-    "device_profile": "중형 포맷 아날로그"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "전경 요소에 의해 심하게 가려진 관음증적 프레이밍",
-    "layout": "빽빽한 주변 사물들에 둘러싸여 타이트하게 잡힌 피사체",
-    "camera_angle": "멀리 떨어진 은밀한 지점에서 바라본 아이레벨",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "여성",
-    "identity": "The Protagonist",
-    "demographics": "나이 불문, 초월적이면서도 현실에 발을 딛고 있는",
-    "face": "무겁게 내려앉은 편안한 눈꺼풀과 날카로운 그래픽 아이라인이 돋보이는 무표정하고 담담한 얼굴",
-    "hair": "매끄럽고 가운데 가르마를 단정하게 탄 머리",
-    "body": "힘없이 늘어졌지만 세련되고 편안한 자세",
-    "expression": "극도의 무심함, '이 공간에서 가장 쿨한' 무관심",
-    "pose": "흐트러진 어깨, 대리석 조각상에 자연스럽게 기대어 있는 모습"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "터틀넥 스웨터",
-        "material": "파인 메리노 울",
-        "color": "강렬한 매트 블랙",
-        "fit": "몸에 딱 맞지만 편안한 핏"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "그래픽 윙 아이라이너",
-        "color": "밴타블랙(Vantablack)",
-        "material": "매트 메이크업 안료",
-        "brand_style": "하이패션 에디토리얼"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "클래식한 흰색 대리석 흉상들이 끝없이 빽빽하게 늘어서 있는 초현실적 아카이브",
-    "surfaces": "차갑고 매끄럽지만 다공성인 흰색 대리석, 희미한 먼지"
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="소셜 미디어 게시물 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="소셜 미디어 게시물 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="소셜 미디어 게시물 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="소셜 미디어 게시물 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **출처:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **게시일:** 2026년 10월 24일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5075,7 +5020,103 @@ GPT Image 2.5와 Nano Banana 2.1이 일관된 캐릭터 정체성과 의상 디�
 
 ---
 
-### No. 89: 제품 마케팅 - 레드 벨벳 레오타드 초상화 비교
+### No. 89: 제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+마블 조각상들에 둘러싸인 여성의 초현실적 에디토리얼 사진을 생성하기 위한 복잡한 JSON 형식 프롬프트로, 하이엔드 아날로그 사진 미학과 관음적 구도를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "겹겹이 쌓인 클래식한 흰색 대리석 흉상들로 이루어진 초현실적이고 비현실적으로 빽빽한 아카이브에 빠져 있는 주인공(The Protagonist)을 담은 영화적이고 관음증적인 사진. 이미지는 밀려드는 조각상들의 폐소공포증을 유발하는 시각적 기하학을 엄격하게 반영하지만, 고예산의 실제 효과와 사진적 사실주의로 촬영되었다. 피사체는 'Haute Apathy(오트 무관심)'를 발산한다—무표정하고 중립적인 얼굴에 무겁게 내려앉은 편안한 눈꺼풀, 힘없이 늘어졌지만 세련된 자세로 값나가는 대리석 두상에 극도로 태연하게 기대어 있다. 미니멀하고 강렬한 블랙 터틀넥을 입고 있어 하얀 돌의 바다와 극명한 대비를 이룬다. 200mm 장초점 렌즈로 촬영하여 공간을 강렬하게 압축했다. 구도는 'Voyeuristic Glimpse(관음적 엿보기)'로, 전경에 있는 두 개의 대리석 조각상 사이로 초점이 크게 흐려진 좁은 틈새를 통해 촬영되어 마치 사적인 순간을 몰래 훔쳐보듯 피사체의 얼굴을 프레이밍한다. 하이키의 깔끔하고 부드러운 스튜디오 조명이 다공성 대리석과 피사체의 자연스러운 피부 질감 모두의 흠잡을 데 없는 초현실적 마감을 강조한다. Hasselblad H6D-100c 로 촬영하고 Kodak Portra 160 필름 스톡을 사용하여, 피부 모공, 흩어진 머리카락, 공기 중에 떠다니는 미세한 대리석 먼지까지 진정성 있는 마이크로 디테일을 담아냈다. 네온 조명이나 CGI 느낌은 절대 배제하며, 순수한 아날로그 사진 텍스처를 구현한다.",
+  "meta": {
+    "intent": "초현실적 아방가르드 에디토리얼",
+    "priorities": "전경 가림(occlusion), 강한 망원 압축, 피부와 대리석 간의 질감 대비",
+    "device_profile": "중형 포맷 아날로그"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "전경 요소에 의해 심하게 가려진 관음증적 프레이밍",
+    "layout": "빽빽한 주변 사물들에 둘러싸여 타이트하게 잡힌 피사체",
+    "camera_angle": "멀리 떨어진 은밀한 지점에서 바라본 아이레벨",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "여성",
+    "identity": "The Protagonist",
+    "demographics": "나이 불문, 초월적이면서도 현실에 발을 딛고 있는",
+    "face": "무겁게 내려앉은 편안한 눈꺼풀과 날카로운 그래픽 아이라인이 돋보이는 무표정하고 담담한 얼굴",
+    "hair": "매끄럽고 가운데 가르마를 단정하게 탄 머리",
+    "body": "힘없이 늘어졌지만 세련되고 편안한 자세",
+    "expression": "극도의 무심함, '이 공간에서 가장 쿨한' 무관심",
+    "pose": "흐트러진 어깨, 대리석 조각상에 자연스럽게 기대어 있는 모습"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "터틀넥 스웨터",
+        "material": "파인 메리노 울",
+        "color": "강렬한 매트 블랙",
+        "fit": "몸에 딱 맞지만 편안한 핏"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "그래픽 윙 아이라이너",
+        "color": "밴타블랙(Vantablack)",
+        "material": "매트 메이크업 안료",
+        "brand_style": "하이패션 에디토리얼"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "클래식한 흰색 대리석 흉상들이 끝없이 빽빽하게 늘어서 있는 초현실적 아카이브",
+    "surfaces": "차갑고 매끄럽지만 다공성인 흰색 대리석, 희미한 먼지"
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **출처:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **게시일:** 2026년 10월 24일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: 제품 마케팅 - 레드 벨벳 레오타드 초상화 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5130,7 +5171,7 @@ Nano Pro를 포함한 멀티 모델 비교로, 레드 벨벳 레오타드를 입
 
 ---
 
-### No. 90: 제품 마케팅 - Nano Banana Pro 실버 메탈릭 드레스 초상화
+### No. 91: 제품 마케팅 - Nano Banana Pro 실버 메탈릭 드레스 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5165,7 +5206,7 @@ Nano Banana Pro를 사용하여 액체 금속 질감의 실버 드레스를 입�
 
 ---
 
-### No. 91: 제품 마케팅 - 아르데코 이브닝 드레스 프롬프트
+### No. 92: 제품 마케팅 - 아르데코 이브닝 드레스 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5217,7 +5258,7 @@ Nano Banana Pro를 사용하여 황혼의 에메랄드 드레스를 입은 여�
 
 ---
 
-### No. 92: 제품 마케팅 - 하이패션 도시 야간 에디토리얼
+### No. 93: 제품 마케팅 - 하이패션 도시 야간 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5266,93 +5307,6 @@ Nano Banana Pro를 사용하여 황혼의 에메랄드 드레스를 입은 여�
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: 제품 마케팅 - Origami Dreams 사이버 미러 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro를 위한 복잡한 JSON 형식 프롬프트로, 금속 웅덩이에 비친 매켄지 데이비스(Mackenzie Davis)의 초현실적 에디토리얼 사진을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "vibe_title_en": "Broken Cyber Mirrors에 비친 Origami Dreams",
-  "master_prompt": "Hasselblad H6D-100c, 80mm f/1.4 렌즈로 촬영한 초현실주의 하이퍼 리얼리스틱 에디토리얼 사진. 카메라는 어두운 바닥의 깨지고 점성이 있는 금속 웅덩이에만 초점을 맞춥니다. 이 갈라진 표면에 선명하게 반영된 것은 브러시드 알루미늄으로 만들어진 거대한 물리적 오리가미 비행기 위에 앉아 있는 주인공(The Protagonist)입니다. 밀도 높은 극저온 스튜디오 안개가 구조물 아래 구름 바다를 모방합니다. 배경의 실제 피사체는 얕은 심도로 인해 크게 흐려져 있습니다. 반영된 주인공은 사이버 에테레아(Cyber-Ethereal) 합성 미를 보여줍니다: 불가능할 정도로 대칭적인 얼굴 특징, 날카롭고 인간이 아닌 시선, 그리고 가까이서 보면 진짜 미세 모공까지 드러나는 '플라스틱화' 된 피부. 어둡고 미니멀한 브루탈리스트(Brutalist) 공간은 차가운 시안(cyan)과 날카로운 백색 형광 림 라이트로 조명되어 안개와 금속 비행기의 가장자리를 강조합니다. Kodak Portra 800 필름으로 촬영했으며, 무거운 필름 그레인, 완전한 실물 기반 고예산 특수 효과 사용, NO NEON(네온 금지), 시네마틱 키아로스쿠로(chiaroscuro) 스타일.",
-  "meta": {
-    "intent": "시네마틱 초현실주의 하이 패션 포트레이트",
-    "priorities": "왜곡된 반사 프레임 구성, 합성 피부 질감, 실물 기반 초현실주의",
-    "device_profile": "아날로그 필름을 모방하는 중형 디지털 카메라"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "반영 중심 구도, 웅덩이 반사 속에 피사체를 중앙 배치하고 실제 신체는 배경에서 흐릿하게 처리",
-    "layout": "프레임 하단 절반은 선명한 반사 웅덩이가 지배하며, 상단 절반은 흐릿한 실제 장면을 보여줌",
-    "camera_angle": "바닥 반사를 향해 45도 위에서 내려다보는 하이 앵글",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "나이 불명, 포스트 휴먼(Post-human) 완성체",
-    "face": "불쾌할 정도로 대칭적이며, 뚜렷한 미세 모공이 있는 플라스틱 광택",
-    "hair": "매끄럽고 강하게 스타일링된, 시안 림 라이트를 받는 합성 느낌의 머리카락",
-    "body": "조각상 같은, 경직된 자세",
-    "expression": "무표정, 날카로우며, 반사를 통해 시청자를 강렬하게 응시함",
-    "pose": "금속 오리가미 구조물 위에 단단히 앉아, 웅덩이를 들여다보기 위해 약간 앞으로 기울임"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "테플론 코팅 합성 실크",
-        "color": "반투명한 얼음 같은 흰색",
-        "fit": "건축적이고 경직된 핏"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Geometric ear cuffs",
-        "color": "폴리시드 크롬(Polished Chrome)",
-        "material": "수술용 강철(Surgical Steel)",
-        "brand_style": "아방가르드 사이버 미니멀리즘"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "어둡고 미니멀한 브루탈리스트 우주항공 테스트 챔버",
-    "surfaces": "갈라진 콘크리트, 점성 있는 금속 유체, 브러시드 알루미늄 오리가미"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="제품 마케팅 - Origami Dreams 사이버 미러 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="제품 마케팅 - Origami Dreams 사이버 미러 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **출처:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **게시일:** 2026년 10월 16일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6595,7 +6549,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 <div align="center">
 
-### 🎯 15707 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15708 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6658,6 +6612,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-02T04:02:02.771Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-02T08:03:03.384Z</sub>
 
 </div>

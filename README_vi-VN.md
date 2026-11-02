@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15827** |
+| 📝 Tổng số câu lệnh | **15828** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:02:13 UTC Thứ Hai, 2 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:03:12 UTC Thứ Hai, 2 tháng 11, 2026** |
 
 </div>
 
@@ -1646,7 +1646,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Chân dung Phòng khách Bohemian
+### No. 21: Bài đăng trên mạng xã hội - Prompt Editorial Thời Trang Cao Cấp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một prompt chi tiết để tạo hình ảnh editorial thời trang cao cấp, với một phụ nữ ngồi bên hồ cùng hoa đỏ, được thiết kế cho Nano Banana 2 (có thể tương thích với Pro).
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức ảnh editorial thời trang cao cấp khổ dọc tại bàn tiệc ngoài trời bên cạnh mặt hồ tĩnh lặng hoặc vùng nước phản chiếu, chụp dưới ánh sáng ban ngày định hướng rõ nét với những khóm hoa đỏ dày đặc bao quanh chủ thể ở nhiều lớp chiều sâu. Đóng khung hình người phụ nữ trưởng thành đang ngồi bên chiếc bàn dài phủ khăn màu ngà, lấy góc máy từ khoảng đầu gối đến qua đỉnh đầu. Giữ bố cục bất đối xứng: để một khối lớn hoa đỏ thẫm chiếm ưu thế phía bên trái và thêm vài bông hoa đỏ mờ nhòe tiến thật sát ống kính ở tiền cảnh phía dưới, che khuất một phần mặt bàn và nửa thân dưới. Chừa đủ khoảng trống phía sau người mẫu để lộ mặt nước xóa phông mềm mại, tán lá xanh đậm cùng những hàng cây mùa thu trầm mặc, nhưng không biến bối cảnh thành một bức chân dung phong cảnh thuần túy. Xây dựng dáng pose dựa trên sự tĩnh lặng thay vì hành động dùng bữa. Để một khuỷu tay tựa tự nhiên lên mép bàn, bàn tay tương ứng đỡ lấy phần má và hàm. Giữ cổ tay thả lỏng thay vì tạo dáng điệu đà. Cánh tay còn lại buông xuôi dọc thân người hoặc đặt hờ trên đùi. Phần thân giữ thẳng nhưng hơi dồn trọng tâm về một bên hông, hai vai so le và thư giãn. Xoay gương mặt chỉ hơi hướng về phía ống kính trong khi ánh nhìn lướt nhẹ qua đó. Giữ biểu cảm điềm tĩnh, xa cách và thoáng chút thiếu kiên nhẫn thay vì lãng mạn, tươi cười hay mơ màng. Đôi môi thả lỏng nhưng nổi bật nhờ sắc đỏ thẫm đậm nét. Choàng cho cô ấy một chiếc áo khoác dáng dài oversized màu xanh ngọc lục bảo với ve áo bản rộng, phần vai độn dày dặn cùng chất liệu len hoặc cashmere lì mịn. Để áo khoác buông mở, trùm nặng nề quanh cánh tay và hai bên hông mà không ôm sát cơ thể. Bên trong, hé lộ chiếc váy lụa satin màu ngà mềm rủ với phần cổ áo xếp nếp nhẹ nhàng và tà váy dài đổ thành những nếp gấp rộng đầy bắt sáng trên đôi chân đang ngồi. Chiếc áo khoác sẽ hấp thụ ánh sáng trong khi bộ váy bắt lấy những vệt sáng dài mềm mại, tạo nên sự tương phản rõ rệt về chất liệu. Tạo kiểu tóc suôn mượt, tối màu và ép sát đầu với đường ngôi lệch sâu chuẩn xác, búi gọn thấp hoặc vấn trơn láng để gương mặt, bờ cổ và khuyên tai không bị che khuất. Điểm xuyết bằng đôi khuyên tai dáng giọt nước đính pha lê hoặc đá pavé ngoại cỡ, cấu tạo từ hai khối bầu dục hoặc hình giọt nước xếp chồng, đủ độ lớn để nổi bật trên nền áo khoác và mái tóc tối màu. Hạn chế tối đa hoặc lược bỏ hoàn toàn các món trang sức khác để đôi khuyên tai trở thành điểm lấp lánh kim loại sắc nét duy nhất gần khuôn mặt. Sắp xếp hoa thành những cụm dày đặc gồm hồng đỏ sẫm, cẩm chướng, mao lương (ranunculus) và các loài hoa có cánh xếp nếp tương tự, tránh lặp lại chỉ một loại hoa duy nhất. Sử dụng kích thước đa dạng, dáng cánh hoa không quá hoàn hảo cùng vài nhánh cuống hoặc phiến lá xanh đậm điểm xuyết. Giữ sắc đỏ của các khóm hoa thật đậm đà và có chiều sâu, không dùng đỏ tươi chói lọi hay tông pastel kiểu hoa cưới. Chỉ thêm vào vài chi tiết tối giản trên bàn: khăn trải vải dệt màu ngà, một hoặc hai ly pha lê cắt mài trong suốt, bộ dao nĩa bạc tinh tế và có lẽ vài chiếc đĩa mộc mạc bị hoa che khuất một phần.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Editorial Thời Trang Cao Cấp - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Nguồn:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **Đã xuất bản:** 1 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - Chân dung Phòng khách Bohemian
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1712,7 @@ Tạo một bức chân dung chân thực như ảnh chụp của một người
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Prompt Contact Sheet Điện Ảnh
+### No. 23: Bài đăng trên mạng xã hội - Prompt Contact Sheet Điện Ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1757,7 @@ Khung 4, dưới cùng bên phải — “Sunset Walk Home”: chủ thể bư�
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Bộ ảnh cô dâu trong phòng tập boxing
+### No. 24: Bài đăng trên mạng xã hội - Bộ ảnh cô dâu trong phòng tập boxing
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1790,7 @@ Tạo một bộ ảnh editorial thời trang cao cấp khổ dọc bên trong m
 
 ---
 
-### No. 24: Bài đăng trên mạng xã hội - So sánh Cảnh Sa Mạc Hoang Vắng Với Khói Đơn Độc
+### No. 25: Bài đăng trên mạng xã hội - So sánh Cảnh Sa Mạc Hoang Vắng Với Khói Đơn Độc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1802,7 +1835,7 @@ Phong cảnh đại cảnh Tây Bắc với cột khói cô độc giữa sa m�
 
 ---
 
-### No. 25: Bài đăng trên mạng xã hội - Chân Dung Trên Bãi Biển Với Hoa Hồng
+### No. 26: Bài đăng trên mạng xã hội - Chân Dung Trên Bãi Biển Với Hoa Hồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ Một cô gái trẻ đứng trên bãi biển đầy sỏi, phía sau là đạ
 
 ---
 
-### No. 26: Bài đăng trên mạng xã hội - Chân Dung Brutalism Màu Hổ Phách
+### No. 27: Bài đăng trên mạng xã hội - Chân Dung Brutalism Màu Hổ Phách
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2004,7 @@ Tạo chân dung biên tập siêu thực của một phụ nữ trong chiếc v
 
 ---
 
-### No. 27: Bài đăng trên mạng xã hội - Chân Dung Biên Tập Siêu Thực Với Cá Voi Chrome Và Hoa Hồng
+### No. 28: Bài đăng trên mạng xã hội - Chân Dung Biên Tập Siêu Thực Với Cá Voi Chrome Và Hoa Hồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2072,7 +2105,7 @@ Prompt có cấu trúc JSON phức tạp để tạo ra một chân dung biên t
 
 ---
 
-### No. 28: Bài đăng trên mạng xã hội - Ảnh Hiệu Suất Người Thổi Lửa
+### No. 29: Bài đăng trên mạng xã hội - Ảnh Hiệu Suất Người Thổi Lửa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2121,7 +2154,7 @@ Giữ lại vài bóng dáng khán giả trưởng thành mờ ảo phía sau c�
 
 ---
 
-### No. 29: Bài đăng trên mạng xã hội - Hellenistic Medusa Editorial Prompt
+### No. 30: Bài đăng trên mạng xã hội - Hellenistic Medusa Editorial Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +2206,7 @@ Nhiếp ảnh kỹ thuật số siêu chân thực (hyper-photorealistic) mang t
 
 ---
 
-### No. 30: Bài đăng trên mạng xã hội - Ảnh chân dung Avant-Garde của Emma Watson
+### No. 31: Bài đăng trên mạng xã hội - Ảnh chân dung Avant-Garde của Emma Watson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2307,7 @@ Prompt JSON phức tạp cho Nano Banana Pro để tạo ảnh chân dung avant-
 
 ---
 
-### No. 31: Bài đăng trên mạng xã hội - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
+### No. 32: Bài đăng trên mạng xã hội - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +2360,7 @@ Phong cách editorial thời trang cao cấp siêu thực. Từng chi tiết xú
 
 ---
 
-### No. 32: Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn
+### No. 33: Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,102 +2390,6 @@ Chân dung điện ảnh của một cô gái trẻ Đông Á đang đứng tạ
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: Bài đăng trên mạng xã hội - Chân dung biên tập phong cách Marble Apathy
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Prompt JSON phức tạp dùng để tạo bức ảnh chụp mang phong cách biên tập siêu thực về một người phụ nữ được bao quanh bởi các tượng bán thân bằng đá cẩm thạch, nhấn mạnh vào thẩm mỹ nhiếp ảnh analog cao cấp và bố cục mang tính quan sát.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "Bức ảnh mang đậm chất điện ảnh, góc nhìn voyeuristic (nhìn trộm) về Nhân Vật Chính đang chìm đắm trong một kho lưu trữ siêu thực, dày đặc đến phi lý với vô số tượng bán thân đá cẩm thạch trắng cổ điển chồng chéo lên nhau. Hình ảnh phản ánh chính xác cấu trúc hình học thị giác của một đám đông tượng ngột ngạt đang chèn ép vào nhau, nhưng được ghi lại bằng kỹ xảo thực tế kinh phí cao và độ chân thực nhiếp ảnh tuyệt đối. Nhân vật toát lên vẻ 'Haute Apathy' — gương mặt lạnh tanh, trung tính với đôi mí mắt trĩu nặng buông lơi, dáng người mềm oải nhưng đầy phong cách, tựa hờ vào một đầu tượng cẩm thạch vô giá với thái độ bất cần tột độ. Cô mặc chiếc áo len cổ lọ màu đen tối giản, sắc nét, tạo nên sự tương phản gay gắt giữa biển đá trắng xóa. Chụp bằng ống kính tiêu cự dài 200mm để nén không gian một cách mạnh mẽ. Bố cục là một 'Góc Nhìn Trộm', được bắt qua khe hở hẹp và nhòe sâu giữa hai bức tượng cẩm thạch ở tiền cảnh, đóng khung khuôn mặt nhân vật như thể đang rình rập một khoảnh khắc riêng tư. Ánh sáng studio high-key, trong trẻo, dịu nhẹ làm nổi bật bề mặt hoàn hảo, siêu chân thực của cả lớp đá cẩm thạch xốp lẫn kết cấu da tự nhiên của nhân vật. Chụp bằng máy Hasselblad H6D-100c, phim Kodak Portra 160, ghi lại trọn vẹn các chi tiết vi mô chân thực, lỗ chân lông, những sợi tóc vương vãi và lớp bụi cẩm thạch mờ ảo lơ lửng trong không khí. Tuyệt đối không có ánh sáng neon, không mang hơi hướng CGI; thuần túy là kết cấu ảnh analog.",
-  "meta": {
-    "intent": "Thời trang biên tập Avant-Garde siêu thực",
-    "priorities": "Tiền cảnh che khuất chủ thể, hiệu ứng nén tele mạnh mẽ, sự tương phản kết cấu giữa làn da và đá cẩm thạch",
-    "device_profile": "Máy phim Medium Format"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Khung hình kiểu nhìn trộm bị che khuất phần lớn bởi các yếu tố tiền cảnh",
-    "layout": "Chủ thể được đóng khung chặt chẽ và chìm lấp giữa các vật thể dày đặc xung quanh",
-    "camera_angle": "Ngang tầm mắt từ một góc nhìn xa và ẩn khuất",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Nữ",
-    "identity": "Nhân Vật Chính",
-    "demographics": "Phi tuổi tác, bay bổng nhưng vẫn rất thực tế",
-    "face": "Trung tính, lạnh tanh với đôi mí mắt trĩu nặng buông lơi và đường kẻ mắt graphic sắc sảo",
-    "hair": "Mượt mà, rẽ ngôi giữa gọn gàng",
-    "body": "Thư giãn, dáng người mềm oải nhưng đầy phong cách",
-    "expression": "Bất cần tột độ, vẻ thờ ơ kiểu 'quá ngầu so với căn phòng này'",
-    "pose": "Vai thõng xuống, tựa người đầy effortless vào một bức tượng cẩm thạch"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Áo len cổ lọ",
-        "material": "Len merino mịn",
-        "color": "Đen nhám tuyền",
-        "fit": "Ôm dáng nhưng thoải mái"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Kẻ mắt cánh graphic",
-        "color": "Vantablack",
-        "material": "Pigment trang điểm lì",
-        "brand_style": "Thời trang biên tập cao cấp"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Một kho lưu trữ siêu thực, dày đặc vô tận gồm các tượng bán thân đá cẩm thạch trắng cổ điển",
-    "surfaces": "Đá cẩm thạch trắng lạnh lẽo, nhẵn mịn nhưng xốp, phủ lớp bụi mờ"
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung biên tập phong cách Marble Apathy - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung biên tập phong cách Marble Apathy - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung biên tập phong cách Marble Apathy - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung biên tập phong cách Marble Apathy - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Nguồn:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **Đã xuất bản:** 24 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5063,7 +5000,103 @@ Các giới hạn cần tránh: không thêm người mẫu phụ, không sai l�
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
+### No. 89: Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt JSON phức tạp dùng để tạo bức ảnh chụp mang phong cách biên tập siêu thực về một người phụ nữ được bao quanh bởi các tượng bán thân bằng đá cẩm thạch, nhấn mạnh vào thẩm mỹ nhiếp ảnh analog cao cấp và bố cục mang tính quan sát.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "Bức ảnh mang đậm chất điện ảnh, góc nhìn voyeuristic (nhìn trộm) về Nhân Vật Chính đang chìm đắm trong một kho lưu trữ siêu thực, dày đặc đến phi lý với vô số tượng bán thân đá cẩm thạch trắng cổ điển chồng chéo lên nhau. Hình ảnh phản ánh chính xác cấu trúc hình học thị giác của một đám đông tượng ngột ngạt đang chèn ép vào nhau, nhưng được ghi lại bằng kỹ xảo thực tế kinh phí cao và độ chân thực nhiếp ảnh tuyệt đối. Nhân vật toát lên vẻ 'Haute Apathy' — gương mặt lạnh tanh, trung tính với đôi mí mắt trĩu nặng buông lơi, dáng người mềm oải nhưng đầy phong cách, tựa hờ vào một đầu tượng cẩm thạch vô giá với thái độ bất cần tột độ. Cô mặc chiếc áo len cổ lọ màu đen tối giản, sắc nét, tạo nên sự tương phản gay gắt giữa biển đá trắng xóa. Chụp bằng ống kính tiêu cự dài 200mm để nén không gian một cách mạnh mẽ. Bố cục là một 'Góc Nhìn Trộm', được bắt qua khe hở hẹp và nhòe sâu giữa hai bức tượng cẩm thạch ở tiền cảnh, đóng khung khuôn mặt nhân vật như thể đang rình rập một khoảnh khắc riêng tư. Ánh sáng studio high-key, trong trẻo, dịu nhẹ làm nổi bật bề mặt hoàn hảo, siêu chân thực của cả lớp đá cẩm thạch xốp lẫn kết cấu da tự nhiên của nhân vật. Chụp bằng máy Hasselblad H6D-100c, phim Kodak Portra 160, ghi lại trọn vẹn các chi tiết vi mô chân thực, lỗ chân lông, những sợi tóc vương vãi và lớp bụi cẩm thạch mờ ảo lơ lửng trong không khí. Tuyệt đối không có ánh sáng neon, không mang hơi hướng CGI; thuần túy là kết cấu ảnh analog.",
+  "meta": {
+    "intent": "Thời trang biên tập Avant-Garde siêu thực",
+    "priorities": "Tiền cảnh che khuất chủ thể, hiệu ứng nén tele mạnh mẽ, sự tương phản kết cấu giữa làn da và đá cẩm thạch",
+    "device_profile": "Máy phim Medium Format"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Khung hình kiểu nhìn trộm bị che khuất phần lớn bởi các yếu tố tiền cảnh",
+    "layout": "Chủ thể được đóng khung chặt chẽ và chìm lấp giữa các vật thể dày đặc xung quanh",
+    "camera_angle": "Ngang tầm mắt từ một góc nhìn xa và ẩn khuất",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Nữ",
+    "identity": "Nhân Vật Chính",
+    "demographics": "Phi tuổi tác, bay bổng nhưng vẫn rất thực tế",
+    "face": "Trung tính, lạnh tanh với đôi mí mắt trĩu nặng buông lơi và đường kẻ mắt graphic sắc sảo",
+    "hair": "Mượt mà, rẽ ngôi giữa gọn gàng",
+    "body": "Thư giãn, dáng người mềm oải nhưng đầy phong cách",
+    "expression": "Bất cần tột độ, vẻ thờ ơ kiểu 'quá ngầu so với căn phòng này'",
+    "pose": "Vai thõng xuống, tựa người đầy effortless vào một bức tượng cẩm thạch"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Áo len cổ lọ",
+        "material": "Len merino mịn",
+        "color": "Đen nhám tuyền",
+        "fit": "Ôm dáng nhưng thoải mái"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Kẻ mắt cánh graphic",
+        "color": "Vantablack",
+        "material": "Pigment trang điểm lì",
+        "brand_style": "Thời trang biên tập cao cấp"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Một kho lưu trữ siêu thực, dày đặc vô tận gồm các tượng bán thân đá cẩm thạch trắng cổ điển",
+    "surfaces": "Đá cẩm thạch trắng lạnh lẽo, nhẵn mịn nhưng xốp, phủ lớp bụi mờ"
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Nguồn:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **Đã xuất bản:** 24 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5118,7 +5151,7 @@ Phông nền tối giản, sạch sẽ cùng ánh sáng kịch tính dịu nhẹ
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
+### No. 91: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5153,7 +5186,7 @@ Negative prompt: không có vẻ ngoài CGI, không da nhựa, khác khuôn mặ
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
+### No. 92: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5205,7 +5238,7 @@ Kết xuất siêu chân thực, tập trung vào sự tương phản chất li�
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị
+### No. 93: Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5254,93 +5287,6 @@ Phong cách biên tập siêu chân thực. Chiaroscuro tương phản cao với
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Prompt định dạng JSON phức tạp cho Nano Banana Pro, mô tả bức ảnh chụp biên tập siêu thực về Mackenzie Davis phản chiếu trong vũng kim loại.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "vibe_title_en": "Origami Dreams Reflected in Broken Cyber Mirrors",
-  "master_prompt": "Một bức ảnh chụp biên tập siêu thực cực kỳ chân thực được chụp bằng Hasselblad H6D-100c với ống kính 80mm f/1.4. Máy ảnh tập trung hoàn toàn vào một vũng kim loại lỏng, nứt nẻ trên sàn tối. Phản chiếu sắc nét trong bề mặt vỡ này là Nhân vật chính, đang ngồi trên một chiếc máy bay origami khổng lồ được chế tạo từ nhôm đánh bóng với cấu trúc cơ khí thực tế. Sương mù studio dày đặc, nhiệt độ thấp mô phỏng biển mây bên dưới cấu trúc. Chủ thể thực sự ở hậu cảnh bị làm mờ nặng do độ sâu trường ảnh nông. Nhân vật chính phản chiếu thể hiện vẻ đẹp tổng hợp siêu thực: các đường nét đối xứng không tưởng, ánh mắt xuyên thấu phi nhân tính và làn da 'nhựa hóa' vẫn tiết lộ các lỗ chân lông vi mô chân thực khi quan sát kỹ. Căn phòng tối giản kiểu Brutalist được chiếu sáng bởi ánh sáng viền huỳnh quang cyan sắc lạnh và trắng tinh, bắt lấy các cạnh của sương mù và máy bay kim loại. Chụp trên Kodak Portra 800, hạt phim nặng, hiệu ứng ngân sách cao hoàn toàn thực tế, KHÔNG CÓ NEON, chiaroscuro điện ảnh.",
-  "meta": {
-    "intent": "Chân dung thời trang cao cấp theo chủ nghĩa siêu thực điện ảnh",
-    "priorities": "Khung hình phản chiếu méo mó, kết cấu da tổng hợp, chủ nghĩa siêu thực thực tế",
-    "device_profile": "Máy ảnh Medium Format Digital mô phỏng Phim Analog"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Phản chiếu chiếm ưu thế, chủ thể nằm ở trung tâm trong phần phản chiếu của vũng nước trong khi cơ thể vật lý vẫn bị làm mờ ở hậu cảnh",
-    "layout": "Nửa dưới khung hình chiếm ưu thế với vũng nước phản chiếu sắc nét, nửa trên hiển thị cảnh vật lý bị làm mờ",
-    "camera_angle": "Góc nhìn từ trên cao xuống ở góc 45 độ vào phần phản chiếu trên sàn",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "Hoàn hảo hậu con người, không tuổi",
-    "face": "Đối xứng đến mức kỳ lạ, độ bóng như nhựa với các lỗ chân lông vi mô rõ rệt",
-    "hair": "Trơn mượt, tạo kiểu cầu kỳ, các sợi tóc trông như tổng hợp bắt ánh sáng viền cyan",
-    "body": "Tư thế cứng nhắc, dáng vẻ tượng đài",
-    "expression": "Trống rỗng, xuyên thấu, quan sát người xem dữ dội qua phần phản chiếu",
-    "pose": "Ngồi cứng nhắc trên cấu trúc origami kim loại, hơi nghiêng người về phía trước để nhìn vào vũng nước"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "Lụa tổng hợp phủ Teflon",
-        "color": "Trắng băng trong suốt",
-        "fit": "Kiến trúc và cứng nhắc"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Bọc tai hình học",
-        "color": "Chrome đánh bóng",
-        "material": "Thép phẫu thuật",
-        "brand_style": "Chủ nghĩa tối giản cyber tiên phong"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Phòng thử nghiệm hàng không vũ trụ Brutalist tối màu, tối giản",
-    "surfaces": "Bê tông nứt, chất lỏng kim loại nhớt, origami nhôm đánh bóng"
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Nguồn:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **Đã xuất bản:** 16 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6583,7 +6529,7 @@ Chân dung cận cảnh một {argument name="subject" default="người phụ n
 
 <div align="center">
 
-### 🎯 15707 câu lệnh khác không hiển thị ở đây
+### 🎯 15708 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6646,6 +6592,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-02T04:02:13.389Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-02T08:03:12.704Z</sub>
 
 </div>

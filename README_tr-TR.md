@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15827** |
+| 📝 Toplam İstem | **15828** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **2 Kasım 2026 Pazartesi 04:02:59 UTC** |
+| 🔄 Son Güncelleme | **2 Kasım 2026 Pazartesi 08:03:52 UTC** |
 
 </div>
 
@@ -1646,7 +1646,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Bohem Oturma Odası Portresi
+### No. 21: Sosyal Medya Gönderisi - Yüksek Moda Editoryal İstem
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Göl kenarında kırmızı çiçeklerle oturan bir kadını içeren yüksek moda editoryal görseli oluşturmak için detaylı istem. Nano Banana 2 (muhtemelen Pro ile uyumlu) için tasarlanmıştır.
+
+#### 📝 İstem
+
+```
+Sakin bir gölün ya da suya yansıyan bir yüzeyin yanındaki açık hava resmi yemek masasında, dikey formatta bir yüksek moda (high-fashion) editoryal çekimi oluşturun. Fotoğrafı net ve yönlü gün ışığında, modelin etrafını farklı derinliklerde saran yoğun kırmızı çiçeklerle çekin. Uzun, fildişi rengi örtülü bir masanın yanında oturan yetişkin bir kadını yaklaşık dizlerinden başının üstüne kadar kadraja alın. Kompozisyonu asimetrik tutun: Koyu bordo çiçeklerden oluşan büyük bir kütle sol tarafı kaplasın; ek olarak bulanıklaştırılmış kırmızı çiçekler alt ön planda kameraya çok yakın girerek masayı ve alt bedeni kısmen bölüp kessin. Kadının arkasında yeterince açık alan bırakarak yumuşakça odak dışı kalmış suyu, koyu yeşil yaprakları ve soluk sonbahar ağaçlarını görünür kılın; ancak mekânı manzara ağırlıklı bir portreye dönüştürmeyin. Pozyu aktif bir yemek sahnesi yerine durağanlık üzerine kurun. Bir dirseğin masanın kenarına doğal biçimde dayanmasına, aynı taraftaki elin ise yanağa ve çeneye yakın bir noktadan yüzü desteklemesine izin verin. Bileği nazikçe pozlanmış gibi değil, serbest ve rahat tutun. Diğer kolun vücudun yanında aşağı sarkmasına ya da kucağın üzerinde gevşekçe durmasına izin verin. Gövde dik dursun ancak hafifçe bir kalçaya doğru yerleşsin; omuzlar eşit olmayan bir hizada ve rahat olsun. Yüzü kameraya yalnızca çok hafif çevirin, bakışlar ise kameranın hemen ötesine kayıp gitsin. İfadeyi romantik, gülümseyen ya da hayalperest değil; ağırbaşlı, mesafeli ve belli belirsiz sabırsız tutun. Ağız rahat dursun ancak koyu bordo güçlü bir rujla belirginleşsin. Üzerinde geniş yakaları, dolgun omuz hatları ve mat, yoğun yünlü ya da kaşmir dokusu olan uzun, oversize zümrüt yeşili bir palto giydirin. Palto açık dursun, vücuda fazla dar kesilmiş gibi görünmeden kolları ve yanları ağır bir şekilde sarsın. Altında, yumuşakça dökümlü bir yakası olan akıcı fildişi rengi ipek-saten bir elbise görünsün; uzun eteği otururken bacakların üzerine geniş ve parlak kıvrımlarla dökülsün. Palto ışığı emerken elbise uzun, yumuşak yansımalar yakalayarak net bir doku kontrastı oluştursun. Saçları pürüzsüz, koyu renkli ve başa yakın tarayın; derin ve kusursuz bir yan ayırım atarak sıkı bir düşük topuz ya da düzgün toplanmış bir forma getirin ki yüz, boyun ve küpeler engellenmesin. Üst üste binen iki oval veya damla formdan oluşan, koyu renk palto ve saçlara karşı kendini gösterecek kadar iri kristal ya da pavé damla küpeler ekleyin. Diğer takıları en aza indirin ya da hiç kullanmayın; böylece yüzün yakınındaki tek keskin metalik parıltı küpeler olsun. Çiçekleri tek bir türün tekrarı yerine koyu kırmızı güller, karanfiller, ranunculus ve benzer kıvrımlı taç yapraklı çiçeklerin yoğun aranjmanları olarak düzenleyin. Farklı boyutlar, kusurlu taç yaprak formları ve ara sıra görünen koyu yeşil saplar ya da yapraklar kullanın. Kırmızı kütleleri parlak kızıl ya da gelin pasteli tonlarında değil, zengin ve hacimli tutun. Masa detaylarını yalnızca ölçülü tutun: Dokulu fildişi rengi bir örtü, bir ya da iki adet şeffaf kesme kristal bardak, zarif gümüş çatal-bıçak takımı ve belki de çiçekler tarafından kısmen gizlenmiş birkaç sade tabak.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="Sosyal Medya Gönderisi - Yüksek Moda Editoryal İstem - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Kaynak:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **Yayınlandı:** 1 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: Sosyal Medya Gönderisi - Bohem Oturma Odası Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1712,7 @@ Sıcak, güneş ışığı alan bohem tarzı bir oturma odasında ayakta duran y
 
 ---
 
-### No. 22: Sosyal Medya Gönderisi - Sinematik Contact Sheet Prompt
+### No. 23: Sosyal Medya Gönderisi - Sinematik Contact Sheet Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1757,7 @@ Panel 4, sağ alt — “Gün Batımı Dönüş Yolu”: Özne, çimenli bir pat
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Boks Salonu Gelin Editoryal
+### No. 24: Sosyal Medya Gönderisi - Boks Salonu Gelin Editoryal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1790,7 @@ Gerçek, hafifçe yıpranmış bir boks salonunda dikey formatta bir haute coutu
 
 ---
 
-### No. 24: Sosyal Medya Gönderisi - Çölde Yalnız Duman Manzarası Karşılaştırması
+### No. 25: Sosyal Medya Gönderisi - Çölde Yalnız Duman Manzarası Karşılaştırması
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1802,7 +1835,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro) ve Grok-imagine2 modellerinin yal
 
 ---
 
-### No. 25: Sosyal Medya Gönderisi - Gülden Plaj Portresi
+### No. 26: Sosyal Medya Gönderisi - Gülden Plaj Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ Genç bir kadın, arka planda okyanus ve uzak kıyı şeridi manzarasıyla çak�
 
 ---
 
-### No. 26: Sosyal Medya Gönderisi - Amber Brutalizm Portresi
+### No. 27: Sosyal Medya Gönderisi - Amber Brutalizm Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2004,7 @@ Nano Banana Pro kullanarak, sinematik arka ışıklandırmalı ve petek desenli 
 
 ---
 
-### No. 27: Sosyal Medya Gönderisi - Krom Balinalar ve Güllerle Sürreal Editoryal Portre
+### No. 28: Sosyal Medya Gönderisi - Krom Balinalar ve Güllerle Sürreal Editoryal Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2072,7 +2105,7 @@ Metalik öğeler, uçan balinalar ve kaotik çöl arka planları içeren, yükse
 
 ---
 
-### No. 28: Sosyal Medya Gönderisi - Ateş Püskürten Performans Fotoğrafı
+### No. 29: Sosyal Medya Gönderisi - Ateş Püskürten Performans Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2121,7 +2154,7 @@ Arkasında, farklı derinliklerde yumuşak, karanlık insan silüetleri olarak b
 
 ---
 
-### No. 29: Sosyal Medya Gönderisi - Helenistik Medusa Editoryal Prompt
+### No. 30: Sosyal Medya Gönderisi - Helenistik Medusa Editoryal Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +2206,7 @@ Sinematik editoryal renk düzenlemesine sahip hiper-fotogerçekçi dijital foto�
 
 ---
 
-### No. 30: Sosyal Medya Gönderisi - Emma Watson Avangart Portre
+### No. 31: Sosyal Medya Gönderisi - Emma Watson Avangart Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2307,7 @@ Nano Banana Pro ile Emma Watson'ın avangart bir portresini oluşturmak için ku
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - Clean-Girl Editoryal Moda Portresi
+### No. 32: Sosyal Medya Gönderisi - Clean-Girl Editoryal Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +2360,7 @@ Hiper gerçekçi yüksek moda editoryal stili. Zarif dantelin, ağır denim kuma
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Alacakaranlıkta Tepede Sinematik Portre
+### No. 33: Sosyal Medya Gönderisi - Alacakaranlıkta Tepede Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,102 +2390,6 @@ Alacakaranlıkta bir tepe seyir terasında duran, neşeyle ve tasasız bir ifade
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: Sosyal Medya Gönderisi - Mermer Apati Editoryal Portre İstemi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Mermer büstlerle çevrili bir kadının sürreal editoryal fotoğrafını oluşturmak için karmaşık JSON formatında istem; üst düzey analog fotoğraf estetiğini ve röntgenci çerçevelemeyi vurgular.
-
-#### 📝 İstem
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "Birbirine geçen klasik beyaz mermer büstlerden oluşan gerçeküstü, imkânsız derecede yoğun bir arşivin içinde kaybolmuş Ana Karakter'in sinematik, röntgenci bir fotoğrafı. Görüntü, üzerine doğru bastıran klostrofobik bir heykel kalabalığının görsel geometrisini birebir yansıtırken, yüksek bütçeli pratik efektler ve fotoğrafsal gerçekçilikle çekilmiştir. Özne 'Haute Apathy' (Yüksek Moda Kayıtsızlığı) yaymaktadır; ifadesiz, nötr bir yüz, ağır ve gevşek göz kapakları, cansız ama şık bir duruş ve son derece umursamaz bir tavırla paha biçilmez bir mermer kafasına rahatça yaslanma hali. Beyaz taş deniziyle sert bir tezat oluşturan minimalist, simsiyah bir balıkçı yaka kazak giymektedir. Alanı agresif bir şekilde sıkıştırmak için 200mm uzun odak uzaklıklı bir lensle çekilmiştir. Kompozisyon bir 'Röntgenci Bakış'tır; ön plandaki iki mermer heykel arasındaki dar ve yoğun şekilde odak dışı bırakılmış bir boşluktan yakalanmış, öznenin yüzünü özel bir anı gizlice izliyormuş gibi çerçevelemiştir. Yüksek anahtarlı, temiz ve yumuşak stüdyo ışıklandırması hem gözenekli mermerin hem de öznenin doğal cilt dokusunun kusursuz, hiper-gerçekçi bitişini vurgular. Hasselblad H6D-100c ile, Kodak Portra 160 film stoğu kullanılarak çekilmiş; otantik mikro detayları, cilt gözeneklerini, dağınık saç tellerini ve havada asılı kalan ince mermer tozunu yakalamıştır. Kesinlikle neon yok, CGI görünümü yok; saf analog fotoğrafik doku.",
-  "meta": {
-    "intent": "Sürreal Avangart Editoryal",
-    "priorities": "Ön plan örtüşmesi, yoğun telefoto sıkıştırma, cilt ve mermer arasındaki dokusal kontrast",
-    "device_profile": "Orta Format Analog"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Ön plan öğeleri tarafından büyük ölçüde kapatılmış röntgenci kadraj",
-    "layout": "Sıkı kadrajlanmış ve etrafındaki yoğun nesneler tarafından yutulmuş özne",
-    "camera_angle": "Uzak ve gizli bir bakış açısından göz hizası",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Kadın",
-    "identity": "Ana Karakter",
-    "demographics": "Yaşsız, eterik ama ayakları yere basan",
-    "face": "Nötr, ifadesiz; ağır ve gevşek göz kapakları ile keskin, grafik eyeliner",
-    "hair": "Pürüzsüz, tam ortadan ayrılmış",
-    "body": "Rahat, gevşek ama şık bir duruş",
-    "expression": "Aşırı umursamazlık, 'ortamdan daha havalı' kayıtsızlığı",
-    "pose": "Düşmüş omuzlar, zahmetsizce bir mermer heykele yaslanma"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Balıkçı yaka kazak",
-        "material": "İnce merinos yünü",
-        "color": "Mat simsiyah",
-        "fit": "Vücudu saran ama rahat"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Grafik kuyruklu eyeliner",
-        "color": "Vantablack",
-        "material": "Mat makyaj pigmenti",
-        "brand_style": "Yüksek moda editoryal"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Klasik beyaz mermer büstlerden oluşan sonsuz derecede yoğun, gerçeküstü bir arşiv",
-    "surfaces": "Soğuk, pürüzsüz ama gözenekli beyaz mermer, hafif toz"
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Sosyal Medya Gönderisi - Mermer Apati Editoryal Portre İstemi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Sosyal Medya Gönderisi - Mermer Apati Editoryal Portre İstemi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Sosyal Medya Gönderisi - Mermer Apati Editoryal Portre İstemi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Sosyal Medya Gönderisi - Mermer Apati Editoryal Portre İstemi - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Kaynak:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **Yayınlandı:** 24 Ekim 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5058,7 +4995,103 @@ Negatif kısıtlamalar: Ekstra model yok, kimlik kayması yok, birbiriyle uyuşm
 
 ---
 
-### No. 89: Ürün Pazarlaması - Kırmızı Kadife Tayt Portresi Karşılaştırması
+### No. 89: Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Mermer büstlerle çevrili bir kadının sürreal editoryal fotoğrafını oluşturmak için karmaşık JSON formatında istem; üst düzey analog fotoğraf estetiğini ve röntgenci çerçevelemeyi vurgular.
+
+#### 📝 İstem
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "Birbirine geçen klasik beyaz mermer büstlerden oluşan gerçeküstü, imkânsız derecede yoğun bir arşivin içinde kaybolmuş Ana Karakter'in sinematik, röntgenci bir fotoğrafı. Görüntü, üzerine doğru bastıran klostrofobik bir heykel kalabalığının görsel geometrisini birebir yansıtırken, yüksek bütçeli pratik efektler ve fotoğrafsal gerçekçilikle çekilmiştir. Özne 'Haute Apathy' (Yüksek Moda Kayıtsızlığı) yaymaktadır; ifadesiz, nötr bir yüz, ağır ve gevşek göz kapakları, cansız ama şık bir duruş ve son derece umursamaz bir tavırla paha biçilmez bir mermer kafasına rahatça yaslanma hali. Beyaz taş deniziyle sert bir tezat oluşturan minimalist, simsiyah bir balıkçı yaka kazak giymektedir. Alanı agresif bir şekilde sıkıştırmak için 200mm uzun odak uzaklıklı bir lensle çekilmiştir. Kompozisyon bir 'Röntgenci Bakış'tır; ön plandaki iki mermer heykel arasındaki dar ve yoğun şekilde odak dışı bırakılmış bir boşluktan yakalanmış, öznenin yüzünü özel bir anı gizlice izliyormuş gibi çerçevelemiştir. Yüksek anahtarlı, temiz ve yumuşak stüdyo ışıklandırması hem gözenekli mermerin hem de öznenin doğal cilt dokusunun kusursuz, hiper-gerçekçi bitişini vurgular. Hasselblad H6D-100c ile, Kodak Portra 160 film stoğu kullanılarak çekilmiş; otantik mikro detayları, cilt gözeneklerini, dağınık saç tellerini ve havada asılı kalan ince mermer tozunu yakalamıştır. Kesinlikle neon yok, CGI görünümü yok; saf analog fotoğrafik doku.",
+  "meta": {
+    "intent": "Sürreal Avangart Editoryal",
+    "priorities": "Ön plan örtüşmesi, yoğun telefoto sıkıştırma, cilt ve mermer arasındaki dokusal kontrast",
+    "device_profile": "Orta Format Analog"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Ön plan öğeleri tarafından büyük ölçüde kapatılmış röntgenci kadraj",
+    "layout": "Sıkı kadrajlanmış ve etrafındaki yoğun nesneler tarafından yutulmuş özne",
+    "camera_angle": "Uzak ve gizli bir bakış açısından göz hizası",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Kadın",
+    "identity": "Ana Karakter",
+    "demographics": "Yaşsız, eterik ama ayakları yere basan",
+    "face": "Nötr, ifadesiz; ağır ve gevşek göz kapakları ile keskin, grafik eyeliner",
+    "hair": "Pürüzsüz, tam ortadan ayrılmış",
+    "body": "Rahat, gevşek ama şık bir duruş",
+    "expression": "Aşırı umursamazlık, 'ortamdan daha havalı' kayıtsızlığı",
+    "pose": "Düşmüş omuzlar, zahmetsizce bir mermer heykele yaslanma"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Balıkçı yaka kazak",
+        "material": "İnce merinos yünü",
+        "color": "Mat simsiyah",
+        "fit": "Vücudu saran ama rahat"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Grafik kuyruklu eyeliner",
+        "color": "Vantablack",
+        "material": "Mat makyaj pigmenti",
+        "brand_style": "Yüksek moda editoryal"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Klasik beyaz mermer büstlerden oluşan sonsuz derecede yoğun, gerçeküstü bir arşiv",
+    "surfaces": "Soğuk, pürüzsüz ama gözenekli beyaz mermer, hafif toz"
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Kaynak:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **Yayınlandı:** 24 Ekim 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: Ürün Pazarlaması - Kırmızı Kadife Tayt Portresi Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5113,7 +5146,7 @@ Zengin kadife dokusunu ve dantel detaylarını ön plana çıkaran yumuşak, dra
 
 ---
 
-### No. 90: Ürün Pazarlaması - Nano Banana Pro Gümüş Metalik Elbise Portresi
+### No. 91: Ürün Pazarlaması - Nano Banana Pro Gümüş Metalik Elbise Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5148,7 +5181,7 @@ Negatif prompt: CGI görünümü yok, plastik cilt yok, farklı yüz, kimlik kay
 
 ---
 
-### No. 91: Ürün Pazarlaması - Art-Deco Akşam Elbisesi İstemi
+### No. 92: Ürün Pazarlaması - Art-Deco Akşam Elbisesi İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5200,7 +5233,7 @@ Malzeme kontrastına odaklanan ultra fotogerçekçi bir işleme: Serin, yansıt�
 
 ---
 
-### No. 92: Ürün Pazarlaması - Yüksek Moda Şehir Gece Editoryali
+### No. 93: Ürün Pazarlaması - Yüksek Moda Şehir Gece Editoryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5249,93 +5282,6 @@ Hiper-fotogerçekçi editoryal stil. Derin, filmik gölgelerle yüksek kontrastl
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Mackenzie Davis'in metalik bir su birikintisinde yansıdığı, Nano Banana Pro için tasarlanmış, sürrealist editoryal fotoğraf içeren karmaşık JSON formatlı prompt.
-
-#### 📝 İstem
-
-```
-{
-  "vibe_title_en": "Kırık Siber Aynalarda Yansıyan Origami Rüyaları",
-  "master_prompt": "Hasselblad H6D-100c ve 80mm f/1.4 lens ile çekilmiş, hiper-realistik sürrealist editoryal fotoğraf. Kamera, karanlık zemindeki çatlak, viskoz metalik su birikintisine odaklanıyor. Bu kırık yüzeyde keskin bir şekilde yansıyan The Protagonist (Başrol), fırçalanmış alüminyumdan yapılmış devasa, fiziksel olarak kurulu bir origami uçağın üzerinde oturuyor. Yoğun, kriyojenik stüdyo sisi, yapının altındaki bulut denizini taklit ediyor. Arka plandaki gerçek özne, sığ alan derinliği nedeniyle yoğun şekilde bulanıklaştırılmıştır. Yansımadaki Başrol karakteri, siber-etereal sentetik bir güzellik sergiler: imkansız derecede simetrik özellikler, delici insani olmayan bakışlar ve yakın incelemede otantik mikro gözenekleri hala belli olan 'plastikleştirilmiş' cilt. Karanlık, minimalist brutalist oda, sert camgöbeği mavisi ve keskin beyaz floresan kenar ışığıyla aydınlatılmış; bu ışıklar sisin ve metal uçağın kenarlarını yakalıyor. Kodak Portra 800 ile çekilmiş, yoğun film grenli, tamamen pratik yüksek bütçeli efektler, NEON YOK, sinematik chiaroscuro.",
-  "meta": {
-    "intent": "Sinematik sürrealizm yüksek moda portresi",
-    "priorities": "Bozulmuş yansıma çerçevelemesi, sentetik cilt dokusu, pratik sürrealizm",
-    "device_profile": "Analog Film'i taklit eden Orta Format Dijital"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Yansıma baskın, özne su birikintisinin yansımasında ortalanırken, fiziksel beden arka planda bulanık kalıyor",
-    "layout": "Çerçevenin alt yarısı keskin yansıtıcı su birikintisiyle hakimiyet kurarken, üst yarısı bulanık fiziksel sahneyi gösteriyor",
-    "camera_angle": "Zemin yansımasına doğru 45 derecelik açıyla yukarıdan aşağıya bakan yüksek açı",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "Yaşsız, post-insan mükemmelliği",
-    "face": "Doğaüstü simetrik, belirgin mikro gözenekli plastikleştirilmiş parlaklık",
-    "hair": "Pürüzsüz, yoğun şekillendirilmiş, camgöbeği mavisi kenar ışığını yakalayan sentetik görünümlü tutamlar",
-    "body": "Heykelsi, katı duruş",
-    "expression": "Boş, delici, izleyiciyi yansıma aracılığıyla yoğun şekilde gözlemleyen",
-    "pose": "Metalik origami yapısının üzerinde katı bir şekilde oturuyor, su birikintisine bakmak için hafifçe öne eğiliyor"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "Teflon kaplı sentetik ipek",
-        "color": "Yarı saydam buz beyazı",
-        "fit": "Mimari ve katı"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Geometrik kulak manşetleri",
-        "color": "Parlak krom",
-        "material": "Cerrahi çelik",
-        "brand_style": "Avangart siber minimalizm"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Karanlık, minimalist brutalist havacılık test odası",
-    "surfaces": "Çatlak beton, viskoz metalik sıvı, fırçalanmış alüminyum origa"
-  }
-}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Kaynak:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **Yayınlandı:** 16 Ekim 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6578,7 +6524,7 @@ Porselen tenli ve etkileyici ela-kahverengi gözlü, dudakları aralık, {argume
 
 <div align="center">
 
-### 🎯 15707 burada gösterilmeyen daha fazla istem
+### 🎯 15708 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6641,6 +6587,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-02T04:02:59.250Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-02T08:03:52.640Z</sub>
 
 </div>

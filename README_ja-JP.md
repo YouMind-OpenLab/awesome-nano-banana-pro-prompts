@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15827** |
+| 📝 プロンプト総数 | **15828** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年11月2日月曜日 4:01:57 UTC** |
+| 🔄 最終更新 | **2026年11月2日月曜日 8:02:58 UTC** |
 
 </div>
 
@@ -1650,7 +1650,52 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - ボヘミアンリビングのポートレート
+### No. 21: ソーシャルメディア投稿 - ハイファッション・エディトリアル用プロンプト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+Nano Banana 2（Pro との互換性あり）向けに設計された、湖辺に座る女性と赤い花をフィーチャーしたハイファッション・エディトリアル画像生成用の詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+静かな湖や水面が反射する水辺に設えられた屋外のフォーマルなダイニングテーブルを舞台に、縦型のハイファッション・エディトリアル作品を作成してください。クリアで方向性のある自然光で撮影し、被写体を囲むように複数の奥行きに濃い赤い花々を配置します。アイボリーのクロスが掛けられた長いテーブルの傍らに座る成人女性を、膝から頭上あたりまでの構図で切り取ります。
+
+構図は非対称に保ちます。深いクリムゾンレッドの花の塊が画面左側を大きく占め、さらに手前のローアングルにはピントのぼけた赤い花々がレンズすれすれの位置まで迫り、テーブルと下半身を部分的に遮るように配置してください。女性の背後には十分な余白を残し、柔らかにフォーカスが外れた水面、深緑の葉、くすんだ秋色の木々をうっすらと見せつつ、単なる風景ポートレートにならないよう注意します。
+
+ポーズは「食事をする動き」ではなく「静寂」を中心に構築します。片方の肘を自然にテーブルの縁に預け、同じ側の手で頬から顎にかけて顔を軽く支えます。手首はあえて繊細に見せようとせず、力を抜いた状態を保ちます。反対側の腕は体の横に低く下ろすか、膝の上にゆったりと添える程度にします。上半身は直立させつつも、わずかに片方の腰に重心を沈め、肩のラインは左右非対称でリラックスさせます。顔はカメラへほんの少しだけ向け、視線はそのすぐ先へと流れるようにします。表情はロマンティックでも笑顔でも夢見がちでもなく、落ち着いてどこか超然とし、微かに気怠さを含ませてください。口元は力を抜きながらも、深く鮮やかなクリムゾンリップで輪郭を際立たせます。
+
+服装は、幅広のラペルとボリュームのあるショルダーラインを持つ、エメラルドグリーンのロングオーバーサイズコートを選びます。素材は目の詰まったマットなウールやカシミヤの質感にします。コートは前を開けたまま、体にぴったり沿わせず、腕や脇に重みをもってまとわりつくように垂らします。その下からは、柔らかくドレープしたネックラインと、座った脚の上で幅広く艶やかに折り重なるロングスカートが特徴の、流れるようなアイボリーのシルクサテンドレスを覗かせます。コートが光を吸収し、ドレスが長く柔らかなハイライトを捉えることで、明確な素材のコントラストを生み出します。
+
+ヘアスタイルは、ダークカラーで艶やかにまとめ、頭にぴったりと沿わせます。正確な深いサイドパートを取り、コンパクトな低いシニヨンや滑らかなアップスタイルにまとめて、顔、首筋、イヤリングが隠れないようにします。イヤリングは、オーバル型またはティアドロップ型のパーツを 2 つ重ねた大ぶりのクリスタル、あるいはパヴェデザインのドロップタイプをあしらいます。暗いコートや髪の中でもしっかりと存在感を示せるボリューム感を持たせてください。その他のジュエリーは最小限にするか一切省き、顔周りで鋭く輝くメタリックなアクセントをこのイヤリングのみに絞ります。
+
+花々は、一種類の花を繰り返すのではなく、ダークレッドのバラ、カーネーション、ラナンキュラスなど、フリルのような花びらを持つ花々を密に組み合わせてアレンジします。花の大きさを変え、花びらの形をあえて不均一にし、時折ダークグリーンの茎や葉を混ぜ込みます。赤の塊は、明るいスカーレットやブライダル向けの淡いパステル調ではなく、深く立体的な色味に仕上げます。
+
+テーブルのディテールはあくまで控えめにします。テクスチャーのあるアイボリーのクロス、1 ～ 2 個の透明なカットクリスタルグラス、さりげないシルバーカトラリー、そして花々に半ば隠れた地味な色合いのプレート数枚程度にとどめてください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="ソーシャルメディア投稿 - ハイファッション・エディトリアル用プロンプト - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **公開日:** 2026年11月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: ソーシャルメディア投稿 - ボヘミアンリビングのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1683,7 +1728,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - シネマティック・コンタクトシート用プロンプト
+### No. 23: ソーシャルメディア投稿 - シネマティック・コンタクトシート用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1728,7 +1773,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - ボクシングジム ブライダル エディトリアル
+### No. 24: ソーシャルメディア投稿 - ボクシングジム ブライダル エディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1761,7 +1806,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - 砂漠の孤煙風景比較
+### No. 25: ソーシャルメディア投稿 - 砂漠の孤煙風景比較
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1806,7 +1851,7 @@ GPT-image-2.5、Nano Banana 2 (nano-banana-pro)、Grok-imagine2 が生成する�
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - 薔薇を持つビーチポートレート
+### No. 26: ソーシャルメディア投稿 - 薔薇を持つビーチポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1839,7 +1884,7 @@ GPT-image-2.5、Nano Banana 2 (nano-banana-pro)、Grok-imagine2 が生成する�
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - アンバー・ブリュタリズム・ポートレート
+### No. 27: ソーシャルメディア投稿 - アンバー・ブリュタリズム・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1975,7 +2020,7 @@ Nano Banana Pro を使用し、ハニカム柄のガウンを着た女性のシ�
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - クロームのクジラとバラが織りなすシュールな編集ポートレート
+### No. 28: ソーシャルメディア投稿 - クロームのクジラとバラが織りなすシュールな編集ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2076,7 +2121,7 @@ Nano Banana Pro を使用し、ハニカム柄のガウンを着た女性のシ�
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - 火を吐く女性のパフォーマンス写真
+### No. 29: ソーシャルメディア投稿 - 火を吐く女性のパフォーマンス写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2125,7 +2170,7 @@ Grok Imagine と Nano Banana Pro/2.1 を比較しています。提供された�
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - ヘレニズム期メデューサ エディトリアル プロンプト
+### No. 30: ソーシャルメディア投稿 - ヘレニズム期メデューサ エディトリアル プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2177,7 +2222,7 @@ Grok Imagine と Nano Banana Pro/2.1 を比較しています。提供された�
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - エマ・ワトソン アバンギャルド ポートレート
+### No. 31: ソーシャルメディア投稿 - エマ・ワトソン アバンギャルド ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2278,7 +2323,7 @@ Nano Banana Pro でエマ・ワトソンのアバンギャルドなポートレ�
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - クリーンガール エディトリアル ファッション ポートレート
+### No. 32: ソーシャルメディア投稿 - クリーンガール エディトリアル ファッション ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2331,7 +2376,7 @@ Soho のペントハウスで撮影された、みずみずしい肌質感、ヴ
 
 ---
 
-### No. 32: ソーシャルメディア投稿 - 夕暮れの丘の上でのシネマティックなポートレート
+### No. 33: ソーシャルメディア投稿 - 夕暮れの丘の上でのシネマティックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2361,102 +2406,6 @@ Soho のペントハウスで撮影された、みずみずしい肌質感、ヴ
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: ソーシャルメディア投稿 - 大理石の無関心 エディトリアル・ポートレート プロンプト
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-大理石の胸像に囲まれた女性のシュールなエディトリアル写真を生成するための複雑な JSON フォーマットのプロンプト。ハイエンドなアナログ写真の美学と覗き見的な構図を強調しています。
-
-#### 📝 プロンプト
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "重なり合う古典的な白い大理石の胸像が、ありえないほど密集したシュールなアーカイブ空間に身を置く「主人公（The Protagonist）」を捉えた、映画のような覗き見的な写真。息が詰まるほど押し寄せる彫像群の視覚的幾何学構造を厳密に反映しつつ、高額な予算をかけた実写効果と写真のようなリアリズムで撮影されている。被写体は「オート・アパシー（Haute Apathy＝高級な無関心）」を放っている——感情を読み取らせないニュートラルな表情、重くリラックスしたまぶた、そして力を入れながらも洗練された姿勢で、値打ちのない大理石の頭部に究極の無頓着さで気だるげに寄りかかっている。ミニマルで漆黒のタートルネックを着用し、白い石の海との強烈なコントラストを生み出している。200mm の望遠レンズを使用し、空間を意図的に圧縮して撮影。構図は「覗き見的な一瞥」であり、手前にある 2 つの大理石像の間の、狭く大きくボケた隙間越しに捉えられ、プライベートな瞬間を盗み見るように被写体の顔を切り取っている。ハイキーでクリーン、柔らかなスタジオライティングが、多孔質な大理石と被写体の自然な肌の質感の、完璧で超現実的な仕上がりを際立たせている。Hasselblad H6D-100c で撮影し、Kodak Portra 160 フィルムを使用。本物のマイクロディテール、毛穴、産毛、そして空気中に漂う微かな大理石の粉塵までを捉えている。ネオンや CGI のような見た目は一切排除し、純粋なアナログ写真のテクスチャのみで構成する。",
-  "meta": {
-    "intent": "シュール・アバンギャルド・エディトリアル",
-    "priorities": "前景による遮蔽、強い望遠圧縮効果、肌と大理石の質感のコントラスト",
-    "device_profile": "中判アナログ"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "前景要素によって大きく遮られた、覗き見的フレーミング",
-    "layout": "周囲に密集するオブジェクトに取り囲まれ、タイトに切り取られた被写体",
-    "camera_angle": "遠くの隠れた視点からのアイレベル",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "女性",
-    "identity": "The Protagonist",
-    "demographics": "年齢不詳、幻想的でありながら地に足のついた存在感",
-    "face": "感情のないニュートラルな表情、重くリラックスしたまぶた、シャープでグラフィカルなアイライン",
-    "hair": "つややかで、中央でしっかりと分けたヘアスタイル",
-    "body": "リラックスして力が抜けているが、洗練された姿勢",
-    "expression": "究極の無頓着さ、「この場にはクールすぎる」といった無関心さ",
-    "pose": "肩の力を抜き、大理石像に気負いなく寄りかかるポーズ"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "タートルネックセーター",
-        "material": "上質なメリノウール",
-        "color": "漆黒のマットブラック",
-        "fit": "体にフィットしながらもリラックスしたシルエット"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "グラフィカルなウィングアイライン",
-        "color": "Vantablack",
-        "material": "マットなメイクアップピグメント",
-        "brand_style": "ハイファッション・エディトリアル"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "古典的な白い大理石の胸像が無限に密集する、シュールなアーカイブ空間",
-    "surfaces": "冷たく滑らかでありながら多孔質な白い大理石、微かな粉塵"
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="ソーシャルメディア投稿 - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="ソーシャルメディア投稿 - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="ソーシャルメディア投稿 - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="ソーシャルメディア投稿 - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **公開日:** 2026年10月24日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5104,7 +5053,103 @@ GPT Image 2.5 と Nano Banana 2.1 が生成した、キャラクターのアイ�
 
 ---
 
-### No. 89: プロダクトマーケティング - ベルベットレオタードのポートレート比較
+### No. 89: プロダクトマーケティング - 大理石の無関心 エディトリアル・ポートレート プロンプト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+大理石の胸像に囲まれた女性のシュールなエディトリアル写真を生成するための複雑な JSON フォーマットのプロンプト。ハイエンドなアナログ写真の美学と覗き見的な構図を強調しています。
+
+#### 📝 プロンプト
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "重なり合う古典的な白い大理石の胸像が、ありえないほど密集したシュールなアーカイブ空間に身を置く「主人公（The Protagonist）」を捉えた、映画のような覗き見的な写真。息が詰まるほど押し寄せる彫像群の視覚的幾何学構造を厳密に反映しつつ、高額な予算をかけた実写効果と写真のようなリアリズムで撮影されている。被写体は「オート・アパシー（Haute Apathy＝高級な無関心）」を放っている——感情を読み取らせないニュートラルな表情、重くリラックスしたまぶた、そして力を入れながらも洗練された姿勢で、値打ちのない大理石の頭部に究極の無頓着さで気だるげに寄りかかっている。ミニマルで漆黒のタートルネックを着用し、白い石の海との強烈なコントラストを生み出している。200mm の望遠レンズを使用し、空間を意図的に圧縮して撮影。構図は「覗き見的な一瞥」であり、手前にある 2 つの大理石像の間の、狭く大きくボケた隙間越しに捉えられ、プライベートな瞬間を盗み見るように被写体の顔を切り取っている。ハイキーでクリーン、柔らかなスタジオライティングが、多孔質な大理石と被写体の自然な肌の質感の、完璧で超現実的な仕上がりを際立たせている。Hasselblad H6D-100c で撮影し、Kodak Portra 160 フィルムを使用。本物のマイクロディテール、毛穴、産毛、そして空気中に漂う微かな大理石の粉塵までを捉えている。ネオンや CGI のような見た目は一切排除し、純粋なアナログ写真のテクスチャのみで構成する。",
+  "meta": {
+    "intent": "シュール・アバンギャルド・エディトリアル",
+    "priorities": "前景による遮蔽、強い望遠圧縮効果、肌と大理石の質感のコントラスト",
+    "device_profile": "中判アナログ"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "前景要素によって大きく遮られた、覗き見的フレーミング",
+    "layout": "周囲に密集するオブジェクトに取り囲まれ、タイトに切り取られた被写体",
+    "camera_angle": "遠くの隠れた視点からのアイレベル",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "女性",
+    "identity": "The Protagonist",
+    "demographics": "年齢不詳、幻想的でありながら地に足のついた存在感",
+    "face": "感情のないニュートラルな表情、重くリラックスしたまぶた、シャープでグラフィカルなアイライン",
+    "hair": "つややかで、中央でしっかりと分けたヘアスタイル",
+    "body": "リラックスして力が抜けているが、洗練された姿勢",
+    "expression": "究極の無頓着さ、「この場にはクールすぎる」といった無関心さ",
+    "pose": "肩の力を抜き、大理石像に気負いなく寄りかかるポーズ"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "タートルネックセーター",
+        "material": "上質なメリノウール",
+        "color": "漆黒のマットブラック",
+        "fit": "体にフィットしながらもリラックスしたシルエット"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "グラフィカルなウィングアイライン",
+        "color": "Vantablack",
+        "material": "マットなメイクアップピグメント",
+        "brand_style": "ハイファッション・エディトリアル"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "古典的な白い大理石の胸像が無限に密集する、シュールなアーカイブ空間",
+    "surfaces": "冷たく滑らかでありながら多孔質な白い大理石、微かな粉塵"
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="プロダクトマーケティング - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="プロダクトマーケティング - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="プロダクトマーケティング - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="プロダクトマーケティング - 大理石の無関心 エディトリアル・ポートレート プロンプト - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **公開日:** 2026年10月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: プロダクトマーケティング - ベルベットレオタードのポートレート比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5159,7 +5204,7 @@ Nano Pro を含む複数モデルの比較。赤いベルベットレオター�
 
 ---
 
-### No. 90: プロダクトマーケティング - Nano Banana Pro シルバーメタリックガウン ポートレート
+### No. 91: プロダクトマーケティング - Nano Banana Pro シルバーメタリックガウン ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5194,7 +5239,7 @@ Nano Banana Pro を使用して、液体金属のようなシルバーのガウ�
 
 ---
 
-### No. 91: プロダクトマーケティング - アールデコ イブニングガウン プロンプト
+### No. 92: プロダクトマーケティング - アールデコ イブニングガウン プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5246,7 +5291,7 @@ Nano Banana Pro で、1920 年代のアールデコ風エメラルドグリー�
 
 ---
 
-### No. 92: プロダクトマーケティング - ハイファッション・アーバンナイトエディトリアル
+### No. 93: プロダクトマーケティング - ハイファッション・アーバンナイトエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5295,93 +5340,6 @@ Nano Banana Pro で、1920 年代のアールデコ風エメラルドグリー�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-Nano Banana Pro 向けの複雑な JSON フォーマットのプロンプト。金属の水たまりに映るマッケンジー・ダヴィスのシュールな編集写真。
-
-#### 📝 プロンプト
-
-```
-{
-  "vibe_title_en": "Broken Cyber Mirrors に映る Origami Dreams",
-  "master_prompt": "Hasselblad H6D-100c、80mm f/1.4 レンズで撮影された超リアルなシュール編集写真。カメラは暗い床にある割れた粘性のある金属の水たまりのみを捉えている。このひび割れた表面には、ブラッシュドアルミニウムで作られた巨大な物理的にリグ付けされた origami airplane の上に座る The Protagonist が鮮明に反射している。高密度のクライオジェニックスタジオフォグが構造物の下に雲海を模倣している。背景にある実際の被写体は浅い被写界深度により強くぼかされている。反射した Protagonist はサイバーエーテル的な合成美を呈する：不可能なほど対称的な特徴、貫くような非人間的な視線、そしてクローズアップすると本物のマイクロポアが見える 'plasticized' な肌。暗くミニマルなブルータリズムの部屋は、鋭いシアンと白い蛍光のリムライトによって照らされ、フォグと金属飛行機の縁を捉えている。Kodak Portra 800 で撮影、強いフィルムグレイン、完全に実用的な高予算効果、NO NEON、シネマティックなキアロスクーロ。",
-  "meta": {
-    "intent": "シネマティックシュールハイファッションポートレート",
-    "priorities": "歪んだ反射フレーミング、合成肌テクスチャ、実用的シュールレアリズム",
-    "device_profile": "アナログフィルムを模倣した中判デジタル"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "反射主体、水たまりの反射内に被写体を中央配置し、物理的な身体は背景でぼかす",
-    "layout": "フレーム下半分は鮮明な反射水たまりが支配し、上半分はぼやけた物理シーンを見せる",
-    "camera_angle": "床の反射を見るために 45 度の高角度俯瞰",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "年齢不詳、ポストヒューマンの完璧さ",
-    "face": "不気味なほど対称的、明確なマイクロポアを持つプラスチック化された光沢",
-    "hair": "滑らかで強くスタイリングされた、シアンリムライトを捉える合成のようなストランド",
-    "body": "彫像のような、硬直した姿勢",
-    "expression": "無表情、貫くような、反射を通じて視聴者を強く観察している",
-    "pose": "金属製 origami 構造の上に硬直して座り、水たまりを覗き込むためにわずかに前傾"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "テフロンコーティング合成シルク",
-        "color": "半透明な氷のような白",
-        "fit": "建築的で硬直"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "幾何学的イヤーカフ",
-        "color": "ポリッシュクローム",
-        "material": "サージカルスチール",
-        "brand_style": "アヴァンギャルドサイバーミニマリズム"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "暗くミニマルなブルータリズム航空宇宙テストチャンバー",
-    "surfaces": "割れたコンクリート、粘性のある金属流体、ブラッシュドアルミニウム origa"
-  }
-}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **公開日:** 2026年10月16日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6624,7 +6582,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 <div align="center">
 
-### 🎯 15707 さらに多くのプロンプトがあります
+### 🎯 15708 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6687,6 +6645,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-11-02T04:01:57.067Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-11-02T08:02:58.815Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15827** |
+| 📝 提示词总数 | **15828** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月2日星期一 UTC 04:01:46** |
+| 🔄 最后更新 | **2026年11月2日星期一 UTC 08:02:50** |
 
 </div>
 
@@ -1646,7 +1646,50 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社交媒体帖子 - 波西米亚风格客厅女性肖像
+### No. 21: 社交媒体帖子 - 高级时尚编辑风格提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个用于生成高级时尚编辑风格图像的详细提示词，画面中一位女性坐在湖边，周围有红色花朵，专为 Nano Banana 2（可能兼容 Pro）设计。
+
+#### 📝 提示词
+
+```
+创作一组竖版高级时装大片，场景设在宁静湖畔或波光粼粼的水面旁的一张户外正式餐桌边。在清透的定向自然光下拍摄，让层层叠叠的红色花朵以不同景深环绕主体。画面中是一位成年女性，坐在铺着象牙白桌布的长桌旁，取景范围大致从膝盖以上至头顶上方。构图保持不对称：左侧由一大片深红色的花丛占据主导，同时在前景下方、极贴近镜头的位置再安排几朵虚化的红花，让它们部分遮挡住桌面与人物下半身。女性身后需留出足够的背景空间，呈现出柔和失焦的水面、墨绿色的枝叶以及色调柔和的秋日树木，但切忌将画面拍成纯粹的风景人像照。
+
+姿态的核心在于“静”，而非正在用餐的动态。让她的一只手肘自然地搭在桌沿，同侧的手掌托住脸颊与下颌处。手腕保持放松，不要刻意摆出娇柔的姿态。另一只手臂自然垂于身侧，或松松地搭在腿上。上半身挺直，但重心微微落在一侧臀部上，双肩高低错落、自然松弛。面部仅略微转向镜头，目光则轻轻越过镜头望向别处。神情要克制、疏离，甚至带着一丝不易察觉的不耐烦，绝不能是浪漫、微笑或梦幻的感觉。双唇自然放松，但要用浓郁的深红色唇妆勾勒出清晰的轮廓。
+
+为她穿上一件宽大的祖母绿长款大衣，搭配宽阔的翻领和挺括的肩部，面料呈现厚实的哑光羊毛或羊绒质感。大衣自然敞开，厚重地裹在手臂与身体两侧，不要显得过于修身贴合。内搭一件垂坠感十足的象牙白真丝缎面连衣裙，领口轻柔堆叠，长裙在交叠的双腿上铺展成宽阔而富有光泽的褶皱。大衣负责吸收光线，裙装则捕捉绵长柔和的高光，两者形成鲜明的材质对比。
+
+发型打理得光洁服帖、深色且紧贴头部，分出精准深邃的侧分线，向后收拢成紧致的低发髻或光滑的低盘发，确保面部、颈部和耳饰完全不被遮挡。佩戴超大号的水晶或密镶吊坠耳环，造型由两个上下叠放的椭圆形或水滴形构成，分量感十足，即使在深色大衣与暗色头发的映衬下依然醒目。其余首饰尽量精简或不戴，让这对耳环成为脸庞附近唯一锐利闪耀的金属光泽。
+
+花艺部分用深红色的玫瑰、康乃馨、洋毛茛及类似的重瓣花朵密集组合而成，避免使用单一重复的花材。花朵大小错落，花瓣形状无需完美，偶尔露出几根墨绿色的花茎或叶片。整片红色花丛要浓郁饱满、富有层次，而不是明艳的大红或婚礼上常见的浅粉色。
+
+餐桌细节务必克制：一块带有纹理的象牙白桌布，一两只剔透的手工切割水晶杯，低调的银质餐具，或许还可以放几个不起眼的餐盘，让它们半掩在花丛之中。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="社交媒体帖子 - 高级时尚编辑风格提示词 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **来源:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **发布时间:** 2026年11月1日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: 社交媒体帖子 - 波西米亚风格客厅女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1722,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社交媒体帖子 - 电影感联系表提示词
+### No. 23: 社交媒体帖子 - 电影感联系表提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1767,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社交媒体帖子 - 拳击馆新娘时尚大片
+### No. 24: 社交媒体帖子 - 拳击馆新娘时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1800,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社交媒体帖子 - 大漠孤烟景观对比
+### No. 25: 社交媒体帖子 - 大漠孤烟景观对比
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1802,7 +1845,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社交媒体帖子 - 海滩玫瑰人像
+### No. 26: 社交媒体帖子 - 海滩玫瑰人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1878,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社交媒体帖子 - 琥珀色粗野主义肖像
+### No. 27: 社交媒体帖子 - 琥珀色粗野主义肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2014,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社交媒体帖子 - 超现实时尚编辑肖像：镀铬鲸鱼与玫瑰
+### No. 28: 社交媒体帖子 - 超现实时尚编辑肖像：镀铬鲸鱼与玫瑰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2072,7 +2115,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社交媒体帖子 - 喷火表演者高性能照片
+### No. 29: 社交媒体帖子 - 喷火表演者高性能照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2121,7 +2164,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社交媒体帖子 - 希腊化时期 Medusa 编辑风格提示词
+### No. 30: 社交媒体帖子 - 希腊化时期 Medusa 编辑风格提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +2216,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社交媒体帖子 - 艾玛·沃特森前卫肖像
+### No. 31: 社交媒体帖子 - 艾玛·沃特森前卫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2317,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社交媒体帖子 - Clean-Girl 风格时尚编辑人像
+### No. 32: 社交媒体帖子 - Clean-Girl 风格时尚编辑人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +2370,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 社交媒体帖子 - 黄昏时分山顶的电影感肖像
+### No. 33: 社交媒体帖子 - 黄昏时分山顶的电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,102 +2400,6 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: 社交媒体帖子 - 大理石冷漠编辑肖像提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个复杂的 JSON 格式提示词，用于生成一张超现实的编辑风格照片，画面中一位女性被大理石半身像环绕，强调高端模拟摄影美学和窥视式构图。
-
-#### 📝 提示词
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "一张充满电影感与窥视视角的照片：主角置身于一个超现实、密集到不可思议的档案空间中，四周堆叠着层层交错的古典白色大理石半身像。画面严格还原了雕像如幽闭人群般层层逼近的视觉几何结构，但采用高预算实体特效与摄影级写实手法拍摄。人物散发出“高级冷漠”（Haute Apathy）的气质——面无表情、神态中性，眼睑低垂放松，姿态慵懒却极具时髦感，漫不经心地倚靠在一尊价值连城的大理石头像旁，透着极致的无所谓。她身穿一件极简的纯黑高领毛衣，与这片白色石海形成强烈对比。使用 200mm 长焦镜头拍摄，极致压缩空间纵深。构图采用“窥视一瞥”视角，透过前景两尊大理石雕像之间狭窄且严重失焦的缝隙捕捉画面，将人物面部框入其中，仿佛在偷窥某个私密瞬间。高调、干净、柔和的影棚布光，凸显出多孔大理石与人物自然肌肤纹理那毫无瑕疵、超写实的质感。使用 Hasselblad H6D-100c 相机搭配 Kodak Portra 160 胶片拍摄，精准捕捉真实的微观细节：皮肤毛孔、散落的发丝，以及悬浮在空气中的细微大理石粉尘。绝对不要霓虹效果，不要 CGI 质感；呈现纯粹的模拟胶片摄影肌理。",
-  "meta": {
-    "intent": "超现实先锋时尚大片",
-    "priorities": "前景遮挡、强烈的长焦空间压缩、肌肤与大理石的质感对比",
-    "device_profile": "中画幅胶片"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "窥视式构图，被前景元素大面积遮挡",
-    "layout": "主体取景紧凑，被周围密集的物体所包围吞没",
-    "camera_angle": "从远处隐蔽视角拍摄的平视角度",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "女性",
-    "identity": "主角",
-    "demographics": "年龄模糊，空灵却又真实可触",
-    "face": "中性、面无表情，眼睑低垂放松，眼线利落且极具图形感",
-    "hair": "顺滑服帖，中分紧贴头皮",
-    "body": "放松、慵懒却不失时髦感的体态",
-    "expression": "极致的漫不经心，一种“全场我最酷”的冷漠疏离",
-    "pose": "双肩微塌，毫不费力地倚靠在一尊大理石雕像上"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "高领毛衣",
-        "material": "精细美利奴羊毛",
-        "color": "纯正哑光黑",
-        "fit": "修身但不紧绷"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "图形感上扬眼线",
-        "color": "Vantablack（极致黑）",
-        "material": "哑光彩妆颜料",
-        "brand_style": "高级时装大片风格"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "一个无限密集、超现实的古典白色大理石半身像档案库",
-    "surfaces": "冰冷、光滑却带孔隙的白色大理石，覆有细微粉尘"
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="社交媒体帖子 - 大理石冷漠编辑肖像提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="社交媒体帖子 - 大理石冷漠编辑肖像提示词 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="社交媒体帖子 - 大理石冷漠编辑肖像提示词 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="社交媒体帖子 - 大理石冷漠编辑肖像提示词 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **发布时间:** 2026年10月24日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5070,7 +5017,103 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 89: 产品营销 - 红色天鹅绒紧身连衣裤人像对比
+### No. 89: 产品营销 - 大理石冷漠编辑肖像提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个复杂的 JSON 格式提示词，用于生成一张超现实的编辑风格照片，画面中一位女性被大理石半身像环绕，强调高端模拟摄影美学和窥视式构图。
+
+#### 📝 提示词
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "一张充满电影感与窥视视角的照片：主角置身于一个超现实、密集到不可思议的档案空间中，四周堆叠着层层交错的古典白色大理石半身像。画面严格还原了雕像如幽闭人群般层层逼近的视觉几何结构，但采用高预算实体特效与摄影级写实手法拍摄。人物散发出“高级冷漠”（Haute Apathy）的气质——面无表情、神态中性，眼睑低垂放松，姿态慵懒却极具时髦感，漫不经心地倚靠在一尊价值连城的大理石头像旁，透着极致的无所谓。她身穿一件极简的纯黑高领毛衣，与这片白色石海形成强烈对比。使用 200mm 长焦镜头拍摄，极致压缩空间纵深。构图采用“窥视一瞥”视角，透过前景两尊大理石雕像之间狭窄且严重失焦的缝隙捕捉画面，将人物面部框入其中，仿佛在偷窥某个私密瞬间。高调、干净、柔和的影棚布光，凸显出多孔大理石与人物自然肌肤纹理那毫无瑕疵、超写实的质感。使用 Hasselblad H6D-100c 相机搭配 Kodak Portra 160 胶片拍摄，精准捕捉真实的微观细节：皮肤毛孔、散落的发丝，以及悬浮在空气中的细微大理石粉尘。绝对不要霓虹效果，不要 CGI 质感；呈现纯粹的模拟胶片摄影肌理。",
+  "meta": {
+    "intent": "超现实先锋时尚大片",
+    "priorities": "前景遮挡、强烈的长焦空间压缩、肌肤与大理石的质感对比",
+    "device_profile": "中画幅胶片"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "窥视式构图，被前景元素大面积遮挡",
+    "layout": "主体取景紧凑，被周围密集的物体所包围吞没",
+    "camera_angle": "从远处隐蔽视角拍摄的平视角度",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "女性",
+    "identity": "主角",
+    "demographics": "年龄模糊，空灵却又真实可触",
+    "face": "中性、面无表情，眼睑低垂放松，眼线利落且极具图形感",
+    "hair": "顺滑服帖，中分紧贴头皮",
+    "body": "放松、慵懒却不失时髦感的体态",
+    "expression": "极致的漫不经心，一种“全场我最酷”的冷漠疏离",
+    "pose": "双肩微塌，毫不费力地倚靠在一尊大理石雕像上"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "高领毛衣",
+        "material": "精细美利奴羊毛",
+        "color": "纯正哑光黑",
+        "fit": "修身但不紧绷"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "图形感上扬眼线",
+        "color": "Vantablack（极致黑）",
+        "material": "哑光彩妆颜料",
+        "brand_style": "高级时装大片风格"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "一个无限密集、超现实的古典白色大理石半身像档案库",
+    "surfaces": "冰冷、光滑却带孔隙的白色大理石，覆有细微粉尘"
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **发布时间:** 2026年10月24日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: 产品营销 - 红色天鹅绒紧身连衣裤人像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5125,7 +5168,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 90: 产品营销 - Nano Banana Pro 银色金属质感礼服人像
+### No. 91: 产品营销 - Nano Banana Pro 银色金属质感礼服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5160,7 +5203,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 91: 产品营销 - 装饰艺术风格晚礼服提示词
+### No. 92: 产品营销 - 装饰艺术风格晚礼服提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5212,7 +5255,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 92: 产品营销 - 高端时尚都市夜景大片
+### No. 93: 产品营销 - 高端时尚都市夜景大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5261,93 +5304,6 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: 产品营销 - 折纸梦境赛博镜面提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于 Nano Banana Pro 的复杂 JSON 格式提示词，描绘了 Mackenzie Davis 在金属水洼中的超现实编辑摄影作品。
-
-#### 📝 提示词
-
-```
-{
-  "vibe_title_en": "破碎赛博镜中映射的折纸梦境",
-  "master_prompt": "一张使用 Hasselblad H6D-100c 相机和 80mm f/1.4 镜头拍摄的超写实超现实编辑摄影作品。镜头完全聚焦于黑暗地面上一个破裂且粘稠的金属水洼。在这个开裂的表面中，清晰地反射出主角（The Protagonist），她坐在一架由拉丝铝制成的巨大、物理结构完整的折纸飞机上。浓密的低温影棚雾气模拟了结构下方的云海。背景中的实际主体因浅景深而严重模糊。反射出的主角展现出一种赛博空灵的合成美感：不可能对称的五官、穿透性的非人类凝视，以及‘塑料化’的皮肤，但在近距离观察下仍显示出真实的微毛孔。黑暗、极简主义的粗野主义房间被强烈的青色和锐利的白色荧光轮廓光照亮，捕捉到雾气和金属飞机的边缘。使用 Kodak Portra 800 胶片拍摄，具有厚重的胶片颗粒感，完全采用高预算的实际特效，无霓虹灯效果，电影级明暗对比风格。",
-  "meta": {
-    "intent": "电影级超现实高级时尚肖像",
-    "priorities": "扭曲的反射构图、合成皮肤纹理、实际超现实主义",
-    "device_profile": "模仿模拟胶片的中画幅数码"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "以反射为主导，主体位于水洼反射的中心，而物理身体在背景中保持模糊",
-    "layout": "画面下半部分由清晰的反射水洼主导，上半部分展示模糊的物理场景",
-    "camera_angle": "高角度俯视，以 45 度角看向地面反射",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "无年龄界限的后人类完美形态",
-    "face": "异常对称，带有明显微毛孔的塑料光泽",
-    "hair": "光滑、精心造型、看似合成的发丝，捕捉青色轮廓光",
-    "body": "雕像般的身材，僵硬的姿态",
-    "expression": "空白、穿透性，通过反射强烈地注视着观众",
-    "pose": "僵硬地坐在金属折纸结构顶部，身体略微前倾以窥视水洼"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "特氟龙涂层合成丝绸",
-        "color": "半透明冰白色",
-        "fit": "建筑感且僵硬"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "几何耳夹",
-        "color": "抛光铬色",
-        "material": "手术钢",
-        "brand_style": "前卫赛博极简主义"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "黑暗、极简主义的粗野主义航空航天测试室",
-    "surfaces": "开裂混凝土、粘稠金属流体、拉丝铝折纸"
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="产品营销 - 折纸梦境赛博镜面提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="产品营销 - 折纸梦境赛博镜面提示词 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **发布时间:** 2026年10月16日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6590,7 +6546,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 <div align="center">
 
-### 🎯 15707 更多提示词未在此显示
+### 🎯 15708 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6653,6 +6609,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-02T04:01:46.964Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-02T08:02:50.228Z</sub>
 
 </div>

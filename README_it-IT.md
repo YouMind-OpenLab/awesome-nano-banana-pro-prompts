@@ -143,9 +143,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **15827** |
+| 📝 Totale prompt | **15828** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **lunedì 2 novembre 2026 alle ore 04:02:43 UTC** |
+| 🔄 Ultimo aggiornamento | **lunedì 2 novembre 2026 alle ore 08:03:39 UTC** |
 
 </div>
 
@@ -1646,7 +1646,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Post sui social media - Ritratto in Soggiorno Bohemian
+### No. 21: Post sui social media - Prompt Editoriale di Alta Moda
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt dettagliato per generare un'immagine editoriale di alta moda con una donna seduta accanto a un lago con fiori rossi, progettato per Nano Banana 2 (probabilmente compatibile con Pro).
+
+#### 📝 Prompt
+
+```
+Crea un editoriale di alta moda in formato verticale ambientato a un tavolo da pranzo formale all'aperto, accanto a un lago calmo o a uno specchio d'acqua riflettente, fotografato con una luce diurna chiara e direzionale, con densi fiori rossi che circondano il soggetto su più piani di profondità. Inquadra una donna adulta seduta accanto a un lungo tavolo coperto da una tovaglia color avorio, approssimativamente dalle ginocchia fino a poco sopra la testa. Mantieni una composizione asimmetrica: lascia che una grande massa di fiori rosso cremisi domini il lato sinistro e che altri fiori rossi sfocati entrino molto vicini alla fotocamera nel primo piano inferiore, interrompendo parzialmente il tavolo e la parte bassa del corpo. Conserva abbastanza sfondo libero dietro la donna per rivelare l'acqua leggermente fuori fuoco, il fogliame verde scuro e gli alberi dai toni autunnali smorzati, senza però trasformare la location in un ritratto paesaggistico. Costruisci la posa attorno all'immobilità piuttosto che all'azione del mangiare. Lascia che un gomito si appoggi naturalmente al bordo del tavolo, mentre la mano corrispondente sostiene il lato del viso vicino allo zigomo e alla mascella. Mantieni il polso rilassato, non delicatamente composto. Lascia che il braccio opposto ricada lungo il fianco o riposi morbidamente sulle gambe. Il busto resta eretto ma leggermente abbandonato su un'anca, con le spalle asimmetriche e rilassate. Ruota il viso solo di poco verso la fotocamera, lasciando che lo sguardo scivoli appena oltre. Mantieni un'espressione composta, distaccata e vagamente impaziente, anziché romantica, sorridente o sognante. La bocca deve restare rilassata ma definita da un rossetto rosso scuro intenso e marcato. Vestila con un lungo cappotto oversize verde smeraldo, con ampi revers, spalle importanti e una texture densa in lana opaca o cashmere. Lascia che il cappotto resti aperto e avvolga pesantemente braccia e fianchi, senza sembrare troppo aderente al corpo. Sotto, fai intravedere un abito fluido in seta satinata color avorio, con una scollatura dal drappeggio morbido e una gonna lunga che cade in ampie pieghe luminose sulle gambe sedute. Il cappotto deve assorbire la luce, mentre l'abito cattura lunghi riflessi morbidi, creando un netto contrasto materico. Acconcia i capelli lisci, scuri e aderenti alla testa, con una riga laterale profonda e precisa, raccolti in uno chignon basso e compatto o in una forma morbida e tirata indietro, così da lasciare liberi viso, collo e orecchini. Aggiungi orecchini pendenti oversize in cristallo o pavé, composti da due forme ovali o a goccia sovrapposte, abbastanza imponenti da risaltare sul cappotto scuro e sui capelli. Riduci al minimo o elimina gli altri gioielli, affinché gli orecchini restino l'unico punto luce metallico e nitido vicino al viso. Componi i fiori come dense composizioni di rose, garofani, ranuncoli e altre corolle increspate rosso scuro, evitando di usare un unico tipo di fiore ripetuto. Varia le dimensioni, usa petali dalle forme imperfette e inserisci occasionalmente steli o foglie verde scuro. Mantieni le masse rosse ricche e tridimensionali, mai di un rosso scarlatto acceso o nei toni pastello tipici dei bouquet da sposa. Inserisci solo dettagli essenziali sulla tavola: una tovaglia texturizzata color avorio, uno o due bicchieri trasparenti in cristallo molato, posate discrete e forse qualche piatto sobrio, parzialmente nascosto dai fiori.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="Post sui social media - Prompt Editoriale di Alta Moda - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Fonte:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **Pubblicato:** 1 novembre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: Post sui social media - Ritratto in Soggiorno Bohemian
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1712,7 @@ Crea un ritratto fotorealistico di una donna adulta in piedi in un accogliente s
 
 ---
 
-### No. 22: Post sui social media - Prompt per Contact Sheet Cinematografico
+### No. 23: Post sui social media - Prompt per Contact Sheet Cinematografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1757,7 @@ Pannello 4, in basso a destra — "Sunset Walk Home": il soggetto torna indietro
 
 ---
 
-### No. 23: Post sui social media - Editoriale Sposa in Palestra di Boxe
+### No. 24: Post sui social media - Editoriale Sposa in Palestra di Boxe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1790,7 @@ Crea un editoriale di alta moda in formato verticale all'interno di una vera pal
 
 ---
 
-### No. 24: Post sui social media - Confronto del Paesaggio Desertico Solitario con Fumo
+### No. 25: Post sui social media - Confronto del Paesaggio Desertico Solitario con Fumo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1802,7 +1835,7 @@ Fumo solitario nel deserto, paesaggio mozzafiato del nord-ovest, crepuscolo ai m
 
 ---
 
-### No. 25: Post sui social media - Ritratto in Spiaggia con Rosa
+### No. 26: Post sui social media - Ritratto in Spiaggia con Rosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ Una giovane donna è in piedi su una spiaggia di ciottoli, con l'oceano e la cos
 
 ---
 
-### No. 26: Post sui social media - Ritratto Brutalista Ambra
+### No. 27: Post sui social media - Ritratto Brutalista Ambra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2004,7 @@ Genera un ritratto editoriale surrealista di una donna in un abito a nido d'ape 
 
 ---
 
-### No. 27: Post sui social media - Ritratto Editoriale Surreale con Balene Cromate e Rose
+### No. 28: Post sui social media - Ritratto Editoriale Surreale con Balene Cromate e Rose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2072,7 +2105,7 @@ Un prompt JSON strutturato complesso per generare un ritratto editoriale simmetr
 
 ---
 
-### No. 28: Post sui social media - Foto Prestazionale della Sputafuoco
+### No. 29: Post sui social media - Foto Prestazionale della Sputafuoco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2121,7 +2154,7 @@ Mantieni visibili alle sue spalle diversi spettatori adulti indistinti, come sag
 
 ---
 
-### No. 29: Post sui social media - Prompt Editoriale Medusa Ellenistica
+### No. 30: Post sui social media - Prompt Editoriale Medusa Ellenistica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +2206,7 @@ Fotografia digitale iper-fotorealistica con color grading editoriale cinematogra
 
 ---
 
-### No. 30: Post sui social media - Ritratto d'Avanguardia di Emma Watson
+### No. 31: Post sui social media - Ritratto d'Avanguardia di Emma Watson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2307,7 @@ Un prompt JSON complesso per Nano Banana Pro che genera un ritratto d'avanguardi
 
 ---
 
-### No. 31: Post sui social media - Ritratto Editoriale di Moda Stile Clean-Girl
+### No. 32: Post sui social media - Ritratto Editoriale di Moda Stile Clean-Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +2360,7 @@ Stile editoriale high-fashion iperrealistico. Resa tattile del pizzo delicato, d
 
 ---
 
-### No. 32: Post sui social media - Ritratto cinematografico in cima alla collina al crepuscolo
+### No. 33: Post sui social media - Ritratto cinematografico in cima alla collina al crepuscolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,102 +2390,6 @@ Ritratto cinematografico di una giovane donna dell'Asia orientale in piedi su un
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: Post sui social media - Prompt per Ritratto Editoriale 'Marble Apathy'
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt JSON complesso per generare una fotografia editoriale surrealista di una donna circondata da busti in marmo, con enfasi sull'estetica fotografica analogica di alta gamma e su un'inquadratura voyeuristica.
-
-#### 📝 Prompt
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "Una fotografia cinematografica e voyeuristica de Il Protagonista immerso in un archivio surreale e incredibilmente denso di busti classici in marmo bianco sovrapposti. L'immagine rispecchia fedelmente la geometria visiva di una folla claustrofobica di statue che si stringono addosso, ma è realizzata con effetti pratici da grande budget e realismo fotografico. Il soggetto emana 'Haute Apathy': un'espressione facciale neutra e impassibile, con palpebre pesanti e rilassate, una postura abbandonata ma chic, appoggiato con estrema nonchalance a una testa di marmo dal valore inestimabile. Indossa un dolcevita nero essenziale e netto, che contrasta drasticamente con il mare di pietra bianca. Scattata con un teleobiettivo da 200 mm per comprimere aggressivamente lo spazio. La composizione è uno 'Sguardo Voyeuristico', catturato attraverso una stretta fessura fortemente sfocata tra due statue di marmo in primo piano, che incornicia il volto del soggetto come se si stesse spiando un momento intimo. Un'illuminazione da studio high-key, pulita e morbida esalta la finitura impeccabile e iperrealistica sia del marmo poroso sia della texture naturale della pelle del soggetto. Scattata con Hasselblad H6D-100c, su pellicola Kodak Portra 160, per catturare micro-dettagli autentici, pori della pelle, capelli fuori posto e sottili granelli di polvere di marmo sospesi nell'aria. Assolutamente niente neon, nessun effetto CGI; pura texture fotografica analogica.",
-  "meta": {
-    "intent": "Editoriale surrealista d'avanguardia",
-    "priorities": "Occlusione in primo piano, forte compressione del teleobiettivo, contrasto materico tra pelle e marmo",
-    "device_profile": "Analogico medio formato"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Inquadratura voyeuristica fortemente oscurata dagli elementi in primo piano",
-    "layout": "Soggetto inquadrato strettamente e inghiottito dai densi oggetti circostanti",
-    "camera_angle": "Ad altezza occhi da un punto di osservazione distante e nascosto",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Femminile",
-    "identity": "Il Protagonista",
-    "demographics": "Senza età, eterea ma concreta",
-    "face": "Neutro, impassibile, con palpebre pesanti e rilassate ed eyeliner grafico e netto",
-    "hair": "Liscio, diviso da una riga centrale molto tirata",
-    "body": "Postura rilassata, abbandonata ma chic",
-    "expression": "Estrema nonchalance, apatia da 'troppo cool per questo posto'",
-    "pose": "Spalle cadenti, appoggiata senza sforzo a una statua di marmo"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Maglione a collo alto",
-        "material": "Fine lana merino",
-        "color": "Nero opaco intenso",
-        "fit": "Aderente ma morbido"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Eyeliner alato grafico",
-        "color": "Vantablack",
-        "material": "Pigmento makeup opaco",
-        "brand_style": "Editoriale high-fashion"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Un archivio infinitamente denso e surreale di busti classici in marmo bianco",
-    "surfaces": "Marmo bianco freddo, liscio ma poroso, polvere sottile"
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Post sui social media - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Post sui social media - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Post sui social media - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Post sui social media - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Fonte:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **Pubblicato:** 24 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5067,7 +5004,103 @@ Vincoli negativi: nessun modello extra, nessuna variazione dell'identità, nessu
 
 ---
 
-### No. 89: Marketing di Prodotto - Confronto Ritratti Body in Velluto Rosso
+### No. 89: Marketing di Prodotto - Prompt per Ritratto Editoriale 'Marble Apathy'
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt JSON complesso per generare una fotografia editoriale surrealista di una donna circondata da busti in marmo, con enfasi sull'estetica fotografica analogica di alta gamma e su un'inquadratura voyeuristica.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "Una fotografia cinematografica e voyeuristica de Il Protagonista immerso in un archivio surreale e incredibilmente denso di busti classici in marmo bianco sovrapposti. L'immagine rispecchia fedelmente la geometria visiva di una folla claustrofobica di statue che si stringono addosso, ma è realizzata con effetti pratici da grande budget e realismo fotografico. Il soggetto emana 'Haute Apathy': un'espressione facciale neutra e impassibile, con palpebre pesanti e rilassate, una postura abbandonata ma chic, appoggiato con estrema nonchalance a una testa di marmo dal valore inestimabile. Indossa un dolcevita nero essenziale e netto, che contrasta drasticamente con il mare di pietra bianca. Scattata con un teleobiettivo da 200 mm per comprimere aggressivamente lo spazio. La composizione è uno 'Sguardo Voyeuristico', catturato attraverso una stretta fessura fortemente sfocata tra due statue di marmo in primo piano, che incornicia il volto del soggetto come se si stesse spiando un momento intimo. Un'illuminazione da studio high-key, pulita e morbida esalta la finitura impeccabile e iperrealistica sia del marmo poroso sia della texture naturale della pelle del soggetto. Scattata con Hasselblad H6D-100c, su pellicola Kodak Portra 160, per catturare micro-dettagli autentici, pori della pelle, capelli fuori posto e sottili granelli di polvere di marmo sospesi nell'aria. Assolutamente niente neon, nessun effetto CGI; pura texture fotografica analogica.",
+  "meta": {
+    "intent": "Editoriale surrealista d'avanguardia",
+    "priorities": "Occlusione in primo piano, forte compressione del teleobiettivo, contrasto materico tra pelle e marmo",
+    "device_profile": "Analogico medio formato"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Inquadratura voyeuristica fortemente oscurata dagli elementi in primo piano",
+    "layout": "Soggetto inquadrato strettamente e inghiottito dai densi oggetti circostanti",
+    "camera_angle": "Ad altezza occhi da un punto di osservazione distante e nascosto",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Femminile",
+    "identity": "Il Protagonista",
+    "demographics": "Senza età, eterea ma concreta",
+    "face": "Neutro, impassibile, con palpebre pesanti e rilassate ed eyeliner grafico e netto",
+    "hair": "Liscio, diviso da una riga centrale molto tirata",
+    "body": "Postura rilassata, abbandonata ma chic",
+    "expression": "Estrema nonchalance, apatia da 'troppo cool per questo posto'",
+    "pose": "Spalle cadenti, appoggiata senza sforzo a una statua di marmo"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Maglione a collo alto",
+        "material": "Fine lana merino",
+        "color": "Nero opaco intenso",
+        "fit": "Aderente ma morbido"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Eyeliner alato grafico",
+        "color": "Vantablack",
+        "material": "Pigmento makeup opaco",
+        "brand_style": "Editoriale high-fashion"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Un archivio infinitamente denso e surreale di busti classici in marmo bianco",
+    "surfaces": "Marmo bianco freddo, liscio ma poroso, polvere sottile"
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Marketing di Prodotto - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Marketing di Prodotto - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Marketing di Prodotto - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Marketing di Prodotto - Prompt per Ritratto Editoriale 'Marble Apathy' - Image 4">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Fonte:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: Marketing di Prodotto - Confronto Ritratti Body in Velluto Rosso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5122,7 +5155,7 @@ Sfondo pulito ed essenziale, illuminato da una luce morbida e teatrale che esalt
 
 ---
 
-### No. 90: Marketing di Prodotto - Ritratto in Abito Argento Metallico Nano Banana Pro
+### No. 91: Marketing di Prodotto - Ritratto in Abito Argento Metallico Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5157,7 +5190,7 @@ Prompt negativo: nessun aspetto CGI, niente pelle di plastica, volto diverso, pe
 
 ---
 
-### No. 91: Marketing di Prodotto - Prompt per Abito da Sera Art Déco
+### No. 92: Marketing di Prodotto - Prompt per Abito da Sera Art Déco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5209,7 +5242,7 @@ Rendering ultra-fotorealistico incentrato sul contrasto materico: la freddezza r
 
 ---
 
-### No. 92: Marketing di Prodotto - Editoriale di Moda Urbana Notturna High-Fashion
+### No. 93: Marketing di Prodotto - Editoriale di Moda Urbana Notturna High-Fashion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5258,93 +5291,6 @@ Stile editoriale iper-fotorealistico. Chiaroscuro ad alto contrasto con ombre pr
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: Marketing di Prodotto - Prompt Origami Dreams Cyber Mirror
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un prompt complesso in formato JSON per Nano Banana Pro, che descrive una fotografia editoriale surrealista di Mackenzie Davis riflessa in una pozza metallica.
-
-#### 📝 Prompt
-
-```
-{
-  "vibe_title_en": "Origami Dreams Reflected in Broken Cyber Mirrors",
-  "master_prompt": "Una fotografia editoriale surrealista iperrealistica scattata con Hasselblad H6D-100c, obiettivo 80mm f/1.4. La fotocamera si concentra esclusivamente su una pozza metallica fratturata e viscosa sul pavimento scuro. Riflessa nitidamente su questa superficie incrinata c'è The Protagonist, seduta sopra un enorme aereo origami costruito fisicamente in alluminio spazzolato. Una fitta nebbia da studio criogenica imita un mare di nuvole sotto la struttura. Il soggetto reale sullo sfondo è fortemente sfocato dalla ridotta profondità di campo. The Protagonist riflessa mostra una bellezza sintetica cyber-eterea: tratti impossibilmente simmetrici, uno sguardo penetrante non umano e una pelle 'plastificata' che rivela comunque micro-pori autentici ad un'ispezione ravvicinata. La camera brutalista scura e minimalista è illuminata da luci fluorescenti al contorno cyan intense e bianche nette, che catturano i bordi della nebbia e dell'aereo metallico. Scattata su Kodak Portra 800, grana pesante del film, effetti pratici ad alto budget, NO NEON, chiaroscuro cinematografico.",
-  "meta": {
-    "intent": "Ritratto high-fashion surrealismo cinematografico",
-    "priorities": "Inquadratura del riflesso distorto, texture della pelle sintetica, surrealismo pratico",
-    "device_profile": "Digitale a Formato Medio che imita il Film Analogico"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Dominanza del riflesso, soggetto centrato nel riflesso della pozza mentre il corpo fisico rimane sfocato sullo sfondo",
-    "layout": "La metà inferiore del fotogramma è dominata dalla pozza riflettente nitida, la metà superiore mostra la scena fisica sfocata",
-    "camera_angle": "Angolo dall'alto che guarda verso il basso con un angolo di 45 gradi nel riflesso del pavimento",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "Perfezione senza età, post-umana",
-    "face": "Inquietantemente simmetrica, lucentezza plastificata con distinti micro-pori",
-    "hair": "Liscio, pesantemente acconciato, ciocche dall'aspetto sintetico che catturano la luce cyan al contorno",
-    "body": "Statuario, postura rigida",
-    "expression": "Blank, penetrante, osserva intensamente lo spettatore attraverso il riflesso",
-    "pose": "Seduta rigidamente sopra la struttura origami metallica, leggermente inclinata in avanti per guardare nella pozza"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "Seta sintetica rivestita in Teflon",
-        "color": "Bianco ghiaccio traslucido",
-        "fit": "Architettonico e rigido"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Orecchini geometrici a cuffia",
-        "color": "Cromo lucidato",
-        "material": "Acciaio chirurgico",
-        "brand_style": "Minimalismo cyber d'avanguardia"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Camera di prova aerospaziale brutalista scura e minimalista",
-    "surfaces": "Calcestruzzo crepato, fluido metallico viscoso, origami in alluminio spazzolato"
-  }
-}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Marketing di Prodotto - Prompt Origami Dreams Cyber Mirror - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Marketing di Prodotto - Prompt Origami Dreams Cyber Mirror - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Fonte:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **Pubblicato:** 16 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6587,7 +6533,7 @@ Ritratto in primo piano di una {argument name="subject" default="giovane donna e
 
 <div align="center">
 
-### 🎯 15707 altri prompt non mostrati qui
+### 🎯 15708 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6650,6 +6596,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-02T04:02:43.715Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-02T08:03:39.801Z</sub>
 
 </div>

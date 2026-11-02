@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15827** |
+| 📝 提示詞總數 | **15828** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月2日 星期一 凌晨4:01:52 [UTC]** |
+| 🔄 最後更新 | **2026年11月2日 星期一 上午8:02:54 [UTC]** |
 
 </div>
 
@@ -1646,7 +1646,50 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 波希米亞風格客廳人像
+### No. 21: 社群媒體貼文 - 高級時尚編輯風格提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用於生成高級時尚編輯風格圖片的詳細提示詞，內容為一位女性坐在湖邊，周圍有紅花裝飾，專為 Nano Banana 2 設計（可能相容於 Pro）。
+
+#### 📝 提示詞
+
+```
+創作一張垂直構圖的高級時尚編輯大片，場景設於平靜湖畔或映著水光的戶外正式餐桌旁。以清晰的方向性自然光拍攝，層層疊疊的紅色花朵在不同景深環繞主體。畫面框取一位成年女性坐在鋪著象牙白桌巾的長桌旁，取景範圍約從膝蓋至頭頂上方。維持不對稱構圖：讓一大片深紅色的花叢佔據畫面左側，並有額外的模糊紅花在極近鏡頭的前景下方入鏡，部分遮擋住桌面與下半身。在女性身後保留足夠的背景留白，呈現柔和失焦的水面、深綠葉叢與色調沉穩的秋日樹木，但別讓場景淪為一般的風景人像照。
+
+姿勢應營造靜謐凝滯的氛圍，而非正在用餐的動態感。讓一側手肘自然地靠在桌緣，同側手掌輕托臉頰與下顎處。手腕保持放鬆，不要刻意擺出嬌柔的姿態。另一隻手臂則自然垂放於身側，或鬆鬆地交疊在腿上。上半身挺直但重心微微落在一側臀部，雙肩高低不一且放鬆。臉部僅稍微轉向鏡頭，視線則輕輕飄向鏡頭之外。神情要沉穩、疏離，甚至帶點隱約的不耐煩，避免浪漫、微笑或夢幻的表情。嘴唇保持放鬆，但以飽滿濃郁的深紅色唇妝勾勒出輪廓。
+
+讓她穿著一件寬大的翠綠色長版大衣，具備寬闊翻領、厚實肩線，以及霧面羊毛或喀什米爾的緻密質感。大衣敞開，厚重地垂墜包覆雙臂與身側，不要顯得過於合身剪裁。內搭一件垂墜感十足的象牙白絲緞洋裝，領口柔軟垂墜，長裙襬在坐姿的雙腿上堆疊出寬闊而富有光澤的褶皺。大衣應吸收光線，而洋裝則捕捉修長柔和的光影，形成鮮明的材質對比。
+
+髮型梳理得服貼、深色且緊貼頭部，分出俐落的深側分線，收攏成緊緻的低髮髻或平滑的盤髮，確保臉龐、頸部與耳環不被遮擋。搭配由兩層橢圓或水滴造型堆疊而成的超大水晶或密鑲垂墜耳環，份量要夠大，才能在深色大衣與髮絲間清晰可見。其他珠寶盡量精簡或不佩戴，讓這對耳環成為臉龐附近唯一銳利的金屬閃光。
+
+花藝部分請以深紅玫瑰、康乃馨、陸蓮等花瓣繁複的花朵密集排列，避免只使用單一花材重複堆砌。運用不同大小的花朵、不規則的花瓣形狀，偶爾點綴深綠色的花莖或葉片。紅色花叢應呈現豐厚立體的層次感，而非鮮豔的大紅或婚紗照常見的粉嫩色調。
+
+餐桌細節務必節制：一塊帶有紋理的象牙白桌布、一兩個透明切割水晶杯、低調的銀製餐具，或許再加幾個被花朵半掩的素雅餐盤即可。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="社群媒體貼文 - 高級時尚編輯風格提示詞 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **來源:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **發布時間:** 2026年11月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: 社群媒體貼文 - 波希米亞風格客廳人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1722,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社群媒體貼文 - 電影感 Contact Sheet 提示詞
+### No. 23: 社群媒體貼文 - 電影感 Contact Sheet 提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1767,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 拳擊健身房婚紗攝影編輯專題
+### No. 24: 社群媒體貼文 - 拳擊健身房婚紗攝影編輯專題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1767,7 +1810,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - 大漠孤煙景觀比較
+### No. 25: 社群媒體貼文 - 大漠孤煙景觀比較
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1812,7 +1855,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - 海灘玫瑰人像
+### No. 26: 社群媒體貼文 - 海灘玫瑰人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1845,7 +1888,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 琥珀色粗獷主義人像
+### No. 27: 社群媒體貼文 - 琥珀色粗獷主義人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1981,7 +2024,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - 超現實編輯風格人像：金屬鯨魚與玫瑰
+### No. 28: 社群媒體貼文 - 超現實編輯風格人像：金屬鯨魚與玫瑰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2082,7 +2125,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社群媒體貼文 - 噴火表演者人像攝影
+### No. 29: 社群媒體貼文 - 噴火表演者人像攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2131,7 +2174,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社群媒體貼文 - 希臘化時期梅杜莎編輯風格提示詞
+### No. 30: 社群媒體貼文 - 希臘化時期梅杜莎編輯風格提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2183,7 +2226,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社群媒體貼文 - Emma Watson 前衛風格肖像
+### No. 31: 社群媒體貼文 - Emma Watson 前衛風格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2284,7 +2327,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社群媒體貼文 - Clean-Girl 風格時裝編輯人像
+### No. 32: 社群媒體貼文 - Clean-Girl 風格時裝編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2337,7 +2380,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 社群媒體貼文 - 黃昏山頂電影感人像
+### No. 33: 社群媒體貼文 - 黃昏山頂電影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2367,102 +2410,6 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: 社群媒體貼文 - 大理石冷漠編輯人像提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一段複雜的 JSON 格式提示詞，用於生成超現實編輯風格的女性照片，她環繞著大理石半身像，強調高端類比攝影美學與窺視感構圖。
-
-#### 📝 提示詞
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "一張充滿電影感與窺視視角的攝影作品，主角沉浸在超現實、層層交疊且密度不可思議的古典白色大理石胸像檔案庫中。畫面嚴格呈現雕像群如幽閉空間般緊密擠壓的視覺幾何結構，但以高預算實體特效與攝影寫實手法拍攝。主角散發著「Haute Apathy」（高級冷漠）的氣息——面無表情、神態中性，眼皮沉重而放鬆，姿態慵懶卻不失時髦，極度漫不經心地隨性倚靠在一顆價值連城的大理石頭像旁。她身穿極簡的純黑高領毛衣，與整片白色石海形成強烈對比。使用 200mm 長焦鏡頭拍攝，大幅壓縮空間感。構圖採用「窺視一瞥」手法，透過前景兩尊大理石雕像之間狹窄且嚴重失焦的縫隙捕捉畫面，將主角的臉龐框住，彷彿在偷窺某個私密瞬間。高明調、乾淨柔和的棚內燈光，凸顯出多孔大理石與主角自然膚質那完美無瑕、超寫實的質感。以 Hasselblad H6D-100c 搭配 Kodak Portra 160 底片拍攝，精準捕捉真實的微觀細節、肌膚毛孔、散落的髮絲，以及懸浮於空氣中的細微大理石粉塵。絕對不要霓虹光效或 CGI 數位感；純粹的類比攝影質感。",
-  "meta": {
-    "intent": "超現實前衛時尚編輯風格",
-    "priorities": "前景遮擋、強烈的長焦壓縮感、肌膚與大理石的質地對比",
-    "device_profile": "中片幅類比相機"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "被前景元素大量遮蔽的窺視式構圖",
-    "layout": "主體被緊密取景，並淹沒於周圍密集的物件之中",
-    "camera_angle": "自遠處隱蔽視角拍攝的平視角度",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "女性",
-    "identity": "主角",
-    "demographics": "年齡莫辨，空靈飄逸卻又真實可觸",
-    "face": "中性、面無表情，眼皮沉重放鬆，搭配俐落鮮明的圖形眼線",
-    "hair": "服貼滑順，中分緊貼頭皮",
-    "body": "放鬆、慵懶卻不失時髦的姿態",
-    "expression": "極度漫不經心，展現「全場我最酷」的冷漠感",
-    "pose": "雙肩微垂，毫不費力地倚靠著大理石雕像"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "高領毛衣",
-        "material": "細緻美麗諾羊毛",
-        "color": "純啞光黑",
-        "fit": "合身但剪裁寬鬆舒適"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "圖形貓眼眼線",
-        "color": "Vantablack（奈米碳管黑）",
-        "material": "霧面彩妝顏料",
-        "brand_style": "高級時尚編輯風格"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "一座無限密集、超現實的古典白色大理石胸像檔案庫",
-    "surfaces": "冰冷、光滑卻帶孔隙的白色大理石，覆有細微粉塵"
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="社群媒體貼文 - 大理石冷漠編輯人像提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="社群媒體貼文 - 大理石冷漠編輯人像提示 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="社群媒體貼文 - 大理石冷漠編輯人像提示 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="社群媒體貼文 - 大理石冷漠編輯人像提示 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **發布時間:** 2026年10月24日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5080,7 +5027,103 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - 紅絲絨連身衣人像對比
+### No. 89: 產品行銷 - 大理石冷漠編輯人像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一段複雜的 JSON 格式提示詞，用於生成超現實編輯風格的女性照片，她環繞著大理石半身像，強調高端類比攝影美學與窺視感構圖。
+
+#### 📝 提示詞
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "一張充滿電影感與窺視視角的攝影作品，主角沉浸在超現實、層層交疊且密度不可思議的古典白色大理石胸像檔案庫中。畫面嚴格呈現雕像群如幽閉空間般緊密擠壓的視覺幾何結構，但以高預算實體特效與攝影寫實手法拍攝。主角散發著「Haute Apathy」（高級冷漠）的氣息——面無表情、神態中性，眼皮沉重而放鬆，姿態慵懶卻不失時髦，極度漫不經心地隨性倚靠在一顆價值連城的大理石頭像旁。她身穿極簡的純黑高領毛衣，與整片白色石海形成強烈對比。使用 200mm 長焦鏡頭拍攝，大幅壓縮空間感。構圖採用「窺視一瞥」手法，透過前景兩尊大理石雕像之間狹窄且嚴重失焦的縫隙捕捉畫面，將主角的臉龐框住，彷彿在偷窺某個私密瞬間。高明調、乾淨柔和的棚內燈光，凸顯出多孔大理石與主角自然膚質那完美無瑕、超寫實的質感。以 Hasselblad H6D-100c 搭配 Kodak Portra 160 底片拍攝，精準捕捉真實的微觀細節、肌膚毛孔、散落的髮絲，以及懸浮於空氣中的細微大理石粉塵。絕對不要霓虹光效或 CGI 數位感；純粹的類比攝影質感。",
+  "meta": {
+    "intent": "超現實前衛時尚編輯風格",
+    "priorities": "前景遮擋、強烈的長焦壓縮感、肌膚與大理石的質地對比",
+    "device_profile": "中片幅類比相機"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "被前景元素大量遮蔽的窺視式構圖",
+    "layout": "主體被緊密取景，並淹沒於周圍密集的物件之中",
+    "camera_angle": "自遠處隱蔽視角拍攝的平視角度",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "女性",
+    "identity": "主角",
+    "demographics": "年齡莫辨，空靈飄逸卻又真實可觸",
+    "face": "中性、面無表情，眼皮沉重放鬆，搭配俐落鮮明的圖形眼線",
+    "hair": "服貼滑順，中分緊貼頭皮",
+    "body": "放鬆、慵懶卻不失時髦的姿態",
+    "expression": "極度漫不經心，展現「全場我最酷」的冷漠感",
+    "pose": "雙肩微垂，毫不費力地倚靠著大理石雕像"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "高領毛衣",
+        "material": "細緻美麗諾羊毛",
+        "color": "純啞光黑",
+        "fit": "合身但剪裁寬鬆舒適"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "圖形貓眼眼線",
+        "color": "Vantablack（奈米碳管黑）",
+        "material": "霧面彩妝顏料",
+        "brand_style": "高級時尚編輯風格"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "一座無限密集、超現實的古典白色大理石胸像檔案庫",
+    "surfaces": "冰冷、光滑卻帶孔隙的白色大理石，覆有細微粉塵"
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **發布時間:** 2026年10月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: 產品行銷 - 紅絲絨連身衣人像對比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5135,7 +5178,7 @@ STORYBOARD：
 
 ---
 
-### No. 90: 產品行銷 - Nano Banana Pro 銀色金屬禮服人像
+### No. 91: 產品行銷 - Nano Banana Pro 銀色金屬禮服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5170,7 +5213,7 @@ STORYBOARD：
 
 ---
 
-### No. 91: 產品行銷 - Art-Deco 晚禮服生成提示
+### No. 92: 產品行銷 - Art-Deco 晚禮服生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5222,7 +5265,7 @@ STORYBOARD：
 
 ---
 
-### No. 92: 產品行銷 - 高級時裝都市夜景編輯風格
+### No. 93: 產品行銷 - 高級時裝都市夜景編輯風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5271,93 +5314,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: 產品行銷 - Origami Dreams 賽博鏡像提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一段用於 Nano Banana Pro 的複雜 JSON 格式提示詞，內容為 Mackenzie Davis 倒映在金屬水窪中的超現實編輯攝影作品。
-
-#### 📝 提示詞
-
-```
-{
-  "vibe_title_en": "折紙夢境映照於破碎的賽博鏡面",
-  "master_prompt": "一張使用 Hasselblad H6D-100c 搭配 80mm f/1.4 鏡頭拍攝的超寫實 surrealist 編輯風格照片。鏡頭聚焦於深色地板上的一灘破裂、黏稠的金屬液體。在這道裂縫表面中，清晰地反射出主角（The Protagonist），她坐在一架由拉絲鋁材製成的巨大實體折紙飛機上。濃密的低溫工作室霧氣模擬了結構下方的雲海。背景中的實際主體因淺景深而嚴重模糊。反射中的主角展現出一種賽博空靈的合成美感：不可能的對稱特徵、穿透性的非人類凝視，以及在近距離觀察下仍顯露真實微孔的「塑化」皮膚。黑暗、極簡的野獸派房間被冷冽的青色和銳利的白色螢光輪廓光照亮，捕捉到霧氣和金屬飛機的邊緣。使用 Kodak Portra 800 底片拍攝，具有厚重的顆粒感，完全採用高預算的實用特效，無霓虹燈，電影般的明暗對比（chiaroscuro）。",
-  "meta": {
-    "intent": "電影感超現實主義高級時尚肖像",
-    "priorities": "扭曲的反射構圖、合成皮膚質感、實用超現實主義",
-    "device_profile": "模仿類比膠片的數位中畫幅"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "以反射為主導，主體位於水坑反射的中心，而物理身體在背景中保持模糊",
-    "layout": "畫面下半部由清晰反射的水坑主導，上半部顯示模糊的物理場景",
-    "camera_angle": "從上方以 45 度角俯視地板反射的高角度",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "無年齡界限，後人類完美",
-    "face": "異常對稱，帶有明顯微孔的塑化光澤",
-    "hair": "光滑、過度造型、看起來像合成的髮絲捕捉著青色輪廓光",
-    "body": "雕像般的身形，僵硬姿態",
-    "expression": "空白、穿透性、透過反射強烈地觀察觀眾",
-    "pose": "僵硬地坐在金屬折紙結構頂端，稍微前傾以窺視水坑"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "鐵氟龍塗層合成絲綢",
-        "color": "半透明冰白色",
-        "fit": "建築感且僵硬"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "幾何耳夾",
-        "color": "拋光鉻合金",
-        "material": "手術鋼",
-        "brand_style": "前衛賽博極簡主義"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "黑暗、極簡的野獸派航空測試艙",
-    "surfaces": "破裂混凝土、黏稠金屬流體、拉絲鋁折紙"
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="產品行銷 - Origami Dreams 賽博鏡像提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="產品行銷 - Origami Dreams 賽博鏡像提示 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **發布時間:** 2026年10月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6600,7 +6556,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15707 更多提示詞未在此顯示
+### 🎯 15708 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6663,6 +6619,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-02T04:01:52.328Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-02T08:02:54.527Z</sub>
 
 </div>

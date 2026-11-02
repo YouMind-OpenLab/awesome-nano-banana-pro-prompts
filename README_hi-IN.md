@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15827** |
+| 📝 कुल प्रॉम्पट्स | **15828** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **सोमवार, 2 नवंबर 2026 को 4:02:18 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 2 नवंबर 2026 को 8:03:17 am UTC बजे** |
 
 </div>
 
@@ -1646,7 +1646,48 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - बोहेमियन लिविंग रूम पोर्ट्रेट
+### No. 21: सोशल मीडिया पोस्ट - हाई-फैशन एडिटोरियल प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक विस्तृत प्रॉम्प्ट जो लेक किनारे लाल फूलों के साथ बैठी एक महिला की हाई-फैशन एडिटोरियल इमेज जनरेट करने के लिए डिज़ाइन किया गया है, विशेष रूप से Nano Banana 2 (संभवतः Pro के साथ संगत) के लिए।
+
+#### 📝 प्रॉम्पट
+
+```
+एक शांत झील या पानी में प्रतिबिंब बनाने वाली जगह के किनारे रखी आउटडोर फॉर्मल डाइनिंग टेबल पर एक वर्टिकल हाई-फैशन एडिटोरियल शूट तैयार करें। इसे साफ, दिशात्मक दिन की रोशनी (directional daylight) में शूट करें, जिसमें सब्जेक्ट को घेरते हुए अलग-अलग गहराइयों (depths) पर गाढ़े लाल फूल हों। एक वयस्क महिला को लंबी, हाथीदांत (ivory) रंग के कपड़े से ढकी टेबल के पास बैठाकर फ्रेम करें, लगभग घुटनों से लेकर सिर के ऊपर तक। कंपोज़िशन को असिममित (asymmetrical) रखें: गहरे क्रिमसन रंग के फूलों का एक बड़ा समूह बाईं ओर हावी रहे और कुछ धुंधले (blurred) लाल फूल कैमरे के बहुत करीब, निचले फोरग्राउंड में आएं, जो टेबल और शरीर के निचले हिस्से को आंशिक रूप से छिपा दें। महिला के पीछे इतना खुला बैकग्राउंड जरूर रखें कि हल्का आउट-ऑफ-फोकस पानी, गहरे हरे पत्ते और मद्धम शरद ऋतु वाले पेड़ दिखें, लेकिन इस लोकेशन को किसी खूबसूरत लैंडस्केप पोर्ट्रेट में न बदलने दें।
+
+पोज़ को खाना खाते हुए सक्रिय होने के बजाय पूरी तरह स्थिर और ठहराव भरा रखें। एक कोहनी को टेबल के किनारे पर स्वाभाविक रूप से टिकाएं, जबकि उसी तरफ का हाथ गाल और जबड़े के पास चेहरे को सहारा दे। कलाई को नाजुक तरीके से पोज़ करने के बजाय बिल्कुल रिलैक्स्ड रखें। दूसरा हाथ शरीर के साथ नीचे की ओर लटकने दें या गोद में ढीला छोड़ दें। धड़ सीधा रहे, लेकिन हल्का सा एक कूल्हे की तरफ झुका हो, और कंधे असमान ऊंचाई पर और रिलैक्स्ड हों। चेहरे को कैमरे की तरफ सिर्फ थोड़ा सा मोड़ें, जबकि नज़र उसके ठीक बगल से गुजरती हुई दिखे। भाव-भंगिमा को संयत, बेपरवाह और हल्की सी अधीर रखें — न कि रोमांटिक, मुस्कुराती हुई या खोई-खोई सी। मुंह रिलैक्स्ड रहे, लेकिन गहरे क्रिमसन रंग की बोल्ड लिपस्टिक से उभरा हुआ दिखे।
+
+उन्हें एक लंबा, ओवरसाइज़्ड एमराल्ड-ग्रीन कोट पहनाएं जिसके लैपल चौड़े हों, कंधे भरे हुए हों और मैट ऊन या कैशमीयर जैसी गाढ़ी बनावट हो। कोट को खुला रहने दें और बांहों व शरीर के किनारों पर भारीपन से लिपटा रहने दें, बिना ऐसा दिखाए कि वह शरीर पर बहुत कसकर सिला गया है। इसके अंदर, बहता हुआ हाथीदांत (ivory) रंग का सिल्क-सैटिन ड्रेस दिखाएं, जिसकी नेकलाइन हल्की ड्रेप्ड हो और लंबा स्कर्ट बैठी हुई टांगों पर चौड़ी, चमकदार सिलवटों में गिर रहा हो। कोट को रोशनी सोखनी चाहिए, जबकि ड्रेस पर लंबी, मुलायम हाइलाइट्स आनी चाहिए, ताकि दोनों कपड़ों के बीच एक स्पष्ट अंतर दिखे।
+
+बालों को स्लीक, गहरे रंग का और सिर से सटाकर स्टाइल करें, जिसमें एक सटीक डीप साइड पार्टिंग हो। उन्हें एक कॉम्पैक्ट लो बन या स्मूथ गदर किए गए शेप में बांधें, ताकि चेहरा, गर्दन और ईयररिंग्स साफ दिखें। ओवरसाइज़्ड क्रिस्टल या पावे (pavé) ड्रॉप ईयररिंग्स लगाएं, जो दो एक के ऊपर एक रखे अंडाकार या टीयरड्रॉप आकार से बने हों — इतने बड़े कि गहरे कोट और बालों के बीच भी साफ दिखें। बाकी ज्वेलरी को कम से कम रखें या बिल्कुल न पहनाएं, ताकि चेहरे के पास ये ईयररिंग्स ही एकमात्र तेज़ मेटैलिक चमक बनें।
+
+फूलों को गहरे लाल गुलाब, कार्नेशन, रैननकुलस और इसी तरह की परतदार पंखुड़ियों वाले फूलों के घने गुच्छों के रूप में सजाएं, न कि एक ही तरह के फूलों को बार-बार दोहराएं। अलग-अलग आकार, अपूर्ण पंखुड़ियों वाले आकार और बीच-बीच में गहरे हरे तने या पत्तों का इस्तेमाल करें। लाल रंग के इन समूहों को चमकीले स्कार्लेट या ब्राइडल पेस्टल के बजाय गहरा और त्रिआयामी (dimensional) रखें। टेबल की डिटेलिंग को बहुत सीमित रखें: हाथीदांत रंग का टेक्सचर्ड कपड़ा, एक या दो साफ कट-क्रिस्टल ग्लास, हल्के सिल्वरवेयर और शायद कुछ साधारण प्लेटें, जिन्हें फूल आंशिक रूप से छिपा रहे हों।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793600883393_wn1j02_HV9HDzjaYAApUmH.jpg" width="600" alt="सोशल मीडिया पोस्ट - हाई-फैशन एडिटोरियल प्रॉम्प्ट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **स्रोत:** [Twitter Post](https://x.com/dreamydigiarts/status/2116847725648261496)
+- **प्रकाशित:** 1 नवंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37205)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - बोहेमियन लिविंग रूम पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1720,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - सिनेमाई कॉन्टैक्ट शीट प्रॉम्प्ट
+### No. 23: सोशल मीडिया पोस्ट - सिनेमाई कॉन्टैक्ट शीट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1724,7 +1765,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - बॉक्सिंग जिम ब्राइडल एडिटोरियल
+### No. 24: सोशल मीडिया पोस्ट - बॉक्सिंग जिम ब्राइडल एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1798,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना
+### No. 25: सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1802,7 +1843,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro) और Grok-imagine2 द्वा
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - गुलाब के साथ समुद्र तट पर पोर्ट्रेट
+### No. 26: सोशल मीडिया पोस्ट - गुलाब के साथ समुद्र तट पर पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1876,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro) और Grok-imagine2 द्वा
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - एम्बर ब्रूटलिज्म पोर्ट्रेट
+### No. 27: सोशल मीडिया पोस्ट - एम्बर ब्रूटलिज्म पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2012,7 @@ Nano Banana Pro का उपयोग करके शहद के छत्�
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट
+### No. 28: सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2072,7 +2113,7 @@ Nano Banana Pro का उपयोग करके शहद के छत्�
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - अग्नि-उद्गारक प्रदर्शन फोटो
+### No. 29: सोशल मीडिया पोस्ट - अग्नि-उद्गारक प्रदर्शन फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2121,7 +2162,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - हेलेनिस्टिक मेडुसा एडिटोरियल प्रॉम्प्ट
+### No. 30: सोशल मीडिया पोस्ट - हेलेनिस्टिक मेडुसा एडिटोरियल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2173,7 +2214,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - एमा वॉटसन का अवान्त-गार्ड पोर्ट्रेट
+### No. 31: सोशल मीडिया पोस्ट - एमा वॉटसन का अवान्त-गार्ड पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2315,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - क्लीन-गर्ल एडिटोरियल फैशन पोर्ट्रेट
+### No. 32: सोशल मीडिया पोस्ट - क्लीन-गर्ल एडिटोरियल फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2327,7 +2368,7 @@ Soho पेंटहाउस में एक महिला के हाई-
 
 ---
 
-### No. 32: सोशल मीडिया पोस्ट - सांझ के समय पहाड़ी पर सिनेमैटिक पोर्ट्रेट
+### No. 33: सोशल मीडिया पोस्ट - सांझ के समय पहाड़ी पर सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,102 +2398,6 @@ Soho पेंटहाउस में एक महिला के हाई-
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36906)**
-
----
-
-### No. 33: सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-मार्बल बस्ट्स से घिरी एक महिला की सुपरियल एडिटोरियल फोटो जनरेट करने के लिए एक जटिल JSON-फॉर्मैटेड प्रॉम्प्ट, जो हाई-एंड एनालॉग फोटोग्राफी की सौंदर्यशास्त्र और वॉयूरिस्टिक फ्रेमिंग पर जोर देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "The Protagonist की एक सिनेमाई, वॉयुरिस्टिक (voyeuristic) तस्वीर, जो शास्त्रीय सफेद संगमरमर की मूर्तियों (बस्ट्स) के एक अवास्तविक और बेहद घने आर्काइव में डूबी हुई है। यह तस्वीर उन मूर्तियों की भीड़ के विज़ुअल ज्यामिति को बिल्कुल वैसा ही दर्शाती है जो चारों तरफ से दबाव बना रही हो, लेकिन इसे हाई-बजट प्रैक्टिकल इफेक्ट्स और फोटोग्राफिक रियलिज़्म के साथ कैप्चर किया गया है। व्यक्ति 'Haute Apathy' का अहसास कराता है—एक भावशून्य, न्यूट्रल चेहरा जिसकी पलकें भारी और ढीली हैं, शरीर की मुद्रा सुस्त लेकिन स्टाइलिश है, और वह बेहद लापरवाही से एक अनमोल संगमरमर के सिर से टिका हुआ है। उसने एक मिनिमलिस्ट, गहरे काले रंग का टर्टलनेक पहना हुआ है, जो सफेद पत्थरों के समंदर के बीच एकदम अलग दिखता है। स्पेस को पूरी तरह से कंप्रेस करने के लिए 200mm लंबे फोकल लेंथ वाले लेंस से शूट किया गया। कंपोज़िशन एक 'Voyeuristic Glimpse' है, जिसे फोरग्राउंड की दो संगमरमर की मूर्तियों के बीच एक संकरे और बहुत ज़्यादा आउट-ऑफ-फोकस गैप से कैप्चर किया गया है, जैसे किसी निजी पल पर चुपके से नज़र रखी जा रही हो। हाई-की, साफ और सॉफ्ट स्टूडियो लाइटिंग छिद्रपूर्ण संगमरमर और व्यक्ति की प्राकृतिक त्वचा की बनावट दोनों की बेदाग, हाइपर-रियलिस्टिक फिनिश को उभारती है। Hasselblad H6D-100c और Kodak Portra 160 फिल्म स्टॉक पर शूट किया गया, जो असली माइक्रो-डिटेल, त्वचा के रोमछिद्र, बिखरे बाल और हवा में तैरती संगमरमर की सूक्ष्म धूल को कैप्चर करता है। बिल्कुल कोई नियॉन नहीं, कोई CGI लुक नहीं; शुद्ध एनालॉग फोटोग्राफिक टेक्सचर।",
-  "meta": {
-    "intent": "Surreal Avant-Garde Editorial",
-    "priorities": "Foreground occlusion, heavy telephoto compression, skin and marble के बीच textural contrast",
-    "device_profile": "Medium Format Analog"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Voyeuristic framing जो foreground elements से काफी हद तक छिपी हुई है",
-    "layout": "Subject को tight frame में रखा गया है और आसपास की dense objects ने उसे घेर लिया है",
-    "camera_angle": "एक दूर, छिपे हुए vantage point से eye-level",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist",
-    "demographics": "Ageless, ethereal लेकिन grounded",
-    "face": "Neutral, भावशून्य, भारी और ढीली पलकें, और sharp graphic eyeliner",
-    "hair": "Sleek, बीच से tight parting",
-    "body": "Relaxed, सुस्त लेकिन chic posture",
-    "expression": "Extreme nonchalance, 'too cool for the room' वाली apathy",
-    "pose": "ढीले कंधे, एक marble statue से effortless तरीके से टिकी हुई"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Turtleneck sweater",
-        "material": "Fine merino wool",
-        "color": "Stark matte black",
-        "fit": "Form-fitting लेकिन relaxed"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Graphic winged eyeliner",
-        "color": "Vantablack",
-        "material": "Matte makeup pigment",
-        "brand_style": "High-fashion editorial"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Classical white marble busts का एक infinitely dense, surreal archive",
-    "surfaces": "ठंडा, smooth लेकिन porous white marble, subtle dust"
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **प्रकाशित:** 24 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36877)**
 
 ---
 
@@ -5067,7 +5012,103 @@ GPT Image 2.5 और Nano Banana 2.1 द्वारा बनाए गए म�
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना
+### No. 89: प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+मार्बल बस्ट्स से घिरी एक महिला की सुपरियल एडिटोरियल फोटो जनरेट करने के लिए एक जटिल JSON-फॉर्मैटेड प्रॉम्प्ट, जो हाई-एंड एनालॉग फोटोग्राफी की सौंदर्यशास्त्र और वॉयूरिस्टिक फ्रेमिंग पर जोर देता है।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "vibe_title_en": "Marble Apathy",
+  "master_prompt": "The Protagonist की एक सिनेमाई, वॉयुरिस्टिक (voyeuristic) तस्वीर, जो शास्त्रीय सफेद संगमरमर की मूर्तियों (बस्ट्स) के एक अवास्तविक और बेहद घने आर्काइव में डूबी हुई है। यह तस्वीर उन मूर्तियों की भीड़ के विज़ुअल ज्यामिति को बिल्कुल वैसा ही दर्शाती है जो चारों तरफ से दबाव बना रही हो, लेकिन इसे हाई-बजट प्रैक्टिकल इफेक्ट्स और फोटोग्राफिक रियलिज़्म के साथ कैप्चर किया गया है। व्यक्ति 'Haute Apathy' का अहसास कराता है—एक भावशून्य, न्यूट्रल चेहरा जिसकी पलकें भारी और ढीली हैं, शरीर की मुद्रा सुस्त लेकिन स्टाइलिश है, और वह बेहद लापरवाही से एक अनमोल संगमरमर के सिर से टिका हुआ है। उसने एक मिनिमलिस्ट, गहरे काले रंग का टर्टलनेक पहना हुआ है, जो सफेद पत्थरों के समंदर के बीच एकदम अलग दिखता है। स्पेस को पूरी तरह से कंप्रेस करने के लिए 200mm लंबे फोकल लेंथ वाले लेंस से शूट किया गया। कंपोज़िशन एक 'Voyeuristic Glimpse' है, जिसे फोरग्राउंड की दो संगमरमर की मूर्तियों के बीच एक संकरे और बहुत ज़्यादा आउट-ऑफ-फोकस गैप से कैप्चर किया गया है, जैसे किसी निजी पल पर चुपके से नज़र रखी जा रही हो। हाई-की, साफ और सॉफ्ट स्टूडियो लाइटिंग छिद्रपूर्ण संगमरमर और व्यक्ति की प्राकृतिक त्वचा की बनावट दोनों की बेदाग, हाइपर-रियलिस्टिक फिनिश को उभारती है। Hasselblad H6D-100c और Kodak Portra 160 फिल्म स्टॉक पर शूट किया गया, जो असली माइक्रो-डिटेल, त्वचा के रोमछिद्र, बिखरे बाल और हवा में तैरती संगमरमर की सूक्ष्म धूल को कैप्चर करता है। बिल्कुल कोई नियॉन नहीं, कोई CGI लुक नहीं; शुद्ध एनालॉग फोटोग्राफिक टेक्सचर।",
+  "meta": {
+    "intent": "Surreal Avant-Garde Editorial",
+    "priorities": "Foreground occlusion, heavy telephoto compression, skin and marble के बीच textural contrast",
+    "device_profile": "Medium Format Analog"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Voyeuristic framing जो foreground elements से काफी हद तक छिपी हुई है",
+    "layout": "Subject को tight frame में रखा गया है और आसपास की dense objects ने उसे घेर लिया है",
+    "camera_angle": "एक दूर, छिपे हुए vantage point से eye-level",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Ageless, ethereal लेकिन grounded",
+    "face": "Neutral, भावशून्य, भारी और ढीली पलकें, और sharp graphic eyeliner",
+    "hair": "Sleek, बीच से tight parting",
+    "body": "Relaxed, सुस्त लेकिन chic posture",
+    "expression": "Extreme nonchalance, 'too cool for the room' वाली apathy",
+    "pose": "ढीले कंधे, एक marble statue से effortless तरीके से टिकी हुई"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Turtleneck sweater",
+        "material": "Fine merino wool",
+        "color": "Stark matte black",
+        "fit": "Form-fitting लेकिन relaxed"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Graphic winged eyeliner",
+        "color": "Vantablack",
+        "material": "Matte makeup pigment",
+        "brand_style": "High-fashion editorial"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Classical white marble busts का एक infinitely dense, surreal archive",
+    "surfaces": "ठंडा, smooth लेकिन porous white marble, subtle dust"
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
+- **प्रकाशित:** 24 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36877)**
+
+---
+
+### No. 90: प्रोडक्ट मार्केटिंग - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5122,7 +5163,7 @@ Nano Pro सहित एक मल्टी-मॉडल तुलना, ज�
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
+### No. 91: प्रोडक्ट मार्केटिंग - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5157,7 +5198,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - आर्ट-डेको इवनिंग गाउन प्रॉम्प्ट
+### No. 92: प्रोडक्ट मार्केटिंग - आर्ट-डेको इवनिंग गाउन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5209,7 +5250,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - उच्च-फैशन शहरी रात्रि संपादकीय
+### No. 93: प्रोडक्ट मार्केटिंग - उच्च-फैशन शहरी रात्रि संपादकीय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5258,93 +5299,6 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36634)**
-
----
-
-### No. 93: प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मेटेड प्रॉम्प्ट, जिसमें मेटालिक पuddle में प्रतिबिंबित Mackenzie Davis का एक अलौकिक संपादकीय फोटोग्राफ शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "vibe_title_en": "Broken Cyber Mirrors में प्रतिबिंबित Origami Dreams",
-  "master_prompt": "Hasselblad H6D-100c कैमरे से शूट किया गया एक हाइपर-रियलिस्टिक अलौकिक संपादकीय फोटोग्राफ, 80mm f/1.4 लेंस के साथ। कैमरा अंधेरे फर्श पर टूटे हुए, चिपचिपे मेटालिक puddle पर विशेष रूप से फोकस करता है। इस दरार वाले सतह के भीतर तीव्रता से प्रतिबिंबित The Protagonist को देखा जा सकता है, जो brushed aluminum से बने एक विशाल, भौतिक रूप से तैयार किए गए origami हवाई जहाज़ के ऊपर बैठा है। घना, cryogenic स्टूडियो fog संरचना के नीचे बादलों के समुद्र की नकल करता है। पृष्ठभूमि में वास्तविक विषय shallow depth of field के कारण भारी धुंधला है। प्रतिबिंबित Protagonist एक cyber-ethereal synthetic beauty प्रदर्शित करता है: असंभव रूप से सममित विशेषताएं, एक चुभने वाली गैर-मानवीय दृष्टि, और 'plasticized' त्वचा जो निकट से देखने पर भी प्रामाणिक micro-pores को प्रकट करती है। अंधेरे, न्यूनतमवादी brutalist कक्ष को तेज cyan और sharp white fluorescent rim lighting द्वारा रोशन किया जाता है, जो fog और metal plane के किनारों को पकड़ता है। Kodak Portra 800 पर शूट किया गया, भारी film grain, पूरी तरह से व्यावहारिक high-budget effects, NO NEON, cinematic chiaroscuro।",
-  "meta": {
-    "intent": "Cinematic surrealism high-fashion portrait",
-    "priorities": "Distorted reflection framing, synthetic skin texture, practical surrealism",
-    "device_profile": "Medium Format Digital mimicking Analog Film"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Reflection-dominant, subject centered within the puddle's reflection while physical body remains blurred in the background",
-    "layout": "Lower half of frame dominates with sharp reflective puddle, upper half shows blurred physical scene",
-    "camera_angle": "High angle looking down at a 45-degree angle into the floor reflection",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "{argument name=\"Gender\" default=\"Female\"}",
-    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
-    "demographics": "Ageless, post-human perfection",
-    "face": "Uncannily symmetrical, plasticized sheen with distinct micro-pores",
-    "hair": "Sleek, heavily styled, synthetic-looking strands catching cyan rim light",
-    "body": "Statuesque, rigid posture",
-    "expression": "Blank, piercing, intensely observing the viewer through the reflection",
-    "pose": "Seated rigidly atop the metallic origami structure, leaning slightly forward to peer into the puddle"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
-        "material": "Teflon-coated synthetic silk",
-        "color": "Translucent icy white",
-        "fit": "Architectural and rigid"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Geometric ear cuffs",
-        "color": "Polished chrome",
-        "material": "Surgical steel",
-        "brand_style": "Avant-garde cyber minimalism"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Dark, minimalist brutalist aerospace testing chamber",
-    "surfaces": "Cracked concrete, viscous metallic fluid, brushed aluminum origa"
-  }
-}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
-- **प्रकाशित:** 16 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36535)**
 
 ---
 
@@ -6587,7 +6541,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 <div align="center">
 
-### 🎯 15707 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15708 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6650,6 +6604,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-02T04:02:18.791Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-02T08:03:17.788Z</sub>
 
 </div>
