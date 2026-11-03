@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15828** |
+| 📝 Tổng số câu lệnh | **15831** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:02:05 UTC Thứ Ba, 3 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:02:40 UTC Thứ Ba, 3 tháng 11, 2026** |
 
 </div>
 
@@ -1646,7 +1646,97 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Prompt Editorial Thời Trang Cao Cấp
+### No. 21: Bài đăng trên mạng xã hội - Minh Họa Cáo Màu Nước Trừu Tượng
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt tạo tranh màu nước trừu tượng, phong cách phóng khoáng về một chú cáo đỏ đang ngủ say, tập trung vào hiệu ứng loang màu và kết cấu ướt chồng ướt.
+
+#### 📝 Câu lệnh
+
+```
+Tranh màu nước trừu tượng hình chú cáo đỏ cuộn tròn say giấc, nét cọ phóng khoáng khổ lớn, mảng màu loang rộng mềm mại, tối giản chi tiết, sắc tố lan nhẹ tự nhiên, chất liệu ướt trên ướt đầy cảm xúc, hình khối cách điệu, bố cục thoáng đãng, không đường nét, không viền ngoài, nền trắng, bố cục vuông 1:1.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686930073_osllyw_HWH857_bUAA9P18.jpg" width="600" alt="Bài đăng trên mạng xã hội - Minh Họa Cáo Màu Nước Trừu Tượng - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686931483_sr9ewt_HWH88GSaQAE-nR6.jpg" width="600" alt="Bài đăng trên mạng xã hội - Minh Họa Cáo Màu Nước Trừu Tượng - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686930074_rvuuo7_HWH89ufb0AAKU78.jpg" width="600" alt="Bài đăng trên mạng xã hội - Minh Họa Cáo Màu Nước Trừu Tượng - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Nguồn:** [Twitter Post](https://x.com/JimmyCarsttle/status/2117266479645098231)
+- **Đã xuất bản:** 2 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37232)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - So sánh hình ảnh xếp hàng lịch sự kiểu Anh
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+So sánh các thế hệ hình ảnh từ GPT Image và Nano Banana về một người đàn ông Anh đang xếp hàng tại New York, chia sẻ toàn bộ prompt đã sử dụng.
+
+#### 📝 Câu lệnh
+
+```
+Một quý ông người Anh lịch thiệp đội mũ quả dưa, mặc bộ vest sọc tăm màu than và cầm chiếc ô cuộn gọn, đứng thẳng tắp trong một hàng dài ngay ngắn bên ngoài tiệm deli ở New York vào giờ vàng, xung quanh là những người dân New York thiếu kiên nhẫn khoác áo phao đang chen chúc, phía sau là xe taxi vàng và luồng hơi nước bốc lên từ mặt đường, ảnh chụp đường phố 35 mm tự nhiên, độ sâu trường ảnh mỏng, biển hiệu viết tay trên cửa kính ghi dòng chữ "WAIT YOUR TURN", bố cục vuông tỷ lệ 1:1.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686931555_21b7t7_HWH8ZZVbUAAjMEs.jpg" width="600" alt="Bài đăng trên mạng xã hội - So sánh hình ảnh xếp hàng lịch sự kiểu Anh - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686931529_i87aey_HWH8kCebkAAU25m.jpg" width="600" alt="Bài đăng trên mạng xã hội - So sánh hình ảnh xếp hàng lịch sự kiểu Anh - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686930255_akruyj_HWH8mUzbMAAtH7W.jpg" width="600" alt="Bài đăng trên mạng xã hội - So sánh hình ảnh xếp hàng lịch sự kiểu Anh - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Nguồn:** [Twitter Post](https://x.com/JimmyCarsttle/status/2117251112650588628)
+- **Đã xuất bản:** 2 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37234)**
+
+---
+
+### No. 23: Bài đăng trên mạng xã hội - Prompt Editorial Thời Trang Cao Cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1679,7 +1769,7 @@ Tạo một bức ảnh editorial thời trang cao cấp khổ dọc tại bàn 
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Chân dung Phòng khách Bohemian
+### No. 24: Bài đăng trên mạng xã hội - Chân dung Phòng khách Bohemian
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1712,7 +1802,7 @@ Tạo một bức chân dung chân thực như ảnh chụp của một người
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Prompt Contact Sheet Điện Ảnh
+### No. 25: Bài đăng trên mạng xã hội - Prompt Contact Sheet Điện Ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1757,7 +1847,7 @@ Khung 4, dưới cùng bên phải — “Sunset Walk Home”: chủ thể bư�
 
 ---
 
-### No. 24: Bài đăng trên mạng xã hội - Bộ ảnh cô dâu trong phòng tập boxing
+### No. 26: Bài đăng trên mạng xã hội - Bộ ảnh cô dâu trong phòng tập boxing
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1790,7 +1880,7 @@ Tạo một bộ ảnh editorial thời trang cao cấp khổ dọc bên trong m
 
 ---
 
-### No. 25: Bài đăng trên mạng xã hội - So sánh Cảnh Sa Mạc Hoang Vắng Với Khói Đơn Độc
+### No. 27: Bài đăng trên mạng xã hội - So sánh Cảnh Sa Mạc Hoang Vắng Với Khói Đơn Độc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1835,7 +1925,7 @@ Phong cảnh đại cảnh Tây Bắc với cột khói cô độc giữa sa m�
 
 ---
 
-### No. 26: Bài đăng trên mạng xã hội - Chân Dung Trên Bãi Biển Với Hoa Hồng
+### No. 28: Bài đăng trên mạng xã hội - Chân Dung Trên Bãi Biển Với Hoa Hồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1868,7 +1958,7 @@ Một cô gái trẻ đứng trên bãi biển đầy sỏi, phía sau là đạ
 
 ---
 
-### No. 27: Bài đăng trên mạng xã hội - Chân Dung Brutalism Màu Hổ Phách
+### No. 29: Bài đăng trên mạng xã hội - Chân Dung Brutalism Màu Hổ Phách
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2004,7 +2094,7 @@ Tạo chân dung biên tập siêu thực của một phụ nữ trong chiếc v
 
 ---
 
-### No. 28: Bài đăng trên mạng xã hội - Chân Dung Biên Tập Siêu Thực Với Cá Voi Chrome Và Hoa Hồng
+### No. 30: Bài đăng trên mạng xã hội - Chân Dung Biên Tập Siêu Thực Với Cá Voi Chrome Và Hoa Hồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2105,7 +2195,7 @@ Prompt có cấu trúc JSON phức tạp để tạo ra một chân dung biên t
 
 ---
 
-### No. 29: Bài đăng trên mạng xã hội - Ảnh Hiệu Suất Người Thổi Lửa
+### No. 31: Bài đăng trên mạng xã hội - Ảnh Hiệu Suất Người Thổi Lửa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2154,7 +2244,7 @@ Giữ lại vài bóng dáng khán giả trưởng thành mờ ảo phía sau c�
 
 ---
 
-### No. 30: Bài đăng trên mạng xã hội - Hellenistic Medusa Editorial Prompt
+### No. 32: Bài đăng trên mạng xã hội - Hellenistic Medusa Editorial Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2206,7 +2296,7 @@ Nhiếp ảnh kỹ thuật số siêu chân thực (hyper-photorealistic) mang t
 
 ---
 
-### No. 31: Bài đăng trên mạng xã hội - Ảnh chân dung Avant-Garde của Emma Watson
+### No. 33: Bài đăng trên mạng xã hội - Ảnh chân dung Avant-Garde của Emma Watson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,92 +2394,6 @@ Prompt JSON phức tạp cho Nano Banana Pro để tạo ảnh chân dung avant-
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36910)**
-
----
-
-### No. 32: Bài đăng trên mạng xã hội - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Prompt tạo chân dung thời trang cao cấp phong cách editorial với hình ảnh một người phụ nữ trong căn penthouse ở Soho, nổi bật với làn da căng bóng tự nhiên, denim cổ điển và ánh sáng giờ vàng.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Một câu chuyện thời trang gồm ba khung hình dọc, khắc họa khoảnh khắc thư giãn của giới thượng lưu trong một căn penthouse tối giản tại Soho.
-
-Chủ thể:
-{argument name="name" default="Elena"}, một người phụ nữ da trắng {argument name="age" default="21"} tuổi với vóc dáng thanh mảnh, săn chắc. Cô xuất hiện qua chuỗi ba khung hình: một góc nhìn kiến trúc toàn cảnh, một bức chân dung ngang tầm mắt trực diện và một cận cảnh đầy xúc giác nơi bàn tay đang đặt hờ trên hông.
-
-Nhân vật · Biểu cảm:
-Gương mặt trái tim mang phong cách "clean-girl" tinh khôi, nổi bật với hàng lông mày tỉa tơi tự nhiên và đôi môi căng bóng. Ánh mắt cô nửa khép đầy bí ẩn, tròng mắt chi tiết phản chiếu đường chân trời Manhattan. Mái tóc vàng mật ong được uốn xoăn rối bồng bềnh như "vừa mới thức dậy", bắt trọn ánh sáng ngược của giờ vàng. Làn da căng mọng, rạng rỡ với những kết cấu vi mô chân thực, từ lỗ chân lông rõ nét đến lớp lông tơ mềm mại.
-
-Trang phục · Tư thế:
-Cô mặc một bộ bodysuit haute couture bằng ren Chantilly đen huyền với họa tiết hoa văn tinh xảo, tương phản cùng chiếc quần denim indigo vintage wash bạc màu, phom rộng trễ nải nơi hông. Cổ tay điểm xuyết những chiếc vòng Cartier Love bằng vàng xếp lớp cùng nhẫn Juste un Clou tựa nhẹ lên nền denim thô ráp, tôn vinh sự giao hòa giữa trang sức cao cấp và chất liệu vải.
-
-Bối cảnh · Ánh sáng:
-Một căn penthouse siêu độc quyền tại Soho với cửa kính chạm trần và nội thất tối giản, bao gồm thảm lông trắng dày và chăn bông cotton mềm mại. Khung cảnh được thắp sáng bởi nắng giờ vàng ấm áp, có hướng, tạo nên những mảng đổ bóng sắc nét mang tính hình học cùng các vệt sáng ray-traced lấp lánh trên da và phụ kiện vàng.
-
-Bố cục · Máy ảnh:
-Một bức cắt dán (collage) dọc gồm 3 khung hình. Khung trên cùng sử dụng góc rộng để bao quát bối cảnh; khung giữa là bức chân dung xóa phông mờ ảo; khung dưới cùng là cú máy macro tập trung vào từng chi tiết bề mặt. Được chụp bằng Phase One XF IQ4 cùng ống kính 80mm Schneider Kreuznach.
-
-Kết cấu · Phong cách:
-Phong cách editorial thời trang cao cấp siêu thực. Từng chi tiết xúc giác của lớp ren mỏng manh, denim dày dặn và vàng đánh bóng đều được tái hiện sống động. Bức ảnh mang tông màu S-curve tương phản cao, nhiễu hạt phim (film grain) tinh tế và hiệu ứng soft bloom tỏa sáng nhẹ nơi viền ren.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792996786503_qocr1i_HVeYWHIW4AAF5oq.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Nguồn:** [Twitter Post](https://x.com/iamdomprompt/status/2114326114634002630)
-- **Đã xuất bản:** 25 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36907)**
-
----
-
-### No. 33: Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Prompt tạo ảnh chân dung điện ảnh siêu thực của một phụ nữ trẻ Đông Á đang mỉm cười trên đỉnh đồi lúc hoàng hôn, với mái tóc bay trong gió và ánh đèn thành phố lung linh phía sau.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung điện ảnh của một cô gái trẻ Đông Á đang đứng tại điểm ngắm cảnh trên đỉnh đồi lúc hoàng hôn, mỉm cười rạng rỡ và nhìn thẳng vào ống kính với biểu cảm vui tươi, vô tư, đầu hơi nghiêng. Mái tóc dài màu nâu đen với phần mái thưa bay lất phất, tung bay mạnh trong gió với những lọn tóc xõa ra mọi hướng. Làn da căng bóng, rạng rỡ, trang điểm tự nhiên nhẹ nhàng, đôi môi hồng cánh sen, nụ cười ấm áp chân thật để lộ hàm răng, đôi mắt nheo lại vì hạnh phúc. Cô mặc áo khoác zip-up màu xanh navy đậm có hàng khuy bấm kim loại nhỏ bên ngoài chiếc áo len dệt kim màu xanh dương, quai túi đeo vắt qua một bên vai. Một thanh lan can kim loại nằm ở mép dưới khung hình. Hậu cảnh: đường chân trời của một thành phố rộng lớn trải dài phía xa bên dưới, với những đốm sáng bokeh phát quang dịu nhẹ, những ngọn đồi nhấp nhô sẫm màu và bầu trời giờ xanh mờ ảo chuyển dần từ sắc hoa oải hương cùng hồng nhạt sang xanh lam nhạt, điểm xuyết những dải mây tím mỏng. Ánh sáng môi trường mát lạnh của buổi chạng vạng hòa cùng ánh hồng ấm áp dịu nhẹ hắt lên khuôn mặt cô, mang đến không khí mơ màng, trẻ trung và lãng mạn, phong cách thẩm mỹ điện ảnh kiểu Hàn Quốc, độ sâu trường ảnh mỏng, đèn thành phố tạo hiệu ứng bokeh mềm mại, ống kính 35mm, f/1.8, chân thực như ảnh chụp, chi tiết kết cấu da và tóc siêu nét, bố cục dọc 9:16.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792996784951_6mfu44_HVaBxn8a4AAfpfb.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Sophie](https://x.com/Itx_Sophie)
-- **Nguồn:** [Twitter Post](https://x.com/Itx_Sophie/status/2114323588077498554)
-- **Đã xuất bản:** 25 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36906)**
 
 ---
 
@@ -3051,7 +3055,40 @@ một {argument name="bird species" default="chim dodo"}. Cơ thể nó đầy �
 
 ---
 
-### No. 49: Hình thu nhỏ trên YouTube - Prompt Noir Nữ Anh Hùng Hành Động Thập Niên 90
+### No. 49: Hình thu nhỏ trên YouTube - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt tạo ảnh chân dung điện ảnh siêu thực của một phụ nữ trẻ Đông Á đang mỉm cười trên đỉnh đồi lúc hoàng hôn, với mái tóc bay trong gió và ánh đèn thành phố lung linh phía sau.
+
+#### 📝 Câu lệnh
+
+```
+Chân dung điện ảnh của một cô gái trẻ Đông Á đang đứng tại điểm ngắm cảnh trên đỉnh đồi lúc hoàng hôn, mỉm cười rạng rỡ và nhìn thẳng vào ống kính với biểu cảm vui tươi, vô tư, đầu hơi nghiêng. Mái tóc dài màu nâu đen với phần mái thưa bay lất phất, tung bay mạnh trong gió với những lọn tóc xõa ra mọi hướng. Làn da căng bóng, rạng rỡ, trang điểm tự nhiên nhẹ nhàng, đôi môi hồng cánh sen, nụ cười ấm áp chân thật để lộ hàm răng, đôi mắt nheo lại vì hạnh phúc. Cô mặc áo khoác zip-up màu xanh navy đậm có hàng khuy bấm kim loại nhỏ bên ngoài chiếc áo len dệt kim màu xanh dương, quai túi đeo vắt qua một bên vai. Một thanh lan can kim loại nằm ở mép dưới khung hình. Hậu cảnh: đường chân trời của một thành phố rộng lớn trải dài phía xa bên dưới, với những đốm sáng bokeh phát quang dịu nhẹ, những ngọn đồi nhấp nhô sẫm màu và bầu trời giờ xanh mờ ảo chuyển dần từ sắc hoa oải hương cùng hồng nhạt sang xanh lam nhạt, điểm xuyết những dải mây tím mỏng. Ánh sáng môi trường mát lạnh của buổi chạng vạng hòa cùng ánh hồng ấm áp dịu nhẹ hắt lên khuôn mặt cô, mang đến không khí mơ màng, trẻ trung và lãng mạn, phong cách thẩm mỹ điện ảnh kiểu Hàn Quốc, độ sâu trường ảnh mỏng, đèn thành phố tạo hiệu ứng bokeh mềm mại, ống kính 35mm, f/1.8, chân thực như ảnh chụp, chi tiết kết cấu da và tóc siêu nét, bố cục dọc 9:16.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792996784951_6mfu44_HVaBxn8a4AAfpfb.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Chân Dung Điện Ảnh Trên Đỉnh Đồi Lúc Hoàng Hôn - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Sophie](https://x.com/Itx_Sophie)
+- **Nguồn:** [Twitter Post](https://x.com/Itx_Sophie/status/2114323588077498554)
+- **Đã xuất bản:** 25 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36906)**
+
+---
+
+### No. 50: Hình thu nhỏ trên YouTube - Prompt Noir Nữ Anh Hùng Hành Động Thập Niên 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3121,7 +3158,7 @@ Phong cách nhiếp ảnh phim 35mm với hạt nhiễu mịn và độ hoàn th
 
 ---
 
-### No. 50: Hình thu nhỏ trên YouTube - Ảnh tĩnh phim Khoa học Viễn tưởng với Hình ảnh Tham chiếu
+### No. 51: Hình thu nhỏ trên YouTube - Ảnh tĩnh phim Khoa học Viễn tưởng với Hình ảnh Tham chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3154,7 +3191,7 @@ Prompt để tạo ảnh tĩnh phim khoa học viễn tưởng điện ảnh b�
 
 ---
 
-### No. 51: Hình thu nhỏ trên YouTube - So sánh tính chân thực lịch sử trong các cuộc thám hiểm Nam Cực
+### No. 52: Hình thu nhỏ trên YouTube - So sánh tính chân thực lịch sử trong các cuộc thám hiểm Nam Cực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3193,7 +3230,7 @@ Bức ảnh đen trắng từ kho lưu trữ gốc của một cuộc thám hi�
 
 ---
 
-### No. 52: Hình thu nhỏ trên YouTube - Nghệ thuật Fantasy: Sát thủ trùm đầu trên mái đền
+### No. 53: Hình thu nhỏ trên YouTube - Nghệ thuật Fantasy: Sát thủ trùm đầu trên mái đền
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3229,7 +3266,7 @@ Bố cục sử thi, phối cảnh góc thấp, bóng đổ kịch tính, ánh t
 
 ---
 
-### No. 53: Hình thu nhỏ trên YouTube - Prompt thiết kế hình thu nhỏ YouTube với lớp phủ văn bản
+### No. 54: Hình thu nhỏ trên YouTube - Prompt thiết kế hình thu nhỏ YouTube với lớp phủ văn bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3265,7 +3302,7 @@ Văn bản chú thích của hình thu nhỏ là ["{argument name=\"caption_text
 
 ---
 
-### No. 54: Hình thu nhỏ trên YouTube - Đầu máy hơi nước trên cây cầu sập giữa cơn bão
+### No. 55: Hình thu nhỏ trên YouTube - Đầu máy hơi nước trên cây cầu sập giữa cơn bão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3305,7 +3342,7 @@ Hình ảnh chủ đạo: đoàn tàu khổng lồ + cây cầu sập + bão bi�
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - Phi hành gia điện ảnh trên tàu vũ trụ hư hỏng
+### No. 56: Hình thu nhỏ trên YouTube - Phi hành gia điện ảnh trên tàu vũ trụ hư hỏng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3354,7 +3391,7 @@ Một câu lệnh có cấu trúc để tạo ra một cảnh quay đầy cảm 
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Chân dung phơi sáng kép: Xe mô tô và hoàng hôn
+### No. 57: Hình thu nhỏ trên YouTube - Chân dung phơi sáng kép: Xe mô tô và hoàng hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3388,7 +3425,7 @@ Một hình ảnh 3D chân thực, sắc nét về một chàng trai trẻ sành
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Chuyển đổi chân dung độ phân giải cao
+### No. 58: Hình thu nhỏ trên YouTube - Chuyển đổi chân dung độ phân giải cao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3422,7 +3459,7 @@ Chuyển đổi hình ảnh này thành: Ảnh chân dung cận cảnh siêu th�
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Ảnh Anime Điện ảnh Dark Fantasy Cao cấp
+### No. 59: Hình thu nhỏ trên YouTube - Ảnh Anime Điện ảnh Dark Fantasy Cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3456,7 +3493,7 @@ Tạo ra một tác phẩm nghệ thuật anime điện ảnh siêu cao cấp, n
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Màn hình phát sóng bóng chày Koshien
+### No. 60: Hình thu nhỏ trên YouTube - Màn hình phát sóng bóng chày Koshien
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3490,7 +3527,7 @@ Một câu lệnh chi tiết để tạo ảnh chụp màn hình phát sóng tru
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
+### No. 61: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3524,7 +3561,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 bộ phim nổi tiếng: TYPOGRAPHIC_EMER
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Diorama Sách Pop-up Thu nhỏ
+### No. 62: Hình thu nhỏ trên YouTube - Diorama Sách Pop-up Thu nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3558,7 +3595,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 {argument name="subject" default="thành 
 
 ---
 
-### No. 62: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
+### No. 63: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3629,7 @@ Một câu lệnh (prompt) hài hước theo phong cách meme, tái hiện chi�
 
 ---
 
-### No. 63: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
+### No. 64: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3626,7 +3663,7 @@ Một khung cảnh siêu thực với {argument name="subject" default="người
 
 ---
 
-### No. 64: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
+### No. 65: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3660,7 +3697,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 65: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
+### No. 66: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3704,7 +3741,7 @@ Tâm trạng: hùng vĩ, bình lặng, siêu thực nhưng đáng tin, chân th�
 
 ---
 
-### No. 66: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
+### No. 67: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3738,7 +3775,7 @@ Vui lòng tạo nó theo phong cách anime. {argument name="scene description" d
 
 ---
 
-### No. 67: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
+### No. 68: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3792,7 +3829,7 @@ Sống động, hỗn loạn, nhịp độ nhanh, đậm chất điện ảnh, h
 
 ---
 
-### No. 68: Truyện tranh / Bảng phân cảnh - Cảnh Giấc Mơ Bên Dòng Suối với Âm Thanh và Carousel Hình Ảnh
+### No. 69: Truyện tranh / Bảng phân cảnh - Cảnh Giấc Mơ Bên Dòng Suối với Âm Thanh và Carousel Hình Ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3827,7 +3864,7 @@ Hãy tạo một chuỗi hình ảnh thể hiện: làm việc bên suối, đi 
 
 ---
 
-### No. 69: Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro
+### No. 70: Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3878,7 +3915,7 @@ Tạo một key visual cho anime cô gái phép thuật. Hoàn thiện nó thàn
 
 ---
 
-### No. 70: Truyện tranh / Bảng phân cảnh - Prompt Phong Cách Minh Họa Truyện Tranh Hiện Đại
+### No. 71: Truyện tranh / Bảng phân cảnh - Prompt Phong Cách Minh Họa Truyện Tranh Hiện Đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3929,7 +3966,7 @@ Phong cách minh họa truyện tranh hiện đại với phương pháp bán th
 
 ---
 
-### No. 71: Truyện tranh / Bảng phân cảnh - Ảnh tĩnh phim thám tử Cyberpunk
+### No. 72: Truyện tranh / Bảng phân cảnh - Ảnh tĩnh phim thám tử Cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4042,7 +4079,7 @@ Một câu lệnh (prompt) về cảnh phim cyberpunk điện ảnh được c�
 
 ---
 
-### No. 72: Truyện tranh / Bảng phân cảnh - Poster Zine Bút Bi Mực Đơn Sắc
+### No. 73: Truyện tranh / Bảng phân cảnh - Poster Zine Bút Bi Mực Đơn Sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4082,7 +4119,7 @@ Hình minh họa bút bi xanh siêu chi tiết được chuyển đổi sang m�
 
 ---
 
-### No. 73: Truyện tranh / Bảng phân cảnh - Cảnh Harry Potter tuổi già trong mùa đông
+### No. 74: Truyện tranh / Bảng phân cảnh - Cảnh Harry Potter tuổi già trong mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4135,7 +4172,7 @@ Một câu lệnh (prompt) đậm chất điện ảnh và giàu cảm xúc, hì
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Cuộc đua xe drag phong cách quái vật hoạt hình
+### No. 75: Truyện tranh / Bảng phân cảnh - Cuộc đua xe drag phong cách quái vật hoạt hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4169,7 +4206,7 @@ Một bức tranh minh họa hoạt hình sống động mô tả một {argumen
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Văn bản giả tưởng về rồng mang phong cách thơ ca tinh xảo
+### No. 76: Truyện tranh / Bảng phân cảnh - Văn bản giả tưởng về rồng mang phong cách thơ ca tinh xảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4270,7 +4307,7 @@ mở bàn tay tĩnh lặng, cần thiết của nó ra.
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Cô gái anime võ thuật cách điệu
+### No. 77: Truyện tranh / Bảng phân cảnh - Cô gái anime võ thuật cách điệu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4303,7 +4340,7 @@ Một bức tranh minh họa kỹ thuật số phong cách anime cách điệu v
 
 ---
 
-### No. 77: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh quảng cáo siro lá phong
+### No. 78: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh quảng cáo siro lá phong
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4381,7 +4418,7 @@ Quảng cáo thực phẩm siêu thực, độ nhớt của siro chân thực, k
 
 ---
 
-### No. 78: Truyện tranh / Bảng phân cảnh - Tắc kè hoa đất sét trong rừng
+### No. 79: Truyện tranh / Bảng phân cảnh - Tắc kè hoa đất sét trong rừng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4415,7 +4452,7 @@ Một khung cảnh hoạt hình đất sét sống động và đầy chất th�
 
 ---
 
-### No. 79: Truyện tranh / Bảng phân cảnh - Storyboard cho Kem Phô mai Dâu tây
+### No. 80: Truyện tranh / Bảng phân cảnh - Storyboard cho Kem Phô mai Dâu tây
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4495,7 +4532,7 @@ Quảng cáo tráng miệng đông lạnh cao cấp siêu thực, kết cấu ke
 
 ---
 
-### No. 80: Truyện tranh / Bảng phân cảnh - Kịch bản phân cảnh quảng cáo sữa chua Hy Lạp
+### No. 81: Truyện tranh / Bảng phân cảnh - Kịch bản phân cảnh quảng cáo sữa chua Hy Lạp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4529,7 +4566,7 @@ TIÊU ĐỀ: Kịch bản phân cảnh quảng cáo sản phẩm sữa chua Hy L
 
 ---
 
-### No. 81: Truyện tranh / Bảng phân cảnh - Minh họa Anime 2D đậm chất điện ảnh
+### No. 82: Truyện tranh / Bảng phân cảnh - Minh họa Anime 2D đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4575,7 +4612,7 @@ Minh họa kỹ thuật số 2D đậm chất điện ảnh, {argument name="sty
 
 ---
 
-### No. 82: Truyện tranh / Bảng phân cảnh - Chân dung điện ảnh trong đêm mưa trên xe hơi
+### No. 83: Truyện tranh / Bảng phân cảnh - Chân dung điện ảnh trong đêm mưa trên xe hơi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4608,7 +4645,7 @@ Một câu lệnh (prompt) điện ảnh đầy cảm xúc về một người p
 
 ---
 
-### No. 83: Truyện tranh / Bảng phân cảnh - Storyboard quảng cáo sữa chua cao cấp
+### No. 84: Truyện tranh / Bảng phân cảnh - Storyboard quảng cáo sữa chua cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4686,7 +4723,7 @@ Nhiếp ảnh thực phẩm từ sữa siêu thực, kết cấu kem đặc, mi�
 
 ---
 
-### No. 84: Truyện tranh / Bảng phân cảnh - Bảng liên hệ điện ảnh bữa tối gia đình
+### No. 85: Truyện tranh / Bảng phân cảnh - Bảng liên hệ điện ảnh bữa tối gia đình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4792,7 +4829,7 @@ Một cấu trúc prompt JSON để tạo ảnh ghép điện ảnh 3x3 chân th
 
 ---
 
-### No. 85: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh Người gác hải đăng
+### No. 86: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh Người gác hải đăng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4862,7 +4899,7 @@ Một câu lệnh điện ảnh chi tiết cho khung cảnh ngọn hải đăng 
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - So sánh tĩnh vật với vật liệu trong suốt
+### No. 87: Tiếp thị sản phẩm - So sánh tĩnh vật với vật liệu trong suốt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4907,7 +4944,7 @@ Thử nghiệm tĩnh vật chất liệu trong suốt dưới ánh nắng buổi
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Prompt điện ảnh về khí cầu Steampunk
+### No. 88: Tiếp thị sản phẩm - Prompt điện ảnh về khí cầu Steampunk
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4952,7 +4989,60 @@ Nhiếp ảnh chân thực đậm chất điện ảnh, một chiếc phi thuy�
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - So sánh Poster Thời trang Athleisure
+### No. 89: Tiếp thị sản phẩm - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Prompt tạo chân dung thời trang cao cấp phong cách editorial với hình ảnh một người phụ nữ trong căn penthouse ở Soho, nổi bật với làn da căng bóng tự nhiên, denim cổ điển và ánh sáng giờ vàng.
+
+#### 📝 Câu lệnh
+
+```
+Chủ đề:
+Một câu chuyện thời trang gồm ba khung hình dọc, khắc họa khoảnh khắc thư giãn của giới thượng lưu trong một căn penthouse tối giản tại Soho.
+
+Chủ thể:
+{argument name="name" default="Elena"}, một người phụ nữ da trắng {argument name="age" default="21"} tuổi với vóc dáng thanh mảnh, săn chắc. Cô xuất hiện qua chuỗi ba khung hình: một góc nhìn kiến trúc toàn cảnh, một bức chân dung ngang tầm mắt trực diện và một cận cảnh đầy xúc giác nơi bàn tay đang đặt hờ trên hông.
+
+Nhân vật · Biểu cảm:
+Gương mặt trái tim mang phong cách "clean-girl" tinh khôi, nổi bật với hàng lông mày tỉa tơi tự nhiên và đôi môi căng bóng. Ánh mắt cô nửa khép đầy bí ẩn, tròng mắt chi tiết phản chiếu đường chân trời Manhattan. Mái tóc vàng mật ong được uốn xoăn rối bồng bềnh như "vừa mới thức dậy", bắt trọn ánh sáng ngược của giờ vàng. Làn da căng mọng, rạng rỡ với những kết cấu vi mô chân thực, từ lỗ chân lông rõ nét đến lớp lông tơ mềm mại.
+
+Trang phục · Tư thế:
+Cô mặc một bộ bodysuit haute couture bằng ren Chantilly đen huyền với họa tiết hoa văn tinh xảo, tương phản cùng chiếc quần denim indigo vintage wash bạc màu, phom rộng trễ nải nơi hông. Cổ tay điểm xuyết những chiếc vòng Cartier Love bằng vàng xếp lớp cùng nhẫn Juste un Clou tựa nhẹ lên nền denim thô ráp, tôn vinh sự giao hòa giữa trang sức cao cấp và chất liệu vải.
+
+Bối cảnh · Ánh sáng:
+Một căn penthouse siêu độc quyền tại Soho với cửa kính chạm trần và nội thất tối giản, bao gồm thảm lông trắng dày và chăn bông cotton mềm mại. Khung cảnh được thắp sáng bởi nắng giờ vàng ấm áp, có hướng, tạo nên những mảng đổ bóng sắc nét mang tính hình học cùng các vệt sáng ray-traced lấp lánh trên da và phụ kiện vàng.
+
+Bố cục · Máy ảnh:
+Một bức cắt dán (collage) dọc gồm 3 khung hình. Khung trên cùng sử dụng góc rộng để bao quát bối cảnh; khung giữa là bức chân dung xóa phông mờ ảo; khung dưới cùng là cú máy macro tập trung vào từng chi tiết bề mặt. Được chụp bằng Phase One XF IQ4 cùng ống kính 80mm Schneider Kreuznach.
+
+Kết cấu · Phong cách:
+Phong cách editorial thời trang cao cấp siêu thực. Từng chi tiết xúc giác của lớp ren mỏng manh, denim dày dặn và vàng đánh bóng đều được tái hiện sống động. Bức ảnh mang tông màu S-curve tương phản cao, nhiễu hạt phim (film grain) tinh tế và hiệu ứng soft bloom tỏa sáng nhẹ nơi viền ren.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792996786503_qocr1i_HVeYWHIW4AAF5oq.jpg" width="600" alt="Tiếp thị sản phẩm - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Dominus Pellissier](https://x.com/iamdomprompt)
+- **Nguồn:** [Twitter Post](https://x.com/iamdomprompt/status/2114326114634002630)
+- **Đã xuất bản:** 25 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36907)**
+
+---
+
+### No. 90: Tiếp thị sản phẩm - So sánh Poster Thời trang Athleisure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5000,7 +5090,7 @@ Các giới hạn cần tránh: không thêm người mẫu phụ, không sai l�
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy
+### No. 91: Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5096,7 +5186,7 @@ Prompt JSON phức tạp dùng để tạo bức ảnh chụp mang phong cách b
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
+### No. 92: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5151,7 +5241,7 @@ Phông nền tối giản, sạch sẽ cùng ánh sáng kịch tính dịu nhẹ
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
+### No. 93: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5186,7 +5276,7 @@ Negative prompt: không có vẻ ngoài CGI, không da nhựa, khác khuôn mặ
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
+### No. 94: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5238,7 +5328,7 @@ Kết xuất siêu chân thực, tập trung vào sự tương phản chất li�
 
 ---
 
-### No. 93: Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị
+### No. 95: Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5290,7 +5380,7 @@ Phong cách biên tập siêu chân thực. Chiaroscuro tương phản cao với
 
 ---
 
-### No. 94: Hình ảnh chính thương mại điện tử - Hướng dẫn chỉnh sửa với Nano Banana Pro
+### No. 96: Hình ảnh chính thương mại điện tử - Hướng dẫn chỉnh sửa với Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5323,7 +5413,7 @@ Giữ nguyên món bánh như hiện tại. Thay thế nền bằng quầy bánh
 
 ---
 
-### No. 95: Hình ảnh chính thương mại điện tử - Concept Art Mecha Girl Giáp Đầy Đủ
+### No. 97: Hình ảnh chính thương mại điện tử - Concept Art Mecha Girl Giáp Đầy Đủ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5368,7 +5458,7 @@ Mô hình nhựa tỉ lệ 1/7 Full Armor Mecha Girl FAMG-001 Aurelith, thân h�
 
 ---
 
-### No. 96: Hình ảnh chính thương mại điện tử - Prompt Chân Dung Studio Nano Banana Pro
+### No. 98: Hình ảnh chính thương mại điện tử - Prompt Chân Dung Studio Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5414,7 +5504,7 @@ Sử dụng các đặc điểm khuôn mặt từ hình ảnh tham khảo đã t
 
 ---
 
-### No. 97: Hình ảnh chính thương mại điện tử - Chụp ảnh thời trang nam biên tập
+### No. 99: Hình ảnh chính thương mại điện tử - Chụp ảnh thời trang nam biên tập
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5466,7 +5556,7 @@ Thẩm mỹ chiến dịch thời trang cao cấp với hình ảnh người đ�
 
 ---
 
-### No. 98: Hình ảnh chính thương mại điện tử - Chiến dịch chụp ảnh tĩnh sản phẩm cao cấp
+### No. 100: Hình ảnh chính thương mại điện tử - Chiến dịch chụp ảnh tĩnh sản phẩm cao cấp
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5514,7 +5604,7 @@ Một câu lệnh tinh tế dành cho các sản phẩm cao cấp như đồ da 
 
 ---
 
-### No. 99: Hình ảnh chính thương mại điện tử - Cận cảnh thời trang mũ lưỡi trai đỏ
+### No. 101: Hình ảnh chính thương mại điện tử - Cận cảnh thời trang mũ lưỡi trai đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5548,7 +5638,7 @@ Một câu lệnh tinh tế dành cho các sản phẩm cao cấp như đồ da 
 
 ---
 
-### No. 100: Hình ảnh chính thương mại điện tử - Chân dung thời trang kiến trúc tối giản
+### No. 102: Hình ảnh chính thương mại điện tử - Chân dung thời trang kiến trúc tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5594,7 +5684,7 @@ Bối cảnh và Ánh sáng: Phông nền là bức tường studio màu trắng
 
 ---
 
-### No. 101: Hình ảnh chính thương mại điện tử - Bộ ảnh thời trang dã ngoại với váy lụa màu gỉ sắt
+### No. 103: Hình ảnh chính thương mại điện tử - Bộ ảnh thời trang dã ngoại với váy lụa màu gỉ sắt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5628,7 +5718,7 @@ Tạo một bộ ảnh thời trang với {argument name="lighting" default="án
 
 ---
 
-### No. 102: Hình ảnh chính thương mại điện tử - Chụp cận cảnh quá trình mài phím đàn guitar
+### No. 104: Hình ảnh chính thương mại điện tử - Chụp cận cảnh quá trình mài phím đàn guitar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5662,7 +5752,7 @@ phím đàn ở giữa đang trong quá trình mài, phần {argument name="fret
 
 ---
 
-### No. 103: Hình ảnh chính thương mại điện tử - Chụp ảnh quảng cáo đồ uống cao cấp
+### No. 105: Hình ảnh chính thương mại điện tử - Chụp ảnh quảng cáo đồ uống cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5702,7 +5792,7 @@ Tạo một bức ảnh quảng cáo cao cấp chân thực duy nhất cho thư�
 
 ---
 
-### No. 104: Hình ảnh chính thương mại điện tử - Ruy băng Organza màu đen thanh lịch
+### No. 106: Hình ảnh chính thương mại điện tử - Ruy băng Organza màu đen thanh lịch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5742,7 +5832,7 @@ Ruy băng {argument name="material" default="Organza"} {argument name="color" de
 
 ---
 
-### No. 105: Hình ảnh chính thương mại điện tử - Ảnh tĩnh vật quảng cáo sô-cô-la cao cấp
+### No. 107: Hình ảnh chính thương mại điện tử - Ảnh tĩnh vật quảng cáo sô-cô-la cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5794,7 +5884,7 @@ Một bức ảnh tĩnh vật đầy phong cách và mang tính khái niệm t�
 
 ---
 
-### No. 106: Hình ảnh chính thương mại điện tử - Sản phẩm làm đẹp siêu thực: Lô cuốn tóc
+### No. 108: Hình ảnh chính thương mại điện tử - Sản phẩm làm đẹp siêu thực: Lô cuốn tóc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5828,7 +5918,7 @@ Một gợi ý chụp ảnh thương mại đầy tinh nghịch và siêu thực
 
 ---
 
-### No. 107: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm vỏ quả mâm xôi
+### No. 109: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm vỏ quả mâm xôi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5880,7 +5970,7 @@ Một câu lệnh tạo ảnh sản phẩm thương mại với hình ảnh sả
 
 ---
 
-### No. 108: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm phong cách điện ảnh với mạng nhện
+### No. 110: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm phong cách điện ảnh với mạng nhện
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5920,7 +6010,7 @@ Sử dụng sản phẩm đã tải lên làm tham chiếu chính xác, giữ ng
 
 ---
 
-### No. 109: Hình ảnh chính thương mại điện tử - Sản phẩm trong khối băng tối giản
+### No. 111: Hình ảnh chính thương mại điện tử - Sản phẩm trong khối băng tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5954,7 +6044,7 @@ Một câu lệnh (prompt) chụp ảnh sản phẩm đơn giản được sử 
 
 ---
 
-### No. 110: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm bình nước cao cấp
+### No. 112: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm bình nước cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5994,7 +6084,40 @@ Một câu lệnh (prompt) chụp ảnh thương mại chuyên nghiệp dành ch
 
 ---
 
-### No. 111: Tài sản trò chơi - Prompt Ảnh Tĩnh Phim Phong Cách Rogue One
+### No. 113: Tài sản trò chơi - So sánh mô hình nghệ thuật game voxel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+So sánh khả năng tạo ảnh chụp màn hình nghệ thuật game voxel với các yếu tố HUD của GPT Image, Nano Banana và Grok.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh chụp màn hình game voxel pixel-art 3D góc nhìn isometric, một thành phố trên hòn đảo nhỏ lơ lửng giữa không trung lúc hoàng hôn, những tòa nhà khối lập phương vuông vức với ô cửa sổ phát sáng, một con rồng pixel đang bay vòng quanh ngọn tháp, giao diện HUD của game hiển thị dòng chữ "LEVEL 3" ở góc trên bên trái và "SCORE 004200" ở góc trên bên phải, hiệu ứng đổ bóng voxel sắc nét, màu sắc retro rực rỡ, bố cục hình vuông tỷ lệ 1:1.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793686931610_vylnfn_HWCD15IbgAAkqBm.jpg" width="600" alt="Tài sản trò chơi - So sánh mô hình nghệ thuật game voxel - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Nguồn:** [Twitter Post](https://x.com/JimmyCarsttle/status/2117044013627035776)
+- **Đã xuất bản:** 2 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37233)**
+
+---
+
+### No. 114: Tài sản trò chơi - Prompt Ảnh Tĩnh Phim Phong Cách Rogue One
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6027,7 +6150,7 @@ Prompt chi tiết để tạo ảnh tĩnh phim phong cách Rogue One/Andor siêu
 
 ---
 
-### No. 112: Tài sản trò chơi - Trạm Quan Sát Động Vật Rừng Mưa Thu Nhỏ
+### No. 115: Tài sản trò chơi - Trạm Quan Sát Động Vật Rừng Mưa Thu Nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6060,7 +6183,7 @@ Thế giới thu nhỏ kỳ ảo tái hiện trạm quan sát động vật hoan
 
 ---
 
-### No. 113: Tài sản trò chơi - Cảnh ếch nỉ dễ thương
+### No. 116: Tài sản trò chơi - Cảnh ếch nỉ dễ thương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6093,7 +6216,7 @@ Một cảnh 3D dễ thương, mang phong cách nỉ, mô tả chú ếch hoạt
 
 ---
 
-### No. 114: Tài sản trò chơi - Prompt Chân Dung Cận Cảnh Cơ Khí Buồn
+### No. 117: Tài sản trò chơi - Prompt Chân Dung Cận Cảnh Cơ Khí Buồn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6235,7 +6358,7 @@ Một prompt định dạng JSON phức tạp dành cho Nano Banana Pro để t�
 
 ---
 
-### No. 115: Tài sản trò chơi - Hình ảnh chủ đạo (Key Visual) cho chiến dịch game RPG Chibi
+### No. 118: Tài sản trò chơi - Hình ảnh chủ đạo (Key Visual) cho chiến dịch game RPG Chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6286,7 +6409,7 @@ Một prompt định dạng JSON phức tạp dành cho Nano Banana Pro để t�
 
 ---
 
-### No. 116: Tài sản trò chơi - Chân dung lai giữa hội họa biểu cảm và hiện thực
+### No. 119: Tài sản trò chơi - Chân dung lai giữa hội họa biểu cảm và hiện thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6345,7 +6468,7 @@ Tỷ lệ khung hình: 9:16 dọc.
 
 ---
 
-### No. 117: Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL
+### No. 120: Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6397,139 +6520,13 @@ Một câu lệnh tạo hình theo phong cách SQL độc đáo để tạo ra c
 
 ---
 
-### No. 118: Tài sản trò chơi - Mô hình cơ khí chuyển động Woodpunk bằng gỗ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một hệ thống câu lệnh phức tạp giúp biến đổi bất kỳ chủ thể nào thành một tác phẩm điêu khắc cơ khí bằng gỗ với các chi tiết đồng hồ tinh xảo.
-
-#### 📝 Câu lệnh
-
-```
-1. Công cụ suy luận ngữ nghĩa (Ánh xạ vật liệu động):
-Đầu vào A là BẤT KỲ chủ đề nào (Vật thể, Động vật, Thực vật hoặc Khái niệm).
-Phân tích các đặc tính vốn có của chủ thể và ánh xạ chúng sang các loại vật liệu thủ công:
-Thân chính (Khung xe): Suy luận màu sắc/trọng lượng chính của chủ thể và gán loại gỗ cứng tương ứng.
-Điểm nhấn (Khảm): Suy luận các họa tiết hoặc chi tiết của chủ thể và gán vật liệu khảm tương phản.
-Cơ cấu (Bộ khung): Suy luận các khớp nối hoặc nguồn năng lượng của chủ thể và gán phụ kiện kim loại.
-2. Vùng chứa "bất biến" (Cỗ máy tự động):
-Mục tiêu: Ảnh chụp sản phẩm theo phong cách "Xưởng vẽ của Da Vinci".
-Vật thể: Chủ thể được hiển thị như một món đồ chơi cơ khí bằng gỗ phức tạp, đứng độc lập.
-Đế: Mô hình đứng trên một khối gỗ chạm khắc thủ công đại diện cho môi trường ngữ nghĩa của nó.
-Tỷ lệ: Chụp ảnh macro của một vật thể để bàn (cao khoảng 12 inch).
-3. Nội thất đồng hồ (Sự biến đổi):
-Lát cắt: Một phần của "vỏ gỗ" bên ngoài được loại bỏ hoặc mở bản lề một cách trực quan.
-Cấu trúc bên trong: Bên trong, các bộ phận sinh học hoặc cơ khí được thay thế bằng cơ cấu đồng hồ.
-Quy tắc: Các bánh răng, xích xe đạp, lò xo đồng hồ và bánh đà bằng đồng lộ rõ phải gợi lên cảm giác vật thể chuyển động nhờ năng lượng dây cót.
-Phụ kiện liên kết: Các ốc vít, đinh tán và bản lề bằng đồng nhỏ được nhìn thấy dọc theo các đường nối của gỗ.
-4. Nhân vật kể chuyện (Người vận hành):
-Nhân vật: Một mô hình người gỗ có khớp nối tiêu chuẩn (phong cách búp bê nghệ sĩ) được tích hợp vào cảnh.
-Vai trò: Nhân vật đóng vai trò là người bảo trì, người cưỡi hoặc người vận hành chủ thể.
-Tương tác: Họ đang leo thang để đánh bóng vật thể, vặn một chiếc chìa khóa dây cót khổng lồ hoặc điều khiển con thú/cỗ máy.
-Phụ kiện: Búp bê mặc trang phục bằng gỗ được chạm khắc phù hợp với bối cảnh.
-5. Ánh sáng & Bầu không khí:
-Ánh sáng: Ánh sáng studio Softbox. Ánh sáng thương mại cao cấp, khuếch tán tạo ra những điểm nhấn dài, thanh lịch trên các đường cong được đánh vecni.
-Nền: Xám studio trung tính. Phông nền vô cực liền mạch để tập trung hoàn toàn vào kết cấu vật liệu.
-Kết cấu: Vecni bóng cao cấp. Gỗ phải trông đắt tiền, mịn màng và có độ bão hòa sâu.
-Đầu ra: MỘT hình ảnh, Tỷ lệ khung hình 1:1, Nhiếp ảnh sản phẩm, thẩm mỹ "Woodpunk", Độ phân giải 8k.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg" width="600" alt="Tài sản trò chơi - Mô hình cơ khí chuyển động Woodpunk bằng gỗ - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Gadgetify](https://x.com/Gdgtify)
-- **Nguồn:** [Twitter Post](https://x.com/Gdgtify/status/2095854642882019392)
-- **Đã xuất bản:** 4 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33483)**
-
----
-
-### No. 119: Tài sản trò chơi - Bộ mô hình tiểu cảnh Manga để bàn
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh độc đáo để hình dung các thương hiệu manga và anime dưới dạng bộ mô hình tiểu cảnh bằng đất sét và nhựa resin.
-
-#### 📝 Câu lệnh
-
-```
-{ "Aesthetic": "Tiểu cảnh để bàn vật lý, Bộ mô hình nhựa resin và đất sét", "Subject": "{argument name="franchise" default="[FRANCHISE]"}", "Physical_Components": { "The_Archway": "Các chữ cái 3D khổng lồ đánh vần {argument name="franchise name" default="[FRANCHISE]"}, được tạo vân theo AI_INFER(các chất liệu chân thực với cốt truyện).", "The_Vessel": "Một chiếc bát/vật chứa cổ rỗng, được cắt lát để chứa đựng thế giới bên trong.", "The_Ecosystem": { "Terrain": "AI_INFER(Núi non, lâu đài hoặc thành phố thu nhỏ).", "Fluids": "Nhựa epoxy trong suốt, bóng loáng mô phỏng nước/dung nham.", "Inhabitants": "Các nhân vật siêu nhỏ, chi tiết đến từng milimet đang tương tác với địa hình." } }, "Lighting": "Nhiếp ảnh sản phẩm điện ảnh. Ánh sáng viền làm nổi bật các cạnh của kiểu chữ 3D." }
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg" width="600" alt="Tài sản trò chơi - Bộ mô hình tiểu cảnh Manga để bàn - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Gadgetify](https://x.com/Gdgtify)
-- **Nguồn:** [Twitter Post](https://x.com/Gdgtify/status/2095836776807936436)
-- **Đã xuất bản:** 4 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33481)**
-
----
-
-### No. 120: Tài sản trò chơi - Chân dung người phụ nữ thanh tao với mái tóc hoa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh nghệ thuật kỹ thuật số tuyệt đẹp để vẽ chân dung một người phụ nữ thanh tao với mái tóc màu xanh coban đan xen những đóa mẫu đơn trắng, sử dụng kỹ thuật ánh sáng chiaroscuro đầy kịch tính.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung cận cảnh một {argument name="subject" default="người phụ nữ trẻ thanh tao"} với làn da sứ và đôi mắt nâu hạt dẻ đầy biểu cảm, đôi môi hé mở, mái tóc gợn sóng đổ xuống với {argument name="hair color" default="màu xanh dương đậm và xanh coban"} được đan xen tinh xảo với những đóa {argument name="flowers" default="mẫu đơn trắng"} nở rộ và những dây hoa xanh thẫm, chiếc váy thực vật hữu cơ hòa quyện liền mạch vào những chiếc lá xanh và hoa trắng, nền tối giản, ánh sáng chiaroscuro đầy kịch tính, nghệ thuật ý tưởng kỹ thuật số mượt mà, bóng đổ điện ảnh mềm mại, chi tiết chân thực như ảnh chụp, nét vẽ tinh tế, xu hướng trên ArtStation, độ phân giải 8k, tỷ lệ khung hình 9:16
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591084589_27rgsd_HRVdVBJbIAA-NbX.jpg" width="600" alt="Tài sản trò chơi - Chân dung người phụ nữ thanh tao với mái tóc hoa - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
-- **Nguồn:** [Twitter Post](https://x.com/afrinxai/status/2095749951464919337)
-- **Đã xuất bản:** 4 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33386)**
-
----
-
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 15708 câu lệnh khác không hiển thị ở đây
+### 🎯 15711 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6592,6 +6589,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-03T04:02:05.391Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-03T08:02:40.167Z</sub>
 
 </div>
