@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15831** |
+| 📝 Tổng số câu lệnh | **15833** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:02:01 UTC Thứ Tư, 4 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:02:25 UTC Thứ Tư, 4 tháng 11, 2026** |
 
 </div>
 
@@ -4899,7 +4899,144 @@ Một câu lệnh điện ảnh chi tiết cho khung cảnh ngọn hải đăng 
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - So sánh tĩnh vật với vật liệu trong suốt
+### No. 87: Tiếp thị sản phẩm - Lời nhắc chân dung siêu thực với sợi quang
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc định dạng JSON chi tiết cao để tạo ra ảnh chân dung macro cực kỳ chân thực của Dakota Johnson (hoặc đối tượng tương tự), kết hợp trang phục dệt kim thời trang cao cấp với ánh sáng sợi quang mang tính siêu thực công nghệ, được tối ưu hóa cho Nano Banana Pro.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "vibe_title_en": "Fiber-Optic Surrealism",
+  "master_prompt": "Chân dung macro cực đại siêu thực của Nhân Vật Chính. Khung hình là một cảnh cận mặt thật chặt và đầy kịch tính, pha trộn giữa thời trang cao cấp và vẻ đẹp nhân tạo. Chủ thể chìm trong một chiếc cổ áo len dệt kim màu trắng khổng lồ mang tính điêu khắc, vươn cao bao quanh cổ và đường viền hàm. Dệt trực tiếp vào lớp len dày nặng là những sợi quang màu hồng và đỏ phát sáng rực rỡ tựa như các tĩnh mạch đang tỏa sáng, hắt lên phần hàm và gò má một luồng sáng thực tế mang đậm chất siêu thực. Chủ thể đeo cặp kính râm màu trắng dày dặn, mang kiểu dáng điêu khắc retro-tương lai với tròng gương phản chiếu những ống thủy tinh màu hồng uốn cong phát sáng từ môi trường xung quanh. Kết cấu da mang hơi hướng hậu nhân loại: đối xứng đến mức kỳ lạ và siêu mịn, nhưng vẫn giữ được độ chân thực nhiếp ảnh ở cấp độ vi mô với lỗ chân lông nhỏ và lớp lông tơ nhìn thấy rõ dưới ống kính macro gắt gao. Ánh mắt sắc lẹm, phi nhân loại, nhìn xuyên thấu qua ống kính. Hệ thống ánh sáng là sự kết hợp phức tạp giữa cyber và ethereal: một nguồn sáng chính (key light) màu trắng sắc lạnh chuẩn y khoa, ánh sáng viền (rim light) màu xanh lục lam mát mẻ tách chủ thể khỏi nền tối giản, cùng luồng sáng thực tế màu hồng ấm áp, mãnh liệt tỏa ra từ lớp len dệt dày. Hậu cảnh là một dải các sợi quang màu hồng đồng tâm phát sáng, được làm mờ tuyệt đẹp với độ sâu trường ảnh mỏng. Chụp bằng Hasselblad H6D-100c, ống kính Macro 100mm f/2.8, khẩu độ f/2.8, phim Kodak Portra 400, nhấn mạnh vào các kết cấu vật lý cực đoan, sự khúc xạ ánh sáng tự nhiên qua lớp len và kính, cùng hạt nhiễu phim analog dày đặc. Không CGI, sử dụng hiệu ứng thực tế kinh phí cao.",
+  "meta": {
+    "intent": "Tạo ra một bức chân dung siêu thực macro cực đại, kết hợp trang phục dệt kim truyền thống với ánh sáng cyber-ethereal huyền ảo",
+    "priorities": "Kết cấu macro, hiệu ứng phát sáng thực tế, làn da hậu nhân loại, bảng màu chuẩn xác theo mood board",
+    "device_profile": "Màn hình di động và máy tính để bàn độ phân giải cao"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Chân dung macro cực đại, khuôn mặt nằm ở trung tâm, chiếc cổ áo dày cộm chiếm lĩnh phần dưới khung hình",
+    "layout": "Khuôn mặt đối xứng, các đường dẫn uốn cong trong vùng bokeh hậu cảnh",
+    "camera_angle": "Ngang tầm mắt, hướng thẳng, khoảng cách cực kỳ gần gũi",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Nữ",
+    "identity": "Nàng thơ thời trang hậu nhân loại",
+    "demographics": "Thực thể nhân tạo không tuổi",
+    "face": "Đối xứng đến mức kỳ lạ, hoàn hảo nhưng vẫn có kết cấu, đường viền hàm sắc sảo",
+    "hair": "Bị che khuất hoàn toàn bởi cấu trúc dệt kim khổng lồ",
+    "body": "Chỉ lộ rõ khuôn mặt, cổ và cổ áo",
+    "expression": "Ánh nhìn sắc lẹm, vô cảm, lạnh lùng phi nhân loại",
+    "pose": "Hoàn toàn bất động, nhìn thẳng vào ống kính"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Cổ áo balaclava mang tính điêu khắc khổng lồ",
+        "material": "Len dệt kim vặn thừng màu trắng dày dặn, đính kèm các sợi quang màu hồng phát sáng",
+        "color": "Trắng tinh khôi với các đường gân hồng phát sáng",
+        "fit": "Ngoại cỡ, bao trùm lấy cổ và phần dưới hàm"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Kính râm mang tính điêu khắc phong cách retro-tương lai",
+        "color": "Gọng trắng đục với tròng gương màu hồng",
+        "material": "Nhựa acetate bóng và thủy tinh tráng gương",
+        "brand_style": "Thời trang cao cấp tiên phong (avant-garde)"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Không gian studio trừu tượng, tối giản và tối màu",
+    "surfaces": "Các ống thủy tinh phát sáng uốn cong",
+    "depth": "Cực mỏng, làm mờ ngay lập tức các chi tiết ở hậu cảnh",
+    "atmosphere": "Lạnh lùng chuẩn y khoa, tĩnh lặng, tràn ngập năng lượng nhân tạo",
+    "lens_interaction": "Những vòng bokeh mãnh liệt từ các chi tiết phát sáng ở hậu cảnh"
+  },
+  "lighting": {
+    "key": "Ánh sáng trắng sắc lạnh chuẩn y khoa chiếu thẳng từ trên xuống",
+    "fill": "Luồng sáng hắt lên màu hồng ấm áp, phát ra trực tiếp từ các sợi quang trên lớp len dệt",
+    "rim": "Ánh sáng viền màu xanh lục lam mát mẻ ở vùng thái dương và gọng kính",
+    "shadows": "Màu đen sâu thẳm, giàu chi tiết ở hậu cảnh, các vi bóng đổ sắc nét trên kết cấu len",
+    "color_temperature": "Sự tương phản giữa ánh sáng chính 6500K lạnh và ánh sáng thực tế màu hồng 3200K ấm áp",
+    "sensor_flare": "Hiệu ứng quầng sáng hồng nhẹ bao quanh các sợi quang đang phát sáng"
+  },
+  "camera": {
+    "lens_type": "Macro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "Sắc nét từng milimet ở gọng kính râm và các lỗ chân lông ngay bên dưới",
+    "sensor_format": "Medium Format",
+    "perspective_distortion": "Không biến dạng, các đường nét khuôn mặt bị nén mạnh"
+  },
+  "post_processing": {
+    "color": "Độ tương phản cao, sắc hồng rực rỡ và trắng tinh khôi nổi bật trên nền bóng đổ sâu thẳm",
+    "tonality": "Vùng sáng chuyển tông mượt mà như phim nhựa, vùng tối bị nén đặc",
+    "texture": "Hạt nhiễu phim analog rõ rệt, tăng cường độ tương phản vi mô trên các sợi len",
+    "digital_sharpening": "Không, chỉ dùng độ sắc nét quang học",
+    "chromatic_aberration": "Viền màu nhẹ ở các ống thủy tinh nằm ngoài vùng tiêu cự tại hậu cảnh"
+  },
+  "negative_specifications": [
+    "neon",
+    "CGI",
+    "illustration",
+    "painting",
+    "cartoon",
+    "low resolution",
+    "cliché cyberpunk",
+    "smiling",
+    "casual attire",
+    "full body shot",
+    "wide angle"
+  ]
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc chân dung siêu thực với sợi quang - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc chân dung siêu thực với sợi quang - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc chân dung siêu thực với sợi quang - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc chân dung siêu thực với sợi quang - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Nguồn:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **Đã xuất bản:** 3 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: Tiếp thị sản phẩm - So sánh tĩnh vật với vật liệu trong suốt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4944,7 +5081,7 @@ Thử nghiệm tĩnh vật chất liệu trong suốt dưới ánh nắng buổi
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Prompt điện ảnh về khí cầu Steampunk
+### No. 89: Tiếp thị sản phẩm - Prompt điện ảnh về khí cầu Steampunk
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4989,7 +5126,7 @@ Nhiếp ảnh chân thực đậm chất điện ảnh, một chiếc phi thuy�
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
+### No. 90: Tiếp thị sản phẩm - Chân Dung Thời Trang Editorial Phong Cách Clean-Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5042,7 +5179,7 @@ Phong cách editorial thời trang cao cấp siêu thực. Từng chi tiết xú
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - So sánh Poster Thời trang Athleisure
+### No. 91: Tiếp thị sản phẩm - So sánh Poster Thời trang Athleisure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5090,7 +5227,7 @@ Các giới hạn cần tránh: không thêm người mẫu phụ, không sai l�
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy
+### No. 92: Tiếp thị sản phẩm - Chân dung biên tập phong cách Marble Apathy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5186,7 +5323,7 @@ Prompt JSON phức tạp dùng để tạo bức ảnh chụp mang phong cách b
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
+### No. 93: Tiếp thị sản phẩm - So sánh Chân dung Leotard Nhung Đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5241,7 +5378,7 @@ Phông nền tối giản, sạch sẽ cùng ánh sáng kịch tính dịu nhẹ
 
 ---
 
-### No. 93: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
+### No. 94: Tiếp thị sản phẩm - Chân dung Đầm dạ hội Bạc Kim loại Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5276,7 +5413,7 @@ Negative prompt: không có vẻ ngoài CGI, không da nhựa, khác khuôn mặ
 
 ---
 
-### No. 94: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
+### No. 95: Tiếp thị sản phẩm - Prompt Váy Dạ Hội Phong Cách Art-Deco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5325,58 +5462,6 @@ Kết xuất siêu chân thực, tập trung vào sự tương phản chất li�
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Prompt chi tiết để tạo hình ảnh bài biên tập thời trang siêu thực về một người mẫu đi bộ trên con phố lát đá châu Âu vào ban đêm, nổi bật với ánh sáng điện ảnh và kết cấu vải cụ thể.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Bài biên tập xa hoa thời trang cao cấp đêm đô thị.
-
-Chủ thể:
-Một người mẫu thời trang Caucasian-Mediterranean 20 tuổi. Cô được chụp trong khoảnh khắc quay người khi đang đi bộ trên con phố lát đá lịch sử của châu Âu, nhìn lại qua vai hướng về phía máy ảnh.
-
-Nhân vật · Biểu cảm:
-Cấu trúc khuôn mặt đối xứng với đường hàm rõ ràng và gò má cao. Đôi mắt màu hạt dẻ sắc sảo với ánh nhìn tập trung, vững vàng. Đôi môi đầy đặn với lớp son bóng trong suốt. Mái tóc màu espresso dày bồng bềnh với những lọn highlight vàng mật ong, bay tung trên vai theo chuyển động. Làn da có kết cấu vi mô chân thực, lỗ chân lông hiện rõ và độ ẩm mượt, tỏa sáng dưới ánh đèn thành phố.
-
-Trang phục · Tư thế:
-Áo cổ giả cao dài tay màu than chì nửa đêm bằng lụa dệt kim ribbed cỡ nhỏ, ôm sát cơ thể. Quần jean denim vintage wash nhạt cạp cao, kiểu dáng high-rise tôn eo và theo đường cong hông và chân. Boots cổ ngắn stiletto bằng da đen bóng. Cô ở tư thế giữa bước đi, thân trên xoay ngược 90 độ và một tay nhẹ nhàng chạm vào gáy.
-
-Bối cảnh · Ánh sáng:
-Con hẻm lát đá ướt mưa vào giờ xanh (blue hour). Bầu không khí mờ sương và phản chiếu. Ánh sáng điện ảnh hai nguồn: ánh sáng hổ phách ấm áp tràn ra từ cửa sổ boutique chiếu sáng khuôn mặt và ngực cô, trong khi ánh đèn đường cyan lạnh tạo viền sáng sắc nét dọc lưng, tóc và profile.
-
-Bố cục · Máy ảnh:
-Góc chụp toàn thân medium shot từ góc thấp nhẹ. Chủ thể được khung hình năng động để nhấn mạnh đường cong chữ S của tư thế. Tiêu điểm sắc nét trên các đặc điểm khuôn mặt và kết cấu vải, với bokeh mềm mại làm mờ ánh đèn cửa hàng và chi tiết kiến trúc phía sau.
-
-Kết cấu · Phong cách:
-Phong cách biên tập siêu chân thực. Chiaroscuro tương phản cao với bóng tối sâu, mang tính điện ảnh. Kết xuất chi tiết của lụa ribbed, grain denim nặng và da bóng. Film grain hữu cơ tinh tế và specular highlights trên bề mặt đường ướt.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="Tiếp thị sản phẩm - Bài biên tập thời trang cao cấp đêm đô thị - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Nguồn:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **Đã xuất bản:** 18 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6526,7 +6611,7 @@ Một câu lệnh tạo hình theo phong cách SQL độc đáo để tạo ra c
 
 <div align="center">
 
-### 🎯 15711 câu lệnh khác không hiển thị ở đây
+### 🎯 15713 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6589,6 +6674,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-04T04:02:01.824Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-04T08:02:25.266Z</sub>
 
 </div>

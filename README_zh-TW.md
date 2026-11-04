@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15831** |
+| 📝 提示詞總數 | **15833** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月4日 星期三 凌晨4:01:43 [UTC]** |
+| 🔄 最後更新 | **2026年11月4日 星期三 上午8:01:55 [UTC]** |
 
 </div>
 
@@ -4926,7 +4926,144 @@ STORYBOARD：
 
 ---
 
-### No. 87: 產品行銷 - 透明材質靜物對比
+### No. 87: 產品行銷 - 光纖超現實主義人像提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一份高度詳細的 JSON 格式提示詞，用於生成 Dakota Johnson（或類似主體）的超寫實極致微距人像，結合高級時尚針織服飾與賽博空靈的光纖照明效果，專為 Nano Banana Pro 最佳化。
+
+#### 📝 提示詞
+
+```
+{
+  "vibe_title_en": "Fiber-Optic Surrealism",
+  "master_prompt": "主角的超寫實極致微距肖像。構圖為緊湊強烈的臉部特寫，融合高級時尚與合成美感。主體被巨大的雕塑感白色麻花針織高領完全包覆，衣領向上延伸至頸部與下顎線。厚實的羊毛中直接編入發光的粉紅色與紅色光纖絲，宛如發亮的血管，在下顎與臉頰上投射出超現實的實體底光。主體配戴厚重的復古未來主義白色雕塑感太陽眼鏡，鏡片為反射材質，映照出環境中彎曲的粉紅色發光玻璃管。膚質呈現後人類特徵：詭異的完美對稱與極度光滑，卻在嚴苛的微距鏡頭下保留顯微攝影般的真實度，清晰可見細緻毛孔與汗毛。目光銳利且非人，直視穿透鏡頭。燈光採用複雜的賽博空靈佈光：正上方銳利冷調的白色主光、將主體與深色極簡背景分離的冷青色輪廓光，以及從厚重針織物散發出的溫暖強烈粉色實體光。背景為唯美模糊、淺景深的同心圓發光粉色光纖陣列。使用 Hasselblad H6D-100c 拍攝，搭配 100mm f/2.8 Macro 鏡頭、f/2.8 光圈、Kodak Portra 400 底片，強調極致的物理紋理、穿透針織物與眼鏡的自然光折射，以及濃厚的類比底片顆粒感。無 CGI，全為高預算實體特效。",
+  "meta": {
+    "intent": "創作一幅融合傳統針織與賽博空靈發光效果的極致微距超現實肖像",
+    "priorities": "微距紋理、實體發光效果、後人類膚質、精準還原情緒板的色彩配置",
+    "device_profile": "高解析度行動裝置與桌面顯示器"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "極致微距肖像，臉部置中，厚重衣領主導畫面下方",
+    "layout": "對稱的臉部，背景散景帶有弧形引導線",
+    "camera_angle": "正面平視，極近距離的親密感",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "女性",
+    "identity": "後人類時尚謬思",
+    "demographics": "超越年齡的合成個體",
+    "face": "詭異的完美對稱，無瑕卻保有紋理，線條俐落的下顎",
+    "hair": "完全隱藏於巨大的針織結構中",
+    "body": "僅露出臉部、頸部與衣領",
+    "expression": "銳利、毫無情緒、非人的面無表情凝視",
+    "pose": "完全靜止，正面直視鏡頭"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "巨大的雕塑感巴拉克拉瓦頭套式高領",
+        "material": "嵌入發光粉色光纖的厚重白色麻花針織羊毛",
+        "color": "純淨白色搭配發光的粉色脈絡",
+        "fit": "超大版型，包覆頸部與下顎"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "復古未來主義雕塑感太陽眼鏡",
+        "color": "不透明白色鏡框搭配粉色反射鏡片",
+        "material": "亮面醋酸纖維與反射玻璃",
+        "brand_style": "前衛高級時尚"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "抽象的深色極簡攝影棚空間",
+    "surfaces": "彎曲的發光玻璃管",
+    "depth": "極淺景深，背景元素立即模糊",
+    "atmosphere": "冷調臨床感、寂靜、充滿合成能量",
+    "lens_interaction": "發光背景元素形成強烈的散景光環"
+  },
+  "lighting": {
+    "key": "正上方銳利的臨床感白光",
+    "fill": "由針織物中光纖實際散發出的溫暖粉色底光",
+    "rim": "太陽穴與眼鏡上的冷青色輪廓光",
+    "shadows": "背景深邃濃郁的黑色，針織紋理中銳利的微小陰影",
+    "color_temperature": "冷調 6500K 主光與暖調 3200K 粉色實體光形成對比",
+    "sensor_flare": "發光光纖周圍細微的粉色光暈"
+  },
+  "camera": {
+    "lens_type": "Macro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "精準對焦於太陽眼鏡鏡框及緊鄰下方的皮膚毛孔",
+    "sensor_format": "Medium Format",
+    "perspective_distortion": "零變形，高度壓縮的五官比例"
+  },
+  "post_processing": {
+    "color": "高對比，鮮豔粉色與純淨白色映襯深邃陰影",
+    "tonality": "高光處呈現底片般的柔和過渡，暗部濃縮深沉",
+    "texture": "明顯的類比底片顆粒，羊毛纖維的微對比度拉高",
+    "digital_sharpening": "無，僅保留光學銳利度",
+    "chromatic_aberration": "極度失焦的背景玻璃管邊緣帶有輕微色散"
+  },
+  "negative_specifications": [
+    "neon",
+    "CGI",
+    "illustration",
+    "painting",
+    "cartoon",
+    "low resolution",
+    "cliché cyberpunk",
+    "smiling",
+    "casual attire",
+    "full body shot",
+    "wide angle"
+  ]
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="產品行銷 - 光纖超現實主義人像提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="產品行銷 - 光纖超現實主義人像提示詞 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="產品行銷 - 光纖超現實主義人像提示詞 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="產品行銷 - 光纖超現實主義人像提示詞 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **發布時間:** 2026年11月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: 產品行銷 - 透明材質靜物對比
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4971,7 +5108,7 @@ STORYBOARD：
 
 ---
 
-### No. 88: 產品行銷 - 蒸汽飛艇電影感提示詞
+### No. 89: 產品行銷 - 蒸汽飛艇電影感提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5016,7 +5153,7 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - Clean-Girl 風格時裝編輯人像
+### No. 90: 產品行銷 - Clean-Girl 風格時裝編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5069,7 +5206,7 @@ STORYBOARD：
 
 ---
 
-### No. 90: 產品行銷 - Athleisure 運動休閒時尚海報比較
+### No. 91: 產品行銷 - Athleisure 運動休閒時尚海報比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5117,7 +5254,7 @@ STORYBOARD：
 
 ---
 
-### No. 91: 產品行銷 - 大理石冷漠編輯人像提示
+### No. 92: 產品行銷 - 大理石冷漠編輯人像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5213,7 +5350,7 @@ STORYBOARD：
 
 ---
 
-### No. 92: 產品行銷 - 紅絲絨連身衣人像對比
+### No. 93: 產品行銷 - 紅絲絨連身衣人像對比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5268,7 +5405,7 @@ STORYBOARD：
 
 ---
 
-### No. 93: 產品行銷 - Nano Banana Pro 銀色金屬禮服人像
+### No. 94: 產品行銷 - Nano Banana Pro 銀色金屬禮服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5303,7 +5440,7 @@ STORYBOARD：
 
 ---
 
-### No. 94: 產品行銷 - Art-Deco 晚禮服生成提示
+### No. 95: 產品行銷 - Art-Deco 晚禮服生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5352,58 +5489,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: 產品行銷 - 高級時裝都市夜景編輯風格
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一張超寫實時尚編輯影像的詳細提示詞，描繪模特兒在夜間歐洲鵝卵石街道上行走，具備電影級燈光與特定服裝質感。
-
-#### 📝 提示詞
-
-```
-主題：
-高級時裝都市夜晚奢華編輯風格。
-
-主體：
-一位 20 歲的南歐高加索裔時尚模特兒。捕捉她在歷史悠久的歐洲鵝卵石街道上動態轉身的瞬間，回頭望向鏡頭。
-
-人物 · 表情：
-對稱的面部結構，輪廓分明的下顎線與高顴骨。深邃的淡褐色雙眼，眼神專注且穩定。豐潤的嘴唇帶有高光透明質感。濃密的深咖啡色頭髮夾雜蜂蜜金色挑染，隨著動作在肩頭飄動。皮膚呈現真實的微觀質感、可見的毛孔，以及在城市燈光下濕潤發亮的妝效。
-
-服裝 · 姿勢：
-午夜炭灰色長袖半高領上衣，採用細針羅紋絲質編織，剪裁貼身合體。高腰淺洗復古牛仔褲，高腰設計勾勒出腰部線條並順應臀部與腿部的曲線。拋光黑色皮革尖跟踝靴。她處於跨步中間，軀幹向後旋轉 90 度，一隻手優雅地輕觸頸後。
-
-背景 · 光影：
-藍色時刻中雨後的鵝卵石小巷。氛圍迷濛且具有反射感。雙光源電影級照明：溫暖的琥珀色光芒從精品店窗戶溢出，照亮她的臉部與胸部；而冷調的青色路燈則沿著她的背部、頭髮與側臉提供銳利的邊緣光。
-
-構圖 · 攝影：
-全身中景鏡頭，採用略微仰視的角度。動態構圖強調她姿勢中的 S 型曲線。面部特徵與布料質感焦點銳利清晰，背景商店燈光與建築細節則呈現柔和奶油般的散景模糊效果。
-
-質感 · 風格：
-超寫實編輯風格。高對比明暗法（Chiaroscuro），搭配深邃的電影感陰影。細緻渲染羅紋絲質、厚重丹寧紋理與拋光皮革。濕潤街道表面帶有微妙的有機膠片顆粒與鏡面高光。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="產品行銷 - 高級時裝都市夜景編輯風格 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **來源:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **發布時間:** 2026年10月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6553,7 +6638,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15711 更多提示詞未在此顯示
+### 🎯 15713 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6616,6 +6701,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-04T04:01:43.537Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-04T08:01:55.873Z</sub>
 
 </div>

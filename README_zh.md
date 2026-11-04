@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15831** |
+| 📝 提示词总数 | **15833** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月4日星期三 UTC 04:01:39** |
+| 🔄 最后更新 | **2026年11月4日星期三 UTC 08:01:46** |
 
 </div>
 
@@ -4916,7 +4916,144 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 87: 产品营销 - 透明材质静物对比
+### No. 87: 产品营销 - 光纤超现实主义人像提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一份高度详细的 JSON 格式提示词，用于生成 Dakota Johnson（或类似主体）的超写实极端微距人像，将高级时装针织元素与赛博空灵的光纤照明相融合，专为 Nano Banana Pro 优化。
+
+#### 📝 提示词
+
+```
+{
+  "vibe_title_en": "光纤超现实主义",
+  "master_prompt": "一幅超写实的极端微距主角肖像。构图采用极具张力的面部大特写，将高级时装感与合成美学融为一体。主体被一个巨大的雕塑感白色绞花针织高领完全包裹，衣领向上延伸，紧贴颈部与下颌线。厚重粗犷的羊毛中直接编织着发光的粉红色与红色光纤丝，宛如 illuminated 的脉络，为下颌与双颊投下超现实的真实底光。主体佩戴厚重的复古未来主义白色雕塑感太阳镜，镜面镜片反射出环境中弯曲的发光粉色玻璃管。皮肤质感呈现后人类特征：诡异的对称性与极致平滑，但在严苛的微距镜头下依然保留了微观级别的摄影级真实度，清晰可见细微毛孔与绒毛。目光锐利且非人化，仿佛直接穿透镜头。布光采用复杂的赛博空灵风格：正上方是锐利、冷峻的白色主光，冷青色轮廓光将主体从深色极简背景中剥离出来，而厚重针织物则散发出温暖浓烈的粉色真实光源。背景是一组唯美虚化、浅景深的同心圆发光粉色光纤阵列。使用 Hasselblad H6D-100c 拍摄，搭配 100mm f/2.8 微距镜头，光圈 f/2.8，Kodak Portra 400 胶片模拟，着重表现极致的物理纹理、光线透过针织物与镜片的自然折射，以及浓郁的传统胶片颗粒感。无 CGI，纯高成本实体特效。",
+  "meta": {
+    "intent": "创作一幅融合传统针织工艺与赛博空灵发光效果的极端微距超现实主义肖像",
+    "priorities": "微距纹理、真实发光效果、后人类肤质、精准还原情绪板的色彩方案",
+    "device_profile": "高分辨率移动端与桌面端显示器"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "极端微距肖像，面部居中，厚重衣领占据画面下方主导位置",
+    "layout": "面部对称，背景散景中带有曲线引导线",
+    "camera_angle": "正面平视，极具亲密感的近距离",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "女性",
+    "identity": "后人类时尚缪斯",
+    "demographics": "超越年龄的合成生命体",
+    "face": "诡异的对称性，完美无瑕却保留肌理，下颌线凌厉分明",
+    "hair": "被巨大的针织结构完全遮盖",
+    "body": "仅露出面部、颈部与衣领",
+    "expression": "锐利、毫无情感波动的非人化凝视",
+    "pose": "绝对静止，正对镜头"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "巨大的雕塑感巴拉克拉瓦式高领",
+        "material": "内嵌发光粉色光纤的厚重白色绞花针织羊毛",
+        "color": "纯净亮白，点缀发光粉色脉络",
+        "fit": "超大廓形，包裹颈部与下颌"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "复古未来主义雕塑感太阳镜",
+        "color": "不透明白色镜框搭配粉色反光镜片",
+        "material": "光泽醋酸纤维与反光玻璃",
+        "brand_style": "前卫高级时装"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "抽象的深色极简影棚空间",
+    "surfaces": "弯曲的发光玻璃管",
+    "depth": "极浅景深，背景元素瞬间虚化",
+    "atmosphere": "冷峻、寂静，充满合成能量感",
+    "lens_interaction": "发光背景元素形成强烈的散景光环"
+  },
+  "lighting": {
+    "key": "正上方投射的锐利冷峻白光",
+    "fill": "由针织物中的光纤实际散发出的温暖粉色底光",
+    "rim": "打在太阳穴与眼镜上的冷青色轮廓光",
+    "shadows": "背景深邃浓郁的纯黑，针织纹理中锐利的微观阴影",
+    "color_temperature": "6500K 冷调主光与 3200K 暖调粉色实体光形成强烈对比",
+    "sensor_flare": "发光光纤周围带有微妙的粉色光晕"
+  },
+  "camera": {
+    "lens_type": "微距定焦镜头",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "焦点如刀锋般锐利地落在太阳镜框及紧挨着的下方皮肤毛孔上",
+    "sensor_format": "中画幅",
+    "perspective_distortion": "零畸变，面部特征高度压缩"
+  },
+  "post_processing": {
+    "color": "高对比度，明艳的粉色与纯净的白色在深邃阴影的衬托下格外醒目",
+    "tonality": "高光处呈现胶片般的柔和过渡，暗部浓郁扎实",
+    "texture": "明显的传统胶片颗粒感，羊毛纤维的微反差被强化",
+    "digital_sharpening": "无，仅保留光学锐度",
+    "chromatic_aberration": "极度虚化的背景玻璃管边缘带有轻微色散"
+  },
+  "negative_specifications": [
+    "霓虹灯",
+    "CGI",
+    "插画",
+    "绘画",
+    "卡通",
+    "低分辨率",
+    "俗套的赛博朋克",
+    "微笑",
+    "休闲服饰",
+    "全身照",
+    "广角"
+  ]
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="产品营销 - 光纤超现实主义人像提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="产品营销 - 光纤超现实主义人像提示词 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="产品营销 - 光纤超现实主义人像提示词 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="产品营销 - 光纤超现实主义人像提示词 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **发布时间:** 2026年11月3日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: 产品营销 - 透明材质静物对比
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4961,7 +5098,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 88: 产品营销 - 蒸汽朋克飞艇电影感提示词
+### No. 89: 产品营销 - 蒸汽朋克飞艇电影感提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5006,7 +5143,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 89: 产品营销 - Clean-Girl 风格时尚编辑人像
+### No. 90: 产品营销 - Clean-Girl 风格时尚编辑人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5059,7 +5196,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 90: 产品营销 - 运动休闲时尚海报对比
+### No. 91: 产品营销 - 运动休闲时尚海报对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5107,7 +5244,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 91: 产品营销 - 大理石冷漠编辑肖像提示词
+### No. 92: 产品营销 - 大理石冷漠编辑肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5203,7 +5340,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 92: 产品营销 - 红色天鹅绒紧身连衣裤人像对比
+### No. 93: 产品营销 - 红色天鹅绒紧身连衣裤人像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5258,7 +5395,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 93: 产品营销 - Nano Banana Pro 银色金属质感礼服人像
+### No. 94: 产品营销 - Nano Banana Pro 银色金属质感礼服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5293,7 +5430,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 94: 产品营销 - 装饰艺术风格晚礼服提示词
+### No. 95: 产品营销 - 装饰艺术风格晚礼服提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5342,58 +5479,6 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: 产品营销 - 高端时尚都市夜景大片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于生成超写实时尚大片的详细提示词，描绘模特在夜晚欧洲鹅卵石街道上行走的场景，具有电影级灯光效果和特定的服装质感。
-
-#### 📝 提示词
-
-```
-主题：
-高端时尚都市夜景奢华大片。
-
-主体：
-一位 20 岁的地中海高加索裔时尚模特。她被捕捉到在一条历史悠久的欧洲鹅卵石街道上动态转身行走的瞬间，回头望向镜头。
-
-人物 · 表情：
-对称的面部结构，轮廓分明的下颌线和高颧骨。锐利的淡褐色眼睛，目光专注而稳定。丰满的嘴唇带有高光泽透明妆效。浓密的浓缩咖啡色头发带有蜂蜜金色挑染，随着动作在肩头飞扬。皮肤呈现逼真的微纹理、可见毛孔，并在城市灯光下展现出水润光泽感。
-
-服装 · 姿势：
-一件午夜炭灰色长袖半高领上衣，采用细针距罗纹真丝针织面料，剪裁贴身修身。高腰浅色水洗复古牛仔裤，高腰版型勾勒腰线并贴合臀部与腿部曲线。抛光黑色皮革细跟踝靴。她处于迈步中途，躯干向后旋转 90 度，一只手优雅地轻触颈后。
-
-背景 · 光线：
-蓝调时刻雨后的鹅卵石小巷。氛围朦胧且具反射性。双光源电影级布光：温暖的琥珀色光芒从精品店橱窗溢出，照亮她的面部和胸部；冷青色路灯则沿着她的背部、头发和侧脸轮廓提供锐利的边缘光。
-
-构图 · 相机：
-全身中景，采用轻微的低角度视角。主体以动态方式取景，强调其姿势的 S 形曲线。面部特征和织物纹理焦点极其清晰，背景店铺灯光和建筑细节则通过柔和奶油般的散景虚化。
-
-质感 · 风格：
-超写实摄影编辑风格。高对比度的明暗对照法（Chiaroscuro），带有深邃的电影感阴影。精细渲染罗纹真丝、厚重牛仔布纹理和抛光皮革。湿润街道表面带有微妙的有机胶片颗粒感和镜面高光。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="产品营销 - 高端时尚都市夜景大片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **来源:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **发布时间:** 2026年10月18日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6543,7 +6628,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 <div align="center">
 
-### 🎯 15711 更多提示词未在此显示
+### 🎯 15713 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6606,6 +6691,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-04T04:01:39.305Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-04T08:01:46.814Z</sub>
 
 </div>

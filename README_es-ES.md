@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15831** |
+| 📝 Total de prompts | **15833** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 4 de noviembre de 2026, 4:02:10 UTC** |
+| 🔄 Última actualización | **miércoles, 4 de noviembre de 2026, 8:02:38 UTC** |
 
 </div>
 
@@ -4899,7 +4899,144 @@ Un prompt cinematográfico detallado para una escena misteriosa de un faro azota
 
 ---
 
-### No. 87: Marketing de producto - Comparación de bodegón con materiales transparentes
+### No. 87: Marketing de producto - Prompt de Retrato Surrealista de Fibra Óptica
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt en formato JSON altamente detallado para generar un retrato macro extremo hiperrealista de Dakota Johnson (o un sujeto similar), que combina ropa de punto de alta moda con iluminación ciberetérea de fibra óptica, optimizado para Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Surrealismo de fibra óptica",
+  "master_prompt": "Un retrato macro extremo hiperrealista de El Protagonista. El encuadre es un primer plano intenso y muy cerrado del rostro, que fusiona la alta costura con una belleza sintética. El sujeto está envuelto en un enorme cuello escultural de lana blanca de punto trenzado que se extiende hacia arriba rodeando el cuello y la línea de la mandíbula. Tejidos directamente en la lana gruesa y pesada hay filamentos de fibra óptica luminosos y resplandecientes en tonos rosa y rojo que parecen venas iluminadas, proyectando un surrealista resplandor inferior real sobre la mandíbula y las mejillas. El sujeto lleva unas gruesas gafas de sol esculturales blancas de estilo retrofuturista, con cristales espejados que reflejan los tubos de cristal curvos y luminiscentes de color rosa del entorno. La textura de la piel es poshumana: de una simetría inquietante e hiperlisa, pero conservando una fidelidad fotográfica microscópica con poros finos y vello facial visibles bajo el implacable objetivo macro. La mirada es penetrante y no humana, atravesando directamente el objetivo. La iluminación es una compleja puesta en escena ciberetérea: una luz principal blanca, nítida y clínica; una luz de contorno cian fría que separa al sujeto del fondo oscuro y minimalista; y el cálido e intenso resplandor rosado real que irradia de la gruesa prenda de punto. El fondo es un conjunto hermosamente desenfocado, con una profundidad de campo muy reducida, formado por fibras ópticas concéntricas brillantes de color rosa. Tomada con Hasselblad H6D-100c, objetivo macro de 100mm f/2.8, apertura f/2.8, película Kodak Portra 400, enfatizando texturas físicas extremas, la refracción natural de la luz a través del tejido y las gafas, y un denso grano de película analógica. Sin CGI, efectos prácticos de alto presupuesto.",
+  "meta": {
+    "intent": "Crear un retrato surrealista macro extremo que fusione prendas de punto tradicionales con una luminiscencia ciberetérea",
+    "priorities": "Texturas macro, efectos de brillo prácticos, piel poshumana, paleta de colores exacta del moodboard",
+    "device_profile": "Pantallas móviles y de escritorio de alta resolución"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Retrato macro extremo, rostro centrado, cuello voluminoso que domina la parte inferior del encuadre",
+    "layout": "Rostro simétrico, líneas guía curvas en el bokeh del fondo",
+    "camera_angle": "Frontal a la altura de los ojos, proximidad íntima",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Femenino",
+    "identity": "Musa de moda poshumana",
+    "demographics": "Entidad sintética sin edad",
+    "face": "Simetría inquietante, impecable pero con textura, línea de mandíbula marcada",
+    "hair": "Completamente oculto por la enorme estructura de punto",
+    "body": "Solo se ven el rostro, el cuello y el cuello de la prenda",
+    "expression": "Mirada penetrante, inexpresiva, impasible y no humana",
+    "pose": "Perfectamente inmóvil, mirando directamente al objetivo"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Enorme cuello pasamontañas escultural",
+        "material": "Lana blanca gruesa de punto trenzado con fibras ópticas rosas luminosas incrustadas",
+        "color": "Blanco inmaculado con venas rosas brillantes",
+        "fit": "Oversize, envolviendo el cuello y la parte inferior de la mandíbula"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Gafas de sol esculturales retrofuturistas",
+        "color": "Monturas blancas opacas con cristales espejados rosas",
+        "material": "Acetato brillante y cristal espejado",
+        "brand_style": "Alta costura vanguardista"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Espacio de estudio abstracto, oscuro y minimalista",
+    "surfaces": "Tubos de cristal luminiscentes curvos",
+    "depth": "Extremadamente reducida, desenfocando los elementos del fondo de inmediato",
+    "atmosphere": "Clínica, silenciosa, cargada de energía sintética",
+    "lens_interaction": "Anillos de bokeh intensos procedentes de los elementos brillantes del fondo"
+  },
+  "lighting": {
+    "key": "Luz blanca clínica y nítida desde justo encima",
+    "fill": "Luz cenital cálida y rosada que irradia de forma práctica desde las fibras ópticas de la prenda de punto",
+    "rim": "Luz de contorno cian fría en las sienes y las gafas",
+    "shadows": "Negros profundos e intensos en el fondo, microsombras nítidas en la textura del tejido",
+    "color_temperature": "Contraste entre la luz principal fría de 6500K y las luces prácticas cálidas rosadas de 3200K",
+    "sensor_flare": "Halación rosada sutil alrededor de las fibras ópticas luminosas"
+  },
+  "camera": {
+    "lens_type": "Macro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "Nitidez extrema en las monturas de las gafas de sol y en los poros de la piel inmediatamente inferiores",
+    "sensor_format": "Formato medio",
+    "perspective_distortion": "Cero distorsión, rasgos faciales muy comprimidos"
+  },
+  "post_processing": {
+    "color": "Alto contraste, rosas vibrantes y blancos inmaculados frente a sombras profundas",
+    "tonality": "Transición gradual tipo película en las altas luces, sombras densas y empastadas",
+    "texture": "Grano de película analógica pronunciado, microcontraste potenciado en las fibras de lana",
+    "digital_sharpening": "Ninguno, solo nitidez óptica",
+    "chromatic_aberration": "Ligera aberración cromática en los bordes de los tubos del fondo extremadamente desenfocados"
+  },
+  "negative_specifications": [
+    "neón",
+    "CGI",
+    "ilustración",
+    "pintura",
+    "dibujo animado",
+    "baja resolución",
+    "ciberpunk cliché",
+    "sonriendo",
+    "ropa informal",
+    "plano de cuerpo entero",
+    "gran angular"
+  ]
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Surrealista de Fibra Óptica - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Surrealista de Fibra Óptica - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Surrealista de Fibra Óptica - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Surrealista de Fibra Óptica - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Fuente:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **Publicado:** 3 de noviembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: Marketing de producto - Comparación de bodegón con materiales transparentes
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4944,7 +5081,7 @@ Prueba de bodegón con materiales transparentes bajo la luz del sol de la tarde:
 
 ---
 
-### No. 88: Marketing de producto - Prompt Cinematográfico de Aeronave Steampunk
+### No. 89: Marketing de producto - Prompt Cinematográfico de Aeronave Steampunk
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4989,7 +5126,7 @@ Fotografía realista cinematográfica, un dirigible steampunk sobre un mar de nu
 
 ---
 
-### No. 89: Marketing de producto - Retrato Editorial de Moda Estilo Clean-Girl
+### No. 90: Marketing de producto - Retrato Editorial de Moda Estilo Clean-Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5042,7 +5179,7 @@ Estilo editorial de alta moda hiperrealista. Renderizado táctil del delicado en
 
 ---
 
-### No. 90: Marketing de producto - Comparación de Pósters de Moda Athleisure
+### No. 91: Marketing de producto - Comparación de Pósters de Moda Athleisure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5090,7 +5227,7 @@ Restricciones negativas: sin modelos adicionales, sin variaciones de identidad, 
 
 ---
 
-### No. 91: Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol
+### No. 92: Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5186,7 +5323,7 @@ Un prompt complejo en formato JSON para generar una fotografía editorial surrea
 
 ---
 
-### No. 92: Marketing de producto - Comparativa de retratos con leotardo rojo terciopelo
+### No. 93: Marketing de producto - Comparativa de retratos con leotardo rojo terciopelo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5241,7 +5378,7 @@ Fondo limpio y minimalista con una iluminación suave y dramática que resalta l
 
 ---
 
-### No. 93: Marketing de producto - Retrato de Vestido Plateado Metálico Nano Banana Pro
+### No. 94: Marketing de producto - Retrato de Vestido Plateado Metálico Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5276,7 +5413,7 @@ Prompt negativo: sin aspecto de CGI, sin piel de plástico, rostro diferente, p�
 
 ---
 
-### No. 94: Marketing de producto - Prompt de Vestido de Noche Art Déco
+### No. 95: Marketing de producto - Prompt de Vestido de Noche Art Déco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5325,58 +5462,6 @@ Renderizado ultrafotorrealista centrado en el contraste de materiales: el mármo
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: Marketing de producto - Editorial Nocturna Urbana de Alta Moda
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Prompt detallado para generar una imagen editorial de moda hiperrealista de una modelo caminando por una calle adoquinada europea de noche, con iluminación cinematográfica y texturas específicas de la ropa.
-
-#### 📝 Prompt
-
-```
-Tema:
-Editorial nocturna urbana de lujo de alta moda.
-
-Sujeto:
-Una modelo de moda mediterránea-caucásica de 20 años. Es capturada en un giro dinámico al caminar por una histórica calle adoquinada europea, mirando hacia atrás sobre su hombro hacia la cámara.
-
-Persona · Expresión:
-Estructura facial simétrica con mandíbula definida y pómulos altos. Ojos avellanos penetrantes con una mirada enfocada y firme. Labios llenos con acabado brillante transparente. Cabello voluminoso color espresso con reflejos rubio miel, ondeando sobre sus hombros en movimiento. La piel presenta microtextura realista, poros visibles y un acabado luminoso y húmedo bajo las luces de la ciudad.
-
-Ropa · Pose:
-Un top de cuello alto simulado de manga larga en carbón medianoche, hecho de punto de seda acanalado de calibre fino, con una silueta ajustada al cuerpo. Vaqueros de denim vintage de lavado claro y tiro alto que definen la cintura y siguen la curva de las caderas y piernas. Botines de tacón aguja negros de cuero pulido. Está posicionada a mitad de paso con el torso girado 90 grados hacia atrás y una mano tocando graciosamente la parte posterior de su cuello.
-
-Fondo · Luz:
-Un callejón adoquinado mojado por la lluvia durante la hora azul. La atmósfera es brumosa y reflectante. Iluminación cinematográfica de doble fuente: luz ámbar cálida se derrama desde la ventana de una boutique para iluminar su rostro y pecho, mientras una luz de calle cian fría proporciona una luz de contorno nítida a lo largo de su espalda, cabello y perfil.
-
-Composición · Cámara:
-Plano medio de cuerpo completo desde una perspectiva ligeramente contrapicada. El sujeto está encuadrado dinámicamente para enfatizar la curva S de su pose. Enfoque ultra nítido en los rasgos faciales y texturas de la tela, con un bokeh suave y cremoso que difumina las luces de tiendas del fondo y detalles arquitectónicos.
-
-Textura · Estilo:
-Estilo editorial hiperfotorrealista. Claroscuro de alto contraste con sombras profundas y fílmicas. Renderizado detallado de seda acanalada, grano de denim pesado y cuero pulido. Grano de película orgánico sutil y especulares en las superficies mojadas de la calle.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="Marketing de producto - Editorial Nocturna Urbana de Alta Moda - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Fuente:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **Publicado:** 18 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6526,7 +6611,7 @@ Un prompt de generación al estilo SQL único para crear intrincados dioramas ar
 
 <div align="center">
 
-### 🎯 15711 prompts más no mostrados aquí
+### 🎯 15713 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6589,6 +6674,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-04T04:02:10.556Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-04T08:02:38.636Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **15831** |
+| 📝 Total des prompts | **15833** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **mercredi 4 novembre 2026 à 04:02:23 UTC** |
+| 🔄 Dernière mise à jour | **mercredi 4 novembre 2026 à 08:03:00 UTC** |
 
 </div>
 
@@ -4903,7 +4903,144 @@ Un prompt cinématographique détaillé pour une scène mystérieuse de phare so
 
 ---
 
-### No. 87: Marketing produit - Comparaison de nature morte avec matériaux transparents
+### No. 87: Marketing produit - Prompt Portrait Surréaliste à Fibre Optique
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Un prompt JSON détaillé pour générer un portrait macro hyper-réaliste de Dakota Johnson (ou sujet similaire), fusionnant des tricots haute couture avec un éclairage cyber-éthéré à fibre optique, optimisé pour Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Surréalisme à fibre optique",
+  "master_prompt": "Un portrait macro extrême hyper-réaliste du Protagoniste. Le cadrage est un gros plan serré et intense sur le visage, mêlant haute couture et beauté synthétique. Le sujet est englouti dans un immense col sculptural en maille torsadée blanche qui remonte autour du cou et de la mâchoire. Tissé directement dans cette laine épaisse et lourde se trouvent des filaments de fibre optique roses et rouges luminescents qui ressemblent à des veines illuminées, projetant une lueur sous-jacente pratique et surréaliste sur la mâchoire et les joues. Le sujet porte d'épaisses lunettes de soleil sculpturales blanches rétro-futuristes avec des verres miroir reflétant des tubes de verre incurvés et luminescents roses présents dans l'environnement. La texture de la peau est post-humaine : symétrie troublante et surface hyper-lisse, tout en conservant une fidélité photographique microscopique avec des pores fins et un léger duvet visibles sous l'objectif macro impitoyable. Le regard est perçant et inhumain, traversant directement l'objectif. L'éclairage repose sur une configuration cyber-éthérée complexe : une lumière principale blanche, clinique et tranchante, un éclairage de contour cyan froid séparant le sujet de l'arrière-plan sombre et minimaliste, ainsi que la lueur pratique rose chaude et intense émanant de la maille épaisse. L'arrière-plan est un ensemble magnifiquement flou, à faible profondeur de champ, composé de fibres optiques roses concentriques lumineuses. Photographié au Hasselblad H6D-100c, objectif Macro 100mm f/2.8, ouverture f/2.8, pellicule Kodak Portra 400, mettant en valeur les textures physiques extrêmes, la réfraction naturelle de la lumière à travers la maille et les lunettes, ainsi qu'un grain argentique lourd. Aucun CGI, effets pratiques à gros budget.",
+  "meta": {
+    "intent": "Créer un portrait surréaliste macro extrême fusionnant la maille traditionnelle avec une luminescence cyber-éthérée",
+    "priorities": "Textures macro, effets lumineux pratiques, peau post-humaine, palette de couleurs exacte de la planche d'inspiration",
+    "device_profile": "Écrans mobiles et de bureau haute résolution"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Portrait macro extrême, visage centré, col imposant dominant la partie inférieure du cadre",
+    "layout": "Visage symétrique, lignes directrices courbes dans le bokeh de l'arrière-plan",
+    "camera_angle": "De face à hauteur des yeux, proximité intime",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Femme",
+    "identity": "Muse de mode post-humaine",
+    "demographics": "Entité synthétique sans âge",
+    "face": "Symétrie troublante, impeccable mais texturée, ligne de mâchoire saisissante",
+    "hair": "Entièrement dissimulé par l'imposante structure en maille",
+    "body": "Seuls le visage, le cou et le col sont visibles",
+    "expression": "Regard perçant, impassible, inhumain et dénué d'émotion",
+    "pose": "Parfaitement immobile, face directement à l'objectif"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Imposant col-cagoule sculptural",
+        "material": "Laine épaisse blanche à mailles torsadées incrustée de fibres optiques roses lumineuses",
+        "color": "Blanc éclatant avec des veines roses lumineuses",
+        "fit": "Surdimensionné, enveloppant le cou et le bas du visage"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Lunettes de soleil sculpturales rétro-futuristes",
+        "color": "Montures blanc opaque avec verres miroir roses",
+        "material": "Acétate brillant et verre miroir",
+        "brand_style": "Haute couture avant-gardiste"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Espace de studio abstrait, sombre et minimaliste",
+    "surfaces": "Tubes de verre luminescents incurvés",
+    "depth": "Extrêmement faible, floutant immédiatement les éléments de l'arrière-plan",
+    "atmosphere": "Clinique, silencieuse, chargée d'une énergie synthétique",
+    "lens_interaction": "Anneaux de bokeh intenses provenant des éléments lumineux de l'arrière-plan"
+  },
+  "lighting": {
+    "key": "Lumière blanche clinique et tranchante provenant directement du dessus",
+    "fill": "Contre-plongée rose chaude et lumineuse émanant concrètement des fibres optiques tissées dans la maille",
+    "rim": "Lumière de contour cyan froide sur les tempes et les lunettes",
+    "shadows": "Noirs profonds et riches en arrière-plan, micro-ombres nettes dans la texture de la maille",
+    "color_temperature": "Contraste entre la lumière principale froide à 6500K et les sources pratiques roses chaudes à 3200K",
+    "sensor_flare": "Subtile halation rosée autour des fibres optiques lumineuses"
+  },
+  "camera": {
+    "lens_type": "Objectif à focale fixe macro",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "Netteté absolue sur les montures des lunettes et les pores de la peau situés juste en dessous",
+    "sensor_format": "Moyen format",
+    "perspective_distortion": "Aucune distorsion, traits du visage fortement compressés"
+  },
+  "post_processing": {
+    "color": "Contraste élevé, roses vibrants et blancs éclatants se détachant sur des ombres profondes",
+    "tonality": "Transition douce typique de la pellicule dans les hautes lumières, ombres denses et bouchées",
+    "texture": "Grain argentique prononcé, micro-contraste accentué sur les fibres de laine",
+    "digital_sharpening": "Aucun, netteté purement optique",
+    "chromatic_aberration": "Légère frange colorée sur les bords des tubes extrêmement flous de l'arrière-plan"
+  },
+  "negative_specifications": [
+    "néon",
+    "CGI",
+    "illustration",
+    "peinture",
+    "dessin animé",
+    "basse résolution",
+    "cyberpunk cliché",
+    "sourire",
+    "tenue décontractée",
+    "plan en pied",
+    "grand-angle"
+  ]
+}
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="Marketing produit - Prompt Portrait Surréaliste à Fibre Optique - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="Marketing produit - Prompt Portrait Surréaliste à Fibre Optique - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="Marketing produit - Prompt Portrait Surréaliste à Fibre Optique - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="Marketing produit - Prompt Portrait Surréaliste à Fibre Optique - Image 4">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Source:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **Publié:** 3 novembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: Marketing produit - Comparaison de nature morte avec matériaux transparents
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4948,7 +5085,7 @@ Test de nature morte avec matériaux transparents sous la lumière du soleil de 
 
 ---
 
-### No. 88: Marketing produit - Prompt cinématographique de dirigeable steampunk
+### No. 89: Marketing produit - Prompt cinématographique de dirigeable steampunk
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4993,7 +5130,7 @@ Photographie réaliste cinématographique, un dirigeable steampunk au-dessus d'u
 
 ---
 
-### No. 89: Marketing produit - Portrait de mode éditorial style « Clean Girl »
+### No. 90: Marketing produit - Portrait de mode éditorial style « Clean Girl »
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5046,7 +5183,7 @@ Style editorial hyper-réaliste de haute couture. Rendu tactile de la dentelle d
 
 ---
 
-### No. 90: Marketing produit - Comparaison d'affiches mode athleisure
+### No. 91: Marketing produit - Comparaison d'affiches mode athleisure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5094,7 +5231,7 @@ Contraintes négatives : pas de modèles supplémentaires, aucune altération de
 
 ---
 
-### No. 91: Marketing produit - Prompt Portrait Éditorial Marbre Apathie
+### No. 92: Marketing produit - Prompt Portrait Éditorial Marbre Apathie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5190,7 +5327,7 @@ Prompt JSON complexe pour générer une photographie éditoriale surréaliste d'
 
 ---
 
-### No. 92: Marketing produit - Comparaison de portraits avec justaucorps en velours rouge
+### No. 93: Marketing produit - Comparaison de portraits avec justaucorps en velours rouge
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5245,7 +5382,7 @@ Arrière-plan épuré et minimaliste baigné d'un éclairage doux et dramatique 
 
 ---
 
-### No. 93: Marketing produit - Portrait de robe métallique argentée Nano Banana Pro
+### No. 94: Marketing produit - Portrait de robe métallique argentée Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5280,7 +5417,7 @@ Prompt négatif : pas d'aspect CGI, pas de peau en plastique, visage différent,
 
 ---
 
-### No. 94: Marketing produit - Prompt pour Robe de Soirée Art Déco
+### No. 95: Marketing produit - Prompt pour Robe de Soirée Art Déco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5329,58 +5466,6 @@ Un rendu ultra-photoréaliste axé sur le contraste des matières : la froideur 
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: Marketing produit - Éditorial Mode Haute Couture Urbain Nocturne
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Un prompt détaillé pour générer une image éditoriale de mode hyper-réaliste d'un mannequin marchant dans une rue pavée européenne la nuit, mettant en avant un éclairage cinématographique et des textures vestimentaires spécifiques.
-
-#### 📝 Prompt
-
-```
-Thème :
-Éditorial luxe nocturne urbain haute couture.
-
-Sujet :
-Une mannequin méditerranéenne-caucasienne de 20 ans. Elle est capturée en plein mouvement de rotation lors d'une marche sur une rue pavée historique européenne, regardant par-dessus son épaule vers l'objectif.
-
-Personnage · Expression :
-Structure faciale symétrique avec une mâchoire définie et des pommettes hautes. Yeux noisette perçants au regard concentré et stable. Lèvres pulpeuses avec une finition brillante transparente. Chevelure volumineuse couleur espresso avec des mèches blond miel, fouettant ses épaules dans le mouvement. La peau présente une micro-texture réaliste, des pores visibles et une finition lumineuse et humide sous les lumières de la ville.
-
-Vêtements · Pose :
-Un haut à col montant manches longues couleur charbon de minuit, en maille soie côtelée fine, présentant une silhouette ajustée près du corps. Jean denim vintage délavé clair taille haute, avec une coupe high-rise qui définit la taille et suit la courbe des hanches et des jambes. Bottines escarpins en cuir noir poli. Elle est positionnée en pleine foulée, le torse tourné à 90 degrés vers l'arrière et une main touchant gracieusement l'arrière de son cou.
-
-Arrière-plan · Lumière :
-Une ruelle pavée mouillée par la pluie à l'heure bleue. L'atmosphère est brumeuse et réfléchissante. Éclairage cinématographique à double source : une lumière ambre chaude se déverse depuis la vitrine d'une boutique pour illuminer son visage et sa poitrine, tandis qu'un lampadaire cyan froid fournit une lumière de contour nette le long de son dos, de ses cheveux et de son profil.
-
-Composition · Caméra :
-Plan moyen en pied depuis une perspective légèrement contre-plongée. Le sujet est cadré dynamiquement pour souligner la courbe en S de sa pose. Mise au point ultra-précise sur les traits du visage et les textures des tissus, avec un bokeh doux et crémeux floutant les lumières des boutiques et les détails architecturaux en arrière-plan.
-
-Texture · Style :
-Style éditorial hyper-photoréaliste. Chiaroscuro à fort contraste avec des ombres profondes et filmiques. Rendu détaillé de la soie côtelée, du grain épais du denim et du cuir poli. Grain de film organique subtil et reflets spéculaires sur les surfaces mouillées de la rue.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="Marketing produit - Éditorial Mode Haute Couture Urbain Nocturne - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Source:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **Publié:** 18 octobre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6530,7 +6615,7 @@ Un prompt de génération unique de style SQL pour créer des dioramas architect
 
 <div align="center">
 
-### 🎯 15711 prompts supplémentaires non affichés ici
+### 🎯 15713 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6593,6 +6678,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-04T04:02:23.429Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-04T08:03:00.070Z</sub>
 
 </div>

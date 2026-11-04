@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15831** |
+| 📝 Toplam İstem | **15833** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **4 Kasım 2026 Çarşamba 04:02:40 UTC** |
+| 🔄 Son Güncelleme | **4 Kasım 2026 Çarşamba 08:03:28 UTC** |
 
 </div>
 
@@ -4894,7 +4894,144 @@ Yoğun duygusal atmosfere sahip, gizemli ve fırtınalı bir deniz feneri sahnes
 
 ---
 
-### No. 87: Ürün Pazarlaması - Şeffaf Malzeme Natürmort Karşılaştırması
+### No. 87: Ürün Pazarlaması - Fiber Optik Sürrealizm Portre Promptu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Dakota Johnson (veya benzer bir özne) için, yüksek moda örgü kıyafetleri ile siber-etsel fiber optik ışığı harmanlayan hiper gerçekçi aşırı makro portre üretmek üzere optimize edilmiş, son derece detaylı JSON formatında prompt. Nano Banana Pro için idealdir.
+
+#### 📝 İstem
+
+```
+{
+  "vibe_title_en": "Fiber-Optik Sürrealizm",
+  "master_prompt": "Ana Karakter'in hiper gerçekçi, aşırı makro bir portresi. Kadraj, yüksek modayı ve sentetik güzelliği harmanlayan, yüze odaklanmış yoğun ve sıkı bir yakın çekimdir. Model, boynu ve çene hattını saran devasa, heykelsi beyaz bir balık sırtı örgü yaka içine gömülmüştür. Kalın ve ağır yünün doğrudan içine dokunmuş, aydınlatılmış damarları andıran parlayan, ışıldayan pembe ve kırmızı fiber optik filamentler, çeneye ve yanaklara sürreal, pratik bir alt ışıma yansıtır. Model, camlarında çevredeki kavisli, ışıldayan pembe cam tüplerin yansıdığı kalın, retro-fütüristik beyaz heykelsi güneş gözlükleri takmaktadır. Cilt dokusu insan ötesidir: tekinsiz bir simetri ve hiper pürüzsüzlük sunarken, sert makro lens altında görünen ince gözenekler ve şeftali tüyleriyle mikroskobik fotoğrafik sadakatini korur. Bakışlar delici ve insan dışıdır, doğrudan lensin içinden geçmektedir. Işıklandırma karmaşık bir siber-eteryal düzendir: tepeden gelen keskin, klinik beyaz ana ışık; modeli karanlık, minimalist arka plandan ayıran soğuk camgöbeği kenar ışığı ve ağır örgü giysiden yayılan sıcak, yoğun pembe pratik ışıma. Arka plan, güzelce bulanıklaştırılmış, sığ alan derinliğine sahip eşmerkezli parlayan pembe optik fiberlerden oluşan bir dizilimdir. Hasselblad H6D-100c ile çekilmiş, 100mm f/2.8 Makro lens, f/2.8 diyafram açıklığı, Kodak Portra 400 film stoğu kullanılmıştır; aşırı fiziksel dokular, örgü ve gözlükten geçen doğal ışık kırılması ve yoğun analog film greni vurgulanmıştır. CGI yok, yüksek bütçeli pratik efektler.",
+  "meta": {
+    "intent": "Geleneksel örgü giysileri siber-eteryal ışıldamayla harmanlayan aşırı makro sürrealist bir portre oluşturmak",
+    "priorities": "Makro dokular, pratik ışıldama efektleri, insan ötesi cilt, mood board'un birebir renk paleti",
+    "device_profile": "Yüksek çözünürlüklü mobil ve masaüstü ekranlar"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Aşırı makro portre, yüz ortalanmış, alt kadrajı kaplayan ağır yaka",
+    "layout": "Simetrik yüz, arka plan bokeh'inde kavisli yönlendirici çizgiler",
+    "camera_angle": "Cepheye dönük göz hizası, samimi yakınlık",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Kadın",
+    "identity": "İnsan ötesi moda ilham perisi",
+    "demographics": "Yaşsız sentetik varlık",
+    "face": "Tekinsiz simetri, kusursuz ama dokulu, çarpıcı çene hattı",
+    "hair": "Devasa örgü yapısı tarafından tamamen gizlenmiş",
+    "body": "Sadece yüz, boyun ve yaka görünür",
+    "expression": "Delici, duygusuz, insan dışı ifadesiz bakış",
+    "pose": "Tamamen hareketsiz, doğrudan lense dönük"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Devasa heykelsi balaklava yaka",
+        "material": "Parlayan pembe fiber optiklerle işlenmiş ağır beyaz balık sırtı örgü yün",
+        "color": "Parlak beyaz zemin üzerinde parlayan pembe damarlar",
+        "fit": "Oversize, boynu ve alt çeneyi saran"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Retro-fütüristik heykelsi güneş gözlüğü",
+        "color": "Opak beyaz çerçeveler ve pembe aynalı camlar",
+        "material": "Parlak asetat ve aynalı cam",
+        "brand_style": "Avant-garde yüksek moda"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Soyut, karanlık, minimalist stüdyo alanı",
+    "surfaces": "Kavisli ışıldayan cam tüpler",
+    "depth": "Son derece sığ, arka plan öğelerini anında bulanıklaştıran",
+    "atmosphere": "Klinik, sessiz, sentetik enerjiyle yüklü",
+    "lens_interaction": "Parlayan arka plan öğelerinden kaynaklanan yoğun bokeh halkaları"
+  },
+  "lighting": {
+    "key": "Doğrudan yukarıdan gelen keskin, klinik beyaz ışık",
+    "fill": "Örgüdeki fiber optiklerden pratik olarak yayılan sıcak, parlayan pembe alttan ışık",
+    "rim": "Şakaklarda ve gözlüklerde soğuk camgöbeği kenar ışığı",
+    "shadows": "Arka planda derin, zengin siyahlar; örgü dokusunda keskin mikro gölgeler",
+    "color_temperature": "Soğuk 6500K ana ışık ile sıcak 3200K pembe pratik ışıkların kontrastı",
+    "sensor_flare": "Parlayan fiber optiklerin etrafında hafif pembe halelenme"
+  },
+  "camera": {
+    "lens_type": "Makro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "Güneş gözlüğünün çerçevelerinde ve hemen altındaki cilt gözeneklerinde jilet gibi keskin",
+    "sensor_format": "Orta Format",
+    "perspective_distortion": "Sıfır distorsiyon, son derece sıkıştırılmış yüz hatları"
+  },
+  "post_processing": {
+    "color": "Yüksek kontrast, derin gölgelere karşı canlı pembeler ve net beyazlar",
+    "tonality": "Parlak alanlarda film benzeri yumuşak geçiş, yoğun ezilmiş gölgeler",
+    "texture": "Belirgin analog film greni, yün liflerinde artırılmış mikro kontrast",
+    "digital_sharpening": "Yok, yalnızca optik keskinlik",
+    "chromatic_aberration": "Aşırı odak dışı kalan arka plan tüplerinin kenarlarında hafif renk saçılması"
+  },
+  "negative_specifications": [
+    "neon",
+    "CGI",
+    "illüstrasyon",
+    "tablo",
+    "karikatür",
+    "düşük çözünürlük",
+    "klişe cyberpunk",
+    "gülümseme",
+    "gündelik giyim",
+    "tam boy çekim",
+    "geniş açı"
+  ]
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="Ürün Pazarlaması - Fiber Optik Sürrealizm Portre Promptu - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="Ürün Pazarlaması - Fiber Optik Sürrealizm Portre Promptu - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="Ürün Pazarlaması - Fiber Optik Sürrealizm Portre Promptu - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="Ürün Pazarlaması - Fiber Optik Sürrealizm Portre Promptu - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Kaynak:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **Yayınlandı:** 3 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: Ürün Pazarlaması - Şeffaf Malzeme Natürmort Karşılaştırması
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4939,7 +5076,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro) ve Grok-imagine2'nin cam, su ve �
 
 ---
 
-### No. 88: Ürün Pazarlaması - Steampunk Hava Gemisi Sinematik İstem
+### No. 89: Ürün Pazarlaması - Steampunk Hava Gemisi Sinematik İstem
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4984,7 +5121,7 @@ Sinematik gerçekçi fotoğrafçılık, alacakaranlıkta bulut denizi üzerinde 
 
 ---
 
-### No. 89: Ürün Pazarlaması - Clean-Girl Editoryal Moda Portresi
+### No. 90: Ürün Pazarlaması - Clean-Girl Editoryal Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5037,7 +5174,7 @@ Hiper gerçekçi yüksek moda editoryal stili. Zarif dantelin, ağır denim kuma
 
 ---
 
-### No. 90: Ürün Pazarlaması - Athleisure Moda Afişi Karşılaştırması
+### No. 91: Ürün Pazarlaması - Athleisure Moda Afişi Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5085,7 +5222,7 @@ Negatif kısıtlamalar: Ekstra model yok, kimlik kayması yok, birbiriyle uyuşm
 
 ---
 
-### No. 91: Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi
+### No. 92: Ürün Pazarlaması - Mermer Apati Editoryal Portre İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5181,7 +5318,7 @@ Mermer büstlerle çevrili bir kadının sürreal editoryal fotoğrafını oluş
 
 ---
 
-### No. 92: Ürün Pazarlaması - Kırmızı Kadife Tayt Portresi Karşılaştırması
+### No. 93: Ürün Pazarlaması - Kırmızı Kadife Tayt Portresi Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5236,7 +5373,7 @@ Zengin kadife dokusunu ve dantel detaylarını ön plana çıkaran yumuşak, dra
 
 ---
 
-### No. 93: Ürün Pazarlaması - Nano Banana Pro Gümüş Metalik Elbise Portresi
+### No. 94: Ürün Pazarlaması - Nano Banana Pro Gümüş Metalik Elbise Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5271,7 +5408,7 @@ Negatif prompt: CGI görünümü yok, plastik cilt yok, farklı yüz, kimlik kay
 
 ---
 
-### No. 94: Ürün Pazarlaması - Art-Deco Akşam Elbisesi İstemi
+### No. 95: Ürün Pazarlaması - Art-Deco Akşam Elbisesi İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5320,58 +5457,6 @@ Malzeme kontrastına odaklanan ultra fotogerçekçi bir işleme: Serin, yansıt�
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: Ürün Pazarlaması - Yüksek Moda Şehir Gece Editoryali
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Avrupa taş döşeli bir sokakta gece yürüyen bir modelin hiper-gerçekçi moda editoryal görüntüsünü oluşturmak için detaylı bir istem; sinematik ışıklandırma ve spesifik kumaş dokularını içerir.
-
-#### 📝 İstem
-
-```
-Tema:
-Yüksek moda şehir gecesi lüks editoryal.
-
-Özne:
-20 yaşında Akdeniz-Kafkas kökenli bir moda modeli. Tarihi bir Avrupa taş döşeli sokağında dinamik bir dönüş hareketiyle yürürken, omzunun üzerinden kameraya bakarken yakalanmıştır.
-
-Kişi · İfade:
-Belirgin çene hattı ve yüksek elmacık kemiklerine sahip simetrik yüz yapısı. Odaklanmış, sabit bakışlı keskin ela gözler. Yüksek parlaklıkta şeffaf bitişe sahip dolgun dudaklar. Hareket halinde omuzları üzerinde savrulan, bal sarısı vurguları olan yoğun espresso rengi saçlar. Cilt, şehir ışıkları altında gerçekçi mikro doku, görünür gözenekler ve nemli, parlayan bir bitiş sergiler.
-
-Kıyafet · Poz:
-İnce örgü ribana ipek triko, sıkı ve vücuda oturan siluete sahip gece yarısı kömür grisi uzun kollu yaka top. Beli tanımlayan ve kalça ile bacakların kıvrımını takip eden yüksek bel, açık yıkama vintage kot pantolon. Cilalı siyah deri stiletto bilek botlar. Gövdesini 90 derece geriye çevirmiş, adımlarının ortasında dururken bir eli zarifçe ensesine dokunmaktadır.
-
-Arka Plan · Işık:
-Mavi saatte yağmur ıslatılmış taş döşeli bir ara sokak. Atmosfer puslu ve yansıtıcıdır. Çift kaynaklı sinematik aydınlatma: Sıcak kehribar ışığı butik penceresinden sızarak yüzünü ve göğsünü aydınlatırken, soğuk camgöbeği renkli sokak lambası sırtı, saçı ve profili boyunca keskin bir kenar ışığı sağlar.
-
-Kompozisyon · Kamera:
-Hafif düşük açı perspektifinden tam boy orta çekim. Özne, pozunun S eğrisini vurgulamak için dinamik olarak çerçevelenmiştir. Yüz özellikleri ve kumaş dokularında jilet gibi net odak, arka plandaki mağaza ışıkları ve mimari detayları bulanıklaştıran yumuşak, kremimsi bokeh etkisi.
-
-Doku · Stil:
-Hiper-fotogerçekçi editoryal stil. Derin, filmik gölgelerle yüksek kontrastlı chiaroscuro. Ribana ipek, ağır kot dokusu ve cilalı derinin detaylı işlenmesi. Islak sokak yüzeylerinde ince organik film greni ve speküler parlamalar.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="Ürün Pazarlaması - Yüksek Moda Şehir Gece Editoryali - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Kaynak:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **Yayınlandı:** 18 Ekim 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6521,7 +6606,7 @@ Oyma taş ve antika altın dokularla karmaşık mimari dioramalar oluşturmak i�
 
 <div align="center">
 
-### 🎯 15711 burada gösterilmeyen daha fazla istem
+### 🎯 15713 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6584,6 +6669,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-04T04:02:40.161Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-04T08:03:28.420Z</sub>
 
 </div>

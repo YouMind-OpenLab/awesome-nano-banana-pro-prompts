@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15831** |
+| 📝 Total Prompts | **15833** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, November 4, 2026 at 4:01:35 AM UTC** |
+| 🔄 Last Updated | **Wednesday, November 4, 2026 at 8:01:41 AM UTC** |
 
 </div>
 
@@ -4916,7 +4916,144 @@ A detailed cinematic prompt for a mysterious storm-weathered lighthouse scene wi
 
 ---
 
-### No. 87: Product Marketing - Transparent Materials Still Life Comparison
+### No. 87: Product Marketing - Fiber-Optic Surrealism Portrait Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A highly detailed JSON-formatted prompt for generating a hyper-realistic extreme macro portrait of Dakota Johnson (or similar subject) blending high-fashion knitwear with cyber-ethereal fiber-optic lighting, optimized for Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Fiber-Optic Surrealism",
+  "master_prompt": "A hyper-realistic extreme macro portrait of The Protagonist. The framing is an intense, tight close-up on the face, blending high-fashion and synthetic beauty. The subject is engulfed in a massive, sculptural white cable-knit collar that stretches up around the neck and jawline. Woven directly into the thick, heavy wool are glowing, luminescent pink and red fiber-optic filaments that resemble illuminated veins, casting a surreal, practical under-glow onto the jaw and cheeks. The subject wears thick, retro-futuristic white sculptural sunglasses with mirrored lenses that reflect curved, luminescent pink glass tubes from the environment. The skin texture is post-human: uncanny symmetry and hyper-smooth, yet retaining microscopic photographic fidelity with visible fine pores and peach fuzz under the harsh macro lens. The gaze is piercing and non-human, looking straight through the lens. Lighting is a complex cyber-ethereal setup: a sharp, clinical white key light, cool cyan rim lighting separating the subject from the dark, minimalist background, and the warm, intense pink practical glow radiating from the heavy knitwear. The background is a beautifully blurred, shallow depth-of-field array of concentric glowing pink optical fibers. Shot on Hasselblad H6D-100c, 100mm f/2.8 Macro lens, f/2.8 aperture, Kodak Portra 400 film stock, emphasizing extreme physical textures, natural light refraction through the knit and glasses, and heavy analog film grain. No CGI, high-budget practical effects.",
+  "meta": {
+    "intent": "Create an extreme macro surrealist portrait blending traditional knitwear with cyber-ethereal luminescence",
+    "priorities": "Macro textures, practical glowing effects, post-human skin, exact color palette of the mood board",
+    "device_profile": "High-res mobile and desktop displays"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Extreme macro portrait, face centered, heavy collar dominating the lower frame",
+    "layout": "Symmetrical face, curved leading lines in background bokeh",
+    "camera_angle": "Straight-on eye-level, intimate proximity",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "Post-human fashion muse",
+    "demographics": "Ageless synthetic entity",
+    "face": "Uncanny symmetry, flawless yet textured, striking jawline",
+    "hair": "Completely concealed by the massive knit structure",
+    "body": "Only face, neck, and collar visible",
+    "expression": "Piercing, emotionless, non-human deadpan gaze",
+    "pose": "Perfectly still, facing directly into the lens"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Massive sculptural balaclava collar",
+        "material": "Heavy white cable-knit wool embedded with glowing pink fiber-optics",
+        "color": "Crisp white with glowing pink veins",
+        "fit": "Oversized, engulfing the neck and lower jaw"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Retro-futuristic sculptural sunglasses",
+        "color": "Opaque white frames with pink mirrored lenses",
+        "material": "Glossy acetate and mirrored glass",
+        "brand_style": "Avant-garde high fashion"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Abstract dark minimalist studio space",
+    "surfaces": "Curved luminescent glass tubes",
+    "depth": "Extremely shallow, blurring background elements immediately",
+    "atmosphere": "Clinical, silent, charged with synthetic energy",
+    "lens_interaction": "Intense bokeh rings from the glowing background elements"
+  },
+  "lighting": {
+    "key": "Sharp clinical white light from directly above",
+    "fill": "Warm glowing pink up-light radiating practically from the fiber-optics in the knitwear",
+    "rim": "Cool cyan rim light on the temples and glasses",
+    "shadows": "Deep, rich blacks in the background, sharp micro-shadows in the knit texture",
+    "color_temperature": "Contrasting cool 6500K key with warm 3200K pink practicals",
+    "sensor_flare": "Subtle pink halation around the glowing fiber optics"
+  },
+  "camera": {
+    "lens_type": "Macro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "Tack sharp on the frames of the sunglasses and the immediate skin pores below",
+    "sensor_format": "Medium Format",
+    "perspective_distortion": "Zero distortion, highly compressed facial features"
+  },
+  "post_processing": {
+    "color": "High contrast, vibrant pinks and crisp whites against deep shadows",
+    "tonality": "Film-like roll-off in the highlights, dense crushed shadows",
+    "texture": "Pronounced analog film grain, micro-contrast pushed on the wool fibers",
+    "digital_sharpening": "None, optical sharpness only",
+    "chromatic_aberration": "Slight edge fringing on the extreme out-of-focus background tubes"
+  },
+  "negative_specifications": [
+    "neon",
+    "CGI",
+    "illustration",
+    "painting",
+    "cartoon",
+    "low resolution",
+    "cliché cyberpunk",
+    "smiling",
+    "casual attire",
+    "full body shot",
+    "wide angle"
+  ]
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="Product Marketing - Fiber-Optic Surrealism Portrait Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="Product Marketing - Fiber-Optic Surrealism Portrait Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="Product Marketing - Fiber-Optic Surrealism Portrait Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="Product Marketing - Fiber-Optic Surrealism Portrait Prompt - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Source:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **Published:** November 3, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: Product Marketing - Transparent Materials Still Life Comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4961,7 +5098,7 @@ Still life test of transparent materials under afternoon sunlight: On a wooden t
 
 ---
 
-### No. 88: Product Marketing - Steampunk Airship Cinematic Prompt
+### No. 89: Product Marketing - Steampunk Airship Cinematic Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5006,7 +5143,7 @@ Cinematic realistic photography, a steampunk airship above a sea of clouds at du
 
 ---
 
-### No. 89: Product Marketing - Clean-Girl Editorial Fashion Portrait
+### No. 90: Product Marketing - Clean-Girl Editorial Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5059,7 +5196,7 @@ Hyper-realistic high-fashion editorial style. Tactile rendering of delicate lace
 
 ---
 
-### No. 90: Product Marketing - Athleisure Fashion Poster Comparison
+### No. 91: Product Marketing - Athleisure Fashion Poster Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5107,7 +5244,7 @@ Negative constraints: no extra models, no identity drift, no mismatched outfit p
 
 ---
 
-### No. 91: Product Marketing - Marble Apathy Editorial Portrait Prompt
+### No. 92: Product Marketing - Marble Apathy Editorial Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5203,7 +5340,7 @@ A complex JSON-formatted prompt for generating a surreal editorial photograph of
 
 ---
 
-### No. 92: Product Marketing - Red Velvet Leotard Portrait Comparison
+### No. 93: Product Marketing - Red Velvet Leotard Portrait Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5258,7 +5395,7 @@ Clean minimal background with soft dramatic lighting that highlights the rich ve
 
 ---
 
-### No. 93: Product Marketing - Liquid Metal Gown Portrait Prompt
+### No. 94: Product Marketing - Liquid Metal Gown Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5293,7 +5430,7 @@ Negative prompt: no CGI appearance, no plastic skin, different face, identity dr
 
 ---
 
-### No. 94: Product Marketing - Art-Deco Evening Gown Prompt
+### No. 95: Product Marketing - Art-Deco Evening Gown Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5342,58 +5479,6 @@ Ultra-photorealistic rendering with a focus on material contrast: the cool, refl
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: Product Marketing - High-Fashion Urban Night Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed prompt for generating a hyper-realistic fashion editorial image of a model walking on a European cobblestone street at night, featuring cinematic lighting and specific clothing textures.
-
-#### 📝 Prompt
-
-```
-Theme:
-High-fashion urban night luxe editorial.
-
-Subject:
-A 20-year-old Mediterranean-Caucasian fashion model. She is captured in a dynamic walking turn on a historic European cobblestone street, looking back over her shoulder toward the camera.
-
-Person · Expression:
-Symmetrical facial structure with a defined jawline and high cheekbones. Piercing hazel eyes with a focused, steady gaze. Full lips with a high-shine clear finish. Voluminous espresso-colored hair with honey-blonde highlights, whipping across her shoulders in motion. The skin features realistic micro-texture, visible pores, and a dewy, luminous finish under the city lights.
-
-Clothing · Pose:
-A midnight charcoal long-sleeved mock-neck top in a fine-gauge ribbed silk-knit, featuring a close, form-fitting silhouette. High-waisted, light-wash vintage denim jeans with a high-rise fit that defines the waist and follows the curve of the hips and legs. Polished black leather stiletto ankle boots. She is positioned mid-stride with her torso rotated back 90 degrees and one hand gracefully touching the back of her neck.
-
-Background · Light:
-A rain-slicked cobblestone alleyway at blue hour. The atmosphere is misty and reflective. Dual-source cinematic lighting: warm amber light spills from a boutique window to illuminate her face and chest, while a cool cyan streetlight provides a sharp rim light along her back, hair, and profile.
-
-Composition · Camera:
-Full-body medium shot from a slight low-angle perspective. The subject is framed dynamically to emphasize the S-curve of her pose. Razor-sharp focus on the facial features and fabric textures, with a soft, creamy bokeh blurring the background shop lights and architectural details.
-
-Texture · Style:
-Hyper-photorealistic editorial style. High-contrast chiaroscuro with deep, filmic shadows. Detailed rendering of ribbed silk, heavy denim grain, and polished leather. Subtle organic film grain and specular highlights on the wet street surfaces.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="Product Marketing - High-Fashion Urban Night Editorial - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Source:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **Published:** October 18, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6543,7 +6628,7 @@ A unique SQL-style generation prompt for creating intricate architectural dioram
 
 <div align="center">
 
-### 🎯 15711 more prompts not shown here
+### 🎯 15713 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6606,6 +6691,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T04:01:35.154Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T08:01:41.123Z</sub>
 
 </div>

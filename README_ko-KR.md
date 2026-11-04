@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15831** |
+| 📝 총 프롬프트 수 | **15833** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 11월 4일 수요일 AM 4시 1분 52초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 4일 수요일 AM 8시 2분 12초 UTC** |
 
 </div>
 
@@ -4919,7 +4919,144 @@ Kodak 필름 에뮬레이션을 적용한 가족 저녁 식사 장면의 3x3 포
 
 ---
 
-### No. 87: 제품 마케팅 - 투명 소재 정물 비교
+### No. 87: 제품 마케팅 - 광섬유 초현실주의 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Dakota Johnson(또는 유사한 인물)의 초고해상도 극단적 매크로 인물 사진을 생성하기 위한 고품질 JSON 형식 프롬프트로, 하이패션 니트웨어와 사이버 에테리얼 광섬유 조명을 결합하여 Nano Banana Pro에 최적화되었습니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "vibe_title_en": "Fiber-Optic Surrealism",
+  "master_prompt": "주인공(The Protagonist)의 초현실적인 익스트림 매크로 인물 사진. 프레임은 얼굴을 강렬하고 타이트하게 클로즈업하여 하이패션과 인공적인 아름다움을 융합합니다. 피사체는 목과 턱선 위로 뻗어 올라오는 거대한 조형적 화이트 케이블 니트 칼라에 완전히 감싸여 있습니다. 두껍고 무거운 울 소재에는 빛나는 핑크색 및 레드 광섬유 필라멘트가 직접 직조되어 있어, 마치 발광하는 혈관처럼 턱과 뺨에 초현실적이고 실제적인 언더글로우를 비춥니다. 피사체는 두꺼운 레트로 퓨처리즘 스타일의 화이트 조형 선글라스를 착용하고 있으며, 미러 렌즈에는 주변 환경의 곡선형 발광 핑크 유리관이 반사됩니다. 피부 질감은 포스트 휴먼적입니다. 기묘할 정도로 완벽한 대칭과 극도로 매끄러운 표면이지만, 가혹한 매크로 렌즈 아래서 미세한 모공과 솜털까지 보이는 현미경적 사진 해상도를 유지합니다. 시선은 날카롭고 비인간적이며, 렌즈를 곧바로 꿰뚫어 봅니다. 조명은 복잡한 사이버 에테리얼(cyber-ethereal) 세팅입니다. 날카롭고 임상적인 느낌의 화이트 키 라이트, 어둡고 미니멀한 배경에서 피사체를 분리해 주는 차가운 시안 림 라이팅, 그리고 무거운 니트웨어에서 뿜어져 나오는 따뜻하고 강렬한 핑크색 실제 조명(프랙티컬 글로우)이 사용됩니다. 배경은 아름답게 흐려진 얕은 피사계 심도의 동심원 발광 핑크 광섬유 배열입니다. Hasselblad H6D-100c 로 촬영, 100mm f/2.8 Macro 렌즈, f/2.8 조리개, Kodak Portra 400 필름 스톡 사용. 극단적인 물리적 질감, 니트와 안경을 통과하는 자연스러운 빛 굴절, 짙은 아날로그 필름 그레인을 강조합니다. CGI 없음, 고예산 프랙티컬 이펙트.",
+  "meta": {
+    "intent": "전통적인 니트웨어와 사이버 에테리얼 발광을 결합한 익스트림 매크로 초현실주의 인물 사진 제작",
+    "priorities": "매크로 질감, 프랙티컬 발광 효과, 포스트 휴먼 피부, 무드보드의 정확한 컬러 팔레트",
+    "device_profile": "고해상도 모바일 및 데스크톱 디스플레이"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "익스트림 매크로 인물 사진, 얼굴 중앙 배치, 무거운 칼라가 하단 프레임을 압도함",
+    "layout": "대칭적인 얼굴, 배경 보케 속 곡선형 리딩 라인",
+    "camera_angle": "정면 아이레벨, 밀착된 거리감",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "여성",
+    "identity": "포스트 휴먼 패션 뮤즈",
+    "demographics": "나이를 알 수 없는 합성 존재",
+    "face": "기묘한 대칭, 흠잡을 데 없으면서도 질감이 살아있는 피부, 강렬한 턱선",
+    "hair": "거대한 니트 구조물에 의해 완전히 가려짐",
+    "body": "얼굴, 목, 칼라만 노출됨",
+    "expression": "꿰뚫어 보는 듯한, 감정 없는 비인간적 데드팬 시선",
+    "pose": "완전히 정지한 상태로 렌즈를 정면으로 응시"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "거대한 조형적 발라클라바 칼라",
+        "material": "발광하는 핑크 광섬유가 내장된 무거운 화이트 케이블 니트 울",
+        "color": "선명한 화이트에 빛나는 핑크 혈관 패턴",
+        "fit": "오버사이즈, 목과 아래턱을 완전히 감쌈"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "레트로 퓨처리즘 조형 선글라스",
+        "color": "불투명 화이트 프레임에 핑크 미러 렌즈",
+        "material": "글로시 아세테이트 및 미러 글래스",
+        "brand_style": "아방가르드 하이패션"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "추상적이고 어두운 미니멀 스튜디오 공간",
+    "surfaces": "곡선형 발광 유리관",
+    "depth": "극도로 얕아 배경 요소가 즉시 흐려짐",
+    "atmosphere": "임상적이고 고요하며, 인공 에너지로 가득 참",
+    "lens_interaction": "배경의 발광 요소들로 인한 강렬한 보케 링"
+  },
+  "lighting": {
+    "key": "바로 위에서 내려오는 날카롭고 임상적인 화이트 조명",
+    "fill": "니트웨어의 광섬유에서 실제로 뿜어져 나오는 따뜻한 핑크색 업라이트",
+    "rim": "관자놀이와 안경에 닿는 차가운 시안 림 라이트",
+    "shadows": "배경의 깊고 풍부한 블랙, 니트 질감의 날카로운 마이크로 섀도우",
+    "color_temperature": "차가운 6500K 키 라이트와 따뜻한 3200K 핑크 프랙티컬 조명의 대비",
+    "sensor_flare": "빛나는 광섬유 주변의 은은한 핑크 할레이션"
+  },
+  "camera": {
+    "lens_type": "Macro Prime",
+    "focal_length": "100mm",
+    "aperture": "f/2.8",
+    "focus": "선글라스 프레임과 바로 아래의 피부 모공에 핀트가 완벽하게 맞음",
+    "sensor_format": "Medium Format",
+    "perspective_distortion": "왜곡 제로, 고도로 압축된 얼굴 특징"
+  },
+  "post_processing": {
+    "color": "깊은 그림자와 대비되는 높은 콘트라스트, 생동감 있는 핑크와 선명한 화이트",
+    "tonality": "하이라이트의 필름 같은 롤오프, 빽빽하게 뭉개진 섀도우",
+    "texture": "뚜렷한 아날로그 필름 그레인, 울 섬유에 극대화된 마이크로 콘트라스트",
+    "digital_sharpening": "없음, 광학적 선명도만 적용",
+    "chromatic_aberration": "극단적으로 아웃포커싱된 배경 유리관 가장자리의 약한 색수차"
+  },
+  "negative_specifications": [
+    "neon",
+    "CGI",
+    "illustration",
+    "painting",
+    "cartoon",
+    "low resolution",
+    "cliché cyberpunk",
+    "smiling",
+    "casual attire",
+    "full body shot",
+    "wide angle"
+  ]
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314038_9is7op_HWND_YNWsAAVpTL.jpg" width="600" alt="제품 마케팅 - 광섬유 초현실주의 인물 사진 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773312571_dirwld_HWND_XJXQAAuro2.jpg" width="600" alt="제품 마케팅 - 광섬유 초현실주의 인물 사진 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773314055_jxg3dq_HWND_aUXkAET__F.jpg" width="600" alt="제품 마케팅 - 광섬유 초현실주의 인물 사진 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793773313648_x7bmfp_HWND_VvW0AAseOw.jpg" width="600" alt="제품 마케팅 - 광섬유 초현실주의 인물 사진 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **출처:** [Twitter Post](https://x.com/timedoctor_nft/status/2117611010387222717)
+- **게시일:** 2026년 11월 3일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=37293)**
+
+---
+
+### No. 88: 제품 마케팅 - 투명 소재 정물 비교
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4964,7 +5101,7 @@ GPT-image-2.5, Nano Banana 2 (nano-banana-pro), Grok-imagine2의 유리, 물, �
 
 ---
 
-### No. 88: 제품 마케팅 - 스팀펑크 비행선 시네마틱 프롬프트
+### No. 89: 제품 마케팅 - 스팀펑크 비행선 시네마틱 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5009,7 +5146,7 @@ GPT-image-2.5, nano banana2, Grok-imagine2의 출력 결과를 비교하기 위�
 
 ---
 
-### No. 89: 제품 마케팅 - 클린걸 스타일 에디토리얼 패션 초상화
+### No. 90: 제품 마케팅 - 클린걸 스타일 에디토리얼 패션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5062,7 +5199,7 @@ GPT-image-2.5, nano banana2, Grok-imagine2의 출력 결과를 비교하기 위�
 
 ---
 
-### No. 90: 제품 마케팅 - 애슬레저 패션 포스터 비교
+### No. 91: 제품 마케팅 - 애슬레저 패션 포스터 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5110,7 +5247,7 @@ GPT Image 2.5와 Nano Banana 2.1이 일관된 캐릭터 정체성과 의상 디�
 
 ---
 
-### No. 91: 제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트
+### No. 92: 제품 마케팅 - 마블 무관심 에디토리얼 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5206,7 +5343,7 @@ GPT Image 2.5와 Nano Banana 2.1이 일관된 캐릭터 정체성과 의상 디�
 
 ---
 
-### No. 92: 제품 마케팅 - 레드 벨벳 레오타드 초상화 비교
+### No. 93: 제품 마케팅 - 레드 벨벳 레오타드 초상화 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5261,7 +5398,7 @@ Nano Pro를 포함한 멀티 모델 비교로, 레드 벨벳 레오타드를 입
 
 ---
 
-### No. 93: 제품 마케팅 - Nano Banana Pro 실버 메탈릭 드레스 초상화
+### No. 94: 제품 마케팅 - Nano Banana Pro 실버 메탈릭 드레스 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5296,7 +5433,7 @@ Nano Banana Pro를 사용하여 액체 금속 질감의 실버 드레스를 입�
 
 ---
 
-### No. 94: 제품 마케팅 - 아르데코 이브닝 드레스 프롬프트
+### No. 95: 제품 마케팅 - 아르데코 이브닝 드레스 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5345,58 +5482,6 @@ Nano Banana Pro를 사용하여 황혼의 에메랄드 드레스를 입은 여�
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36718)**
-
----
-
-### No. 95: 제품 마케팅 - 하이패션 도시 야간 에디토리얼
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-유럽의 돌포장 거리에서 밤에 걷는 모델의 초현실적인 패션 에디토리얼 이미지를 생성하기 위한 상세 프롬프트로, 시네마틱 조명과 특정 의상 질감을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-테마:
-하이패션 도시 야간 럭셔리 에디토리얼.
-
-주제:
-20세 지중해-코카서스계 패션 모델. 역사적인 유럽의 돌포장 거리에서 동적인 워킹 턴을 하며 어깨 너머로 카메라를 바라보고 있습니다.
-
-인물 · 표정:
-선명한 턱선과 높은 광대뼈를 가진 대칭적인 얼굴 구조. 집중되고 안정적인 시선을 가진 날카로운 헤이즐넛 눈. 고광택 클리어 마감이 적용된 풍성한 입술. 허니 블론드 하이라이트가 들어간 에스프레소 색상의 볼륨감 있는 머리카락이 움직임 속에서 어깨 위로 휘날립니다. 피부는 도시 조명 아래에서 현실적인 미세 질감, 보이는 모공, 그리고 이슬처럼 빛나는 루미너스 피니시를 특징으로 합니다.
-
-의상 · 포즈:
-밀착형 실루엣을 강조하는 파인 게이지 리브드 실크 니트 소재의 미드나잇 차콜 롱슬리브 목폴라 톱. 허리 라인을 정의하고 엉덩이와 다리 곡선을 따라가는 하이웨이스트 라이트 워시 빈티지 데님 진. 광택 있는 블랙 레더 스틸레토 앵클 부츠. 상체를 90도 회전한 채 한 손으로 우아하게 뒷목을 만지며 중간 보폭으로 서 있습니다.
-
-배경 · 조명:
-블루 아워의 비에 젖은 돌포장 골목길. 안개가 자욱하고 반사적인 분위기. 듀얼 소스 시네마틱 조명: 따뜻한 호박색 빛이 부티크 창문에서 흘러나와 그녀의 얼굴과 가슴을 비추며, 차가운 시안색 가로등이 등, 머리, 옆모습을 따라 선명한 림 라이트를 제공합니다.
-
-구도 · 카메라:
-약간의 로우 앵글 관점에서 촬영한 풀바디 미디엄 샷. 주제는 그녀의 포즈 S자 곡선을 강조하도록 역동적으로 프레임됩니다. 얼굴 특징과 원단 질감에는 칼날처럼 선명한 초점을 맞추고, 배경의 가게 조명과 건축적 디테일은 부드럽고 크리미한 보케로 흐려집니다.
-
-질감 · 스타일:
-초사실주의 에디토리얼 스타일. 깊고 필름적인 그림자를 가진 고대비 키아로스쿠로. 리브드 실크, 두꺼운 데님 그레인, 광택 있는 레더의 상세한 렌더링. 젖은 거리 표면의 미묘한 유기적 필름 그레인 및 스페큘러 하이라이트.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792392031451_zokzjf_HU6E46GWwAE-WQX.jpg" width="600" alt="제품 마케팅 - 하이패션 도시 야간 에디토리얼 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **출처:** [Twitter Post](https://x.com/iamdomprompt/status/2111771468698632388)
-- **게시일:** 2026년 10월 18일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36634)**
 
 ---
 
@@ -6546,7 +6631,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 <div align="center">
 
-### 🎯 15711 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15713 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6609,6 +6694,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-04T04:01:52.600Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-04T08:02:12.956Z</sub>
 
 </div>
