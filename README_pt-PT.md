@@ -145,7 +145,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **15841** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sexta-feira, 6 de novembro de 2026 às 04:03:39 UTC** |
+| 🔄 Última atualização | **sexta-feira, 6 de novembro de 2026 às 08:03:25 UTC** |
 
 </div>
 
@@ -1713,13 +1713,13 @@ Gota de água cristalina suspensa no ar ou pendurada numa folha, estilo de macro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publicação em Redes Sociais - Prompt de Gota d'Água com Galáxia Macro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publicação em Redes Sociais - Prompt de Gota d'Água com Galáxia Macro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publicação em Redes Sociais - Prompt de Gota d'Água com Galáxia Macro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publicação em Redes Sociais - Prompt de Gota d'Água com Galáxia Macro - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -6630,6 +6630,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-06T04:03:39.671Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-06T08:03:25.839Z</sub>
 
 </div>

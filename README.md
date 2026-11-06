@@ -145,7 +145,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **15841** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, November 6, 2026 at 4:01:46 AM UTC** |
+| 🔄 Last Updated | **Friday, November 6, 2026 at 8:01:41 AM UTC** |
 
 </div>
 
@@ -1695,13 +1695,13 @@ Frieren from Frieren: Beyond Journey's End sitting at the window counter of a mo
 
 ---
 
-### No. 22: Social Media Post - Macro Galaxy Water Droplet Prompt
+### No. 22: Social Media Post - Crystal Droplet Galaxy Macro Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A shared prompt used to compare Grok and Nano Banana outputs for a macro photography scene featuring a water droplet containing a spiral galaxy.
+A prompt for a hyper-realistic macro shot of a crystal-clear water droplet containing a spiral galaxy, used to compare Grok and Nano Banana.
 
 #### 📝 Prompt
 
@@ -1714,13 +1714,13 @@ Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro p
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Social Media Post - Macro Galaxy Water Droplet Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Social Media Post - Crystal Droplet Galaxy Macro Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Social Media Post - Macro Galaxy Water Droplet Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Social Media Post - Crystal Droplet Galaxy Macro Prompt - Image 2">
 </div>
 
 #### 📌 Details
@@ -6648,6 +6648,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T04:01:46.587Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T08:01:41.305Z</sub>
 
 </div>

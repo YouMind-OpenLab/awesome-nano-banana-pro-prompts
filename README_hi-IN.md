@@ -145,7 +145,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **15841** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 6 नवंबर 2026 को 4:02:44 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 6 नवंबर 2026 को 8:02:20 am UTC बजे** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -6643,6 +6643,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-06T04:02:44.936Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-06T08:02:20.953Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **15841** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 11월 6일 금요일 AM 4시 2분 23초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 6일 금요일 AM 8시 2분 4초 UTC** |
 
 </div>
 
@@ -1713,13 +1713,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="소셜 미디어 게시물 - 매크로 은하 물방울 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="소셜 미디어 게시물 - 매크로 은하 물방울 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="소셜 미디어 게시물 - 매크로 은하 물방울 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="소셜 미디어 게시물 - 매크로 은하 물방울 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -6651,6 +6651,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-06T04:02:23.392Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-06T08:02:04.007Z</sub>
 
 </div>

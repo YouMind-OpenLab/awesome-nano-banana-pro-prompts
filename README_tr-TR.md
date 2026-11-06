@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **15841** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **6 Kasım 2026 Cuma 04:03:48 UTC** |
+| 🔄 Son Güncelleme | **6 Kasım 2026 Cuma 08:03:31 UTC** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Havada asılı duran veya bir yaprağın ucundan süzülen berrak su damlası, m
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Sosyal Medya Gönderisi - Makro Galaksi Su Damlası İstem - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Sosyal Medya Gönderisi - Makro Galaksi Su Damlası İstem - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Makro Galaksi Su Damlası İstem - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Makro Galaksi Su Damlası İstem - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6626,6 +6626,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-06T04:03:48.819Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-06T08:03:31.364Z</sub>
 
 </div>

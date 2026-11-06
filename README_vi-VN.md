@@ -145,7 +145,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **15841** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:02:37 UTC Thứ Sáu, 6 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:02:14 UTC Thứ Sáu, 6 tháng 11, 2026** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Giọt nước trong vắt lơ lửng giữa không trung hoặc đọng trên c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Giọt Nước Thiên Hà Vĩ Mô - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Giọt Nước Thiên Hà Vĩ Mô - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Giọt Nước Thiên Hà Vĩ Mô - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Giọt Nước Thiên Hà Vĩ Mô - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -6631,6 +6631,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-06T04:02:37.562Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-06T08:02:14.990Z</sub>
 
 </div>

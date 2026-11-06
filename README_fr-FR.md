@@ -145,7 +145,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **15841** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **vendredi 6 novembre 2026 à 04:03:18 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 6 novembre 2026 à 08:03:06 UTC** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Goutte d'eau limpide suspendue en plein air ou accrochée à une feuille, style 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt Macro Galaxy Water Droplet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt Macro Galaxy Water Droplet - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt Macro Galaxy Water Droplet - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt Macro Galaxy Water Droplet - Image 2">
 </div>
 
 #### 📌 Détails
@@ -6635,6 +6635,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-06T04:03:18.717Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-06T08:03:06.774Z</sub>
 
 </div>

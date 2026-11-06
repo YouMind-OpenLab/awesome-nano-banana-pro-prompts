@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **15841** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 6 พฤศจิกายน พ.ศ. 2569 เวลา 4 นาฬิกา 02 นาที 30 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 6 พฤศจิกายน พ.ศ. 2569 เวลา 8 นาฬิกา 02 นาที 09 วินาที UTC** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Frieren จากเรื่อง Frieren: Beyond Journey's End นั่ง�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ Macro Galaxy Water Droplet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ Macro Galaxy Water Droplet - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ Macro Galaxy Water Droplet - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ Macro Galaxy Water Droplet - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -6645,6 +6645,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-06T04:02:30.122Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-06T08:02:09.217Z</sub>
 
 </div>

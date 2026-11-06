@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **15841** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月6日 星期五 凌晨4:02:09 [UTC]** |
+| 🔄 最後更新 | **2026年11月6日 星期五 上午8:01:53 [UTC]** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="社群媒體貼文 - 巨觀星系水滴提示詞 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="社群媒體貼文 - 巨觀星系水滴提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="社群媒體貼文 - 巨觀星系水滴提示詞 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="社群媒體貼文 - 巨觀星系水滴提示詞 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6658,6 +6658,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-06T04:02:09.296Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-06T08:01:53.250Z</sub>
 
 </div>

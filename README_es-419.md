@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **15841** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 6 de noviembre de 2026, 4:03:03 a.m. UTC** |
+| 🔄 Última actualización | **viernes, 6 de noviembre de 2026, 8:02:32 a.m. UTC** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Gota de agua cristalina suspendida en el aire o colgando de una hoja, estilo fot
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publicación en redes sociales - Prompt de Gota de Agua Macro Galaxia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Publicación en redes sociales - Prompt de Gota de Agua Macro Galaxia - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publicación en redes sociales - Prompt de Gota de Agua Macro Galaxia - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Publicación en redes sociales - Prompt de Gota de Agua Macro Galaxia - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -6635,6 +6635,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-06T04:03:03.528Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-06T08:02:32.594Z</sub>
 
 </div>

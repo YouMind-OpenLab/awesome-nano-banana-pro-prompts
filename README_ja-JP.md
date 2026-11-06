@@ -145,7 +145,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **15841** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年11月6日金曜日 4:02:16 UTC** |
+| 🔄 最終更新 | **2026年11月6日金曜日 8:01:58 UTC** |
 
 </div>
 
@@ -1718,13 +1718,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="ソーシャルメディア投稿 - マクロ銀河水滴プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="ソーシャルメディア投稿 - マクロ銀河水滴プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="ソーシャルメディア投稿 - マクロ銀河水滴プロンプト - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="ソーシャルメディア投稿 - マクロ銀河水滴プロンプト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -6684,6 +6684,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-11-06T04:02:16.457Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-11-06T08:01:58.894Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **15841** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 6. November 2026 um 04:03:10 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 6. November 2026 um 08:02:53 UTC** |
 
 </div>
 
@@ -1714,13 +1714,13 @@ Kristallklarer Wassertropfen, der in der Luft schwebt oder an einem Blatt hängt
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg" width="600" alt="Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg" width="600" alt="Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt - Image 2">
 </div>
 
 #### 📌 Details
@@ -6639,6 +6639,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-06T04:03:10.741Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-06T08:02:53.100Z</sub>
 
 </div>
