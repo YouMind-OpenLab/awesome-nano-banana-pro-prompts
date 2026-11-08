@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15847** |
+| 📝 提示詞總數 | **15848** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月8日 星期日 凌晨4:01:27 [UTC]** |
+| 🔄 最後更新 | **2026年11月8日 星期日 上午8:01:43 [UTC]** |
 
 </div>
 
@@ -1661,7 +1661,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 馬德里黃金時刻時尚編輯大片
+### No. 21: 社群媒體貼文 - 編輯風格射箭時尚攝影提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用於建立女性手持弓箭之編輯風格特寫人像的提示詞，著重於戲劇性光影與構圖。
+
+#### 📝 提示詞
+
+```
+編輯時尚攝影，一位年輕女性的近景四分之三側面特寫，栗色長髮向後束起，幾縷散落的髮絲隨風飄揚，她專注而銳利的目光凝視右方，雙唇微啟。她手持木製弓箭呈拉弓姿態：手指緊扣貼近臉頰的滿弦，搭上白色羽片的箭矢輕倚下顎，纖細的箭身水平延伸至畫面右緣之外，細長的弓弦則斜向貫穿整個構圖。她身穿一件合身的黑色長袖上衣。強勁、硬朗的側向直射陽光勾勒出她的臉部、頸部與肩部輪廓，投射出銳利的高反差陰影，包括弓弦在臉頰與胸前留下的一道細長斜向陰影。背景是乾淨的漸層藍天，頂端為深邃的鈷藍色，向下逐漸過渡為柔和的煙燻藍調。低角度仰拍，頭部與上半身緊湊取景，淺景深，細緻的底片顆粒感，溫暖的日照膚色與冷調藍天形成對比，充滿電影感的戲劇張力，呈現光澤質感雜誌的美學風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg" width="600" alt="社群媒體貼文 - 編輯風格射箭時尚攝影提示詞 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **來源:** [Twitter Post](https://x.com/dreamydigiarts/status/2119059798884823085)
+- **發布時間:** 2026年11月7日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37408)**
+
+---
+
+### No. 22: 社群媒體貼文 - 馬德里黃金時刻時尚編輯大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1712,7 +1745,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社群媒體貼文 - 葬送的芙莉蓮動漫風格比較提示詞
+### No. 23: 社群媒體貼文 - 葬送的芙莉蓮動漫風格比較提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1763,7 +1796,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 巨觀星系水滴提示詞
+### No. 24: 社群媒體貼文 - 巨觀星系水滴提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1802,7 +1835,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - 拖曳快門閃光夜拍時尚
+### No. 25: 社群媒體貼文 - 拖曳快門閃光夜拍時尚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - 抽象水彩狐狸插畫
+### No. 26: 社群媒體貼文 - 抽象水彩狐狸插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1880,7 +1913,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 禮貌英國人排隊圖像比較
+### No. 27: 社群媒體貼文 - 禮貌英國人排隊圖像比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,7 +1958,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - 高級時尚編輯風格提示詞
+### No. 28: 社群媒體貼文 - 高級時尚編輯風格提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1968,7 +2001,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社群媒體貼文 - 波希米亞風格客廳人像
+### No. 29: 社群媒體貼文 - 波希米亞風格客廳人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2001,7 +2034,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社群媒體貼文 - 電影感 Contact Sheet 提示詞
+### No. 30: 社群媒體貼文 - 電影感 Contact Sheet 提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2046,7 +2079,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社群媒體貼文 - 拳擊健身房婚紗攝影編輯專題
+### No. 31: 社群媒體貼文 - 拳擊健身房婚紗攝影編輯專題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,51 +2119,6 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37159)**
-
----
-
-### No. 31: 社群媒體貼文 - 大漠孤煙景觀比較
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-比較 GPT-image-2.5、Nano Banana 2 (nano-banana-pro) 與 Grok-imagine2 生成荒涼沙漠與孤煙景觀的提示詞。
-
-#### 📝 提示詞
-
-```
-大漠孤煙西北風光大片，甘肅敦煌鳴沙山邊緣的黃昏時分，清朗乾燥的西北秋夜。前景為風蝕沙丘稜線與一棵枯死的胡楊樹，枝幹扭曲直指天際，沙面可見清晰的風紋；中景有一道筆直的孤煙自沙丘後方優雅升起，在逆光下延展成一道細長的煙柱；背景是連綿的金色沙海與祁連山雪線層層交疊，地平線上懸著一輪低垂的落日，雲彩染上淡紫與蜜金色調。空氣中飄浮著細沙微粒與暖色塵霧，逆光勾勒出沙丘上光影的強烈對比。光線：低角度暖金色側逆光，色溫約 3200K，沙丘向陽面呈蜜金色，背陰面為冷灰藍色，形成冷暖對比。鏡頭：24mm 廣角，貼近沙面的低機位，f/8 大景深，三分法構圖，地平線壓至畫面下方三分之一處，天空留白佔據三分之二。調色：Eastmancolor 底片模擬，暖金與灰藍的對比，輕微底片顆粒感，些許暗角。超精細細節，照片級寫實風景攝影，《國家地理雜誌》風格。無人物、無油畫、無動漫、無 3D 渲染、無文字、無浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065139_ts7gv6_HV7dXSXasAAAQyi.jpg" width="600" alt="社群媒體貼文 - 大漠孤煙景觀比較 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065199_6sshw5_HV7dYhQbQAAsL_y.jpg" width="600" alt="社群媒體貼文 - 大漠孤煙景觀比較 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065170_iugcop_HV7dZx1bQAA8e1z.jpg" width="600" alt="社群媒體貼文 - 大漠孤煙景觀比較 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Candy](https://x.com/CandyTravelight)
-- **來源:** [Twitter Post](https://x.com/CandyTravelight/status/2116394742002987101)
-- **發布時間:** 2026年10月31日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37109)**
 
 ---
 
@@ -5294,103 +5282,7 @@ STORYBOARD：
 
 ---
 
-### No. 95: 產品行銷 - 大理石冷漠編輯人像提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一段複雜的 JSON 格式提示詞，用於生成超現實編輯風格的女性照片，她環繞著大理石半身像，強調高端類比攝影美學與窺視感構圖。
-
-#### 📝 提示詞
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "一張充滿電影感與窺視視角的攝影作品，主角沉浸在超現實、層層交疊且密度不可思議的古典白色大理石胸像檔案庫中。畫面嚴格呈現雕像群如幽閉空間般緊密擠壓的視覺幾何結構，但以高預算實體特效與攝影寫實手法拍攝。主角散發著「Haute Apathy」（高級冷漠）的氣息——面無表情、神態中性，眼皮沉重而放鬆，姿態慵懶卻不失時髦，極度漫不經心地隨性倚靠在一顆價值連城的大理石頭像旁。她身穿極簡的純黑高領毛衣，與整片白色石海形成強烈對比。使用 200mm 長焦鏡頭拍攝，大幅壓縮空間感。構圖採用「窺視一瞥」手法，透過前景兩尊大理石雕像之間狹窄且嚴重失焦的縫隙捕捉畫面，將主角的臉龐框住，彷彿在偷窺某個私密瞬間。高明調、乾淨柔和的棚內燈光，凸顯出多孔大理石與主角自然膚質那完美無瑕、超寫實的質感。以 Hasselblad H6D-100c 搭配 Kodak Portra 160 底片拍攝，精準捕捉真實的微觀細節、肌膚毛孔、散落的髮絲，以及懸浮於空氣中的細微大理石粉塵。絕對不要霓虹光效或 CGI 數位感；純粹的類比攝影質感。",
-  "meta": {
-    "intent": "超現實前衛時尚編輯風格",
-    "priorities": "前景遮擋、強烈的長焦壓縮感、肌膚與大理石的質地對比",
-    "device_profile": "中片幅類比相機"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "被前景元素大量遮蔽的窺視式構圖",
-    "layout": "主體被緊密取景，並淹沒於周圍密集的物件之中",
-    "camera_angle": "自遠處隱蔽視角拍攝的平視角度",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "女性",
-    "identity": "主角",
-    "demographics": "年齡莫辨，空靈飄逸卻又真實可觸",
-    "face": "中性、面無表情，眼皮沉重放鬆，搭配俐落鮮明的圖形眼線",
-    "hair": "服貼滑順，中分緊貼頭皮",
-    "body": "放鬆、慵懶卻不失時髦的姿態",
-    "expression": "極度漫不經心，展現「全場我最酷」的冷漠感",
-    "pose": "雙肩微垂，毫不費力地倚靠著大理石雕像"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "高領毛衣",
-        "material": "細緻美麗諾羊毛",
-        "color": "純啞光黑",
-        "fit": "合身但剪裁寬鬆舒適"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "圖形貓眼眼線",
-        "color": "Vantablack（奈米碳管黑）",
-        "material": "霧面彩妝顏料",
-        "brand_style": "高級時尚編輯風格"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "一座無限密集、超現實的古典白色大理石胸像檔案庫",
-    "surfaces": "冰冷、光滑卻帶孔隙的白色大理石，覆有細微粉塵"
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="產品行銷 - 大理石冷漠編輯人像提示 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **發布時間:** 2026年10月24日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36877)**
-
----
-
-### No. 96: 電子商務主圖 - 未塗裝樹脂套件：街頭賽車女郎
+### No. 95: 電子商務主圖 - 未塗裝樹脂套件：街頭賽車女郎
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5424,7 +5316,7 @@ STORYBOARD：
 
 ---
 
-### No. 97: 電子商務主圖 - Nano Banana Pro 銀色金屬禮服人像
+### No. 96: 電子商務主圖 - Nano Banana Pro 銀色金屬禮服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5459,7 +5351,7 @@ STORYBOARD：
 
 ---
 
-### No. 98: 電子商務主圖 - Nano Banana Pro 編輯教學
+### No. 97: 電子商務主圖 - Nano Banana Pro 編輯教學
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5492,7 +5384,7 @@ Nano Banana Pro 編輯功能產品攝影教學。步驟中包含範例指令。
 
 ---
 
-### No. 99: 電子商務主圖 - 全裝甲機娘概念藝術
+### No. 98: 電子商務主圖 - 全裝甲機娘概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5537,7 +5429,7 @@ Nano Banana Pro 編輯功能產品攝影教學。步驟中包含範例指令。
 
 ---
 
-### No. 100: 電子商務主圖 - Nano Banana Pro Studio Portrait Prompt
+### No. 99: 電子商務主圖 - Nano Banana Pro Studio Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5583,7 +5475,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 101: 電子商務主圖 - 時尚編輯風格男裝拍攝
+### No. 100: 電子商務主圖 - 時尚編輯風格男裝拍攝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5635,7 +5527,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 102: 電子商務主圖 - 奢華產品靜物攝影企劃
+### No. 101: 電子商務主圖 - 奢華產品靜物攝影企劃
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5683,7 +5575,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 103: 電子商務主圖 - 紅色棒球帽時尚特寫
+### No. 102: 電子商務主圖 - 紅色棒球帽時尚特寫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5717,7 +5609,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 104: 電子商務主圖 - 極簡建築風格時尚人像
+### No. 103: 電子商務主圖 - 極簡建築風格時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5763,7 +5655,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 105: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
+### No. 104: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5797,7 +5689,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 106: 電子商務主圖 - 吉他琴衍整修微距攝影
+### No. 105: 電子商務主圖 - 吉他琴衍整修微距攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5831,7 +5723,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 107: 電子商務主圖 - 頂級飲品廣告攝影
+### No. 106: 電子商務主圖 - 頂級飲品廣告攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5871,7 +5763,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 108: 電子商務主圖 - 優雅黑色歐根紗緞帶
+### No. 107: 電子商務主圖 - 優雅黑色歐根紗緞帶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5911,7 +5803,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 109: 電子商務主圖 - 奢華巧克力廣告靜物攝影
+### No. 108: 電子商務主圖 - 奢華巧克力廣告靜物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5963,7 +5855,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 110: 電子商務主圖 - 超現實美妝產品髮捲
+### No. 109: 電子商務主圖 - 超現實美妝產品髮捲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5997,7 +5889,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 111: 電子商務主圖 - 覆盆子外殼產品攝影
+### No. 110: 電子商務主圖 - 覆盆子外殼產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6049,7 +5941,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 112: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
+### No. 111: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6089,7 +5981,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 113: 電子商務主圖 - 冰塊中的極簡主義產品
+### No. 112: 電子商務主圖 - 冰塊中的極簡主義產品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6123,7 +6015,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 114: 遊戲素材 - 體素遊戲藝術模型比較
+### No. 113: 遊戲素材 - 體素遊戲藝術模型比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6156,7 +6048,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 115: 遊戲素材 - Rogue One 風格電影劇照提示詞
+### No. 114: 遊戲素材 - Rogue One 風格電影劇照提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6189,7 +6081,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 116: 遊戲素材 - 雨林野生動物觀察站微縮世界
+### No. 115: 遊戲素材 - 雨林野生動物觀察站微縮世界
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6222,7 +6114,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 117: 遊戲素材 - 可愛毛氈風青蛙場景
+### No. 116: 遊戲素材 - 可愛毛氈風青蛙場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6255,7 +6147,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 118: 遊戲素材 - 機械憂鬱微距人像提示詞
+### No. 117: 遊戲素材 - 機械憂鬱微距人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6397,7 +6289,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 119: 遊戲素材 - Q 版 RPG 遊戲活動主視覺
+### No. 118: 遊戲素材 - Q 版 RPG 遊戲活動主視覺
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6448,7 +6340,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 120: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
+### No. 119: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6507,13 +6399,65 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
+### No. 120: 遊戲素材 - Artifact Diorama SQL 生成
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一種獨特的 SQL 風格生成提示詞，用於創作結合雕刻石材與仿古金質感的精緻建築模型場景。
+
+#### 📝 提示詞
+
+```
+16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="遊戲素材 - Artifact Diorama SQL 生成 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="遊戲素材 - Artifact Diorama SQL 生成 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="遊戲素材 - Artifact Diorama SQL 生成 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="遊戲素材 - Artifact Diorama SQL 生成 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **來源:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
+- **發布時間:** 2026年9月4日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33471)**
+
+---
+
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 15727 更多提示詞未在此顯示
+### 🎯 15728 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6576,6 +6520,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-08T04:01:27.610Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-08T08:01:43.590Z</sub>
 
 </div>

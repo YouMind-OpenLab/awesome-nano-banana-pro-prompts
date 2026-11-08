@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15847** |
+| 📝 提示词总数 | **15848** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月8日星期日 UTC 04:01:23** |
+| 🔄 最后更新 | **2026年11月8日星期日 UTC 08:01:39** |
 
 </div>
 
@@ -1661,7 +1661,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社交媒体帖子 - 马德里黄金时刻时尚大片
+### No. 21: 社交媒体帖子 - 编辑风射箭时尚摄影提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用于创作时尚杂志风格特写人像的提示词，画面中女性手持弓箭，重点展现戏剧性的光影效果与构图。
+
+#### 📝 提示词
+
+```
+时尚编辑摄影，一位栗色头发向后束起的年轻女性的特写四分之三侧脸，几缕散发随风飘动，目光专注而锐利地望向右方，双唇微启。她手持木质弓箭呈拉满姿态：手指在脸颊旁紧握绷紧的弓弦，搭着白色箭羽的箭矢轻抵下颌，纤细的箭杆水平延伸至画面右边缘之外，细长的弓弦斜穿过整个构图。她身穿一件修身的黑色长袖上衣。侧面强烈的硬调定向阳光勾勒出她的面部、颈部与肩部轮廓，投下锐利的高对比度阴影，包括弓弦在她脸颊和胸前留下的一道细长斜影。背景是纯净的渐变蓝天，顶部为深邃的钴蓝色，向下逐渐过渡为柔和的烟蓝色调。低机位仰拍，头部与上半身紧凑构图，浅景深，细腻的胶片颗粒感，温暖的阳光肤色与冷调蓝天形成对比，电影般的戏剧张力， glossy 时尚杂志美学风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg" width="600" alt="社交媒体帖子 - 编辑风射箭时尚摄影提示词 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **来源:** [Twitter Post](https://x.com/dreamydigiarts/status/2119059798884823085)
+- **发布时间:** 2026年11月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37408)**
+
+---
+
+### No. 22: 社交媒体帖子 - 马德里黄金时刻时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1712,7 +1745,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社交媒体帖子 - 芙莉莲动漫风格对比提示词
+### No. 23: 社交媒体帖子 - 芙莉莲动漫风格对比提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1763,7 +1796,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社交媒体帖子 - 微距星系水滴提示词
+### No. 24: 社交媒体帖子 - 微距星系水滴提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1802,7 +1835,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社交媒体帖子 - 拖门闪光夜景时尚
+### No. 25: 社交媒体帖子 - 拖门闪光夜景时尚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社交媒体帖子 - 抽象水彩狐狸插画
+### No. 26: 社交媒体帖子 - 抽象水彩狐狸插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1880,7 +1913,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社交媒体帖子 - 礼貌英式排队图像对比
+### No. 27: 社交媒体帖子 - 礼貌英式排队图像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,7 +1958,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社交媒体帖子 - 高级时尚编辑风格提示词
+### No. 28: 社交媒体帖子 - 高级时尚编辑风格提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1968,7 +2001,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社交媒体帖子 - 波西米亚风格客厅女性肖像
+### No. 29: 社交媒体帖子 - 波西米亚风格客厅女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2001,7 +2034,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社交媒体帖子 - 电影感联系表提示词
+### No. 30: 社交媒体帖子 - 电影感联系表提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2046,7 +2079,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社交媒体帖子 - 拳击馆新娘时尚大片
+### No. 31: 社交媒体帖子 - 拳击馆新娘时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2076,51 +2109,6 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37159)**
-
----
-
-### No. 31: 社交媒体帖子 - 大漠孤烟景观对比
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-对比 GPT-image-2.5、Nano Banana 2 (nano-banana-pro) 和 Grok-imagine2 在生成荒凉沙漠与孤烟景观方面的提示词。
-
-#### 📝 提示词
-
-```
-大漠孤烟西北风光大片，黄昏时分甘肃敦煌鸣沙山边缘，清冷干燥的西北秋夜。前景为风蚀沙丘脊线与一棵枯死的胡杨树，枝干虬曲直指苍穹，沙面留有清晰的风纹；中景处一缕孤烟从沙丘后袅袅升起，在逆光中拉成一道纤细的烟柱；背景是连绵起伏的金色沙海与祁连山雪线层层交叠，地平线上低悬着一轮落日，云霞被染成淡紫与蜜金色。空气中悬浮着细密的沙粒与暖色尘雾，逆光勾勒出沙丘上光影分明的明暗对比。光线：低角度暖金色侧逆光，色温约 3200K，沙丘向阳面呈蜜金色，背阴面为冷灰蓝色，形成强烈的冷暖对比。相机参数：24mm 广角镜头，贴近沙面的低机位，f/8 大景深，三分法构图，地平线压至画面下三分之一处，天空留白占据三分之二。调色风格：Eastmancolor 胶片模拟，暖金与灰蓝撞色，轻微胶片颗粒感，轻度暗角。超精细细节，照片级真实风景摄影，《国家地理》风格。无人物，非油画，非动漫，非 3D 渲染，无文字，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065139_ts7gv6_HV7dXSXasAAAQyi.jpg" width="600" alt="社交媒体帖子 - 大漠孤烟景观对比 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065199_6sshw5_HV7dYhQbQAAsL_y.jpg" width="600" alt="社交媒体帖子 - 大漠孤烟景观对比 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065170_iugcop_HV7dZx1bQAA8e1z.jpg" width="600" alt="社交媒体帖子 - 大漠孤烟景观对比 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Candy](https://x.com/CandyTravelight)
-- **来源:** [Twitter Post](https://x.com/CandyTravelight/status/2116394742002987101)
-- **发布时间:** 2026年10月31日
-- **多语言:** zh
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37109)**
 
 ---
 
@@ -5284,103 +5272,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 95: 产品营销 - 大理石冷漠编辑肖像提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个复杂的 JSON 格式提示词，用于生成一张超现实的编辑风格照片，画面中一位女性被大理石半身像环绕，强调高端模拟摄影美学和窥视式构图。
-
-#### 📝 提示词
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "一张充满电影感与窥视视角的照片：主角置身于一个超现实、密集到不可思议的档案空间中，四周堆叠着层层交错的古典白色大理石半身像。画面严格还原了雕像如幽闭人群般层层逼近的视觉几何结构，但采用高预算实体特效与摄影级写实手法拍摄。人物散发出“高级冷漠”（Haute Apathy）的气质——面无表情、神态中性，眼睑低垂放松，姿态慵懒却极具时髦感，漫不经心地倚靠在一尊价值连城的大理石头像旁，透着极致的无所谓。她身穿一件极简的纯黑高领毛衣，与这片白色石海形成强烈对比。使用 200mm 长焦镜头拍摄，极致压缩空间纵深。构图采用“窥视一瞥”视角，透过前景两尊大理石雕像之间狭窄且严重失焦的缝隙捕捉画面，将人物面部框入其中，仿佛在偷窥某个私密瞬间。高调、干净、柔和的影棚布光，凸显出多孔大理石与人物自然肌肤纹理那毫无瑕疵、超写实的质感。使用 Hasselblad H6D-100c 相机搭配 Kodak Portra 160 胶片拍摄，精准捕捉真实的微观细节：皮肤毛孔、散落的发丝，以及悬浮在空气中的细微大理石粉尘。绝对不要霓虹效果，不要 CGI 质感；呈现纯粹的模拟胶片摄影肌理。",
-  "meta": {
-    "intent": "超现实先锋时尚大片",
-    "priorities": "前景遮挡、强烈的长焦空间压缩、肌肤与大理石的质感对比",
-    "device_profile": "中画幅胶片"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "窥视式构图，被前景元素大面积遮挡",
-    "layout": "主体取景紧凑，被周围密集的物体所包围吞没",
-    "camera_angle": "从远处隐蔽视角拍摄的平视角度",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "女性",
-    "identity": "主角",
-    "demographics": "年龄模糊，空灵却又真实可触",
-    "face": "中性、面无表情，眼睑低垂放松，眼线利落且极具图形感",
-    "hair": "顺滑服帖，中分紧贴头皮",
-    "body": "放松、慵懒却不失时髦感的体态",
-    "expression": "极致的漫不经心，一种“全场我最酷”的冷漠疏离",
-    "pose": "双肩微塌，毫不费力地倚靠在一尊大理石雕像上"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "高领毛衣",
-        "material": "精细美利奴羊毛",
-        "color": "纯正哑光黑",
-        "fit": "修身但不紧绷"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "图形感上扬眼线",
-        "color": "Vantablack（极致黑）",
-        "material": "哑光彩妆颜料",
-        "brand_style": "高级时装大片风格"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "一个无限密集、超现实的古典白色大理石半身像档案库",
-    "surfaces": "冰冷、光滑却带孔隙的白色大理石，覆有细微粉尘"
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="产品营销 - 大理石冷漠编辑肖像提示词 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **发布时间:** 2026年10月24日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36877)**
-
----
-
-### No. 96: 电商主图 - 未涂装树脂车库套件：街头赛车少女
+### No. 95: 电商主图 - 未涂装树脂车库套件：街头赛车少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5414,7 +5306,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 97: 电商主图 - Nano Banana Pro 银色金属质感礼服人像
+### No. 96: 电商主图 - Nano Banana Pro 银色金属质感礼服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5449,7 +5341,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 98: 电商主图 - Nano Banana Pro 编辑教程
+### No. 97: 电商主图 - Nano Banana Pro 编辑教程
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5482,7 +5374,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 99: 电商主图 - 全装甲机甲少女概念艺术
+### No. 98: 电商主图 - 全装甲机甲少女概念艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5527,7 +5419,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 100: 电商主图 - Nano Banana Pro 影棚人像提示词
+### No. 99: 电商主图 - Nano Banana Pro 影棚人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5573,7 +5465,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 101: 电商主图 - 男士时尚杂志大片拍摄
+### No. 100: 电商主图 - 男士时尚杂志大片拍摄
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5625,7 +5517,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 102: 电商主图 - 奢侈品静物广告大片
+### No. 101: 电商主图 - 奢侈品静物广告大片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5673,7 +5565,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 103: 电商主图 - 红色棒球帽时尚特写
+### No. 102: 电商主图 - 红色棒球帽时尚特写
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5707,7 +5599,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 104: 电商主图 - 极简主义建筑感时尚肖像
+### No. 103: 电商主图 - 极简主义建筑感时尚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5753,7 +5645,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 105: 电商主图 - 铁锈红丝绸连衣裙野餐主题大片
+### No. 104: 电商主图 - 铁锈红丝绸连衣裙野餐主题大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5787,7 +5679,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 106: 电商主图 - 吉他品丝打磨微距摄影
+### No. 105: 电商主图 - 吉他品丝打磨微距摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5821,7 +5713,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 107: 电商主图 - 高端饮品广告摄影
+### No. 106: 电商主图 - 高端饮品广告摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5861,7 +5753,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 108: 电商主图 - 优雅黑色欧根纱丝带
+### No. 107: 电商主图 - 优雅黑色欧根纱丝带
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5901,7 +5793,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 109: 电商主图 - 奢华巧克力广告静物摄影
+### No. 108: 电商主图 - 奢华巧克力广告静物摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5953,7 +5845,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 110: 电商主图 - 超现实美妆产品卷发筒
+### No. 109: 电商主图 - 超现实美妆产品卷发筒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5987,7 +5879,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 111: 电商主图 - 树莓外壳产品摄影
+### No. 110: 电商主图 - 树莓外壳产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6039,7 +5931,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 112: 电商主图 - 带有蜘蛛网元素的电影质感产品广告
+### No. 111: 电商主图 - 带有蜘蛛网元素的电影质感产品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6079,7 +5971,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 113: 电商主图 - 冰块中的极简主义产品
+### No. 112: 电商主图 - 冰块中的极简主义产品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6113,7 +6005,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 114: 游戏素材 - 体素游戏美术模型对比
+### No. 113: 游戏素材 - 体素游戏美术模型对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6146,7 +6038,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 115: 游戏素材 - 《侠盗一号》风格电影剧照提示词
+### No. 114: 游戏素材 - 《侠盗一号》风格电影剧照提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6179,7 +6071,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 116: 游戏素材 - 雨林野生动物观测站微缩世界
+### No. 115: 游戏素材 - 雨林野生动物观测站微缩世界
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6212,7 +6104,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 117: 游戏素材 - 可爱毛毡青蛙场景
+### No. 116: 游戏素材 - 可爱毛毡青蛙场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6245,7 +6137,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 118: 游戏素材 - 机械忧郁微距人像提示词
+### No. 117: 游戏素材 - 机械忧郁微距人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6387,7 +6279,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 119: 游戏素材 - Q 版 RPG 游戏活动主视觉图
+### No. 118: 游戏素材 - Q 版 RPG 游戏活动主视觉图
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6438,7 +6330,7 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
-### No. 120: 游戏素材 - 表现主义写实混合风格肖像
+### No. 119: 游戏素材 - 表现主义写实混合风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6497,13 +6389,65 @@ GPT Image 2.5 与 Nano Banana 2.1 生成多面板运动休闲时尚海报的并�
 
 ---
 
+### No. 120: 游戏素材 - Artifact Diorama SQL 生成
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一种独特的 SQL 风格生成提示词，用于创建具有雕刻石材和古董金质感的复杂建筑立体模型。
+
+#### 📝 提示词
+
+```
+16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
+- **发布时间:** 2026年9月4日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33471)**
+
+---
+
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 15727 更多提示词未在此显示
+### 🎯 15728 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6566,6 +6510,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T04:01:23.097Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T08:01:39.596Z</sub>
 
 </div>

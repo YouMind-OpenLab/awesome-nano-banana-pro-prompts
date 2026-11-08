@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15847** |
+| 📝 Total de prompts | **15848** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **domingo, 8 de noviembre de 2026, 4:02:00 UTC** |
+| 🔄 Última actualización | **domingo, 8 de noviembre de 2026, 8:02:09 UTC** |
 
 </div>
 
@@ -1661,7 +1661,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Editorial de Moda en la Hora Dorada de Madrid
+### No. 21: Publicación en redes sociales - Prompt de fotografía de moda editorial con arco
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para crear un retrato en primer plano de estilo editorial de una mujer sosteniendo un arco y flecha, con enfoque en la iluminación dramática y la composición.
+
+#### 📝 Prompt
+
+```
+Fotografía de moda editorial, primer plano en perfil de tres cuartos de una joven con cabello castaño recogido hacia atrás y varios mechones sueltos ondeando al viento. Su mirada, concentrada e intensa, se dirige hacia la derecha, con los labios ligeramente entreabiertos. Sostiene un arco y una flecha de madera en posición de tiro: sus dedos agarran la cuerda tensada junto a la mejilla, la flecha encastrada con plumas blancas descansa contra el mentón, el fino asta se extiende horizontalmente más allá del borde derecho del encuadre y la delgada cuerda cruza la composición en diagonal. Viste un top negro ajustado de manga larga. Una luz solar intensa, dura y direccional desde un lateral esculpe su rostro, cuello y hombros, proyectando sombras nítidas de alto contraste, incluida una fina línea de sombra diagonal de la cuerda que atraviesa su mejilla y pecho. El fondo es un cielo azul degradado y limpio, de un cobalto profundo en la parte superior que transita hacia una paleta azul suave y ahumada en la inferior. Ángulo de cámara bajo, encuadre cerrado en la cabeza y la parte superior del torso, profundidad de campo reducida, sutil grano de película, tonos cálidos de piel iluminada por el sol contrastando con el cielo azul frío, atmósfera cinematográfica y dramática, estética de revista de alta costura.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg" width="600" alt="Publicación en redes sociales - Prompt de fotografía de moda editorial con arco - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Fuente:** [Twitter Post](https://x.com/dreamydigiarts/status/2119059798884823085)
+- **Publicado:** 7 de noviembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=37408)**
+
+---
+
+### No. 22: Publicación en redes sociales - Editorial de Moda en la Hora Dorada de Madrid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1712,7 +1745,7 @@ Tema: Editorial de alta moda durante la hora dorada en Madrid. Sujeto: Mujer asi
 
 ---
 
-### No. 22: Publicación en redes sociales - Prompt de Comparación de Estilo Anime Frieren
+### No. 23: Publicación en redes sociales - Prompt de Comparación de Estilo Anime Frieren
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1763,7 +1796,7 @@ Frieren de Frieren: Beyond Journey's End sentada en la barra de la ventana de un
 
 ---
 
-### No. 23: Publicación en redes sociales - Prompt Macro de Gota de Agua con Galaxia
+### No. 24: Publicación en redes sociales - Prompt Macro de Gota de Agua con Galaxia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1802,7 +1835,7 @@ Gota de agua cristalina suspendida en el aire o colgando de una hoja, estilo fot
 
 ---
 
-### No. 24: Publicación en redes sociales - Moda nocturna con flash de obturación arrastrada
+### No. 25: Publicación en redes sociales - Moda nocturna con flash de obturación arrastrada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ Editorial de moda callejera nocturna: una modelo con una gabardina roja oversize
 
 ---
 
-### No. 25: Publicación en redes sociales - Ilustración de Zorro en Acuarela Abstracta
+### No. 26: Publicación en redes sociales - Ilustración de Zorro en Acuarela Abstracta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1880,7 +1913,7 @@ Acuarela abstracta de un zorro rojo durmiendo acurrucado, pinceladas sueltas y d
 
 ---
 
-### No. 26: Publicación en redes sociales - Comparación de Imagen: Cola Educada Británica
+### No. 27: Publicación en redes sociales - Comparación de Imagen: Cola Educada Británica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,7 +1958,7 @@ Un caballero británico cortés con bombín, traje de raya diplomática gris car
 
 ---
 
-### No. 27: Publicación en redes sociales - Prompt Editorial de Alta Costura
+### No. 28: Publicación en redes sociales - Prompt Editorial de Alta Costura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1958,7 +1991,7 @@ Crea una editorial vertical de alta moda en una mesa formal de comedor al aire l
 
 ---
 
-### No. 28: Publicación en redes sociales - Retrato Bohemio en Sala de Estar
+### No. 29: Publicación en redes sociales - Retrato Bohemio en Sala de Estar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1991,7 +2024,7 @@ Crea un retrato fotorrealista de una mujer adulta de pie en una acogedora sala d
 
 ---
 
-### No. 29: Publicación en redes sociales - Prompt de Hoja de Contactos Cinematográfica
+### No. 30: Publicación en redes sociales - Prompt de Hoja de Contactos Cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2036,7 +2069,7 @@ Panel 4, abajo a la derecha — «Caminata de vuelta al atardecer»: el sujeto r
 
 ---
 
-### No. 30: Publicación en redes sociales - Editorial de novia en gimnasio de boxeo
+### No. 31: Publicación en redes sociales - Editorial de novia en gimnasio de boxeo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2066,51 +2099,6 @@ Crea un editorial vertical de alta moda dentro de un gimnasio de boxeo real y li
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=37159)**
-
----
-
-### No. 31: Publicación en redes sociales - Comparación de Paisaje Desértico con Humo Solitario
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un prompt que compara GPT-image-2.5, Nano Banana 2 (nano-banana-pro) y Grok-imagine2 en la generación de un paisaje desértico desolado con humo solitario.
-
-#### 📝 Prompt
-
-```
-Espectacular paisaje del noroeste con una solitaria columna de humo en el desierto. Atardecer en las faldas de la montaña Mingsha, en Dunhuang (Gansu), durante una nítida y seca noche otoñal del noroeste. El primer plano muestra crestas de dunas erosionadas por el viento y un álamo del Éufrates (Populus euphratica) seco, con sus ramas retorcidas apuntando al cielo y una superficie de arena marcada por claros patrones eólicos; el plano medio presenta una recta y solitaria columna de humo que se eleva con elegancia desde detrás de las dunas, estirándose como un fino pilar a contraluz; el fondo despliega un inmenso mar de arena dorada que se funde con la línea de nieve de las montañas Qilian, un sol poniente muy bajo en el horizonte y nubes teñidas de violeta pálido y oro miel. En el aire flotan finas partículas de arena y una bruma de polvo en tonos cálidos, mientras el contraluz perfila el contraste entre luces y sombras sobre las dunas. Iluminación: luz lateral trasera cálida y dorada en ángulo bajo, temperatura de color de aproximadamente 3200K; la cara soleada de las dunas es de un oro miel y la umbría, de un frío gris azulado, creando un marcado contraste cálido-frío. Cámara: gran angular de 24 mm, posición baja casi a ras de arena, f/8 para una gran profundidad de campo, composición según la regla de los tercios, horizonte situado en el tercio inferior del encuadre y espacio negativo del cielo ocupando dos tercios. Etalonaje: simulación de película Eastmancolor, contraste entre el dorado cálido y el gris azulado, ligero grano de película y leve viñeteado. Ultra detallado, fotografía de paisaje fotorrealista, estilo National Geographic. Sin personas, sin pintura al óleo, sin anime, sin renderizado 3D, sin texto, sin marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065139_ts7gv6_HV7dXSXasAAAQyi.jpg" width="600" alt="Publicación en redes sociales - Comparación de Paisaje Desértico con Humo Solitario - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065199_6sshw5_HV7dYhQbQAAsL_y.jpg" width="600" alt="Publicación en redes sociales - Comparación de Paisaje Desértico con Humo Solitario - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065170_iugcop_HV7dZx1bQAA8e1z.jpg" width="600" alt="Publicación en redes sociales - Comparación de Paisaje Desértico con Humo Solitario - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Candy](https://x.com/CandyTravelight)
-- **Fuente:** [Twitter Post](https://x.com/CandyTravelight/status/2116394742002987101)
-- **Publicado:** 31 de octubre de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=37109)**
 
 ---
 
@@ -5266,103 +5254,7 @@ Restricciones negativas: sin modelos adicionales, sin variaciones de identidad, 
 
 ---
 
-### No. 95: Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt complejo en formato JSON para generar una fotografía editorial surrealista de una mujer rodeada de bustos de mármol, enfatizando la estética fotográfica analógica de alta gama y un encuadre voyeurístico.
-
-#### 📝 Prompt
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "Una fotografía cinematográfica y voyeurística de El Protagonista inmerso en un archivo surrealista e imposiblemente denso de bustos clásicos de mármol blanco superpuestos. La imagen refleja fielmente la geometría visual de una multitud claustrofóbica de estatuas que se agolpan, pero está capturada con efectos prácticos de alto presupuesto y realismo fotográfico. El sujeto irradia 'Haute Apathy' (Alta Apatía): una expresión facial neutra e inexpresiva, con los párpados pesados y relajados, y una postura lánguida pero chic, apoyándose con total despreocupación contra una cabeza de mármol de valor incalculable. Viste un cuello alto negro, minimalista y de un negro intenso, que contrasta drásticamente con el mar de piedra blanca. Tomada con un teleobjetivo de 200 mm para comprimir agresivamente el espacio. La composición es un 'Vistazo Voyeurista', capturado a través de una estrecha abertura muy desenfocada entre dos estatuas de mármol en primer plano, encuadrando el rostro del sujeto como si se espiara un momento íntimo. Una iluminación de estudio en clave alta, limpia y suave resalta el acabado impecable e hiperrealista tanto del mármol poroso como de la textura natural de la piel del sujeto. Capturada con Hasselblad H6D-100c y película Kodak Portra 160, logrando microdetalles auténticos, poros de la piel, cabellos sueltos y sutiles partículas de polvo de mármol suspendidas en el aire. Absolutamente nada de neón ni aspecto CGI; pura textura fotográfica analógica.",
-  "meta": {
-    "intent": "Editorial surrealista de vanguardia",
-    "priorities": "Oclusión en primer plano, fuerte compresión de teleobjetivo, contraste textural entre la piel y el mármol",
-    "device_profile": "Analógico de formato medio"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Encuadre voyeurista fuertemente obstruido por elementos en primer plano",
-    "layout": "Sujeto encuadrado de forma ajustada y envuelto por objetos densos a su alrededor",
-    "camera_angle": "A la altura de los ojos desde un punto de observación lejano y oculto",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Femenino",
-    "identity": "El Protagonista",
-    "demographics": "Sin edad definida, etéreo pero terrenal",
-    "face": "Neutra, inexpresiva, con párpados pesados y relajados, y un delineado gráfico y marcado",
-    "hair": "Liso, con raya al medio muy marcada",
-    "body": "Postura relajada, lánguida pero chic",
-    "expression": "Despreocupación extrema, apatía de quien 'es demasiado genial para este lugar'",
-    "pose": "Hombros caídos, apoyándose sin esfuerzo contra una estatua de mármol"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Suéter de cuello alto",
-        "material": "Lana merina fina",
-        "color": "Negro mate intenso",
-        "fit": "Ajustado al cuerpo pero holgado"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Delineado gráfico tipo cat eye",
-        "color": "Vantablack",
-        "material": "Pigmento de maquillaje mate",
-        "brand_style": "Editorial de alta costura"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Un archivo surrealista e infinitamente denso de bustos clásicos de mármol blanco",
-    "surfaces": "Mármol blanco frío, liso pero poroso, con polvo sutil"
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="Marketing de producto - Prompt de Retrato Editorial de Apatía en Mármol - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Fuente:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **Publicado:** 24 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=36877)**
-
----
-
-### No. 96: Imagen principal de e-commerce - Kit de Resina Sin Pintar (Garage Kit) de Chica Piloto de Calle
+### No. 95: Imagen principal de e-commerce - Kit de Resina Sin Pintar (Garage Kit) de Chica Piloto de Calle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5396,7 +5288,7 @@ Kit de garaje de resina gris sin pintar de {argument name="character type" defau
 
 ---
 
-### No. 97: Imagen principal de e-commerce - Retrato de Vestido Plateado Metálico Nano Banana Pro
+### No. 96: Imagen principal de e-commerce - Retrato de Vestido Plateado Metálico Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5431,7 +5323,7 @@ Prompt negativo: sin aspecto de CGI, sin piel de plástico, rostro diferente, p�
 
 ---
 
-### No. 98: Imagen principal de e-commerce - Tutorial de Edición con Nano Banana Pro
+### No. 97: Imagen principal de e-commerce - Tutorial de Edición con Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5464,7 +5356,7 @@ Mantén la masa tal como está. Reemplaza el fondo por un mostrador de panaderí
 
 ---
 
-### No. 99: Imagen principal de e-commerce - Arte conceptual de chica mecha con armadura completa
+### No. 98: Imagen principal de e-commerce - Arte conceptual de chica mecha con armadura completa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5509,7 +5401,7 @@ Chica mecha con armadura completa FAMG-001 Aurelith, modelo de plástico a escal
 
 ---
 
-### No. 100: Imagen principal de e-commerce - Prompt de Retrato de Estudio con Nano Banana Pro
+### No. 99: Imagen principal de e-commerce - Prompt de Retrato de Estudio con Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5555,7 +5447,7 @@ Utiliza los rasgos faciales de la imagen de referencia cargada. Un retrato de cu
 
 ---
 
-### No. 101: Imagen principal de e-commerce - Sesión fotográfica de moda masculina editorial
+### No. 100: Imagen principal de e-commerce - Sesión fotográfica de moda masculina editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5607,7 +5499,7 @@ Fotografía de moda editorial de un {argument name="subject" default="hombre jov
 
 ---
 
-### No. 102: Imagen principal de e-commerce - Campaña de bodegón para productos de lujo
+### No. 101: Imagen principal de e-commerce - Campaña de bodegón para productos de lujo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5655,7 +5547,7 @@ Un prompt sofisticado para productos de alta gama como artículos de cuero o rel
 
 ---
 
-### No. 103: Imagen principal de e-commerce - Primer plano de moda con gorra roja
+### No. 102: Imagen principal de e-commerce - Primer plano de moda con gorra roja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5689,7 +5581,7 @@ Primer plano de belleza y moda ultrarrealista de una modelo que lleva {argument 
 
 ---
 
-### No. 104: Imagen principal de e-commerce - Retrato de moda arquitectónica minimalista
+### No. 103: Imagen principal de e-commerce - Retrato de moda arquitectónica minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5735,7 +5627,7 @@ Entorno e iluminación: El fondo es una pared de estudio limpia, sin costuras y 
 
 ---
 
-### No. 105: Imagen principal de e-commerce - Editorial de moda: vestido de seda color óxido en un picnic
+### No. 104: Imagen principal de e-commerce - Editorial de moda: vestido de seda color óxido en un picnic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5769,7 +5661,7 @@ Crea un editorial de moda {argument name="lighting" default="con luz cálida de 
 
 ---
 
-### No. 106: Imagen principal de e-commerce - Macro de nivelado de trastes de guitarra
+### No. 105: Imagen principal de e-commerce - Macro de nivelado de trastes de guitarra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5803,7 +5695,7 @@ el traste central a medio nivelar, brillante {argument name="fret material" defa
 
 ---
 
-### No. 107: Imagen principal de e-commerce - Fotografía publicitaria premium de bebidas
+### No. 106: Imagen principal de e-commerce - Fotografía publicitaria premium de bebidas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5843,7 +5735,7 @@ Crea una única fotografía publicitaria premium fotorrealista para la bebida fi
 
 ---
 
-### No. 108: Imagen principal de e-commerce - Elegante cinta de organza negra
+### No. 107: Imagen principal de e-commerce - Elegante cinta de organza negra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5883,7 +5775,7 @@ Elegante cinta de {argument name="material" default="organza"} {argument name="c
 
 ---
 
-### No. 109: Imagen principal de e-commerce - Bodegón publicitario de chocolate de lujo
+### No. 108: Imagen principal de e-commerce - Bodegón publicitario de chocolate de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5935,7 +5827,7 @@ Un bodegón brillante y estilizado, además de una fotografía conceptual para u
 
 ---
 
-### No. 110: Imagen principal de e-commerce - Producto de belleza surrealista: rulo para el cabello
+### No. 109: Imagen principal de e-commerce - Producto de belleza surrealista: rulo para el cabello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5969,7 +5861,7 @@ Foto de estudio de producto tomada desde atrás de una persona con cabello ondul
 
 ---
 
-### No. 111: Imagen principal de e-commerce - Fotografía de producto: Cáscara de frambuesa
+### No. 110: Imagen principal de e-commerce - Fotografía de producto: Cáscara de frambuesa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6021,7 +5913,7 @@ Foto de estudio de producto de {argument name="product" default="producto de la 
 
 ---
 
-### No. 112: Imagen principal de e-commerce - Anuncio de producto cinematográfico con telaraña
+### No. 111: Imagen principal de e-commerce - Anuncio de producto cinematográfico con telaraña
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6061,7 +5953,7 @@ Utilizando el producto subido como referencia exacta, conserva su forma original
 
 ---
 
-### No. 113: Imagen principal de e-commerce - Producto en cubo de hielo minimalista
+### No. 112: Imagen principal de e-commerce - Producto en cubo de hielo minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6095,7 +5987,7 @@ Un prompt de fotografía de producto simple utilizado para comparar Grok Imagine
 
 ---
 
-### No. 114: Activo de juego - Comparación de modelos de arte de juegos voxel
+### No. 113: Activo de juego - Comparación de modelos de arte de juegos voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6128,7 +6020,7 @@ Captura de pantalla de un juego voxel de pixel art en 3D isométrico que muestra
 
 ---
 
-### No. 115: Activo de juego - Prompt de fotograma cinematográfico estilo Rogue One
+### No. 114: Activo de juego - Prompt de fotograma cinematográfico estilo Rogue One
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6161,7 +6053,7 @@ Fotograma fotorrealista de la película Rogue One/Andor. Rostro de referencia ex
 
 ---
 
-### No. 116: Activo de juego - Estación de Observación de Fauna de la Selva Tropical: Mundo en Miniatura
+### No. 115: Activo de juego - Estación de Observación de Fauna de la Selva Tropical: Mundo en Miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6194,7 +6086,7 @@ Representación whimsical de un mundo en miniatura de una estación de observaci
 
 ---
 
-### No. 117: Activo de juego - Escena tierna de rana en fieltro
+### No. 116: Activo de juego - Escena tierna de rana en fieltro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6227,7 +6119,7 @@ Una escena 3D tierna y con textura de fieltro que muestra una rana estilo carica
 
 ---
 
-### No. 118: Activo de juego - Prompt de Retrato Macro: Melancolía Mecánica
+### No. 117: Activo de juego - Prompt de Retrato Macro: Melancolía Mecánica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6369,7 +6261,7 @@ Un prompt complejo en formato JSON para Nano Banana Pro, diseñado para generar 
 
 ---
 
-### No. 119: Activo de juego - Imagen clave para campaña de juego RPG Chibi
+### No. 118: Activo de juego - Imagen clave para campaña de juego RPG Chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6420,7 +6312,7 @@ Diseñado para anuncios de eventos de juegos RPG móviles, este prompt crea ilus
 
 ---
 
-### No. 120: Activo de juego - Retrato híbrido realista con estilo pictórico expresivo
+### No. 119: Activo de juego - Retrato híbrido realista con estilo pictórico expresivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6479,13 +6371,65 @@ Relación de aspecto: 9:16 vertical.
 
 ---
 
+### No. 120: Activo de juego - Generación SQL de dioramas de artefactos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de generación al estilo SQL único para crear intrincados dioramas arquitectónicos con texturas de piedra tallada y oro antiguo.
+
+#### 📝 Prompt
+
+```
+16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Activo de juego - Generación SQL de dioramas de artefactos - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Activo de juego - Generación SQL de dioramas de artefactos - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Activo de juego - Generación SQL de dioramas de artefactos - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Activo de juego - Generación SQL de dioramas de artefactos - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
+- **Publicado:** 4 de septiembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33471)**
+
+---
+
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 15727 prompts más no mostrados aquí
+### 🎯 15728 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6548,6 +6492,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-08T04:02:00.537Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-08T08:02:09.155Z</sub>
 
 </div>

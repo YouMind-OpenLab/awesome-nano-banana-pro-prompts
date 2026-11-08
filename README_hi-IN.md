@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15847** |
+| 📝 कुल प्रॉम्पट्स | **15848** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **रविवार, 8 नवंबर 2026 को 4:01:54 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **रविवार, 8 नवंबर 2026 को 8:02:04 am UTC बजे** |
 
 </div>
 
@@ -1661,7 +1661,40 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - मैड्रिड गोल्डन आवर फैशन एडिटोरियल
+### No. 21: सोशल मीडिया पोस्ट - संपादकीय तीरंदाजी फैशन फोटोग्राफी प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+तीर और धनुष पकड़े हुए एक महिला के संपादकीय शैली के क्लोज-अप पोर्ट्रेट बनाने के लिए एक प्रॉम्प्ट, जिसमें नाटकीय रोशनी और संरचना पर ध्यान केंद्रित किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+एडिटोरियल फैशन फोटोग्राफी, एक युवा महिला का क्लोज़-अप थ्री-क्वार्टर प्रोफाइल, जिसके चेस्टनट रंग के बाल पीछे की ओर बँधे हैं और कुछ खुली लटें हवा में उड़ रही हैं। उसकी एकाग्र और तीखी नज़र दाईं ओर टिकी है, जबकि होंठ हल्के से खुले हुए हैं। उसने एक लकड़ी का धनुष और तीर तानकर पकड़ा हुआ है: उसकी उँगलियाँ गाल के पास कसकर खिंची हुई डोरी को थामे हुए हैं, सफेद फ्लेचिंग वाला चढ़ाया गया तीर उसकी ठुड्डी से लगा है, पतला शाफ्ट क्षैतिज रूप से फ्रेम के दाहिने किनारे से बाहर तक जा रहा है, और पतली धनुष की डोरी तस्वीर की संरचना में तिरछी गुज़रती है। उसने शरीर से चिपकी हुई काली फुल-स्लीव टॉप पहनी हुई है। बगल से आती तेज़, कठोर और दिशात्मक धूप उसके चेहरे, गर्दन और कंधों को तराशती है, जिससे गहरी और हाई-कंट्रास्ट परछाइयाँ बनती हैं — इनमें धनुष की डोरी से पड़ती एक पतली तिरछी परछाईं भी शामिल है जो उसके गाल और छाती पर दिखाई देती है। बैकग्राउंड में साफ नीले आसमान का ग्रेडिएंट है, जो ऊपर गहरे कोबाल्ट ब्लू से शुरू होकर नीचे की ओर हल्के, स्मोकी ब्लू शेड्स में बदल जाता है। कैमरा का निचला एंगल, सिर और ऊपरी धड़ पर टाइट फ्रेमिंग, शैलो डेप्थ ऑफ फील्ड, हल्का फिल्म ग्रेन, ठंडे नीले आसमान के मुकाबले धूप में दमकती गर्म स्किन टोन्स, सिनेमाई और नाटकीय माहौल, और ग्लॉसी मैगज़ीन जैसा आकर्षक अंदाज़।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg" width="600" alt="सोशल मीडिया पोस्ट - संपादकीय तीरंदाजी फैशन फोटोग्राफी प्रॉम्प्ट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **स्रोत:** [Twitter Post](https://x.com/dreamydigiarts/status/2119059798884823085)
+- **प्रकाशित:** 7 नवंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37408)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - मैड्रिड गोल्डन आवर फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1712,7 +1745,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - Frieren एनीमे स्टाइल तुलना प्रॉम्प्ट
+### No. 23: सोशल मीडिया पोस्ट - Frieren एनीमे स्टाइल तुलना प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1763,7 +1796,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट
+### No. 24: सोशल मीडिया पोस्ट - मैक्रो गैलेक्सी वॉटर ड्रॉपलेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1802,7 +1835,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - ड्रैग्ड-शटर फ्लैश नाइट फैशन
+### No. 25: सोशल मीडिया पोस्ट - ड्रैग्ड-शटर फ्लैश नाइट फैशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1868,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - अमूर्त जलरंग लोमड़ी चित्रकला
+### No. 26: सोशल मीडिया पोस्ट - अमूर्त जलरंग लोमड़ी चित्रकला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1880,7 +1913,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - शिष्ट अंग्रेज़ कतार छवि तुलना
+### No. 27: सोशल मीडिया पोस्ट - शिष्ट अंग्रेज़ कतार छवि तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,7 +1958,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - हाई-फैशन एडिटोरियल प्रॉम्प्ट
+### No. 28: सोशल मीडिया पोस्ट - हाई-फैशन एडिटोरियल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1966,7 +1999,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - बोहेमियन लिविंग रूम पोर्ट्रेट
+### No. 29: सोशल मीडिया पोस्ट - बोहेमियन लिविंग रूम पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1999,7 +2032,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - सिनेमाई कॉन्टैक्ट शीट प्रॉम्प्ट
+### No. 30: सोशल मीडिया पोस्ट - सिनेमाई कॉन्टैक्ट शीट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2044,7 +2077,7 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - बॉक्सिंग जिम ब्राइडल एडिटोरियल
+### No. 31: सोशल मीडिया पोस्ट - बॉक्सिंग जिम ब्राइडल एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2074,51 +2107,6 @@ Frieren: Beyond Journey's End की Frieren रात के समय आध�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37159)**
-
----
-
-### No. 31: सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 विवरण
-
-GPT-image-2.5, Nano Banana 2 (nano-banana-pro) और Grok-imagine2 द्वारा सुनसान रेगिस्तान के परिदृश्य में अकेले धुएं को जनरेट करने की तुलना करने वाला एक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-रेगिस्तान में अकेला धुआँ, उत्तर-पश्चिम का शानदार नज़ारा, गांसू के दुनहुआंग में मिंगशा पर्वत की तलहटी पर शाम का वक्त, उत्तर-पश्चिम की शरद ऋतु की साफ और सूखी शाम। फोरग्राउंड में हवा से घिसे रेत के टीलों की कतारें और एक सूखा हुआ populus euphratica पेड़ है, जिसकी मुड़ी हुई शाखाएँ आसमान की ओर इशारा कर रही हैं, रेत की सतह पर हवा से बने स्पष्ट निशान दिख रहे हैं; मिडग्राउंड में टीलों के पीछे से अकेले धुएँ का सीधा स्तंभ बेहद खूबसूरती से ऊपर उठ रहा है, जो बैकलाइट के सामने एक पतले खंभे जैसा दिखता है; बैकग्राउंड में सुनहरे रेत के समंदर की लगातार लहरें Qilian Mountain की बर्फ से ढकी चोटियों से मिलती हैं, क्षितिज पर डूबता हुआ सूरज नीचे झुका है, बादल हल्के बैंगनी और शहद जैसे सुनहरे रंग में रंगे हुए हैं। हवा में बारीक रेत के कण और गर्म रंगों वाली धूल की हल्की परत तैर रही है, बैकलाइट टीलों पर रोशनी और छाया के बीच का गहरा अंतर दिखा रही है। लाइटिंग: कम कोण वाली गर्म सुनहरी साइड-बैकलाइट, कलर टेम्परेचर लगभग 3200K, टीलों का धूप वाला हिस्सा शहद जैसा सुनहरा है और छाया वाला हिस्सा ठंडा स्लेटी-नीला, जिससे गर्म और ठंडे रंगों का शानदार कॉन्ट्रास्ट बनता है। कैमरा: 24mm वाइड एंगल, रेत की सतह के पास नीची स्थिति, f/8 डीप डेप्थ ऑफ फील्ड, रूल ऑफ थर्ड्स कंपोज़िशन, क्षितिज को फ्रेम के निचले एक-तिहाई हिस्से में रखा गया, आसमान की खाली जगह दो-तिहाई हिस्सा घेरती है। कलर ग्रेडिंग: Eastmancolor फिल्म सिमुलेशन, गर्म सुनहरा बनाम स्लेटी-नीला कॉन्ट्रास्ट, हल्का फिल्म ग्रेन, हल्का विग्नेट। अत्यंत विस्तृत, फोटोरियलिस्टिक लैंडस्केप फोटोग्राफी, National Geographic शैली। No people, No oil painting, No anime, No 3D render, No text, No watermark.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065139_ts7gv6_HV7dXSXasAAAQyi.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065199_6sshw5_HV7dYhQbQAAsL_y.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514065170_iugcop_HV7dZx1bQAA8e1z.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेगिस्तान में अकेली धुआं वाले परिदृश्य की तुलना - Image 3">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Candy](https://x.com/CandyTravelight)
-- **स्रोत:** [Twitter Post](https://x.com/CandyTravelight/status/2116394742002987101)
-- **प्रकाशित:** 31 अक्टूबर 2026
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37109)**
 
 ---
 
@@ -5279,103 +5267,7 @@ GPT Image 2.5 और Nano Banana 2.1 द्वारा बनाए गए म�
 
 ---
 
-### No. 95: प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-मार्बल बस्ट्स से घिरी एक महिला की सुपरियल एडिटोरियल फोटो जनरेट करने के लिए एक जटिल JSON-फॉर्मैटेड प्रॉम्प्ट, जो हाई-एंड एनालॉग फोटोग्राफी की सौंदर्यशास्त्र और वॉयूरिस्टिक फ्रेमिंग पर जोर देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "vibe_title_en": "Marble Apathy",
-  "master_prompt": "The Protagonist की एक सिनेमाई, वॉयुरिस्टिक (voyeuristic) तस्वीर, जो शास्त्रीय सफेद संगमरमर की मूर्तियों (बस्ट्स) के एक अवास्तविक और बेहद घने आर्काइव में डूबी हुई है। यह तस्वीर उन मूर्तियों की भीड़ के विज़ुअल ज्यामिति को बिल्कुल वैसा ही दर्शाती है जो चारों तरफ से दबाव बना रही हो, लेकिन इसे हाई-बजट प्रैक्टिकल इफेक्ट्स और फोटोग्राफिक रियलिज़्म के साथ कैप्चर किया गया है। व्यक्ति 'Haute Apathy' का अहसास कराता है—एक भावशून्य, न्यूट्रल चेहरा जिसकी पलकें भारी और ढीली हैं, शरीर की मुद्रा सुस्त लेकिन स्टाइलिश है, और वह बेहद लापरवाही से एक अनमोल संगमरमर के सिर से टिका हुआ है। उसने एक मिनिमलिस्ट, गहरे काले रंग का टर्टलनेक पहना हुआ है, जो सफेद पत्थरों के समंदर के बीच एकदम अलग दिखता है। स्पेस को पूरी तरह से कंप्रेस करने के लिए 200mm लंबे फोकल लेंथ वाले लेंस से शूट किया गया। कंपोज़िशन एक 'Voyeuristic Glimpse' है, जिसे फोरग्राउंड की दो संगमरमर की मूर्तियों के बीच एक संकरे और बहुत ज़्यादा आउट-ऑफ-फोकस गैप से कैप्चर किया गया है, जैसे किसी निजी पल पर चुपके से नज़र रखी जा रही हो। हाई-की, साफ और सॉफ्ट स्टूडियो लाइटिंग छिद्रपूर्ण संगमरमर और व्यक्ति की प्राकृतिक त्वचा की बनावट दोनों की बेदाग, हाइपर-रियलिस्टिक फिनिश को उभारती है। Hasselblad H6D-100c और Kodak Portra 160 फिल्म स्टॉक पर शूट किया गया, जो असली माइक्रो-डिटेल, त्वचा के रोमछिद्र, बिखरे बाल और हवा में तैरती संगमरमर की सूक्ष्म धूल को कैप्चर करता है। बिल्कुल कोई नियॉन नहीं, कोई CGI लुक नहीं; शुद्ध एनालॉग फोटोग्राफिक टेक्सचर।",
-  "meta": {
-    "intent": "Surreal Avant-Garde Editorial",
-    "priorities": "Foreground occlusion, heavy telephoto compression, skin and marble के बीच textural contrast",
-    "device_profile": "Medium Format Analog"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Voyeuristic framing जो foreground elements से काफी हद तक छिपी हुई है",
-    "layout": "Subject को tight frame में रखा गया है और आसपास की dense objects ने उसे घेर लिया है",
-    "camera_angle": "एक दूर, छिपे हुए vantage point से eye-level",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist",
-    "demographics": "Ageless, ethereal लेकिन grounded",
-    "face": "Neutral, भावशून्य, भारी और ढीली पलकें, और sharp graphic eyeliner",
-    "hair": "Sleek, बीच से tight parting",
-    "body": "Relaxed, सुस्त लेकिन chic posture",
-    "expression": "Extreme nonchalance, 'too cool for the room' वाली apathy",
-    "pose": "ढीले कंधे, एक marble statue से effortless तरीके से टिकी हुई"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Turtleneck sweater",
-        "material": "Fine merino wool",
-        "color": "Stark matte black",
-        "fit": "Form-fitting लेकिन relaxed"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Graphic winged eyeliner",
-        "color": "Vantablack",
-        "material": "Matte makeup pigment",
-        "brand_style": "High-fashion editorial"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Classical white marble busts का एक infinitely dense, surreal archive",
-    "surfaces": "ठंडा, smooth लेकिन porous white marble, subtle dust"
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2114025226602221622)
-- **प्रकाशित:** 24 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36877)**
-
----
-
-### No. 96: ई-कॉमर्स मुख्य इमेज - स्ट्रीट रेसर लड़की का अनपेंट रेज़िन गैराज किट
+### No. 95: ई-कॉमर्स मुख्य इमेज - स्ट्रीट रेसर लड़की का अनपेंट रेज़िन गैराज किट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5409,7 +5301,7 @@ GPT Image 2.5 और Nano Banana 2.1 द्वारा बनाए गए म�
 
 ---
 
-### No. 97: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
+### No. 96: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5444,7 +5336,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 98: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro एडिट ट्यूटोरियल
+### No. 97: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro एडिट ट्यूटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5477,7 +5369,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 99: ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
+### No. 98: ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5522,7 +5414,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 100: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro स्टूडियो पोर्ट्रेट प्रॉम्प्ट
+### No. 99: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro स्टूडियो पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5568,7 +5460,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 101: ई-कॉमर्स मुख्य इमेज - संपादकीय पुरुष फैशन शूट
+### No. 100: ई-कॉमर्स मुख्य इमेज - संपादकीय पुरुष फैशन शूट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5620,7 +5512,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 102: ई-कॉमर्स मुख्य इमेज - लक्जरी प्रोडक्ट स्टिल लाइफ कैंपेन
+### No. 101: ई-कॉमर्स मुख्य इमेज - लक्जरी प्रोडक्ट स्टिल लाइफ कैंपेन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5668,7 +5560,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 103: ई-कॉमर्स मुख्य इमेज - टाइट रेड कैप फैशन क्लोज-अप
+### No. 102: ई-कॉमर्स मुख्य इमेज - टाइट रेड कैप फैशन क्लोज-अप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5702,7 +5594,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 104: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट आर्किटेक्चरल फैशन पोर्ट्रेट
+### No. 103: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट आर्किटेक्चरल फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5748,7 +5640,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 105: ई-कॉमर्स मुख्य इमेज - रस्ट सिल्क ड्रेस पिकनिक एडिटोरियल
+### No. 104: ई-कॉमर्स मुख्य इमेज - रस्ट सिल्क ड्रेस पिकनिक एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5782,7 +5674,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 106: ई-कॉमर्स मुख्य इमेज - मैक्रो गिटार फ्रेट ड्रेसिंग
+### No. 105: ई-कॉमर्स मुख्य इमेज - मैक्रो गिटार फ्रेट ड्रेसिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5816,7 +5708,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 107: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन फोटोग्राफी
+### No. 106: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5856,7 +5748,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 108: ई-कॉमर्स मुख्य इमेज - एलिगेंट ब्लैक ऑर्गेन्ज़ा रिबन
+### No. 107: ई-कॉमर्स मुख्य इमेज - एलिगेंट ब्लैक ऑर्गेन्ज़ा रिबन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5896,7 +5788,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 109: ई-कॉमर्स मुख्य इमेज - लक्ज़री चॉकलेट विज्ञापन स्टिल लाइफ
+### No. 108: ई-कॉमर्स मुख्य इमेज - लक्ज़री चॉकलेट विज्ञापन स्टिल लाइफ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5948,7 +5840,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 110: ई-कॉमर्स मुख्य इमेज - अतिवास्तविक ब्यूटी प्रोडक्ट हेयर रोलर
+### No. 109: ई-कॉमर्स मुख्य इमेज - अतिवास्तविक ब्यूटी प्रोडक्ट हेयर रोलर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5982,7 +5874,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 111: ई-कॉमर्स मुख्य इमेज - Raspberry Shell प्रोडक्ट फोटोग्राफी
+### No. 110: ई-कॉमर्स मुख्य इमेज - Raspberry Shell प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6034,7 +5926,7 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 112: ई-कॉमर्स मुख्य इमेज - मकड़ी के जाले के साथ सिनेमैटिक प्रोडक्ट विज्ञापन
+### No. 111: ई-कॉमर्स मुख्य इमेज - मकड़ी के जाले के साथ सिनेमैटिक प्रोडक्ट विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6074,7 +5966,7 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 113: ई-कॉमर्स मुख्य इमेज - बर्फ के टुकड़े में उत्पाद, मिनिमलिस्टिक
+### No. 112: ई-कॉमर्स मुख्य इमेज - बर्फ के टुकड़े में उत्पाद, मिनिमलिस्टिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6108,7 +6000,7 @@ Grok Imagine 2.0 और Nano Banana 2 की तुलना करने के
 
 ---
 
-### No. 114: गेम एसेट - वॉक्सेल गेम आर्ट मॉडल तुलना
+### No. 113: गेम एसेट - वॉक्सेल गेम आर्ट मॉडल तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6141,7 +6033,7 @@ GPT Image, Nano Banana और Grok द्वारा HUD तत्वों क
 
 ---
 
-### No. 115: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
+### No. 114: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6174,7 +6066,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 116: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
+### No. 115: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6207,7 +6099,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 117: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
+### No. 116: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6240,7 +6132,7 @@ Nano Banana Pro का उपयोग करके एक विचित्र
 
 ---
 
-### No. 118: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
+### No. 117: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6382,7 +6274,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 119: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
+### No. 118: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6433,7 +6325,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 120: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
+### No. 119: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6492,13 +6384,65 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
+### No. 120: गेम एसेट - Artifact Diorama SQL जनरेशन
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+नक्काशीदार पत्थर और एंटीक गोल्ड टेक्सचर के साथ जटिल आर्किटेक्चरल डायोरामा बनाने के लिए एक अनोखा SQL-स्टाइल जनरेशन प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
+- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
+- **प्रकाशित:** 4 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33471)**
+
+---
+
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 15727 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15728 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6561,6 +6505,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-08T04:01:54.594Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-08T08:02:04.968Z</sub>
 
 </div>
