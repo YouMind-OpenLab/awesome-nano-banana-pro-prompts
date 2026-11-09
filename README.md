@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15848** |
+| 📝 Total Prompts | **15846** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, November 9, 2026 at 4:01:46 AM UTC** |
+| 🔄 Last Updated | **Monday, November 9, 2026 at 8:03:27 AM UTC** |
 
 </div>
 
@@ -1661,7 +1661,56 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social Media Post - Editorial Archery Fashion Photography Prompt
+### No. 21: Social Media Post - QT Outfit Try-On Comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Comparison of outfit try-ons across Grok, Seedream, and Nano Pro (Nano Banana Pro), with a shared photorealistic cinematic fashion editorial prompt.
+
+#### 📝 Prompt
+
+```
+Photorealistic cinematic fashion editorial portrait of a young woman [Face Reference] seated on a glossy dark studio floor, body angled in three-quarter view, torso slightly turned toward the camera, one arm extended behind her with her hand planted on the floor supporting her weight, other arm relaxed, shoulders softly tilted, legs relaxed and gracefully crossed to one side. Head tilted slightly, chin lowered, calm confident gaze directly into the lens with a soft, composed expression.
+
+Wearing the outfit from the reference image. [Outfit Reference]
+
+Camera at a slightly low angle, three-quarter body framing from head to mid-thigh, vertical composition. Moody dark navy-blue seamless studio backdrop with deep midnight-blue gradient, volumetric blue haze, cool cobalt and cyan rim lighting tracing her shoulders, arms and hair, soft blue key light with gentle fill, subtle reflections on the polished floor, a few delicate scattered blue petals and scatter of blue crystals of different sizes and tone of blue as minimal props, faint bokeh of blue light orbs in the background. Natural skin texture with visible pores and soft sheen, realistic fabric texture, shallow depth of field, cinematic teal-blue color grading with a subtle warm skin tone contrast, high-end editorial retouching with texture preserved. Shot on Sony A7R V, 85mm f/1.4, ultra-detailed, 8k, RAW photo.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468966_w89dsv_HWpdibVakAEKncp.jpg" width="600" alt="Social Media Post - QT Outfit Try-On Comparison - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468441_patgbf_HWpdvlLb0AAQYCm.jpg" width="600" alt="Social Media Post - QT Outfit Try-On Comparison - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207469095_mhmuq4_HWpd8TwaEAAIbFq.jpg" width="600" alt="Social Media Post - QT Outfit Try-On Comparison - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Source:** [Twitter Post](https://x.com/LoveAiko2003/status/2119611294345236615)
+- **Published:** November 9, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37428)**
+
+---
+
+### No. 22: Social Media Post - Editorial Archery Fashion Photography Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1694,7 +1743,7 @@ Editorial fashion photography, a close-up three-quarter profile of a young woman
 
 ---
 
-### No. 22: Social Media Post - Madrid Golden Hour Fashion Editorial
+### No. 23: Social Media Post - Madrid Golden Hour Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1745,7 +1794,7 @@ Theme: Madrid golden hour high-fashion editorial. Subject: 22-year-old Asian fem
 
 ---
 
-### No. 23: Social Media Post - Frieren Anime Style Comparison Prompt
+### No. 24: Social Media Post - Frieren Anime Style Comparison Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1796,7 +1845,7 @@ Frieren from Frieren: Beyond Journey's End sitting at the window counter of a mo
 
 ---
 
-### No. 24: Social Media Post - Crystal Droplet Galaxy Macro Prompt
+### No. 25: Social Media Post - Crystal Droplet Galaxy Macro Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1884,7 @@ Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro p
 
 ---
 
-### No. 25: Social Media Post - Dragged-Shutter Flash Night Fashion
+### No. 26: Social Media Post - Dragged-Shutter Flash Night Fashion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1868,7 +1917,7 @@ Night street fashion editorial: a model in an oversized red trench coat mid-stri
 
 ---
 
-### No. 26: Social Media Post - Abstract Watercolor Fox Illustration
+### No. 27: Social Media Post - Abstract Watercolor Fox Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1913,7 +1962,7 @@ Abstract watercolor wash of a red fox curled up asleep, loose oversized brushstr
 
 ---
 
-### No. 27: Social Media Post - Polite Brit Queue Image Comparison
+### No. 28: Social Media Post - Polite Brit Queue Image Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1958,7 +2007,7 @@ A polite British gentleman in a bowler hat, charcoal pinstripe suit and rolled u
 
 ---
 
-### No. 28: Social Media Post - High-Fashion Editorial Prompt
+### No. 29: Social Media Post - High-Fashion Editorial Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1991,7 +2040,7 @@ Create a vertical high-fashion editorial at an outdoor formal dining table besid
 
 ---
 
-### No. 29: Social Media Post - Bohemian Living Room Portrait
+### No. 30: Social Media Post - Bohemian Living Room Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2024,7 +2073,7 @@ Create a photorealistic portrait of an adult woman standing in a cozy, sunlit bo
 
 ---
 
-### No. 30: Social Media Post - Cinematic Contact Sheet Prompt
+### No. 31: Social Media Post - Cinematic Contact Sheet Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2066,39 +2115,6 @@ Panel 4, bottom right — “Sunset Walk Home”: the subject walks back along a
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37158)**
-
----
-
-### No. 31: Social Media Post - Boxing Gym Bridal Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A highly detailed prompt for generating a photorealistic editorial image of a bride wrapping her hands inside a boxing ring, focusing on fabric texture, lighting, and realistic anatomy.
-
-#### 📝 Prompt
-
-```
-Create a vertical high-fashion editorial inside a real, slightly worn boxing gym, centered on an adult woman seated low inside the ring while dressed in an ivory bridal gown and methodically wrapping her hands. Frame from approximately mid-skirt to above the head, close enough that the woman dominates but wide enough to retain the surrounding ring ropes, dark gym interior, a hanging heavy bag, and one large industrial window glowing softly at camera-left. Keep the gym functional and imperfect rather than luxurious: worn flooring, matte ropes, subdued equipment, deep brown-black corners, no audience and no theatrical arena lighting. Seat her directly on the ring floor with one knee raised high toward the torso and the opposite leg folded lower beneath the spreading gown. Let the skirt pool broadly across the floor in heavy irregular satin folds rather than forming a clean bridal silhouette. Keep the torso upright but slightly angled, shoulders relaxed and uneven, with one forearm resting loosely against the raised knee. Make the hand-wrapping action physically clear. Both hands are partially wrapped in long white cotton boxing tape, with one unfinished roll resting near the lower foreground and a loose strip running upward into her hands. Let one hand pull tension into the wrap while the opposite wrist is being bound. Keep the fingers functional rather than posed. Preserve a diamond engagement ring clearly visible on one wrapped hand, small in scale but readable when the light catches it. Dress her in an ivory satin bridal gown with a sharply structured strapless corset bodice, subtle vertical boning, a softly sculpted sweetheart neckline and a very full skirt constructed from substantial silk-satin. Avoid lace, veil, floral appliqué or princess-like ornament. The dress should feel expensive because of cut, material weight and construction rather than decoration. Keep the hand wraps matte, fibrous and slightly creased, contrasting strongly with the satin sheen. Let the gown crease, bunch and flatten where it contacts the floor and bent legs rather than floating perfectly around her. Style the hair in a loose, imperfect dark updo with damp strands escaping across the forehead, cheek and neck as if she has already been physically active. Keep the skin lightly flushed and naturally luminous, with slight perspiration along the temples, collarbones and upper chest. Beauty should remain restrained: defined eyes, natural brows, muted lips, no bridal-glam perfection. Turn the head distinctly toward one side of the ring rather than toward camera. Keep the gaze focused somewhere beyond the frame, lips softly parted, expression calm, serious and mentally occupied. She should feel present inside the preparation rather than performing the concept for the viewer. Use directional natural window light from camera-left as the dominant source, with only weak ambient bounce from the surroundings.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514063475_n1czr6_HV23Ub5bIAAV391.jpg" width="600" alt="Social Media Post - Boxing Gym Bridal Editorial - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **Source:** [Twitter Post](https://x.com/dreamydigiarts/status/2116553285490315466)
-- **Published:** October 31, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37159)**
 
 ---
 
@@ -4554,7 +4570,46 @@ A structured JSON prompt for generating a photorealistic 3x3 cinematic collage o
 
 ---
 
-### No. 84: Product Marketing - Nano Banana vs GPT Image Luxury Poster Comparison
+### No. 84: Product Marketing - Coffee Bag Product Shot Comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A side-by-side comparison of GPT Image 2.6 and Nano Banana 2.1 generating a premium coffee bag product shot, with the shared prompt provided.
+
+#### 📝 Prompt
+
+```
+Premium coffee bag on a warm stone counter, soft morning window light, clean empty space top-left for a headline.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468914_s6iqvy_HWmJh2nbcAA9lZC.jpg" width="600" alt="Product Marketing - Coffee Bag Product Shot Comparison - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468998_kvo9tc_HWmJjO4bIAAzb5z.jpg" width="600" alt="Product Marketing - Coffee Bag Product Shot Comparison - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Ashok | AI Design](https://x.com/Ashok_ai1)
+- **Source:** [Twitter Post](https://x.com/Ashok_ai1/status/2119376361412526391)
+- **Published:** November 8, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37427)**
+
+---
+
+### No. 85: Product Marketing - Nano Banana vs GPT Image Luxury Poster Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4607,7 +4662,7 @@ Aspect ratio: 3:4.
 
 ---
 
-### No. 85: Product Marketing - Fiber-Optic Surrealism Portrait Prompt
+### No. 86: Product Marketing - Fiber-Optic Surrealism Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4744,7 +4799,40 @@ A highly detailed JSON-formatted prompt for generating a hyper-realistic extreme
 
 ---
 
-### No. 86: Product Marketing - Transparent Materials Still Life Comparison
+### No. 87: Product Marketing - Boxing Gym Bridal Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A highly detailed prompt for generating a photorealistic editorial image of a bride wrapping her hands inside a boxing ring, focusing on fabric texture, lighting, and realistic anatomy.
+
+#### 📝 Prompt
+
+```
+Create a vertical high-fashion editorial inside a real, slightly worn boxing gym, centered on an adult woman seated low inside the ring while dressed in an ivory bridal gown and methodically wrapping her hands. Frame from approximately mid-skirt to above the head, close enough that the woman dominates but wide enough to retain the surrounding ring ropes, dark gym interior, a hanging heavy bag, and one large industrial window glowing softly at camera-left. Keep the gym functional and imperfect rather than luxurious: worn flooring, matte ropes, subdued equipment, deep brown-black corners, no audience and no theatrical arena lighting. Seat her directly on the ring floor with one knee raised high toward the torso and the opposite leg folded lower beneath the spreading gown. Let the skirt pool broadly across the floor in heavy irregular satin folds rather than forming a clean bridal silhouette. Keep the torso upright but slightly angled, shoulders relaxed and uneven, with one forearm resting loosely against the raised knee. Make the hand-wrapping action physically clear. Both hands are partially wrapped in long white cotton boxing tape, with one unfinished roll resting near the lower foreground and a loose strip running upward into her hands. Let one hand pull tension into the wrap while the opposite wrist is being bound. Keep the fingers functional rather than posed. Preserve a diamond engagement ring clearly visible on one wrapped hand, small in scale but readable when the light catches it. Dress her in an ivory satin bridal gown with a sharply structured strapless corset bodice, subtle vertical boning, a softly sculpted sweetheart neckline and a very full skirt constructed from substantial silk-satin. Avoid lace, veil, floral appliqué or princess-like ornament. The dress should feel expensive because of cut, material weight and construction rather than decoration. Keep the hand wraps matte, fibrous and slightly creased, contrasting strongly with the satin sheen. Let the gown crease, bunch and flatten where it contacts the floor and bent legs rather than floating perfectly around her. Style the hair in a loose, imperfect dark updo with damp strands escaping across the forehead, cheek and neck as if she has already been physically active. Keep the skin lightly flushed and naturally luminous, with slight perspiration along the temples, collarbones and upper chest. Beauty should remain restrained: defined eyes, natural brows, muted lips, no bridal-glam perfection. Turn the head distinctly toward one side of the ring rather than toward camera. Keep the gaze focused somewhere beyond the frame, lips softly parted, expression calm, serious and mentally occupied. She should feel present inside the preparation rather than performing the concept for the viewer. Use directional natural window light from camera-left as the dominant source, with only weak ambient bounce from the surroundings.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793514063475_n1czr6_HV23Ub5bIAAV391.jpg" width="600" alt="Product Marketing - Boxing Gym Bridal Editorial - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Source:** [Twitter Post](https://x.com/dreamydigiarts/status/2116553285490315466)
+- **Published:** October 31, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37159)**
+
+---
+
+### No. 88: Product Marketing - Transparent Materials Still Life Comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4789,7 +4877,7 @@ Still life test of transparent materials under afternoon sunlight: On a wooden t
 
 ---
 
-### No. 87: Product Marketing - Beach Portrait with Rose
+### No. 89: Product Marketing - Beach Portrait with Rose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4822,7 +4910,7 @@ A young woman stands on a pebbly beach with the ocean and distant shoreline in t
 
 ---
 
-### No. 88: Product Marketing - Surreal Editorial Portrait with Chrome Whales and Roses
+### No. 90: Product Marketing - Surreal Editorial Portrait with Chrome Whales and Roses
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4923,7 +5011,7 @@ A complex JSON-structured prompt for generating a symmetrical, surreal editorial
 
 ---
 
-### No. 89: Product Marketing - Steampunk Airship Cinematic Prompt
+### No. 91: Product Marketing - Steampunk Airship Cinematic Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4968,7 +5056,7 @@ Cinematic realistic photography, a steampunk airship above a sea of clouds at du
 
 ---
 
-### No. 90: Product Marketing - Fire-Breather Performance Photo
+### No. 92: Product Marketing - Fire-Breather Performance Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5017,7 +5105,7 @@ Keep several indistinct adult spectators visible behind her as soft, dark human 
 
 ---
 
-### No. 91: Product Marketing - Hellenistic Medusa Editorial Prompt
+### No. 93: Product Marketing - Hellenistic Medusa Editorial Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5069,7 +5157,7 @@ Hyper-photorealistic digital photography with a cinematic editorial grade. Featu
 
 ---
 
-### No. 92: Product Marketing - Emma Watson Avant-Garde Portrait
+### No. 94: Product Marketing - Emma Watson Avant-Garde Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5167,107 +5255,6 @@ A complex JSON prompt for Nano Banana Pro generating an avant-garde portrait of 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36910)**
-
----
-
-### No. 93: Product Marketing - Clean-Girl Editorial Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A prompt for generating a high-fashion editorial portrait of a woman in a Soho penthouse, featuring dewy skin textures, vintage denim, and golden hour lighting.
-
-#### 📝 Prompt
-
-```
-Theme:
-A vertical three-panel fashion narrative depicting high-society relaxation in a minimalist Soho penthouse.
-
-Subject:
-{argument name="name" default="Elena"}, a {argument name="age" default="21"}-year-old Caucasian woman with a lean, athletic build. She appears in a sequence of three frames: a wide architectural view, a direct eye-level portrait, and a tactile close-up of her hand resting on her hip.
-
-Person · Expression:
-Heart-shaped face with a clean-girl aesthetic, featuring feathered brows and high-gloss lips. Her gaze is enigmatic and half-lidded, with detailed irises reflecting the Manhattan skyline. Her honey-blonde hair is styled in tousled, "just-woke-up" waves that catch the golden hour backlight. Skin is dewy and luminous with realistic micro-textures, including visible pores and soft downy hair.
-
-Clothing · Pose:
-She wears an onyx black Chantilly lace couture bodysuit with intricate floral motifs, contrasted against oversized, heavily washed vintage indigo denim worn loosely at the hips. Her wrist, adorned with stacked gold Cartier Love bracelets and a Juste un Clou ring, rests against the rugged denim to showcase the interplay between fine jewelry and fabric.
-
-Background · Light:
-An ultra-exclusive Soho penthouse with floor-to-ceiling windows and minimalist decor, including a white high-pile carpet and a soft cotton duvet. The scene is illuminated by warm, directional golden hour sunlight creating sharp, geometric shadows and ray-traced highlights on skin and gold accessories.
-
-Composition · Camera:
-A vertical 3-panel collage. The top panel uses a wide-angle perspective for the setting; the middle panel is a shallow-depth-of-field portrait; the bottom panel is a macro-focused shot of textures. Captured with a Phase One XF IQ4 and an 80mm Schneider Kreuznach lens.
-
-Texture · Style:
-Hyper-realistic high-fashion editorial style. Tactile rendering of delicate lace, heavy denim, and polished gold. The image features a high-contrast S-curve color grade, subtle film grain, and a soft bloom on the highlight edges of the lace.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792996786503_qocr1i_HVeYWHIW4AAF5oq.jpg" width="600" alt="Product Marketing - Clean-Girl Editorial Fashion Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Source:** [Twitter Post](https://x.com/iamdomprompt/status/2114326114634002630)
-- **Published:** October 25, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36907)**
-
----
-
-### No. 94: Product Marketing - Athleisure Fashion Poster Comparison
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A side-by-side comparison of GPT Image 2.5 and Nano Banana 2.1 generating a multi-panel athleisure fashion poster with consistent character identity and outfit details.
-
-#### 📝 Prompt
-
-```
-A full-bleed vertical athleisure fashion poster for the original overseas brand "{argument name="brand" default="KUMORA ACTIVE"}", designed as a premium 2x2 studio contact-sheet for the hero product "{argument name="product" default="STUDIO MOTION SET"}". Show the same adult female model, clearly over 20, in all four panels against a pure white seamless studio background with narrow white spacing between panels.
-
-Panel layout: upper-left chest-up portrait; upper-right full-body motion pose; lower-left crouched floor pose; lower-right dynamic cropped jacket-lift pose. The four frames must feel like one continuous studio session. The model wears the same cohesive black-and-white set in every panel: black halter sport bra with white elastic band reading "{argument name="brand" default="KUMORA ACTIVE"}", wide black track pants with twin white side stripes, oversized cropped black shell jacket with subtle mesh panels and small white label, black curved-brim cap with tiny white K mark, and silver on-ear sport headset with circular earcups. Outfit, cap, headset, and identity stay fully consistent; only pose and jacket position change.
-
-Expressions are calm, focused, and editorial: side glance in portrait, active standing pose, quiet direct crouch, wind-swept profile in the jacket-lift crop. Keep the headset visible in every frame. Use soft high-key studio lighting from the front upper left with gentle fill and subtle contact shadows only where needed. White background is the dominant field; black garments form the graphic structure; white trims and stripes create rhythm; the silver headset is the product highlight. Preserve detail in black fabrics: matte stretch bra, ribbed elastic band, white piping, nylon jacket sheen, mesh texture, cap stitching, woven label, and clean metal earcups.
-
-Exact visible text only: small "{argument name="brand" default="KUMORA ACTIVE"}" near the top of each panel, and bold bottom-center title "{argument name="product" default="STUDIO MOTION SET"}" in black uppercase sans serif. No extra copy.
-
-Negative constraints: no extra models, no identity drift, no mismatched outfit pieces, no missing headset, no broken hands or limbs, no chaotic panel geometry, no crushed black fabric, no plastic skin, no dirty floor, no harsh shadows, no real logos, no misspelled text, no typography over face or headset, no gym or street background, no props, no collage artifacts, no painterly drift.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737384_jwrdo7_HVaSrVuaQAEoi0l.jpg" width="600" alt="Product Marketing - Athleisure Fashion Poster Comparison - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909739166_rp3pu6_HVaSrV0bUAAECq3.jpg" width="600" alt="Product Marketing - Athleisure Fashion Poster Comparison - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Loriel.AI](https://x.com/ou_zhen599)
-- **Source:** [Twitter Post](https://x.com/ou_zhen599/status/2114038400735191523)
-- **Published:** October 24, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36879)**
 
 ---
 
@@ -5970,41 +5957,7 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 
 ---
 
-### No. 112: E-commerce Main Image - Product in Ice Cube Minimalist
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Banana 2.
-
-#### 📝 Prompt
-
-```
-{argument name="product" default="iPhone 18 Pro"} inside ice cube, white background
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257225958_njgnpk_HPLRmraa8AAW99W.png" width="600" alt="E-commerce Main Image - Product in Ice Cube Minimalist - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Tim Jayas](https://x.com/TimJayas)
-- **Source:** [Twitter Post](https://x.com/TimJayas/status/2085962225886679161)
-- **Published:** August 8, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=30800)**
-
----
-
-### No. 113: Game Asset - Voxel Game Art Model Comparison
+### No. 112: Game Asset - Voxel Game Art Model Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6037,7 +5990,7 @@ Isometric 3D pixel-art voxel game screenshot of a tiny floating island city at d
 
 ---
 
-### No. 114: Game Asset - Rogue One Style Film Still Prompt
+### No. 113: Game Asset - Rogue One Style Film Still Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6070,7 +6023,7 @@ Photorealistic Rogue One/Andor film still. Exact ref face: same structure, skin 
 
 ---
 
-### No. 115: Game Asset - Rainforest Wildlife Observation Station Miniature World
+### No. 114: Game Asset - Rainforest Wildlife Observation Station Miniature World
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6103,7 +6056,7 @@ Whimsical miniature world depiction of a rainforest basin wildlife observation s
 
 ---
 
-### No. 116: Game Asset - Cute Felt Frog Scene
+### No. 115: Game Asset - Cute Felt Frog Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6136,7 +6089,7 @@ A cute, 3D and felt-like scene of a cartoon-style frog sitting on a large lily p
 
 ---
 
-### No. 117: Game Asset - Mechanical Melancholy Macro Portrait Prompt
+### No. 116: Game Asset - Mechanical Melancholy Macro Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6278,7 +6231,7 @@ A complex JSON-formatted prompt for Nano Banana Pro to generate an extreme close
 
 ---
 
-### No. 118: Game Asset - Chibi RPG Game Campaign Key Visual
+### No. 117: Game Asset - Chibi RPG Game Campaign Key Visual
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6329,7 +6282,7 @@ Designed for mobile RPG event announcements, this prompt creates cheerful fantas
 
 ---
 
-### No. 119: Game Asset - Expressive Painterly Realistic Hybrid Portrait
+### No. 118: Game Asset - Expressive Painterly Realistic Hybrid Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6388,7 +6341,7 @@ Aspect ratio: 9:16 vertical.
 
 ---
 
-### No. 120: Game Asset - Artifact Diorama SQL Generation
+### No. 119: Game Asset - Artifact Diorama SQL Generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6440,13 +6393,71 @@ A unique SQL-style generation prompt for creating intricate architectural dioram
 
 ---
 
+### No. 120: Game Asset - Woodpunk Kinetic Sculpture Automaton
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A complex prompt system that transforms any subject into a mechanical wooden kinetic sculpture with clockwork details.
+
+#### 📝 Prompt
+
+```
+1. The Semantic Inference Engine (Dynamic Material Mapping):  
+Input A is ANY Topic (Object, Animal, Plant, or Concept).
+Analyze the subject's inherent properties and map them to Artisanal Materials:
+The Primary Body (The Chassis): Infer the subject's main color/weight and assign a corresponding Hardwood. 
+The Accents (The Inlay): Infer the subject's patterns or details and assign a contrasting Marquetry Material. 
+The Mechanics (The Skeleton): Infer the subject's joints or power source and assign Metal Hardware.
+2. The "Immutable" Container (The Automaton):
+Goal: A "Da Vinci Workshop" Product Shot.
+The Object: The subject is rendered as a complex, freestanding Wooden Mechanical Toy.
+The Base: The model stands on a hand-carved wooden block representing its semantic environment.
+The Scale: Macro photography of a tabletop object (approx. 12 inches tall).
+3. The Clockwork Interior (The Transformation):
+The Cutaway: A section of the outer "wood shell" is visually removed or hinged open.
+The Guts: Inside, the biological or mechanical inner workings are replaced by Clockwork Mechanics.
+Rule: Visible gears, bicycle chains, watch springs, and brass flywheels must imply the object moves via wind-up power.
+The Fasteners: Tiny brass screws, rivets, and hinges are visible along the seams of the wood.
+4. The Narrative Figure (The Operator):
+The Character: A standard Jointed Wooden Mannequin (Artist's Doll style) is integrated into the scene.
+The Role: The figure acts as the maintainer, rider, or operator of the subject.
+Interaction: They are climbing a ladder to polish the object, turning a giant wind-up key, or steering the beast/machine.
+The Accessories: The doll wears carved wooden gear appropriate to the context.
+5. Lighting & Atmosphere:
+Lighting: Softbox Studio Lighting. Diffused, high-end commercial lighting that creates long, elegant highlights on the varnished curves.
+Background: Neutral Studio Grey. Seamless infinity backdrop to focus entirely on the material textures.
+Texture: High Gloss Varnish. The wood must look expensive, smooth, and deeply saturated.
+Output: ONE image, 1:1 Aspect Ratio, Product Photography, "Woodpunk" aesthetic, 8k Resolution.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg" width="600" alt="Game Asset - Woodpunk Kinetic Sculpture Automaton - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Gadgetify](https://x.com/Gdgtify)
+- **Source:** [Twitter Post](https://x.com/Gdgtify/status/2095854642882019392)
+- **Published:** September 4, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33483)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 15728 more prompts not shown here
+### 🎯 15726 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6509,6 +6520,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-09T04:01:46.985Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-09T08:03:27.308Z</sub>
 
 </div>

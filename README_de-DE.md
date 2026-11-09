@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15848** |
+| 📝 Gesamtanzahl Prompts | **15846** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Montag, 9. November 2026 um 04:03:16 UTC** |
+| 🔄 Zuletzt aktualisiert | **Montag, 9. November 2026 um 08:04:30 UTC** |
 
 </div>
 
@@ -1661,7 +1661,56 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social-Media-Beitrag - Editorial-Bogenmode-Fotografie-Prompt
+### No. 21: Social-Media-Beitrag - QT Outfit Try-On Vergleich
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Vergleich der Outfit-Try-Ons mit Grok, Seedream und Nano Pro (Nano Banana Pro), basierend auf einem gemeinsamen fotorealistischen, kinematografischen Mode-Editorial-Prompt.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches, cineastisches Fashion-Editorial-Porträt einer jungen Frau [Face Reference], die auf einem glänzenden dunklen Studioboden sitzt. Der Körper im Dreiviertelprofil gedreht, der Oberkörper leicht zur Kamera gewandt, ein Arm nach hinten ausgestreckt, wobei die Hand flach auf dem Boden aufliegt und das Gewicht stützt, der andere Arm entspannt, die Schultern sanft geneigt, die Beine locker und anmutig zu einer Seite überschlagen. Der Kopf leicht schräg gehalten, das Kinn gesenkt, ruhiger, selbstbewusster Blick direkt in die Linse mit einem weichen, gefassten Ausdruck.
+
+Sie trägt das Outfit aus dem Referenzbild. [Outfit Reference]
+
+Kamera in leichter Froschperspektive, Dreiviertel-Körperausschnitt vom Kopf bis zur Oberschenkelmitte, vertikale Komposition. Stimmungsvoller, nahtloser Studiohintergrund in dunklem Marineblau mit tiefem Mitternachtsblau-Verlauf, volumetrischer blauer Dunst, kühles Kobalt- und Cyan-Kantenlicht, das ihre Schultern, Arme und Haare nachzeichnet, weiches blaues Führungslicht mit sanfter Aufhellung, dezente Reflexionen auf dem polierten Boden. Als minimalistische Requisiten einige zarte, verstreute blaue Blütenblätter sowie blaue Kristalle in unterschiedlichen Größen und Blautönen, im Hintergrund ein feines Bokeh aus blauen Lichtkugeln. Natürliche Hauttextur mit sichtbaren Poren und weichem Schimmer, realistische Stoffstruktur, geringe Schärfentiefe, cineastisches Teal-and-Blue-Color-Grading mit subtil warmem Hauttonkontrast, hochwertiges Editorial-Retusche bei erhaltener Textur. Aufgenommen mit Sony A7R V, 85mm f/1.4, ultra-detailliert, 8k, RAW-Foto.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468966_w89dsv_HWpdibVakAEKncp.jpg" width="600" alt="Social-Media-Beitrag - QT Outfit Try-On Vergleich - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468441_patgbf_HWpdvlLb0AAQYCm.jpg" width="600" alt="Social-Media-Beitrag - QT Outfit Try-On Vergleich - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207469095_mhmuq4_HWpd8TwaEAAIbFq.jpg" width="600" alt="Social-Media-Beitrag - QT Outfit Try-On Vergleich - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Quelle:** [Twitter Post](https://x.com/LoveAiko2003/status/2119611294345236615)
+- **Veröffentlicht:** 9. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37428)**
+
+---
+
+### No. 22: Social-Media-Beitrag - Editorial-Bogenmode-Fotografie-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1694,7 +1743,7 @@ Editorial-Fashion-Fotografie, eine Nahaufnahme im Dreiviertelprofil einer jungen
 
 ---
 
-### No. 22: Social-Media-Beitrag - Madrid Goldene Stunde Fashion Editorial
+### No. 23: Social-Media-Beitrag - Madrid Goldene Stunde Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1745,7 +1794,7 @@ Thema: High-Fashion-Editorial zur Goldenen Stunde in Madrid. Motiv: 22-jährige 
 
 ---
 
-### No. 23: Social-Media-Beitrag - Frieren Anime-Stil Vergleichs-Prompt
+### No. 24: Social-Media-Beitrag - Frieren Anime-Stil Vergleichs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1796,7 +1845,7 @@ Frieren aus Frieren: Beyond Journey's End sitzt nachts an der Fenstertheke eines
 
 ---
 
-### No. 24: Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt
+### No. 25: Social-Media-Beitrag - Makro-Galaxie-Wassertropfen-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1884,7 @@ Kristallklarer Wassertropfen, der in der Luft schwebt oder an einem Blatt hängt
 
 ---
 
-### No. 25: Social-Media-Beitrag - Nachtliche Modefotografie mit Langzeitblitz
+### No. 26: Social-Media-Beitrag - Nachtliche Modefotografie mit Langzeitblitz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1868,7 +1917,7 @@ Street-Fashion-Editorial bei Nacht: Ein Model in einem übergroßen roten Trench
 
 ---
 
-### No. 26: Social-Media-Beitrag - Abstrakte Aquarell-Illustration eines Fuchses
+### No. 27: Social-Media-Beitrag - Abstrakte Aquarell-Illustration eines Fuchses
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1913,7 +1962,7 @@ Abstraktes Aquarell eines zusammengerollt schlafenden Rotfuchses, lockere, über
 
 ---
 
-### No. 27: Social-Media-Beitrag - Höflicher Brite: Bildvergleich zur Warteschlange
+### No. 28: Social-Media-Beitrag - Höflicher Brite: Bildvergleich zur Warteschlange
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1958,7 +2007,7 @@ Ein höflicher britischer Gentleman mit Melone, anthrazitfarbenem Nadelstreifena
 
 ---
 
-### No. 28: Social-Media-Beitrag - High-Fashion-Editorial-Prompt
+### No. 29: Social-Media-Beitrag - High-Fashion-Editorial-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1999,7 +2048,7 @@ Arrangiere die Blumen als dichte Gestecke aus dunkelroten Rosen, Nelken, Ranunke
 
 ---
 
-### No. 29: Social-Media-Beitrag - Bohemian-Wohnzimmer-Porträt
+### No. 30: Social-Media-Beitrag - Bohemian-Wohnzimmer-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2032,7 +2081,7 @@ Erstelle ein fotorealistisches Porträt einer erwachsenen Frau, die in einem gem
 
 ---
 
-### No. 30: Social-Media-Beitrag - Cinematic Contact Sheet Prompt
+### No. 31: Social-Media-Beitrag - Cinematic Contact Sheet Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2074,39 +2123,6 @@ Bildfeld 4, unten rechts – „Abendspaziergang nach Hause“: Das Motiv geht e
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37158)**
-
----
-
-### No. 31: Social-Media-Beitrag - Boxing-Gym-Braut-Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein hochdetaillierter Prompt zur Generierung eines fotorealistischen Editorials einer Braut, die ihre Hände im Boxring einwickelt, mit Fokus auf Stofftextur, Beleuchtung und realistische Anatomie.
-
-#### 📝 Prompt
-
-```
-Erstelle ein vertikales High-Fashion-Editorial in einem echten, leicht abgenutzten Boxgym. Im Mittelpunkt steht eine erwachsene Frau, die tief im Ring sitzt, ein elfenbeinfarbenes Brautkleid trägt und sich methodisch die Hände bandagiert. Der Bildausschnitt reicht etwa von der Mitte des Rocks bis über den Kopf – nah genug, dass die Frau das Bild dominiert, aber weit genug, um die umgebenden Ringseile, das dunkle Innere des Gyms, einen hängenden Sandsack und ein großes Industriefenster zu zeigen, das links neben der Kamera sanft leuchtet. Das Gym soll funktional und unperfekt wirken, nicht luxuriös: abgenutzter Bodenbelag, matte Seile, zurückhaltende Trainingsgeräte, tiefbraun-schwarze Ecken, kein Publikum und keine theatralische Arenabeleuchtung. Sie sitzt direkt auf dem Ringboden, ein Knie hoch zum Oberkörper angezogen, das andere Bein tiefer unter dem ausladenden Kleid gefaltet. Der Rock soll sich in schweren, unregelmäßigen Satinfalten breit auf dem Boden ausbreiten, statt eine makellose Brautsilhouette zu formen. Der Oberkörper ist aufrecht, aber leicht gedreht, die Schultern entspannt und ungleichmäßig, ein Unterarm ruht locker am angewinkelten Knie. Die Handlung des Bandagierens muss körperlich klar erkennbar sein. Beide Hände sind teilweise mit langem, weißem Baumwoll-Boxtape umwickelt; eine noch offene Rolle liegt im unteren Vordergrund, ein loses Band führt nach oben in ihre Hände. Eine Hand spannt die Bandage, während das gegenüberliegende Handgelenk umwickelt wird. Die Finger sollen funktionell wirken, nicht posiert. Ein Diamant-Verlobungsring bleibt an einer bandagierten Hand deutlich sichtbar – klein, aber gut erkennbar, wenn das Licht darauf fällt. Sie trägt ein elfenbeinfarbenes Satin-Brautkleid mit streng strukturiertem, trägerlosem Korsagenoberteil, dezenten senkrechten Formstäbchen, einem weich modellierten Herz-Ausschnitt und einem sehr weiten Rock aus schwerem Seidensatin. Keine Spitze, kein Schleier, keine floralen Applikationen oder prinzessinnenhafte Verzierungen. Das Kleid soll durch Schnitt, Materialgewicht und Verarbeitung teuer wirken, nicht durch Dekoration. Die Handbandagen bleiben matt, faserig und leicht geknittert – ein starker Kontrast zum Satinschimmer. Das Kleid darf dort Falten werfen, sich stauchen und flach aufliegen, wo es den Boden und die angewinkelten Beine berührt, statt perfekt um sie herum zu schweben. Das Haar ist zu einem lockeren, unperfekten dunklen Dutt hochgesteckt, aus dem sich feuchte Strähnen über Stirn, Wange und Hals lösen, als wäre sie bereits körperlich aktiv gewesen. Die Haut wirkt leicht gerötet und natürlich strahlend, mit feinen Schweißperlen an den Schläfen, Schlüsselbeinen und am oberen Brustbereich. Das Make-up bleibt zurückhaltend: definierte Augen, natürliche Brauen, gedeckte Lippen – keine perfekte Braut-Glamour-Inszenierung. Der Kopf ist deutlich zur Seite des Rings gedreht, nicht zur Kamera. Der Blick richtet sich auf einen Punkt außerhalb des Bildes, die Lippen sind leicht geöffnet, der Ausdruck ruhig, ernst und in Gedanken versunken. Sie soll ganz in der Vorbereitung aufgehen, statt das Konzept für den Betrachter zu performen. Gerichtetes, natürliches Fensterlicht von links neben der Kamera dient als Hauptlichtquelle, ergänzt nur durch schwachen Umgebungsreflex aus dem Raum.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793514063475_n1czr6_HV23Ub5bIAAV391.jpg" width="600" alt="Social-Media-Beitrag - Boxing-Gym-Braut-Editorial - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **Quelle:** [Twitter Post](https://x.com/dreamydigiarts/status/2116553285490315466)
-- **Veröffentlicht:** 31. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37159)**
 
 ---
 
@@ -4545,7 +4561,46 @@ Ein strukturierter JSON-Prompt zur Erstellung einer fotorealistischen 3x3-Cinema
 
 ---
 
-### No. 84: Produktmarketing - Nano Banana vs. GPT Image: Vergleich von Luxus-Postern
+### No. 84: Produktmarketing - Vergleich der Produktfotos für Kaffeetüten
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein direkter Vergleich von GPT Image 2.6 und Nano Banana 2.1 bei der Erstellung eines hochwertigen Produktfotos einer Kaffeetüte, inklusive des verwendeten gemeinsamen Prompts.
+
+#### 📝 Prompt
+
+```
+Premium-Kaffeetüte auf einer warmen Steintheke, sanftes Morgenlicht durchs Fenster, sauberer Freiraum oben links für eine Überschrift.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468914_s6iqvy_HWmJh2nbcAA9lZC.jpg" width="600" alt="Produktmarketing - Vergleich der Produktfotos für Kaffeetüten - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794207468998_kvo9tc_HWmJjO4bIAAzb5z.jpg" width="600" alt="Produktmarketing - Vergleich der Produktfotos für Kaffeetüten - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Ashok | AI Design](https://x.com/Ashok_ai1)
+- **Quelle:** [Twitter Post](https://x.com/Ashok_ai1/status/2119376361412526391)
+- **Veröffentlicht:** 8. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37427)**
+
+---
+
+### No. 85: Produktmarketing - Nano Banana vs. GPT Image: Vergleich von Luxus-Postern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4598,7 +4653,7 @@ Seitenverhältnis: 3:4.
 
 ---
 
-### No. 85: Produktmarketing - Glasfaser-Surrealismus-Porträt-Prompt
+### No. 86: Produktmarketing - Glasfaser-Surrealismus-Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4735,7 +4790,40 @@ Ein hochdetaillierter JSON-formatierter Prompt zur Generierung eines hyperrealis
 
 ---
 
-### No. 86: Produktmarketing - Vergleich von Stillleben mit transparenten Materialien
+### No. 87: Produktmarketing - Boxing-Gym-Braut-Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein hochdetaillierter Prompt zur Generierung eines fotorealistischen Editorials einer Braut, die ihre Hände im Boxring einwickelt, mit Fokus auf Stofftextur, Beleuchtung und realistische Anatomie.
+
+#### 📝 Prompt
+
+```
+Erstelle ein vertikales High-Fashion-Editorial in einem echten, leicht abgenutzten Boxgym. Im Mittelpunkt steht eine erwachsene Frau, die tief im Ring sitzt, ein elfenbeinfarbenes Brautkleid trägt und sich methodisch die Hände bandagiert. Der Bildausschnitt reicht etwa von der Mitte des Rocks bis über den Kopf – nah genug, dass die Frau das Bild dominiert, aber weit genug, um die umgebenden Ringseile, das dunkle Innere des Gyms, einen hängenden Sandsack und ein großes Industriefenster zu zeigen, das links neben der Kamera sanft leuchtet. Das Gym soll funktional und unperfekt wirken, nicht luxuriös: abgenutzter Bodenbelag, matte Seile, zurückhaltende Trainingsgeräte, tiefbraun-schwarze Ecken, kein Publikum und keine theatralische Arenabeleuchtung. Sie sitzt direkt auf dem Ringboden, ein Knie hoch zum Oberkörper angezogen, das andere Bein tiefer unter dem ausladenden Kleid gefaltet. Der Rock soll sich in schweren, unregelmäßigen Satinfalten breit auf dem Boden ausbreiten, statt eine makellose Brautsilhouette zu formen. Der Oberkörper ist aufrecht, aber leicht gedreht, die Schultern entspannt und ungleichmäßig, ein Unterarm ruht locker am angewinkelten Knie. Die Handlung des Bandagierens muss körperlich klar erkennbar sein. Beide Hände sind teilweise mit langem, weißem Baumwoll-Boxtape umwickelt; eine noch offene Rolle liegt im unteren Vordergrund, ein loses Band führt nach oben in ihre Hände. Eine Hand spannt die Bandage, während das gegenüberliegende Handgelenk umwickelt wird. Die Finger sollen funktionell wirken, nicht posiert. Ein Diamant-Verlobungsring bleibt an einer bandagierten Hand deutlich sichtbar – klein, aber gut erkennbar, wenn das Licht darauf fällt. Sie trägt ein elfenbeinfarbenes Satin-Brautkleid mit streng strukturiertem, trägerlosem Korsagenoberteil, dezenten senkrechten Formstäbchen, einem weich modellierten Herz-Ausschnitt und einem sehr weiten Rock aus schwerem Seidensatin. Keine Spitze, kein Schleier, keine floralen Applikationen oder prinzessinnenhafte Verzierungen. Das Kleid soll durch Schnitt, Materialgewicht und Verarbeitung teuer wirken, nicht durch Dekoration. Die Handbandagen bleiben matt, faserig und leicht geknittert – ein starker Kontrast zum Satinschimmer. Das Kleid darf dort Falten werfen, sich stauchen und flach aufliegen, wo es den Boden und die angewinkelten Beine berührt, statt perfekt um sie herum zu schweben. Das Haar ist zu einem lockeren, unperfekten dunklen Dutt hochgesteckt, aus dem sich feuchte Strähnen über Stirn, Wange und Hals lösen, als wäre sie bereits körperlich aktiv gewesen. Die Haut wirkt leicht gerötet und natürlich strahlend, mit feinen Schweißperlen an den Schläfen, Schlüsselbeinen und am oberen Brustbereich. Das Make-up bleibt zurückhaltend: definierte Augen, natürliche Brauen, gedeckte Lippen – keine perfekte Braut-Glamour-Inszenierung. Der Kopf ist deutlich zur Seite des Rings gedreht, nicht zur Kamera. Der Blick richtet sich auf einen Punkt außerhalb des Bildes, die Lippen sind leicht geöffnet, der Ausdruck ruhig, ernst und in Gedanken versunken. Sie soll ganz in der Vorbereitung aufgehen, statt das Konzept für den Betrachter zu performen. Gerichtetes, natürliches Fensterlicht von links neben der Kamera dient als Hauptlichtquelle, ergänzt nur durch schwachen Umgebungsreflex aus dem Raum.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793514063475_n1czr6_HV23Ub5bIAAV391.jpg" width="600" alt="Produktmarketing - Boxing-Gym-Braut-Editorial - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Quelle:** [Twitter Post](https://x.com/dreamydigiarts/status/2116553285490315466)
+- **Veröffentlicht:** 31. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37159)**
+
+---
+
+### No. 88: Produktmarketing - Vergleich von Stillleben mit transparenten Materialien
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4780,7 +4868,7 @@ Stillleben-Test mit transparenten Materialien im Nachmittagslicht: Drei transpar
 
 ---
 
-### No. 87: Produktmarketing - Strandporträt mit Rose
+### No. 89: Produktmarketing - Strandporträt mit Rose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4813,7 +4901,7 @@ Eine junge Frau steht an einem Kiesstrand, im Hintergrund sind das Meer und die 
 
 ---
 
-### No. 88: Produktmarketing - Surreales redaktionelles Porträt mit Chrome-Walen und Rosen
+### No. 90: Produktmarketing - Surreales redaktionelles Porträt mit Chrome-Walen und Rosen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4914,7 +5002,7 @@ Ein komplexer JSON-strukturierter Prompt zur Generierung eines symmetrischen, su
 
 ---
 
-### No. 89: Produktmarketing - Steampunk-Luftschiff: Cinematic-Prompt
+### No. 91: Produktmarketing - Steampunk-Luftschiff: Cinematic-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4959,7 +5047,7 @@ Filmische, realistische Fotografie, ein Steampunk-Luftschiff über einem Wolkenm
 
 ---
 
-### No. 90: Produktmarketing - Feuerspucker-Performance-Foto
+### No. 92: Produktmarketing - Feuerspucker-Performance-Foto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5008,7 +5096,7 @@ Halte mehrere undeutliche erwachsene Zuschauer hinter ihr als weiche, dunkle men
 
 ---
 
-### No. 91: Produktmarketing - Hellenistischer Medusa Editorial-Prompt
+### No. 93: Produktmarketing - Hellenistischer Medusa Editorial-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5060,7 +5148,7 @@ Hyper-fotorealistische digitale Fotografie mit cineastischem Editorial-Grading. 
 
 ---
 
-### No. 92: Produktmarketing - Avantgardistisches Porträt von Emma Watson
+### No. 94: Produktmarketing - Avantgardistisches Porträt von Emma Watson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5158,107 +5246,6 @@ Ein komplexer JSON-Prompt für Nano Banana Pro zur Generierung eines avantgardis
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36910)**
-
----
-
-### No. 93: Produktmarketing - Clean-Girl-Editorial-Fashion-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Erstellung eines High-Fashion-Editorial-Porträts einer Frau in einem Soho-Penthouse, mit feuchter Hauttextur, Vintage-Denim und Licht bei der goldenen Stunde.
-
-#### 📝 Prompt
-
-```
-Thema:
-Eine vertikale, dreiteilige Fashion-Erzählung, die das entspannte Leben der High Society in einem minimalistischen Soho-Penthouse einfängt.
-
-Motiv:
-{argument name="name" default="Elena"}, eine {argument name="age" default="21"}-jährige kaukasische Frau mit einer schlanken, athletischen Figur. Sie ist in einer Abfolge von drei Bildern zu sehen: einer architektonischen Weitwinkelaufnahme, einem Porträt direkt auf Augenhöhe und einer haptischen Nahaufnahme ihrer Hand, die auf der Hüfte ruht.
-
-Person · Ausdruck:
-Ein herzförmiges Gesicht im Clean-Girl-Look mit fedrig gestylten Augenbrauen und hochglänzenden Lippen. Ihr Blick ist rätselhaft, die Lider halb geschlossen; die detailliert ausgearbeiteten Iris spiegeln die Skyline von Manhattan wider. Ihr honigblondes Haar fällt in zerzausten „Just-Woke-Up"-Wellen, die das Gegenlicht der Golden Hour einfangen. Die Haut wirkt taufrisch und strahlend mit realistischen Mikrotexturen, darunter sichtbare Poren und feiner Flaum.
-
-Kleidung · Pose:
-Sie trägt einen onyxschwarzen Couture-Bodysuit aus Chantilly-Spitze mit filigranen Blumenmotiven, kombiniert mit einer übergroßen, stark gewaschenen Vintage-Denim-Jeans in Indigo, die lässig auf der Hüfte sitzt. Ihr Handgelenk – geschmückt mit mehreren übereinander getragenen goldenen Cartier Love-Armbändern und einem Juste un Clou-Ring – ruht auf dem rauen Denim und bringt so das Zusammenspiel zwischen edlem Schmuck und Stoff perfekt zur Geltung.
-
-Hintergrund · Licht:
-Ein ultra-exklusives Soho-Penthouse mit raumhohen Fenstern und minimalistischem Interieur, darunter ein weißer Hochflorteppich und eine weiche Baumwollbettdecke. Die Szene wird vom warmen, gerichteten Sonnenlicht der Golden Hour erhellt, das scharfe, geometrische Schatten sowie per Raytracing berechnete Highlights auf Haut und Goldaccessoires erzeugt.
-
-Komposition · Kamera:
-Eine vertikale Collage aus drei Panels. Das obere Panel nutzt eine Weitwinkelperspektive für das Setting; das mittlere ist ein Porträt mit geringer Schärfentiefe; das untere zeigt eine Makroaufnahme der Texturen. Aufgenommen mit einer Phase One XF IQ4 und einem 80mm Schneider Kreuznach Objektiv.
-
-Textur · Stil:
-Hyperrealistischer High-Fashion-Editorial-Stil. Haptische Wiedergabe von zarter Spitze, schwerem Denim und poliertem Gold. Das Bild zeichnet sich durch einen kontrastreichen S-Kurven-Color-Grade, dezentes Filmkorn und einen sanften Bloom an den Lichtkanten der Spitze aus.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792996786503_qocr1i_HVeYWHIW4AAF5oq.jpg" width="600" alt="Produktmarketing - Clean-Girl-Editorial-Fashion-Porträt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Dominus Pellissier](https://x.com/iamdomprompt)
-- **Quelle:** [Twitter Post](https://x.com/iamdomprompt/status/2114326114634002630)
-- **Veröffentlicht:** 25. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36907)**
-
----
-
-### No. 94: Produktmarketing - Athleisure Modeposter-Vergleich
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein direkter Vergleich von GPT Image 2.5 und Nano Banana 2.1 bei der Erstellung eines mehrteiligen Athleisure-Modeposters mit konsistenter Charakteridentität und Outfitdetails.
-
-#### 📝 Prompt
-
-```
-Ein randabfallendes, vertikales Athleisure-Modeposter für die ursprüngliche Overseas-Marke „{argument name="brand" default="KUMORA ACTIVE"}“, gestaltet als hochwertiges 2x2 Studio-Kontaktbogen-Layout für das Hero-Produkt „{argument name="product" default="STUDIO MOTION SET"}“. Zeige in allen vier Panels dasselbe erwachsene weibliche Model, deutlich über 20 Jahre alt, vor einem reinweißen, nahtlosen Studiohintergrund mit schmalen weißen Abständen zwischen den Panels.
-
-Panel-Layout: oben links Porträt ab Brusthöhe; oben rechts Ganzkörper-Bewegungspose; unten links kauernde Pose am Boden; unten rechts dynamisch angeschnittene Pose mit hochgezogener Jacke. Die vier Bildausschnitte müssen wie aus einer einzigen durchgehenden Studiosession wirken. Das Model trägt in jedem Panel dasselbe stimmige Schwarz-Weiß-Set: schwarzer Neckholder-Sport-BH mit weißem Gummiband und der Aufschrift „{argument name="brand" default="KUMORA ACTIVE"}“, weite schwarze Trainingshose mit doppelten weißen Seitenstreifen, übergroße, kurze schwarze Shell-Jacke mit dezenten Mesh-Einsätzen und kleinem weißen Label, schwarze Cap mit gebogenem Schirm und winzigem weißem K-Logo sowie silberner On-Ear-Sportkopfhörer mit runden Ohrmuscheln. Outfit, Cap, Kopfhörer und Identität bleiben absolut konsistent; nur Pose und Jackenposition verändern sich.
-
-Die Gesichtsausdrücke sind ruhig, fokussiert und editorial: seitlicher Blick im Porträt, aktive Standpose, ruhige Hocke mit direktem Blick, vom Wind umspieltes Profil im Ausschnitt mit hochgezogener Jacke. Der Kopfhörer muss in jedem Bildausschnitt sichtbar bleiben. Verwende weiches High-Key-Studiolicht von vorne links oben mit sanfter Aufhellung und subtilen Kontaktschatten nur dort, wo sie nötig sind. Der weiße Hintergrund dominiert die Fläche; die schwarzen Kleidungsstücke bilden die grafische Struktur; weiße Abschlüsse und Streifen erzeugen Rhythmus; der silberne Kopfhörer ist das Produkthighlight. Erhalte alle Details der schwarzen Stoffe: matter Stretch-BH, geripptes Gummiband, weiße Paspeln, Nylonglanz der Jacke, Mesh-Textur, Nähte der Cap, gewebtes Label und saubere Metall-Ohrmuscheln.
-
-Exakt sichtbarer Text: kleines „{argument name="brand" default="KUMORA ACTIVE"}“ nahe dem oberen Rand jedes Panels sowie der fettgedruckte Titel „{argument name="product" default="STUDIO MOTION SET"}“ mittig am unteren Rand in schwarzen Sans-Serif-Großbuchstaben. Kein zusätzlicher Text.
-
-Negative Vorgaben: keine weiteren Models, keine veränderte Identität, keine unpassenden Kleidungsstücke, kein fehlender Kopfhörer, keine deformierten Hände oder Gliedmaßen, keine chaotische Panel-Geometrie, keine abgesoffenen schwarzen Stoffe, keine plastikartige Haut, kein schmutziger Boden, keine harten Schatten, keine echten Logos, keine Rechtschreibfehler, keine Typografie über Gesicht oder Kopfhörer, kein Gym- oder Straßenhintergrund, keine Requisiten, keine Collage-Artefakte, kein malerischer Stil.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909737384_jwrdo7_HVaSrVuaQAEoi0l.jpg" width="600" alt="Produktmarketing - Athleisure Modeposter-Vergleich - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792909739166_rp3pu6_HVaSrV0bUAAECq3.jpg" width="600" alt="Produktmarketing - Athleisure Modeposter-Vergleich - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Loriel.AI](https://x.com/ou_zhen599)
-- **Quelle:** [Twitter Post](https://x.com/ou_zhen599/status/2114038400735191523)
-- **Veröffentlicht:** 24. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36879)**
 
 ---
 
@@ -5961,41 +5948,7 @@ Verwenden Sie das hochgeladene Produkt als exakte Referenz und bewahren Sie dess
 
 ---
 
-### No. 112: E-Commerce-Hauptbild - Produkt im Eiswürfel, minimalistisch
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein einfaches Prompt für Produktfotografie, das zum Vergleich von Grok Imagine 2.0 und Nano Banana 2 verwendet wird.
-
-#### 📝 Prompt
-
-```
-{argument name="product" default="iPhone 18 Pro"} im Eiswürfel, weißer Hintergrund
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257225958_njgnpk_HPLRmraa8AAW99W.png" width="600" alt="E-Commerce-Hauptbild - Produkt im Eiswürfel, minimalistisch - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Tim Jayas](https://x.com/TimJayas)
-- **Quelle:** [Twitter Post](https://x.com/TimJayas/status/2085962225886679161)
-- **Veröffentlicht:** 8. August 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=30800)**
-
----
-
-### No. 113: Spiel-Asset - Voxel-Spielgrafik Modellvergleich
+### No. 112: Spiel-Asset - Voxel-Spielgrafik Modellvergleich
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6028,7 +5981,7 @@ Isometrischer 3D-Pixel-Art-Voxel-Screenshot eines Videospiels, der eine winzige 
 
 ---
 
-### No. 114: Spiel-Asset - Rogue One Stil Filmstandbild-Prompt
+### No. 113: Spiel-Asset - Rogue One Stil Filmstandbild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6061,7 +6014,7 @@ Fotorealistischer Filmstill aus Rogue One/Andor. Exaktes Referenzgesicht: identi
 
 ---
 
-### No. 115: Spiel-Asset - Regenwald-Wildtierbeobachtungsstation Miniaturwelt
+### No. 114: Spiel-Asset - Regenwald-Wildtierbeobachtungsstation Miniaturwelt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6094,7 +6047,7 @@ Verspielte Miniaturwelt-Darstellung einer Regenwald-Becken-Wildtierbeobachtungss
 
 ---
 
-### No. 116: Spiel-Asset - Niedliche Filz-Frosch-Szene
+### No. 115: Spiel-Asset - Niedliche Filz-Frosch-Szene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6127,7 +6080,7 @@ Eine niedliche, 3D- und filzartige Szene eines Cartoon-Frosches, der auf einem g
 
 ---
 
-### No. 117: Spiel-Asset - Mechanical Melancholy Macro Portrait Prompt
+### No. 116: Spiel-Asset - Mechanical Melancholy Macro Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6269,7 +6222,7 @@ Ein komplexer JSON-formatierter Prompt für Nano Banana Pro zur Generierung eine
 
 ---
 
-### No. 118: Spiel-Asset - Chibi-RPG-Kampagnen-Key-Visual
+### No. 117: Spiel-Asset - Chibi-RPG-Kampagnen-Key-Visual
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6320,7 +6273,7 @@ Dieser Prompt wurde für Ankündigungen von Mobile-RPG-Events entwickelt und ers
 
 ---
 
-### No. 119: Spiel-Asset - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
+### No. 118: Spiel-Asset - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6379,7 +6332,7 @@ Seitenverhältnis: 9:16 vertikal.
 
 ---
 
-### No. 120: Spiel-Asset - Artifact Diorama SQL-Generierung
+### No. 119: Spiel-Asset - Artifact Diorama SQL-Generierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6431,13 +6384,71 @@ Ein einzigartiger SQL-basierter Prompt zur Erstellung komplexer architektonische
 
 ---
 
+### No. 120: Spiel-Asset - Woodpunk Kinetische Skulptur Automat
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein komplexes Prompt-System, das jedes beliebige Motiv in eine mechanische kinetische Holzskulptur mit Uhrwerk-Details verwandelt.
+
+#### 📝 Prompt
+
+```
+1. Die semantische Inferenz-Engine (Dynamisches Material-Mapping):
+Eingabe A ist JEDES Thema (Objekt, Tier, Pflanze oder Konzept).
+Analysieren Sie die inhärenten Eigenschaften des Motivs und ordnen Sie diese handwerklichen Materialien zu:
+Der Hauptkörper (Das Chassis): Leiten Sie die Hauptfarbe/das Gewicht des Motivs ab und weisen Sie ein entsprechendes Hartholz zu.
+Die Akzente (Die Intarsie): Leiten Sie die Muster oder Details des Motivs ab und weisen Sie ein kontrastierendes Marketerie-Material zu.
+Die Mechanik (Das Skelett): Leiten Sie die Gelenke oder die Energiequelle des Motivs ab und weisen Sie Metallbeschläge zu.
+2. Der „unveränderliche“ Container (Der Automat):
+Ziel: Eine Produktaufnahme im Stil einer „Da Vinci Werkstatt“.
+Das Objekt: Das Motiv wird als komplexes, freistehendes mechanisches Holzspielzeug gerendert.
+Der Sockel: Das Modell steht auf einem handgeschnitzten Holzblock, der seine semantische Umgebung repräsentiert.
+Der Maßstab: Makrofotografie eines Tischobjekts (ca. 30 cm hoch).
+3. Das Uhrwerk-Interieur (Die Transformation):
+Der Ausschnitt: Ein Teil der äußeren „Holzhülle“ wird visuell entfernt oder aufgeklappt.
+Das Innenleben: Im Inneren werden die biologischen oder mechanischen Funktionen durch eine Uhrwerk-Mechanik ersetzt.
+Regel: Sichtbare Zahnräder, Fahrradketten, Uhrfedern und Messingschwungräder müssen andeuten, dass sich das Objekt durch Aufziehen bewegt.
+Die Befestigungen: Winzige Messingschrauben, Nieten und Scharniere sind entlang der Holznähte sichtbar.
+4. Die erzählerische Figur (Der Bediener):
+Der Charakter: Eine standardmäßige, bewegliche Holzpuppe (im Stil einer Künstlerpuppe) ist in die Szene integriert.
+Die Rolle: Die Figur fungiert als Wartungspersonal, Reiter oder Bediener des Objekts.
+Interaktion: Sie klettert auf eine Leiter, um das Objekt zu polieren, dreht einen riesigen Aufziehschlüssel oder steuert das Tier/die Maschine.
+Das Zubehör: Die Puppe trägt zum Kontext passende, geschnitzte Holzausrüstung.
+5. Beleuchtung & Atmosphäre:
+Beleuchtung: Softbox-Studiobeleuchtung. Diffuses, hochwertiges kommerzielles Licht, das lange, elegante Glanzlichter auf den lackierten Kurven erzeugt.
+Hintergrund: Neutrales Studiograu. Nahtloser Infinity-Hintergrund, um den Fokus vollständig auf die Materialtexturen zu legen.
+Textur: Hochglanzlack. Das Holz muss teuer, glatt und tief gesättigt wirken.
+Ausgabe: EIN Bild, 1:1 Seitenverhältnis, Produktfotografie, „Woodpunk“-Ästhetik, 8k-Auflösung.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg" width="600" alt="Spiel-Asset - Woodpunk Kinetische Skulptur Automat - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2095854642882019392)
+- **Veröffentlicht:** 4. September 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33483)**
+
+---
+
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 15728 weitere Prompts hier nicht angezeigt
+### 🎯 15726 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6500,6 +6511,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-09T04:03:16.465Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-09T08:04:30.863Z</sub>
 
 </div>
