@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15846** |
+| 📝 Total de prompts | **15847** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **jueves, 12 de noviembre de 2026, 4:02:07 UTC** |
+| 🔄 Última actualización | **jueves, 12 de noviembre de 2026, 8:03:50 UTC** |
 
 </div>
 
@@ -6440,7 +6440,7 @@ Salida: UNA imagen, relación de aspecto 1:1, fotografía de producto, estética
 
 <div align="center">
 
-### 🎯 15726 prompts más no mostrados aquí
+### 🎯 15727 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6503,6 +6503,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-12T04:02:07.268Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-12T08:03:50.526Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15846** |
+| 📝 提示詞總數 | **15847** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月12日 星期四 凌晨4:01:42 [UTC]** |
+| 🔄 最後更新 | **2026年11月12日 星期四 上午8:03:01 [UTC]** |
 
 </div>
 
@@ -6468,7 +6468,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15726 更多提示詞未在此顯示
+### 🎯 15727 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6531,6 +6531,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-12T04:01:42.313Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-12T08:03:01.312Z</sub>
 
 </div>
