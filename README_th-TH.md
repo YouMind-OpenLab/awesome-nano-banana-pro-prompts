@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15847** |
+| 📝 คำสั่งทั้งหมด | **15848** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 13 พฤศจิกายน พ.ศ. 2569 เวลา 4 นาฬิกา 02 นาที 06 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 13 พฤศจิกายน พ.ศ. 2569 เวลา 8 นาฬิกา 01 นาที 53 วินาที UTC** |
 
 </div>
 
@@ -3534,7 +3534,53 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 66: คอมิก / สตอรี่บอร์ด - Anime Freeze Frame Pastel Art
+### No. 66: คอมิก / สตอรี่บอร์ด - Raven และ Tiffany: ภูมิหลังของตัวละคร
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพพื้นหลังสมจริงของชานเมืองอเมริกันสมมติที่มีกลิ่นอายยุค 80s/90s เหมาะสำหรับโปรเจกต์งานศิลปะเชิงเล่าเรื่อง
+
+#### 📝 คำสั่ง
+
+```
+ข้อมูลเบื้องหลังสำหรับเรื่องราวที่สองของ {argument name="character names" default="Raven and Tiffany"} ซึ่งมีฉากอยู่ในย่านชานเมืองสมมติของอเมริกา โดยแฝงกลิ่นอายของยุค {argument name="era" default="'80s and '90s"} เน้นการนำเสนอฉากที่สมจริง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Raven และ Tiffany: ภูมิหลังของตัวละคร - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Raven และ Tiffany: ภูมิหลังของตัวละคร - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Raven และ Tiffany: ภูมิหลังของตัวละคร - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [The Image Gardener](https://x.com/ImageGardener)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **เผยแพร่เมื่อ:** 12 พฤศจิกายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: คอมิก / สตอรี่บอร์ด - Anime Freeze Frame Pastel Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3567,7 +3613,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 67: คอมิก / สตอรี่บอร์ด - ฉากฝันริมลำธารพร้อมเสียงและแกลเลอรีรูปภาพแบบหมุนเวียน
+### No. 68: คอมิก / สตอรี่บอร์ด - ฉากฝันริมลำธารพร้อมเสียงและแกลเลอรีรูปภาพแบบหมุนเวียน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3602,7 +3648,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 68: คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro
+### No. 69: คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3653,7 +3699,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
+### No. 70: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3704,7 +3750,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
+### No. 71: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3817,7 +3863,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
+### No. 72: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3857,7 +3903,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
+### No. 73: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3910,7 +3956,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
+### No. 74: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3944,7 +3990,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
+### No. 75: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4045,7 +4091,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
+### No. 76: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4078,7 +4124,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
+### No. 77: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4156,7 +4202,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
+### No. 78: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4190,7 +4236,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
+### No. 79: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4316,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
+### No. 80: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4304,7 +4350,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4350,7 +4396,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
+### No. 82: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4383,7 +4429,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
+### No. 83: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4458,112 +4504,6 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-โครงสร้าง JSON prompt สำหรับสร้างภาพคอลลาจแบบ 3x3 สไตล์ซีนีมาติกที่สมจริงเสมือนภาพถ่าย พร้อมการจำลองฟิล์ม Kodak สำหรับฉากงานเลี้ยงอาหารค่ำของครอบครัว
-
-#### 📝 คำสั่ง
-
-```
-{
-  "title": "แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำอันอบอุ่นของครอบครัว",
-  "format": "คอลลาจภาพถ่ายแบบ 3x3",
-  "subject": "{argument name="subject" default="หญิงสาวผมหยักศกสีเข้มตามธรรมชาติ สวมเสื้อเชิ้ตผ้าลินินสีน้ำตาลทรงหลวม นั่งอยู่ที่โต๊ะอาหารไม้ระหว่างงานเลี้ยงอาหารค่ำอันแสนอบอุ่นของครอบครัว"}",
-  "environment": "{argument name="environment" default="ห้องรับประทานอาหารครอบครัวแบบดั้งเดิม วอลเปเปอร์สไตล์วินเทจ ตู้โชว์ไม้ที่เต็มไปด้วยจานชามและเครื่องแก้ว แสงไฟทังสเตนโทนอุ่นภายในบ้าน บรรยากาศบ้านที่สมจริง"}",
-  "composition": {
-    "grid": "เฟรมสตอรี่บอร์ดแบบ 3x3",
-    "shots": [
-      "ภาพระยะกลางขณะพูดคุยพร้อมท่าทางประกอบ",
-      "ภาพระยะใกล้ขณะหัวเราะอย่างเป็นธรรมชาติ",
-      "ภาพมุมข้างขณะตักลาซานญ่าจากถาดอบ",
-      "ภาพระยะใกล้ขณะตั้งใจฟังโดยวางคางบนมือ",
-      "ภาพระยะกลางขณะรับประทานอาหารและก้มมอง",
-      "ภาพระยะใกล้ขณะชิมอาหารด้วยสีหน้าสนุกสนาน",
-      "ภาพระยะกลางขณะเล่าเรื่องราวอย่างออกรส",
-      "ภาพระยะใกล้ขณะยิ้มอย่างอ่อนโยนพร้อมถือส้อม",
-      "ภาพมุมกว้างขณะนั่งอยู่คนเดียวที่โต๊ะอาหารหลังบทสนทนาจบลง"
-    ]
-  },
-  "camera": {
-    "lens": "เลนส์ฟิกซ์ 50 มม. และ 85 มม.",
-    "depth_of_field": "ชัดตื้น",
-    "focus": "โฟกัสคมชัดที่ตัวแบบ ฉากหลังเบลอละมุน",
-    "framing": "การถ่ายทำแบบซีนีมาติกจากหลายมุมมอง"
-  },
-  "lighting": {
-    "type": "แสงไฟโทนอุ่นภายในบ้าน",
-    "color_temperature": "3200K",
-    "mood": "อบอุ่น เป็นกันเอง ชวนให้นึกถึงความหลัง",
-    "shadows": "เงาที่นุ่มนวลเป็นธรรมชาติ"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="สีเหลืองอำพันโทนอุ่น, สีน้ำตาล, สีครีม, สีเบจ"}",
-    "contrast": "คอนทราสต์แบบซีนีมาติกที่นุ่มนวล",
-    "look": "การจำลองฟิล์ม Kodak Vision3"
-  },
-  "details": [
-    "เสียงหัวเราะที่แท้จริง",
-    "การสบตาที่เป็นธรรมชาติ",
-    "สีหน้าท่าทางที่ละเอียดอ่อน",
-    "พื้นผิวผิวหนังที่สมจริง",
-    "เฟอร์นิเจอร์ไม้ในห้องอาหาร",
-    "อาหารปรุงเองที่บ้าน",
-    "ภาพถ่ายแนวสารคดีแบบแคนดิด",
-    "บรรยากาศการรวมตัวของครอบครัว"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "รายละเอียดสูงพิเศษ",
-    "realism": "สมจริงขั้นสุด"
-  },
-  "negative_prompt": [
-    "อนิเมะ",
-    "การ์ตูน",
-    "CGI",
-    "ผิวพลาสติก",
-    "ใบหน้าที่ผ่านการปรับแต่งมากเกินไป",
-    "ความละเอียดต่ำ",
-    "นิ้วเกิน",
-    "สรีระบิดเบี้ยว",
-    "ข้อความ",
-    "ลายน้ำ",
-    "โลโก้"
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **เผยแพร่เมื่อ:** 5 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6454,7 +6394,7 @@ Input A คือหัวข้อใดก็ได้ (วัตถุ, ส�
 
 <div align="center">
 
-### 🎯 15727 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15728 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6517,6 +6457,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-13T04:02:06.116Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-13T08:01:53.740Z</sub>
 
 </div>

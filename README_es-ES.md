@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15847** |
+| 📝 Total de prompts | **15848** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 13 de noviembre de 2026, 4:02:20 UTC** |
+| 🔄 Última actualización | **viernes, 13 de noviembre de 2026, 8:02:05 UTC** |
 
 </div>
 
@@ -3520,7 +3520,53 @@ Ambiente: majestuoso, tranquilo, surrealista pero creíble, realismo de document
 
 ---
 
-### No. 66: Cómic / Guion gráfico - Arte en Pastel de Fotograma Congelado Anime
+### No. 66: Cómic / Guion gráfico - Estudios de fondo de Raven y Tiffany
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para generar estudios de fondo realistas de un suburbio ficticio estadounidense con toques de los años 80 y 90, ideal para proyectos de arte narrativo.
+
+#### 📝 Prompt
+
+```
+Estudios de fondo para la segunda historia de {argument name="character names" default="Raven and Tiffany"}, ambientada en un suburbio estadounidense ficticio con toques de los {argument name="era" default="'80s and '90s"}. Entornos realistas.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="Cómic / Guion gráfico - Estudios de fondo de Raven y Tiffany - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="Cómic / Guion gráfico - Estudios de fondo de Raven y Tiffany - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="Cómic / Guion gráfico - Estudios de fondo de Raven y Tiffany - Image 3">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [The Image Gardener](https://x.com/ImageGardener)
+- **Fuente:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **Publicado:** 12 de noviembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: Cómic / Guion gráfico - Arte en Pastel de Fotograma Congelado Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3553,7 +3599,7 @@ Fotograma congelado de anime de 1980 en tiza pastel, boxeador en pleno golpe, su
 
 ---
 
-### No. 67: Cómic / Guion gráfico - Escena de ensueño junto al arroyo con audio y carrusel de imágenes
+### No. 68: Cómic / Guion gráfico - Escena de ensueño junto al arroyo con audio y carrusel de imágenes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3588,7 +3634,7 @@ Crea una secuencia de imágenes que muestre: trabajar junto al arroyo, caminar, 
 
 ---
 
-### No. 68: Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro
+### No. 69: Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3639,7 +3685,7 @@ Crea una key visual para un anime de chicas mágicas. Termina el diseño como un
 
 ---
 
-### No. 69: Cómic / Guion gráfico - Prompt de Estilo de Ilustración de Cómic Moderno
+### No. 70: Cómic / Guion gráfico - Prompt de Estilo de Ilustración de Cómic Moderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3690,7 +3736,7 @@ Estilo de ilustración de cómic moderno con un enfoque semi-realista, líneas d
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Fotograma de película de detective cyberpunk
+### No. 71: Cómic / Guion gráfico - Fotograma de película de detective cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3803,7 +3849,7 @@ Un prompt de escena cinematográfica cyberpunk estructurado en formato JSON para
 
 ---
 
-### No. 71: Cómic / Guion gráfico - Póster tipo fanzine con bolígrafo de tinta monocromática
+### No. 72: Cómic / Guion gráfico - Póster tipo fanzine con bolígrafo de tinta monocromática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3843,7 +3889,7 @@ Ilustración a bolígrafo azul ultra detallada traducida a tinta negra monocrom�
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Escena invernal de Harry Potter anciano
+### No. 73: Cómic / Guion gráfico - Escena invernal de Harry Potter anciano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3896,7 +3942,7 @@ Un prompt cinematográfico y emotivo que imagina a un Harry Potter de 80 años r
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Carrera de aceleración de monstruos de dibujos animados estilo Rat Rod
+### No. 74: Cómic / Guion gráfico - Carrera de aceleración de monstruos de dibujos animados estilo Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3930,7 +3976,7 @@ Una vibrante ilustración de estilo caricaturesco muestra a una {argument name="
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Texto de fantasía poética intrincada sobre dragones
+### No. 75: Cómic / Guion gráfico - Texto de fantasía poética intrincada sobre dragones
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4031,7 +4077,7 @@ abra su mano silenciosa y necesaria.
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Chica de anime de artes marciales estilizada
+### No. 76: Cómic / Guion gráfico - Chica de anime de artes marciales estilizada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4064,7 +4110,7 @@ Una ilustración digital de anime estilizada de una joven de Asia Oriental con u
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Storyboard para comercial de jarabe de arce
+### No. 77: Cómic / Guion gráfico - Storyboard para comercial de jarabe de arce
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4142,7 +4188,7 @@ Publicidad de alimentos ultrarrealista, viscosidad realista del jarabe, textura 
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Camaleón de plastilina en el bosque
+### No. 78: Cómic / Guion gráfico - Camaleón de plastilina en el bosque
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4176,7 +4222,7 @@ Una escena vibrante y fantástica de animación con plastilina muestra a un colo
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Storyboard para helado de tarta de queso con fresa
+### No. 79: Cómic / Guion gráfico - Storyboard para helado de tarta de queso con fresa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4256,7 +4302,7 @@ Comercial de postres congelados premium ultrarrealista, textura de helado rica y
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Storyboard para comercial de yogur griego
+### No. 80: Cómic / Guion gráfico - Storyboard para comercial de yogur griego
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4290,7 +4336,7 @@ TÍTULO: Storyboard para comercial de producto de yogur griego premium FORMATO: 
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Ilustración de anime 2D cinematográfica
+### No. 81: Cómic / Guion gráfico - Ilustración de anime 2D cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4336,7 +4382,7 @@ Ilustración digital 2D cinematográfica, {argument name="style aesthetic" defau
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Retrato cinematográfico en coche en una noche lluviosa
+### No. 82: Cómic / Guion gráfico - Retrato cinematográfico en coche en una noche lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4369,7 +4415,7 @@ Un prompt cinematográfico y emotivo de una mujer en el asiento trasero de un co
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Storyboard para comercial de yogur premium
+### No. 83: Cómic / Guion gráfico - Storyboard para comercial de yogur premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4444,112 +4490,6 @@ Fotografía gastronómica de lácteos ultrarrealista, textura cremosa y espesa, 
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: Cómic / Guion gráfico - Hoja de contacto cinematográfica de cena familiar
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON estructurado para generar un collage cinematográfico fotorrealista de 3x3 de una escena de cena familiar con emulación de película Kodak.
-
-#### 📝 Prompt
-
-```
-{
-  "title": "Hoja de contacto cinematográfica de cálida cena familiar",
-  "format": "collage de hoja de contacto 3x3",
-  "subject": "{argument name="subject" default="Una mujer joven con cabello oscuro ondulado natural, vistiendo una camisa de lino marrón suelta, sentada en una mesa de comedor de madera durante una acogedora cena familiar"}",
-  "environment": "{argument name="environment" default="Comedor familiar tradicional, papel tapiz vintage, vitrina de madera llena de platos y cristalería, iluminación cálida de tungsteno, atmósfera hogareña realista"}",
-  "composition": {
-    "grid": "fotogramas de guion gráfico 3x3",
-    "shots": [
-      "plano medio hablando con manos expresivas",
-      "primer plano riendo naturalmente",
-      "vista lateral sirviendo lasaña de una fuente",
-      "primer plano escuchando con la barbilla apoyada en la mano",
-      "plano medio cenando mientras mira hacia abajo",
-      "primer plano probando comida con expresión juguetona",
-      "plano medio contando una historia animada",
-      "primer plano sonriendo suavemente mientras sostiene un tenedor",
-      "plano general sola en la mesa del comedor después de la conversación"
-    ]
-  },
-  "camera": {
-    "lens": "lentes fijos de 50mm y 85mm",
-    "depth_of_field": "poca profundidad de campo",
-    "focus": "enfoque nítido en el sujeto, bokeh de fondo cremoso",
-    "framing": "cobertura cinematográfica desde múltiples ángulos"
-  },
-  "lighting": {
-    "type": "iluminación práctica cálida de hogar",
-    "color_temperature": "3200K",
-    "mood": "acogedor, íntimo, nostálgico",
-    "shadows": "sombras naturales suaves"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="ámbar cálido, marrón, crema, beige"}",
-    "contrast": "contraste cinematográfico suave",
-    "look": "emulación de película Kodak Vision3"
-  },
-  "details": [
-    "risa genuina",
-    "contacto visual natural",
-    "expresiones faciales sutiles",
-    "textura de piel realista",
-    "muebles de comedor de madera",
-    "comida casera",
-    "fotografía documental cándida",
-    "atmósfera de reunión familiar"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "ultra detallado",
-    "realism": "hiperrealista"
-  },
-  "negative_prompt": [
-    "anime",
-    "dibujos animados",
-    "cgi",
-    "piel de plástico",
-    "rostro sobreprocesado",
-    "baja resolución",
-    "dedos extra",
-    "anatomía distorsionada",
-    "texto",
-    "marca de agua",
-    "logotipo"
-  ]
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="Cómic / Guion gráfico - Hoja de contacto cinematográfica de cena familiar - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **Fuente:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **Publicado:** 5 de septiembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6440,7 +6380,7 @@ Salida: UNA imagen, relación de aspecto 1:1, fotografía de producto, estética
 
 <div align="center">
 
-### 🎯 15727 prompts más no mostrados aquí
+### 🎯 15728 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6503,6 +6443,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T04:02:20.669Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T08:02:05.485Z</sub>
 
 </div>

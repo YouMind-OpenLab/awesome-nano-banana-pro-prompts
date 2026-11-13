@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15847** |
+| 📝 プロンプト総数 | **15848** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年11月13日金曜日 4:01:55 UTC** |
+| 🔄 最終更新 | **2026年11月13日金曜日 8:01:45 UTC** |
 
 </div>
 
@@ -3541,7 +3541,53 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 66: コミック / ストーリーボード - アニメ風フリーズフレーム パステルアート
+### No. 66: コミック / ストーリーボード - Raven と Tiffany の背景スタディ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+80年代/90年代の要素を織り交ぜた架空のアメリカ郊外を、リアルな背景として描くためのプロンプト。ナラティブアートプロジェクトに最適です。
+
+#### 📝 プロンプト
+
+```
+{argument name="character names" default="Raven and Tiffany"} の第 2 話に向けた背景設定の調査資料。舞台は架空のアメリカ郊外で、{argument name="era" default="'80s and '90s"} の雰囲気が漂うリアルな世界観です。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="コミック / ストーリーボード - Raven と Tiffany の背景スタディ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="コミック / ストーリーボード - Raven と Tiffany の背景スタディ - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="コミック / ストーリーボード - Raven と Tiffany の背景スタディ - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [The Image Gardener](https://x.com/ImageGardener)
+- **ソース:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **公開日:** 2026年11月12日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: コミック / ストーリーボード - アニメ風フリーズフレーム パステルアート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3574,7 +3620,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 67: コミック / ストーリーボード - 小川沿いの夢のシーン：音声と画像カルーセル
+### No. 68: コミック / ストーリーボード - 小川沿いの夢のシーン：音声と画像カルーセル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3609,7 +3655,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 68: コミック / ストーリーボード - Nano Banana Pro 向け魔法少女アニメキービジュアルプロンプト
+### No. 69: コミック / ストーリーボード - Nano Banana Pro 向け魔法少女アニメキービジュアルプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3660,7 +3706,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 69: コミック / ストーリーボード - モダンコミックブックイラストレーションスタイルプロンプト
+### No. 70: コミック / ストーリーボード - モダンコミックブックイラストレーションスタイルプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3711,7 +3757,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 70: コミック / ストーリーボード - サイバーパンク探偵の映画スチール
+### No. 71: コミック / ストーリーボード - サイバーパンク探偵の映画スチール
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3824,7 +3870,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 71: コミック / ストーリーボード - モノクロインク ボールペン ジン ポスター
+### No. 72: コミック / ストーリーボード - モノクロインク ボールペン ジン ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3864,7 +3910,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 72: コミック / ストーリーボード - 80 歳のハリー・ポッターと冬の情景
+### No. 73: コミック / ストーリーボード - 80 歳のハリー・ポッターと冬の情景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3917,7 +3963,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 73: コミック / ストーリーボード - カートゥーンモンスターのラットロッド・ドラッグレース
+### No. 74: コミック / ストーリーボード - カートゥーンモンスターのラットロッド・ドラッグレース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3951,7 +3997,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 74: コミック / ストーリーボード - 精巧な詩的ドラゴンのファンタジーテキスト
+### No. 75: コミック / ストーリーボード - 精巧な詩的ドラゴンのファンタジーテキスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4049,7 +4095,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 75: コミック / ストーリーボード - スタイリッシュな格闘アニメ少女
+### No. 76: コミック / ストーリーボード - スタイリッシュな格闘アニメ少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4082,7 +4128,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 76: コミック / ストーリーボード - メープルシロップの CM 用絵コンテ
+### No. 77: コミック / ストーリーボード - メープルシロップの CM 用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4206,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 77: コミック / ストーリーボード - クレイアニメ風のカメレオンと森
+### No. 78: コミック / ストーリーボード - クレイアニメ風のカメレオンと森
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4194,7 +4240,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 78: コミック / ストーリーボード - ストロベリー チーズケーキ アイスクリームのストーリーボード
+### No. 79: コミック / ストーリーボード - ストロベリー チーズケーキ アイスクリームのストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4274,7 +4320,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 79: コミック / ストーリーボード - ギリシャヨーグルトの CM 用絵コンテ
+### No. 80: コミック / ストーリーボード - ギリシャヨーグルトの CM 用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4343,7 +4389,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 80: コミック / ストーリーボード - シネマティック 2D アニメイラスト
+### No. 81: コミック / ストーリーボード - シネマティック 2D アニメイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4389,7 +4435,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 81: コミック / ストーリーボード - 雨の夜のシネマティックな車内ポートレート
+### No. 82: コミック / ストーリーボード - 雨の夜のシネマティックな車内ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4422,7 +4468,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 82: コミック / ストーリーボード - プレミアムヨーグルト CM 用ストーリーボード
+### No. 83: コミック / ストーリーボード - プレミアムヨーグルト CM 用ストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4497,112 +4543,6 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: コミック / ストーリーボード - 家族の夕食のシネマティック・コンタクトシート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-Kodak フィルムエミュレーションを使用した、家族の夕食シーンのフォトリアルな 3x3 シネマティック・コラージュを生成するための構造化された JSON プロンプトです。
-
-#### 📝 プロンプト
-
-```
-{
-  "title": "温かい家族の夕食のシネマティック・コンタクトシート",
-  "format": "3x3 コンタクトシート・コラージュ",
-  "subject": "{argument name="subject" default="自然なウェーブのかかったダークヘアの若い女性、ゆったりとした茶色のリネンシャツを着用し、居心地の良い家族の夕食の席で木製のダイニングテーブルに座っている"}",
-  "environment": "{argument name="environment" default="伝統的な家族のダイニングルーム、ヴィンテージの壁紙、皿やグラスが並ぶ木製の食器棚、温かみのあるタングステン照明、リアルな家庭の雰囲気"}",
-  "composition": {
-    "grid": "3x3 ストーリーボードフレーム",
-    "shots": [
-      "身振り手振りを交えて話しているミディアムショット",
-      "自然に笑っているクローズアップ",
-      "キャセロール皿からラザニアを取り分けているサイドビュー",
-      "頬杖をついて話を聞いているクローズアップ",
-      "下を向いて夕食を食べているミディアムショット",
-      "遊び心のある表情で料理を味わっているクローズアップ",
-      "生き生きと話をしているミディアムショット",
-      "フォークを持ちながら優しく微笑んでいるクローズアップ",
-      "会話が終わった後のダイニングテーブルに一人でいるワイドショット"
-    ]
-  },
-  "camera": {
-    "lens": "50mm および 85mm 単焦点レンズ",
-    "depth_of_field": "浅い被写界深度",
-    "focus": "被写体にシャープなピント、背景はクリーミーなボケ味",
-    "framing": "複数のアングルからのシネマティックなカバレッジ"
-  },
-  "lighting": {
-    "type": "温かみのある家庭用照明",
-    "color_temperature": "3200K",
-    "mood": "居心地が良く、親密で、ノスタルジック",
-    "shadows": "柔らかく自然な影"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="温かみのあるアンバー、ブラウン、クリーム、ベージュ"}",
-    "contrast": "柔らかなシネマティック・コントラスト",
-    "look": "Kodak Vision3 フィルムエミュレーション"
-  },
-  "details": [
-    "心からの笑い",
-    "自然なアイコンタクト",
-    "繊細な表情",
-    "リアルな肌の質感",
-    "木製のダイニング家具",
-    "手料理",
-    "ありのままのドキュメンタリー写真",
-    "家族団らんの雰囲気"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "超高精細",
-    "realism": "ハイパーリアリスティック"
-  },
-  "negative_prompt": [
-    "アニメ",
-    "漫画",
-    "CGI",
-    "プラスチックのような肌",
-    "加工されすぎた顔",
-    "低解像度",
-    "指の数が多い",
-    "歪んだ解剖学的構造",
-    "テキスト",
-    "透かし",
-    "ロゴ"
-  ]
-}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="コミック / ストーリーボード - 家族の夕食のシネマティック・コンタクトシート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **ソース:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **公開日:** 2026年9月5日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6493,7 +6433,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 <div align="center">
 
-### 🎯 15727 さらに多くのプロンプトがあります
+### 🎯 15728 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6556,6 +6496,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-11-13T04:01:55.453Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-11-13T08:01:45.864Z</sub>
 
 </div>

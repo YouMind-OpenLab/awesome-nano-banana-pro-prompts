@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **15847** |
+| 📝 Total de prompts | **15848** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sexta-feira, 13 de novembro de 2026 às 04:02:50 UTC** |
+| 🔄 Última atualização | **sexta-feira, 13 de novembro de 2026 às 08:02:27 UTC** |
 
 </div>
 
@@ -3519,7 +3519,53 @@ Clima: majestoso, calmo, surreal porém verossímil, realismo de documentário s
 
 ---
 
-### No. 66: Banda desenhada / Storyboard - Arte em Pastel: Frame Congelado de Anime
+### No. 66: Banda desenhada / Storyboard - Estudos de Fundo de Raven e Tiffany
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt para gerar estudos de fundo realistas de um subúrbio americano fictício com referências aos anos 80/90, ideal para projetos de arte narrativa.
+
+#### 📝 Prompt
+
+```
+Estudos de base para a segunda história de {argument name="character names" default="Raven and Tiffany"}, ambientada num subúrbio americano fictício com toques das {argument name="era" default="'80s and '90s"}. Cenários realistas.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="Banda desenhada / Storyboard - Estudos de Fundo de Raven e Tiffany - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="Banda desenhada / Storyboard - Estudos de Fundo de Raven e Tiffany - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="Banda desenhada / Storyboard - Estudos de Fundo de Raven e Tiffany - Image 3">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [The Image Gardener](https://x.com/ImageGardener)
+- **Fonte:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **Publicado:** 12 de novembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: Banda desenhada / Storyboard - Arte em Pastel: Frame Congelado de Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3552,7 +3598,7 @@ fotograma congelado de anime de 1980 em giz pastel, boxeador no meio de um soco,
 
 ---
 
-### No. 67: Banda desenhada / Storyboard - Cena de Sonho à Beira do Riacho com Áudio e Carrossel de Imagens
+### No. 68: Banda desenhada / Storyboard - Cena de Sonho à Beira do Riacho com Áudio e Carrossel de Imagens
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3587,7 +3633,7 @@ Crie uma sequência de imagens mostrando: trabalhando à beira do riacho, caminh
 
 ---
 
-### No. 68: Banda desenhada / Storyboard - Prompt de Key Visual de Anime Magical Girl para Nano Banana Pro
+### No. 69: Banda desenhada / Storyboard - Prompt de Key Visual de Anime Magical Girl para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3638,7 +3684,7 @@ Crie uma key visual para um anime magical girl. Finalize-a como um design de pô
 
 ---
 
-### No. 69: Banda desenhada / Storyboard - Prompt de Estilo de Ilustração Moderna de Quadrinhos
+### No. 70: Banda desenhada / Storyboard - Prompt de Estilo de Ilustração Moderna de Quadrinhos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3689,7 +3735,7 @@ Estilo moderno de ilustração de quadrinhos com uma abordagem semi-realista, tr
 
 ---
 
-### No. 70: Banda desenhada / Storyboard - Still de Filme de Detetive Cyberpunk
+### No. 71: Banda desenhada / Storyboard - Still de Filme de Detetive Cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3802,7 +3848,7 @@ Um prompt de cena cinematográfica cyberpunk estruturado em formato JSON para o 
 
 ---
 
-### No. 71: Banda desenhada / Storyboard - Pôster de Zine com Esferográfica de Tinta Monocromática
+### No. 72: Banda desenhada / Storyboard - Pôster de Zine com Esferográfica de Tinta Monocromática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3842,7 +3888,7 @@ Ilustração ultra-detalhada feita com caneta esferográfica azul traduzida para
 
 ---
 
-### No. 72: Banda desenhada / Storyboard - Cena de Inverno com Harry Potter Idoso
+### No. 73: Banda desenhada / Storyboard - Cena de Inverno com Harry Potter Idoso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3895,7 +3941,7 @@ Um prompt cinematográfico e emocionante que imagina um Harry Potter de 80 anos 
 
 ---
 
-### No. 73: Banda desenhada / Storyboard - Corrida de Arrancada de Cartoon Monster Rat Rod
+### No. 74: Banda desenhada / Storyboard - Corrida de Arrancada de Cartoon Monster Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3929,7 +3975,7 @@ Uma ilustração vibrante e caricata retrata um {argument name="creature" defaul
 
 ---
 
-### No. 74: Banda desenhada / Storyboard - Texto Fantástico de Dragão Poético e Intrincado
+### No. 75: Banda desenhada / Storyboard - Texto Fantástico de Dragão Poético e Intrincado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4030,7 +4076,7 @@ abra a sua mão silenciosa e necessária.
 
 ---
 
-### No. 75: Banda desenhada / Storyboard - Garota de Anime Estilizada de Artes Marciais
+### No. 76: Banda desenhada / Storyboard - Garota de Anime Estilizada de Artes Marciais
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4063,7 +4109,7 @@ Uma ilustração digital estilizada de anime de uma jovem do Leste Asiático com
 
 ---
 
-### No. 76: Banda desenhada / Storyboard - Storyboard para Comercial de Xarope de Bordo
+### No. 77: Banda desenhada / Storyboard - Storyboard para Comercial de Xarope de Bordo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4141,7 +4187,7 @@ Publicidade de alimentos ultra-realista, viscosidade realista do xarope, textura
 
 ---
 
-### No. 77: Banda desenhada / Storyboard - Camaleão em Claymation na Floresta
+### No. 78: Banda desenhada / Storyboard - Camaleão em Claymation na Floresta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4175,7 +4221,7 @@ Uma cena vibrante e criativa em claymation retrata um colorido {argument name="s
 
 ---
 
-### No. 78: Banda desenhada / Storyboard - Storyboard para Sorvete de Cheesecake de Morango
+### No. 79: Banda desenhada / Storyboard - Storyboard para Sorvete de Cheesecake de Morango
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4255,7 +4301,7 @@ Comercial de sobremesa congelada premium ultrarrealista, textura rica e cremosa 
 
 ---
 
-### No. 79: Banda desenhada / Storyboard - Storyboard para Comercial de Iogurte Grego
+### No. 80: Banda desenhada / Storyboard - Storyboard para Comercial de Iogurte Grego
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4289,7 +4335,7 @@ TÍTULO: Storyboard para Comercial de Produto de Iogurte Grego Premium FORMATO: 
 
 ---
 
-### No. 80: Banda desenhada / Storyboard - Ilustração de Anime 2D Cinematográfica
+### No. 81: Banda desenhada / Storyboard - Ilustração de Anime 2D Cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4335,7 +4381,7 @@ Ilustração digital 2D cinematográfica, {argument name="style aesthetic" defau
 
 ---
 
-### No. 81: Banda desenhada / Storyboard - Retrato Cinematográfico em Noite Chuvosa no Carro
+### No. 82: Banda desenhada / Storyboard - Retrato Cinematográfico em Noite Chuvosa no Carro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4368,7 +4414,7 @@ Um prompt cinematográfico emocionante de uma mulher no banco de trás de um car
 
 ---
 
-### No. 82: Banda desenhada / Storyboard - Storyboard para Comercial de Iogurte Premium
+### No. 83: Banda desenhada / Storyboard - Storyboard para Comercial de Iogurte Premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4443,112 +4489,6 @@ Fotografia de laticínios ultra-realista, textura cremosa espessa, pedaços de f
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: Banda desenhada / Storyboard - Folha de Contatos Cinematográfica de Jantar em Família
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um prompt JSON estruturado para gerar uma colagem cinematográfica 3x3 fotorrealista de uma cena de jantar em família com emulação de filme Kodak.
-
-#### 📝 Prompt
-
-```
-{
-  "title": "Folha de Contatos Cinematográfica de Jantar em Família Acolhedor",
-  "format": "colagem de folha de contatos 3x3",
-  "subject": "{argument name="subject" default="Uma jovem com cabelo escuro ondulado natural, vestindo uma camisa de botão de linho marrom solta, sentada à mesa de jantar de madeira durante um jantar em família aconchegante"}",
-  "environment": "{argument name="environment" default="Sala de jantar familiar tradicional, papel de parede vintage, cristaleira de madeira cheia de pratos e copos, iluminação doméstica quente de tungstênio, atmosfera caseira realista"}",
-  "composition": {
-    "grid": "quadros de storyboard 3x3",
-    "shots": [
-      "plano médio conversando com mãos expressivas",
-      "close-up rindo naturalmente",
-      "vista lateral servindo lasanha de uma travessa",
-      "close-up ouvindo com o queixo apoiado na mão",
-      "plano médio comendo o jantar enquanto olha para baixo",
-      "close-up provando a comida com expressão divertida",
-      "plano médio contando uma história animada",
-      "close-up sorrindo suavemente enquanto segura um garfo",
-      "plano aberto sozinha à mesa de jantar após a conversa"
-    ]
-  },
-  "camera": {
-    "lens": "lentes prime de 50mm e 85mm",
-    "depth_of_field": "profundidade de campo rasa",
-    "focus": "foco nítido no assunto, bokeh de fundo suave",
-    "framing": "cobertura cinematográfica de múltiplos ângulos"
-  },
-  "lighting": {
-    "type": "iluminação doméstica prática quente",
-    "color_temperature": "3200K",
-    "mood": "aconchegante, íntimo, nostálgico",
-    "shadows": "sombras naturais suaves"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="âmbar quente, marrom, creme, bege"}",
-    "contrast": "contraste cinematográfico suave",
-    "look": "emulação de filme Kodak Vision3"
-  },
-  "details": [
-    "risada genuína",
-    "contato visual natural",
-    "expressões faciais sutis",
-    "textura de pele realista",
-    "móveis de jantar de madeira",
-    "refeição caseira",
-    "fotografia documental espontânea",
-    "atmosfera de reunião familiar"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "ultra detalhado",
-    "realism": "hiper-realista"
-  },
-  "negative_prompt": [
-    "anime",
-    "desenho animado",
-    "cgi",
-    "pele de plástico",
-    "rosto superprocessado",
-    "baixa resolução",
-    "dedos extras",
-    "anatomia distorcida",
-    "texto",
-    "marca d'água",
-    "logotipo"
-  ]
-}
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="Banda desenhada / Storyboard - Folha de Contatos Cinematográfica de Jantar em Família - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **Fonte:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **Publicado:** 5 de setembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6439,7 +6379,7 @@ Saída: UMA imagem, Proporção 1:1, Fotografia de Produto, estética "Woodpunk"
 
 <div align="center">
 
-### 🎯 15727 mais prompts não mostrados aqui
+### 🎯 15728 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6502,6 +6442,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-13T04:02:50.131Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-13T08:02:27.737Z</sub>
 
 </div>

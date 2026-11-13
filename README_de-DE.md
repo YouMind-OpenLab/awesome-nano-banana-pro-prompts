@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15847** |
+| 📝 Gesamtanzahl Prompts | **15848** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 13. November 2026 um 04:02:30 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 13. November 2026 um 08:02:13 UTC** |
 
 </div>
 
@@ -3528,7 +3528,53 @@ Stimmung: majestätisch, ruhig, surreal und doch glaubwürdig, Realismus einer T
 
 ---
 
-### No. 66: Comic / Storyboard - Anime-Standbild in Pastellkunst
+### No. 66: Comic / Storyboard - Raven und Tiffany Hintergrundstudien
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt zur Generierung realistischer Hintergrundstudien einer fiktiven amerikanischen Vorstadt mit 80er/90er-Jahre-Elementen, geeignet für narrative Kunstprojekte.
+
+#### 📝 Prompt
+
+```
+Hintergrundrecherchen für die zweite Geschichte von {argument name="character names" default="Raven und Tiffany"}, die in einem fiktiven amerikanischen Vorort mit Anklängen an die {argument name="era" default="80er- und 90er-Jahre"} spielt. Realistische Schauplätze.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="Comic / Storyboard - Raven und Tiffany Hintergrundstudien - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="Comic / Storyboard - Raven und Tiffany Hintergrundstudien - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="Comic / Storyboard - Raven und Tiffany Hintergrundstudien - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [The Image Gardener](https://x.com/ImageGardener)
+- **Quelle:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **Veröffentlicht:** 12. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: Comic / Storyboard - Anime-Standbild in Pastellkunst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3561,7 +3607,7 @@ Ein Prompt zur Erstellung eines Anime-Standbilds im Stil der 1980er Jahre mit Kr
 
 ---
 
-### No. 67: Comic / Storyboard - Traumszene am Bach mit Audio- und Bildkarussell
+### No. 68: Comic / Storyboard - Traumszene am Bach mit Audio- und Bildkarussell
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3596,7 +3642,7 @@ Erstellen Sie eine Sequenz von Bildern, die Folgendes zeigen: Arbeiten am Bach, 
 
 ---
 
-### No. 68: Comic / Storyboard - Magisches Mädchen Anime Key Visual Prompt für Nano Banana Pro
+### No. 69: Comic / Storyboard - Magisches Mädchen Anime Key Visual Prompt für Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3647,7 +3693,7 @@ Erstelle ein Key Visual für einen Magical Girl Anime. Gestalte es als attraktiv
 
 ---
 
-### No. 69: Comic / Storyboard - Prompt für modernen Comic-Illustrationsstil
+### No. 70: Comic / Storyboard - Prompt für modernen Comic-Illustrationsstil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3698,7 +3744,7 @@ Moderne Comic-Illustration im semi-realistischen Stil, kräftige Tintenlinien ko
 
 ---
 
-### No. 70: Comic / Storyboard - Cyberpunk-Detektiv Filmaufnahme
+### No. 71: Comic / Storyboard - Cyberpunk-Detektiv Filmaufnahme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3811,7 +3857,7 @@ Ein cineastischer Cyberpunk-Szenen-Prompt im JSON-Format für Nano Banana Pro, d
 
 ---
 
-### No. 71: Comic / Storyboard - Monochromer Kugelschreiber-Zine-Poster
+### No. 72: Comic / Storyboard - Monochromer Kugelschreiber-Zine-Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3851,7 +3897,7 @@ Ultra-detaillierte Illustration mit blauem Kugelschreiber, umgesetzt in monochro
 
 ---
 
-### No. 72: Comic / Storyboard - Harry Potter im Alter – Winterszene
+### No. 73: Comic / Storyboard - Harry Potter im Alter – Winterszene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3904,7 +3950,7 @@ Ein cineastischer und emotionaler Prompt, der sich einen 80-jährigen Harry Pott
 
 ---
 
-### No. 73: Comic / Storyboard - Cartoon-Monster Rat Rod Drag Race
+### No. 74: Comic / Storyboard - Cartoon-Monster Rat Rod Drag Race
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3938,7 +3984,7 @@ Eine lebendige, cartoonartige Illustration zeigt ein {argument name="creature" d
 
 ---
 
-### No. 74: Comic / Storyboard - Komplexes poetisches Drachen-Fantasy-Textstück
+### No. 75: Comic / Storyboard - Komplexes poetisches Drachen-Fantasy-Textstück
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4039,7 +4085,7 @@ ihre stille, notwendige Hand öffnet.
 
 ---
 
-### No. 75: Comic / Storyboard - Stilisiertes Anime-Mädchen bei den Kampfkünsten
+### No. 76: Comic / Storyboard - Stilisiertes Anime-Mädchen bei den Kampfkünsten
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4072,7 +4118,7 @@ Eine stilisierte digitale Anime-Illustration eines jungen ostasiatischen Mädche
 
 ---
 
-### No. 76: Comic / Storyboard - Storyboard für Ahornsirup-Werbespot
+### No. 77: Comic / Storyboard - Storyboard für Ahornsirup-Werbespot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4150,7 +4196,7 @@ Ultrarealistische Lebensmittelwerbung, realistische Sirupviskosität, glänzende
 
 ---
 
-### No. 77: Comic / Storyboard - Knetanimation Chamäleon-Wald
+### No. 78: Comic / Storyboard - Knetanimation Chamäleon-Wald
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4184,7 +4230,7 @@ Eine lebendige, skurrile Knetanimations-Szene zeigt ein farbenfrohes {argument n
 
 ---
 
-### No. 78: Comic / Storyboard - Storyboard für Erdbeer-Käsekuchen-Eiscreme
+### No. 79: Comic / Storyboard - Storyboard für Erdbeer-Käsekuchen-Eiscreme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4264,7 +4310,7 @@ Ultrarealistischer Premium-Werbespot für gefrorene Desserts, reichhaltige cremi
 
 ---
 
-### No. 79: Comic / Storyboard - Storyboard für griechischen Joghurt-Werbespot
+### No. 80: Comic / Storyboard - Storyboard für griechischen Joghurt-Werbespot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4298,7 +4344,7 @@ TITEL: Storyboard für Premium-Griechischer-Joghurt-Werbespot FORMAT: • Einsei
 
 ---
 
-### No. 80: Comic / Storyboard - Filmische 2D-Anime-Illustration
+### No. 81: Comic / Storyboard - Filmische 2D-Anime-Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4344,7 +4390,7 @@ Filmische 2D-Digitalillustration, {argument name="style aesthetic" default="ausg
 
 ---
 
-### No. 81: Comic / Storyboard - Cinematisches Porträt bei regnerischer Nacht im Auto
+### No. 82: Comic / Storyboard - Cinematisches Porträt bei regnerischer Nacht im Auto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4377,7 +4423,7 @@ Ein emotionaler, kinoreifer Prompt einer Frau auf dem Rücksitz eines Autos in e
 
 ---
 
-### No. 82: Comic / Storyboard - Storyboard für Premium-Joghurt-Werbespot
+### No. 83: Comic / Storyboard - Storyboard für Premium-Joghurt-Werbespot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4452,112 +4498,6 @@ Ultra-realistische Food-Fotografie von Molkereiprodukten, dicke cremige Textur, 
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: Comic / Storyboard - Cinematic-Kontaktbogen für ein Familienessen
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein strukturierter JSON-Prompt zur Erstellung einer fotorealistischen 3x3-Cinematic-Collage einer Familienessen-Szene mit Kodak-Filmemulation.
-
-#### 📝 Prompt
-
-```
-{
-  "title": "Cinematic-Kontaktbogen für ein warmes Familienessen",
-  "format": "3x3 Kontaktbogen-Collage",
-  "subject": "{argument name="subject" default="Eine junge Frau mit natürlich gewelltem, dunklem Haar, trägt ein lockeres, braunes Leinenhemd und sitzt während eines gemütlichen Familienessens an einem hölzernen Esstisch"}",
-  "environment": "{argument name="environment" default="Traditionelles Familien-Esszimmer, Vintage-Tapete, hölzerner Geschirrschrank gefüllt mit Tellern und Gläsern, warme Wolfram-Haushaltsbeleuchtung, realistische Wohnatmosphäre"}",
-  "composition": {
-    "grid": "3x3 Storyboard-Frames",
-    "shots": [
-      "Halbtotale beim Sprechen mit ausdrucksstarken Händen",
-      "Nahaufnahme beim natürlichen Lachen",
-      "Seitenansicht beim Servieren von Lasagne aus einer Auflaufform",
-      "Nahaufnahme beim Zuhören, das Kinn auf die Hand gestützt",
-      "Halbtotale beim Essen mit Blick nach unten",
-      "Nahaufnahme beim Probieren des Essens mit verspieltem Ausdruck",
-      "Halbtotale beim Erzählen einer lebhaften Geschichte",
-      "Nahaufnahme beim sanften Lächeln mit einer Gabel in der Hand",
-      "Totale allein am Esstisch nach dem Gespräch"
-    ]
-  },
-  "camera": {
-    "lens": "50mm und 85mm Festbrennweiten",
-    "depth_of_field": "geringe Schärfentiefe",
-    "focus": "scharfer Fokus auf das Subjekt, cremiges Hintergrund-Bokeh",
-    "framing": "cinematische Abdeckung aus verschiedenen Blickwinkeln"
-  },
-  "lighting": {
-    "type": "warme, praktische Haushaltsbeleuchtung",
-    "color_temperature": "3200K",
-    "mood": "gemütlich, intim, nostalgisch",
-    "shadows": "weiche, natürliche Schatten"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="warmes Bernstein, Braun, Creme, Beige"}",
-    "contrast": "weicher, cinematischer Kontrast",
-    "look": "Kodak Vision3 Filmemulation"
-  },
-  "details": [
-    "echtes Lachen",
-    "natürlicher Blickkontakt",
-    "subtile Mimik",
-    "realistische Hauttextur",
-    "hölzerne Esszimmermöbel",
-    "hausgemachte Mahlzeit",
-    "dokumentarische Candid-Fotografie",
-    "Atmosphäre eines Familientreffens"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "ultra-detailliert",
-    "realism": "hyperrealistisch"
-  },
-  "negative_prompt": [
-    "Anime",
-    "Cartoon",
-    "CGI",
-    "plastische Haut",
-    "überbearbeitetes Gesicht",
-    "niedrige Auflösung",
-    "zusätzliche Finger",
-    "verzerrte Anatomie",
-    "Text",
-    "Wasserzeichen",
-    "Logo"
-  ]
-}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="Comic / Storyboard - Cinematic-Kontaktbogen für ein Familienessen - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **Quelle:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **Veröffentlicht:** 5. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6448,7 +6388,7 @@ Ausgabe: EIN Bild, 1:1 Seitenverhältnis, Produktfotografie, „Woodpunk“-Äst
 
 <div align="center">
 
-### 🎯 15727 weitere Prompts hier nicht angezeigt
+### 🎯 15728 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6511,6 +6451,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-13T04:02:30.448Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-13T08:02:13.156Z</sub>
 
 </div>

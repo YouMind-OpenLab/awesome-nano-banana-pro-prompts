@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15847** |
+| 📝 提示词总数 | **15848** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月13日星期五 UTC 04:01:44** |
+| 🔄 最后更新 | **2026年11月13日星期五 UTC 08:01:37** |
 
 </div>
 
@@ -3538,7 +3538,53 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 66: 漫画 / 故事板 - 动漫定格粉彩艺术
+### No. 66: 漫画 / 故事板 - Raven 和 Tiffany 背景研究
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用于生成带有 80/90 年代元素的虚构美国郊区逼真背景研究的提示词，适用于叙事艺术项目。
+
+#### 📝 提示词
+
+```
+{argument name="character names" default="Raven 和 Tiffany"} 第二个故事的背景设定研究，故事发生在一个虚构的美国郊区，带有 {argument name="era" default="80、90 年代"} 的时代气息。场景力求真实写实。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="漫画 / 故事板 - Raven 和 Tiffany 背景研究 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="漫画 / 故事板 - Raven 和 Tiffany 背景研究 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="漫画 / 故事板 - Raven 和 Tiffany 背景研究 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [The Image Gardener](https://x.com/ImageGardener)
+- **来源:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **发布时间:** 2026年11月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: 漫画 / 故事板 - 动漫定格粉彩艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3571,7 +3617,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 67: 漫画 / 故事板 - 带音频和图片轮播的溪边梦境场景
+### No. 68: 漫画 / 故事板 - 带音频和图片轮播的溪边梦境场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3606,7 +3652,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 68: 漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词
+### No. 69: 漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3657,7 +3703,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 69: 漫画 / 故事板 - 现代漫画插画风格提示词
+### No. 70: 漫画 / 故事板 - 现代漫画插画风格提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3708,7 +3754,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 70: 漫画 / 故事板 - 赛博朋克侦探电影剧照
+### No. 71: 漫画 / 故事板 - 赛博朋克侦探电影剧照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3821,7 +3867,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 71: 漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报
+### No. 72: 漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +3907,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 72: 漫画 / 故事板 - 80 岁哈利·波特的冬日场景
+### No. 73: 漫画 / 故事板 - 80 岁哈利·波特的冬日场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3914,7 +3960,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 73: 漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛
+### No. 74: 漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3948,7 +3994,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 74: 漫画 / 故事板 - 错综复杂的龙之奇幻诗篇
+### No. 75: 漫画 / 故事板 - 错综复杂的龙之奇幻诗篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4049,7 +4095,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 75: 漫画 / 故事板 - 风格化武术动漫少女
+### No. 76: 漫画 / 故事板 - 风格化武术动漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4082,7 +4128,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 76: 漫画 / 故事板 - 枫糖浆商业广告项目
+### No. 77: 漫画 / 故事板 - 枫糖浆商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4206,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 77: 漫画 / 故事板 - 黏土动画风格的变色龙森林
+### No. 78: 漫画 / 故事板 - 黏土动画风格的变色龙森林
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4194,7 +4240,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 78: 漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目
+### No. 79: 漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4274,7 +4320,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 79: 漫画 / 故事板 - 希腊酸奶商业广告项目
+### No. 80: 漫画 / 故事板 - 希腊酸奶商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4308,7 +4354,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 80: 漫画 / 故事板 - 电影感 2D 动漫插画
+### No. 81: 漫画 / 故事板 - 电影感 2D 动漫插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4354,7 +4400,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 81: 漫画 / 故事板 - 电影感雨夜车内人像
+### No. 82: 漫画 / 故事板 - 电影感雨夜车内人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4387,7 +4433,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 82: 漫画 / 故事板 - 高端酸奶商业广告项目
+### No. 83: 漫画 / 故事板 - 高端酸奶商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4462,112 +4508,6 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: 漫画 / 故事板 - 家庭晚餐电影感联络表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个结构化的 JSON 提示词，用于生成具有 Kodak 胶片模拟效果的 3x3 家庭晚餐场景写实电影感拼贴图。
-
-#### 📝 提示词
-
-```
-{
-  "title": "温馨家庭晚餐电影感联络表",
-  "format": "3x3 联络表拼贴",
-  "subject": "{argument name="subject" default="一位留着自然波浪卷深色头发的年轻女性，身穿宽松的棕色亚麻衬衫，坐在温馨家庭晚餐的木制餐桌旁"}",
-  "environment": "{argument name="environment" default="传统的家庭餐厅，复古壁纸，摆满盘子和玻璃器皿的木制中式餐柜，温暖的钨丝灯照明，真实的居家氛围"}",
-  "composition": {
-    "grid": "3x3 分镜画面",
-    "shots": [
-      "中景：用富有表现力的手势交谈",
-      "特写：自然地大笑",
-      "侧面：从砂锅中盛取千层面",
-      "特写：托腮倾听",
-      "中景：低头吃晚餐",
-      "特写：带着俏皮的表情品尝食物",
-      "中景：讲述生动的故事",
-      "特写：拿着叉子温柔地微笑",
-      "远景：交谈后独自坐在餐桌旁"
-    ]
-  },
-  "camera": {
-    "lens": "50mm 和 85mm 定焦镜头",
-    "depth_of_field": "浅景深",
-    "focus": "主体清晰对焦，背景呈现奶油般虚化",
-    "framing": "多角度电影感覆盖"
-  },
-  "lighting": {
-    "type": "温暖的实用居家照明",
-    "color_temperature": "3200K",
-    "mood": "温馨、亲密、怀旧",
-    "shadows": "柔和的自然阴影"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="暖琥珀色、棕色、奶油色、米色"}",
-    "contrast": "柔和的电影感对比度",
-    "look": "Kodak Vision3 胶片模拟"
-  },
-  "details": [
-    "真诚的笑声",
-    "自然的眼神交流",
-    "细微的面部表情",
-    "真实的皮肤纹理",
-    "木制餐具家具",
-    "家常菜肴",
-    "纪实摄影风格",
-    "家庭聚会氛围"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "超精细",
-    "realism": "超写实"
-  },
-  "negative_prompt": [
-    "动漫",
-    "卡通",
-    "CGI",
-    "塑料感皮肤",
-    "过度处理的面部",
-    "低分辨率",
-    "多余的手指",
-    "扭曲的解剖结构",
-    "文字",
-    "水印",
-    "标志"
-  ]
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="漫画 / 故事板 - 家庭晚餐电影感联络表 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **来源:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **发布时间:** 2026年9月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6458,7 +6398,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 <div align="center">
 
-### 🎯 15727 更多提示词未在此显示
+### 🎯 15728 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6521,6 +6461,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-13T04:01:44.852Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-13T08:01:37.967Z</sub>
 
 </div>

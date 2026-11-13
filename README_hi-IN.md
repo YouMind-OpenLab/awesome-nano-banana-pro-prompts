@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15847** |
+| 📝 कुल प्रॉम्पट्स | **15848** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 13 नवंबर 2026 को 4:02:15 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 13 नवंबर 2026 को 8:02:01 am UTC बजे** |
 
 </div>
 
@@ -3533,7 +3533,53 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 66: कॉमिक / स्टोरीबोर्ड - एनिमे फ्रीज फ्रेम पेस्टल आर्ट
+### No. 66: कॉमिक / स्टोरीबोर्ड - Raven और Tiffany पृष्ठभूमि अध्ययन
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+काल्पनिक अमेरिकी उपनगर के यथार्थवादी पृष्ठभूमि अध्ययन उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें 80/90 के दशक का संकेत हो और जो नैरेटिव आर्ट प्रोजेक्ट्स के लिए उपयुक्त है।
+
+#### 📝 प्रॉम्पट
+
+```
+{argument name="character names" default="Raven and Tiffany"} की दूसरी कहानी के लिए पृष्ठभूमि अध्ययन, जो एक काल्पनिक अमेरिकी उपनगर में सेट है और जिसमें {argument name="era" default="'80s and '90s"} की झलक दिखाई देती है। यथार्थवादी परिवेश।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Raven और Tiffany पृष्ठभूमि अध्ययन - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Raven और Tiffany पृष्ठभूमि अध्ययन - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Raven और Tiffany पृष्ठभूमि अध्ययन - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [The Image Gardener](https://x.com/ImageGardener)
+- **स्रोत:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **प्रकाशित:** 12 नवंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: कॉमिक / स्टोरीबोर्ड - एनिमे फ्रीज फ्रेम पेस्टल आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3566,7 +3612,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 67: कॉमिक / स्टोरीबोर्ड - धारा किनारे सपनों का दृश्य: ऑडियो और इमेज कैरोसेल के साथ
+### No. 68: कॉमिक / स्टोरीबोर्ड - धारा किनारे सपनों का दृश्य: ऑडियो और इमेज कैरोसेल के साथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3601,7 +3647,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 68: कॉमिक / स्टोरीबोर्ड - Nano Banana Pro के लिए मैजिक गर्ल एनीमे की विज़ुअल प्रॉम्प्ट
+### No. 69: कॉमिक / स्टोरीबोर्ड - Nano Banana Pro के लिए मैजिक गर्ल एनीमे की विज़ुअल प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3652,7 +3698,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 69: कॉमिक / स्टोरीबोर्ड - आधुनिक कॉमिक बुक इलस्ट्रेशन स्टाइल प्रॉम्प्ट
+### No. 70: कॉमिक / स्टोरीबोर्ड - आधुनिक कॉमिक बुक इलस्ट्रेशन स्टाइल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3703,7 +3749,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 70: कॉमिक / स्टोरीबोर्ड - साइबरपंक डिटेक्टिव मूवी स्टिल
+### No. 71: कॉमिक / स्टोरीबोर्ड - साइबरपंक डिटेक्टिव मूवी स्टिल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3816,7 +3862,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 71: कॉमिक / स्टोरीबोर्ड - मोनोक्रोम इंक बॉलपॉइंट पेन ज़ीन पोस्टर
+### No. 72: कॉमिक / स्टोरीबोर्ड - मोनोक्रोम इंक बॉलपॉइंट पेन ज़ीन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3856,7 +3902,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - वृद्ध हैरी पॉटर का शीतकालीन दृश्य
+### No. 73: कॉमिक / स्टोरीबोर्ड - वृद्ध हैरी पॉटर का शीतकालीन दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3909,7 +3955,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - कार्टून मॉन्स्टर रैट रॉड ड्रैग रेस
+### No. 74: कॉमिक / स्टोरीबोर्ड - कार्टून मॉन्स्टर रैट रॉड ड्रैग रेस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3943,7 +3989,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - जटिल काव्यात्मक ड्रैगन फैंटेसी टेक्स्ट
+### No. 75: कॉमिक / स्टोरीबोर्ड - जटिल काव्यात्मक ड्रैगन फैंटेसी टेक्स्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4044,7 +4090,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - स्टाइलिश मार्शल आर्ट्स एनीमे गर्ल
+### No. 76: कॉमिक / स्टोरीबोर्ड - स्टाइलिश मार्शल आर्ट्स एनीमे गर्ल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4077,7 +4123,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - मेपल सिरप कमर्शियल स्टोरीबोर्ड
+### No. 77: कॉमिक / स्टोरीबोर्ड - मेपल सिरप कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4155,7 +4201,7 @@ STYLE:
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - क्लेमेशन गिरगिट का जंगल
+### No. 78: कॉमिक / स्टोरीबोर्ड - क्लेमेशन गिरगिट का जंगल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4189,7 +4235,7 @@ STYLE:
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - स्ट्रॉबेरी चीज़केक आइसक्रीम स्टोरीबोर्ड
+### No. 79: कॉमिक / स्टोरीबोर्ड - स्ट्रॉबेरी चीज़केक आइसक्रीम स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4269,7 +4315,7 @@ STYLE:
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - Greek Yogurt कमर्शियल स्टोरीबोर्ड
+### No. 80: कॉमिक / स्टोरीबोर्ड - Greek Yogurt कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4303,7 +4349,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक 2D एनीमे इलस्ट्रेशन
+### No. 81: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक 2D एनीमे इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4349,7 +4395,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक रेनी नाइट कार पोर्ट्रेट
+### No. 82: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक रेनी नाइट कार पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4382,7 +4428,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 82: कॉमिक / स्टोरीबोर्ड - प्रीमियम योगर्ट कमर्शियल स्टोरीबोर्ड
+### No. 83: कॉमिक / स्टोरीबोर्ड - प्रीमियम योगर्ट कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,112 +4503,6 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: कॉमिक / स्टोरीबोर्ड - पारिवारिक रात्रिभोज सिनेमैटिक कॉन्टैक्ट शीट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Kodak फिल्म इम्यूलेशन के साथ पारिवारिक रात्रिभोज के दृश्य का 3x3 फोटो-रियलिस्टिक सिनेमैटिक कोलाज बनाने के लिए एक संरचित JSON प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "title": "वार्म फैमिली डिनर सिनेमैटिक कॉन्टैक्ट शीट",
-  "format": "3x3 कॉन्टैक्ट शीट कोलाज",
-  "subject": "{argument name="subject" default="प्राकृतिक लहरदार काले बालों वाली एक युवती, जिसने भूरे रंग की ढीली लिनन शर्ट पहनी है, जो एक आरामदायक पारिवारिक रात्रिभोज के दौरान लकड़ी की डाइनिंग टेबल पर बैठी है"}",
-  "environment": "{argument name="environment" default="पारंपरिक पारिवारिक डाइनिंग रूम, विंटेज वॉलपेपर, प्लेटों और कांच के बर्तनों से भरी लकड़ी की अलमारी, गर्म टंगस्टन घरेलू लाइटिंग, यथार्थवादी घरेलू माहौल"}",
-  "composition": {
-    "grid": "3x3 स्टोरीबोर्ड फ्रेम्स",
-    "shots": [
-      "हाथों के हाव-भाव के साथ बातचीत करते हुए मीडियम शॉट",
-      "स्वाभाविक रूप से हंसते हुए क्लोज-अप",
-      "कैसरोल डिश से लज़ान्या परोसते हुए साइड व्यू",
-      "हाथ पर ठुड्डी टिकाकर सुनते हुए क्लोज-अप",
-      "नीचे देखते हुए रात का खाना खाते हुए मीडियम शॉट",
-      "चंचल अभिव्यक्ति के साथ भोजन का स्वाद लेते हुए क्लोज-अप",
-      "एनिमेटेड कहानी सुनाते हुए मीडियम शॉट",
-      "कांटा पकड़े हुए धीरे से मुस्कुराते हुए क्लोज-अप",
-      "बातचीत के बाद डाइनिंग टेबल पर अकेले वाइड शॉट"
-    ]
-  },
-  "camera": {
-    "lens": "50mm और 85mm प्राइम लेंस",
-    "depth_of_field": "उथला (shallow)",
-    "focus": "विषय पर स्पष्ट फोकस, क्रीमी बैकग्राउंड बोकेह",
-    "framing": "कई कोणों से सिनेमैटिक कवरेज"
-  },
-  "lighting": {
-    "type": "गर्म व्यावहारिक घरेलू लाइटिंग",
-    "color_temperature": "3200K",
-    "mood": "आरामदायक, अंतरंग, उदासीन",
-    "shadows": "कोमल प्राकृतिक छाया"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="गर्म एम्बर, भूरा, क्रीम, बेज"}",
-    "contrast": "सॉफ्ट सिनेमैटिक कंट्रास्ट",
-    "look": "Kodak Vision3 फिल्म इम्यूलेशन"
-  },
-  "details": [
-    "सच्ची हंसी",
-    "प्राकृतिक आई कॉन्टैक्ट",
-    "सूक्ष्म चेहरे के भाव",
-    "यथार्थवादी त्वचा बनावट",
-    "लकड़ी का डाइनिंग फर्नीचर",
-    "घर का बना खाना",
-    "कैंडिड डॉक्यूमेंट्री फोटोग्राफी",
-    "पारिवारिक मिलन का माहौल"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "अल्ट्रा डिटेल्ड",
-    "realism": "हाइपर रियलिस्टिक"
-  },
-  "negative_prompt": [
-    "एनीमे",
-    "कार्टून",
-    "CGI",
-    "प्लास्टिक जैसी त्वचा",
-    "ओवरप्रोसेस्ड चेहरा",
-    "कम रिज़ॉल्यूशन",
-    "अतिरिक्त उंगलियां",
-    "विकृत शारीरिक रचना",
-    "टेक्स्ट",
-    "वॉटरमार्क",
-    "लोगो"
-  ]
-}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - पारिवारिक रात्रिभोज सिनेमैटिक कॉन्टैक्ट शीट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **स्रोत:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **प्रकाशित:** 5 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6453,7 +6393,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 <div align="center">
 
-### 🎯 15727 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15728 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6516,6 +6456,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-13T04:02:15.751Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-13T08:02:01.358Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15847** |
+| 📝 提示詞總數 | **15848** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月13日 星期五 凌晨4:01:50 [UTC]** |
+| 🔄 最後更新 | **2026年11月13日 星期五 上午8:01:41 [UTC]** |
 
 </div>
 
@@ -3538,7 +3538,53 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 66: 漫畫 / 分鏡腳本 - 動漫定格粉彩藝術
+### No. 66: 漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用於生成帶有 80/90 年代風格的虛構美國郊區逼真背景研究的提示詞，適用於敘事藝術專案。
+
+#### 📝 提示詞
+
+```
+{argument name="character names" default="Raven 和 Tiffany"} 第二個故事的背景研究，故事設定在一個虛構的美國郊區，並帶有 {argument name="era" default="80 與 90 年代"} 的氛圍。寫實風格的背景設定。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [The Image Gardener](https://x.com/ImageGardener)
+- **來源:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **發布時間:** 2026年11月12日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: 漫畫 / 分鏡腳本 - 動漫定格粉彩藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3571,7 +3617,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 67: 漫畫 / 分鏡腳本 - 結合音訊與圖片輪播的溪邊夢幻場景
+### No. 68: 漫畫 / 分鏡腳本 - 結合音訊與圖片輪播的溪邊夢幻場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3606,7 +3652,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 68: 漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞
+### No. 69: 漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3657,7 +3703,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
+### No. 70: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3708,7 +3754,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
+### No. 71: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3821,7 +3867,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
+### No. 72: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +3907,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
+### No. 73: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3914,7 +3960,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
+### No. 74: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3948,7 +3994,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
+### No. 75: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4049,7 +4095,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
+### No. 76: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4082,7 +4128,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
+### No. 77: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4206,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
+### No. 78: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4194,7 +4240,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
+### No. 79: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4274,7 +4320,7 @@ STORYBOARD：
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
+### No. 80: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4308,7 +4354,7 @@ STORYBOARD：
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
+### No. 81: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4354,7 +4400,7 @@ STORYBOARD：
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
+### No. 82: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4387,7 +4433,7 @@ STORYBOARD：
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
+### No. 83: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4462,112 +4508,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: 漫畫 / 分鏡腳本 - 家庭晚餐電影感聯絡頁
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個結構化的 JSON 提示詞，用於生成具有 Kodak 底片模擬效果的 3x3 家庭晚餐場景電影感拼貼。
-
-#### 📝 提示詞
-
-```
-{
-  "title": "溫馨家庭晚餐電影感聯絡頁",
-  "format": "3x3 聯絡頁拼貼",
-  "subject": "{argument name="subject" default="一位留著自然波浪捲深色頭髮的年輕女性，穿著寬鬆的棕色亞麻襯衫，坐在木製餐桌前享受溫馨的家庭晚餐"}",
-  "environment": "{argument name="environment" default="傳統家庭餐廳，復古壁紙，擺滿盤子和玻璃器皿的木製餐櫃，溫暖的鎢絲燈居家照明，真實的居家氛圍"}",
-  "composition": {
-    "grid": "3x3 分鏡畫面",
-    "shots": [
-      "中景：用生動的手勢交談",
-      "特寫：自然地大笑",
-      "側面：從砂鍋中盛裝千層麵",
-      "特寫：托腮聆聽",
-      "中景：低頭用餐",
-      "特寫：俏皮地品嚐食物",
-      "中景：講述生動的故事",
-      "特寫：拿著叉子溫柔微笑",
-      "遠景：對話結束後獨自坐在餐桌旁"
-    ]
-  },
-  "camera": {
-    "lens": "50mm 和 85mm 定焦鏡頭",
-    "depth_of_field": "淺景深",
-    "focus": "主體清晰對焦，背景呈現柔和散景",
-    "framing": "多角度電影感覆蓋"
-  },
-  "lighting": {
-    "type": "溫暖的居家實用照明",
-    "color_temperature": "3200K",
-    "mood": "溫馨、親密、懷舊",
-    "shadows": "柔和的自然陰影"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="暖琥珀色、棕色、奶油色、米色"}",
-    "contrast": "柔和的電影感對比",
-    "look": "Kodak Vision3 底片模擬"
-  },
-  "details": [
-    "真誠的笑聲",
-    "自然的眼神交流",
-    "細膩的面部表情",
-    "真實的皮膚紋理",
-    "木製餐桌家具",
-    "家常菜餚",
-    "紀實攝影風格",
-    "家庭聚會氛圍"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "超高細節",
-    "realism": "超寫實"
-  },
-  "negative_prompt": [
-    "動畫",
-    "卡通",
-    "CGI",
-    "塑膠感皮膚",
-    "過度修飾的臉部",
-    "低解析度",
-    "多餘的手指",
-    "扭曲的解剖結構",
-    "文字",
-    "浮水印",
-    "標誌"
-  ]
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="漫畫 / 分鏡腳本 - 家庭晚餐電影感聯絡頁 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **來源:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **發布時間:** 2026年9月5日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6468,7 +6408,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15727 更多提示詞未在此顯示
+### 🎯 15728 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6531,6 +6471,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-13T04:01:50.274Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-13T08:01:41.907Z</sub>
 
 </div>

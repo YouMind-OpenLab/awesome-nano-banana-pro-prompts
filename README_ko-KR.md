@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15847** |
+| 📝 총 프롬프트 수 | **15848** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 11월 13일 금요일 AM 4시 2분 0초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 13일 금요일 AM 8시 1분 49초 UTC** |
 
 </div>
 
@@ -3531,7 +3531,53 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 66: 만화 / 스토리보드 - 애니메이션 정지 화면 파스텔 아트
+### No. 66: 만화 / 스토리보드 - Raven과 Tiffany 배경 연구
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+서사적 아트 프로젝트에 적합한, 80년대/90년대 감성이 담긴 가상의 미국 교외 지역을 사실적으로 묘사하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+{argument name="character names" default="Raven and Tiffany"} 의 두 번째 이야기를 위한 배경 조사 자료입니다. {argument name="era" default="'80s and '90s"} 분위기가 살짝 묻어나는 가상의 미국 교외 마을을 무대로 하며, 현실감 있는 설정을 담고 있습니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg" width="600" alt="만화 / 스토리보드 - Raven과 Tiffany 배경 연구 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg" width="600" alt="만화 / 스토리보드 - Raven과 Tiffany 배경 연구 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg" width="600" alt="만화 / 스토리보드 - Raven과 Tiffany 배경 연구 - Image 3">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [The Image Gardener](https://x.com/ImageGardener)
+- **출처:** [Twitter Post](https://x.com/ImageGardener/status/2120879285892178164)
+- **게시일:** 2026년 11월 12일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=37478)**
+
+---
+
+### No. 67: 만화 / 스토리보드 - 애니메이션 정지 화면 파스텔 아트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3564,7 +3610,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 67: 만화 / 스토리보드 - 오디오 및 이미지 캐러셀이 포함된 시냇가 꿈의 장면
+### No. 68: 만화 / 스토리보드 - 오디오 및 이미지 캐러셀이 포함된 시냇가 꿈의 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3599,7 +3645,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 68: 만화 / 스토리보드 - Nano Banana Pro용 마법 소녀 애니메이션 키 비주얼 프롬프트
+### No. 69: 만화 / 스토리보드 - Nano Banana Pro용 마법 소녀 애니메이션 키 비주얼 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3650,7 +3696,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 69: 만화 / 스토리보드 - 현대 만화책 일러스트레이션 스타일 프롬프트
+### No. 70: 만화 / 스토리보드 - 현대 만화책 일러스트레이션 스타일 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3701,7 +3747,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 70: 만화 / 스토리보드 - 사이버펑크 탐정 영화 스틸컷
+### No. 71: 만화 / 스토리보드 - 사이버펑크 탐정 영화 스틸컷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3814,7 +3860,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 71: 만화 / 스토리보드 - 모노크롬 잉크 볼펜 진 포스터
+### No. 72: 만화 / 스토리보드 - 모노크롬 잉크 볼펜 진 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3854,7 +3900,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 72: 만화 / 스토리보드 - 노년의 해리 포터 겨울 풍경
+### No. 73: 만화 / 스토리보드 - 노년의 해리 포터 겨울 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3907,7 +3953,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 73: 만화 / 스토리보드 - 카툰 몬스터 랫 로드 드래그 레이스
+### No. 74: 만화 / 스토리보드 - 카툰 몬스터 랫 로드 드래그 레이스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3941,7 +3987,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 74: 만화 / 스토리보드 - 정교한 시적 용 판타지 텍스트
+### No. 75: 만화 / 스토리보드 - 정교한 시적 용 판타지 텍스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4039,7 +4085,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 75: 만화 / 스토리보드 - 스타일화된 무술 애니메이션 소녀
+### No. 76: 만화 / 스토리보드 - 스타일화된 무술 애니메이션 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4072,7 +4118,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 76: 만화 / 스토리보드 - 메이플 시럽 광고 스토리보드
+### No. 77: 만화 / 스토리보드 - 메이플 시럽 광고 스토리보드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4150,7 +4196,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 77: 만화 / 스토리보드 - 클레이 애니메이션 카멜레온 숲
+### No. 78: 만화 / 스토리보드 - 클레이 애니메이션 카멜레온 숲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4184,7 +4230,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 78: 만화 / 스토리보드 - 딸기 치즈케이크 아이스크림 스토리보드
+### No. 79: 만화 / 스토리보드 - 딸기 치즈케이크 아이스크림 스토리보드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4264,7 +4310,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 79: 만화 / 스토리보드 - 그릭 요거트 광고 스토리보드
+### No. 80: 만화 / 스토리보드 - 그릭 요거트 광고 스토리보드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4298,7 +4344,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 80: 만화 / 스토리보드 - 시네마틱 2D 애니메이션 일러스트
+### No. 81: 만화 / 스토리보드 - 시네마틱 2D 애니메이션 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4344,7 +4390,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 81: 만화 / 스토리보드 - 비 내리는 밤, 영화 같은 자동차 인물 사진
+### No. 82: 만화 / 스토리보드 - 비 내리는 밤, 영화 같은 자동차 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4377,7 +4423,7 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 
 ---
 
-### No. 82: 만화 / 스토리보드 - 프리미엄 요거트 광고 스토리보드
+### No. 83: 만화 / 스토리보드 - 프리미엄 요거트 광고 스토리보드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4452,112 +4498,6 @@ do this for {argument name="event" default="2026 년 아르헨티나 월드컵"}
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33564)**
-
----
-
-### No. 83: 만화 / 스토리보드 - 가족 저녁 식사 시네마틱 콘택트 시트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Kodak 필름 에뮬레이션을 적용한 가족 저녁 식사 장면의 3x3 포토리얼리스틱 시네마틱 콜라주를 생성하기 위한 구조화된 JSON 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "title": "따뜻한 가족 저녁 식사 시네마틱 콘택트 시트",
-  "format": "3x3 콘택트 시트 콜라주",
-  "subject": "{argument name="subject" default="자연스러운 웨이브의 어두운 머리카락을 가진 젊은 여성이 헐렁한 갈색 린넨 셔츠를 입고 아늑한 가족 저녁 식사 자리의 나무 식탁에 앉아 있는 모습"}",
-  "environment": "{argument name="environment" default="전통적인 가족 식당, 빈티지 벽지, 접시와 유리그릇이 가득한 나무 찬장, 따뜻한 텅스텐 가정용 조명, 사실적인 가정 분위기"}",
-  "composition": {
-    "grid": "3x3 스토리보드 프레임",
-    "shots": [
-      "손동작을 섞어 대화하는 미디엄 샷",
-      "자연스럽게 웃고 있는 클로즈업",
-      "캐서롤 접시에서 라자냐를 덜어주는 측면 샷",
-      "턱을 괴고 경청하는 클로즈업",
-      "식사를 하며 아래를 내려다보는 미디엄 샷",
-      "장난스러운 표정으로 음식을 맛보는 클로즈업",
-      "생동감 있게 이야기를 들려주는 미디엄 샷",
-      "포크를 든 채 부드럽게 미소 짓는 클로즈업",
-      "대화 후 식탁에 홀로 앉아 있는 와이드 샷"
-    ]
-  },
-  "camera": {
-    "lens": "50mm 및 85mm 단렌즈",
-    "depth_of_field": "얕은 심도",
-    "focus": "피사체에 선명한 초점, 부드러운 배경 보케",
-    "framing": "다양한 각도에서의 시네마틱 커버리지"
-  },
-  "lighting": {
-    "type": "따뜻한 실내 조명",
-    "color_temperature": "3200K",
-    "mood": "아늑하고 친밀하며 향수를 불러일으키는 분위기",
-    "shadows": "부드러운 자연스러운 그림자"
-  },
-  "style": {
-    "photorealistic": true,
-    "cinematic": true,
-    "natural_expressions": true,
-    "slice_of_life": true,
-    "authentic_human_moments": true,
-    "award_winning_film_still": true
-  },
-  "color_grading": {
-    "palette": "{argument name="palette" default="따뜻한 호박색, 갈색, 크림색, 베이지색"}",
-    "contrast": "부드러운 시네마틱 대비",
-    "look": "Kodak Vision3 필름 에뮬레이션"
-  },
-  "details": [
-    "진실한 웃음",
-    "자연스러운 눈 맞춤",
-    "섬세한 표정",
-    "사실적인 피부 질감",
-    "나무 식탁 가구",
-    "집에서 만든 식사",
-    "캔디드 다큐멘터리 사진",
-    "가족 모임 분위기"
-  ],
-  "quality": {
-    "resolution": "8K",
-    "detail": "초고해상도",
-    "realism": "하이퍼 리얼리스틱"
-  },
-  "negative_prompt": [
-    "애니메이션",
-    "만화",
-    "CGI",
-    "플라스틱 같은 피부",
-    "과도하게 보정된 얼굴",
-    "낮은 해상도",
-    "여분의 손가락",
-    "왜곡된 신체 구조",
-    "텍스트",
-    "워터마크",
-    "로고"
-  ]
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg" width="600" alt="만화 / 스토리보드 - 가족 저녁 식사 시네마틱 콘택트 시트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **출처:** [Twitter Post](https://x.com/SheBuildsAI_/status/2096191621838864712)
-- **게시일:** 2026년 9월 5일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33566)**
 
 ---
 
@@ -6460,7 +6400,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 <div align="center">
 
-### 🎯 15727 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15728 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6523,6 +6463,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-13T04:02:00.932Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-13T08:01:49.687Z</sub>
 
 </div>
