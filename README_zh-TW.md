@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15861** |
+| 📝 提示詞總數 | **15863** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年11月25日 星期三 凌晨4:01:39 [UTC]** |
+| 🔄 最後更新 | **2026年11月25日 星期三 上午8:01:51 [UTC]** |
 
 </div>
 
@@ -654,7 +654,150 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - 復古膠捲人像提示詞
+### No. 1: 個人檔案 / 頭像 - 定格動畫黏土木偶肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用於生成定格動畫風格黏土木偶角色的微距攝影提示詞，具備 2D 墨線繪製的面部特徵與霧面質感，適合創作風格化的人物肖像。
+
+#### 📝 提示詞
+
+```
+微距攝影，拍攝一個手工製作的定格動畫人偶，造型為 {argument name="subject" default="elderly man with a large papier-mâché head and very thin neck"}。以黑色墨水繪製的 2D 五官特徵：巨大的疲憊雙眼與畫上去的圓框眼鏡。他留著用灰色縫線做成的凌亂鬍鬚，深色襯衫外搭一件芥末黃羊毛背心。背景為迷你工作坊，強烈模糊處理並搭配柔和側光，1:1 長寬比。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587717648_cqk74o_HX2FlkhWsAEZyi4.jpg" width="600" alt="個人檔案 / 頭像 - 定格動畫黏土木偶肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587719079_y4sygh_HX2FlklXkAAtW8b.jpg" width="600" alt="個人檔案 / 頭像 - 定格動畫黏土木偶肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587718129_yvz8ss_HX2FlkcXUAA1-pg.jpg" width="600" alt="個人檔案 / 頭像 - 定格動畫黏土木偶肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587718955_c6jqh0_HX2FlkhWMAAuu44.jpg" width="600" alt="個人檔案 / 頭像 - 定格動畫黏土木偶肖像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [AJMorales](https://x.com/AJMorales73)
+- **來源:** [Twitter Post](https://x.com/AJMorales73/status/2125214098938048614)
+- **發布時間:** 2026年11月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37723)**
+
+---
+
+### No. 2: 個人檔案 / 頭像 - Nano Banana 2 逼真人像提示詞
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+提供 Nano Banana 2 的詳細提示詞，用於生成女性在日落時分於海邊觀景台轉身的逼真照片，並使用參考圖片確保臉部與服裝的一致性。此推文比較了 ChatGPT、Muse、Seedream 和 Gemini (Nano Banana 2) 的輸出結果。
+
+#### 📝 提示詞
+
+```
+請附上您的臉部與服裝照片。
+
+附圖說明：圖片 1 = 臉部參考，圖片 2 = 服裝參考。
+臉部／髮型：人物必須與圖片 1 為同一人（相同的五官、髮型與髮色）。請勿使用該圖片中的服裝、姿勢或背景。
+服裝：讓她穿上與圖片 2 完全相同的衣服。請勿使用該圖片中的臉孔、髮型、體型或姿勢。
+參考優先順序：即使下方文字描述的服裝或髮型與附圖不同，臉部、頭髮與服裝仍一律以附圖為準。
+[指令] 生成一張如同真實相機拍攝的全新照片。智慧型手機直式比例 9:16。
+
+[場景]
+地點：黃昏時分可眺望海景的山頂觀景台
+情境：她發現了你
+場景類型：海邊的黃昏山頂觀景台。她原本一邊散步一邊欣賞風景，聽見有人呼喚她的名字後，在步伐中途回頭，露出安心的微笑（她發現了你）。
+與你的關係：坐在你隔壁的同班同學
+光線：夕陽從左上方照射，左臉明亮、右臉帶有柔和陰影，髮絲邊緣有輪廓光，波光粼粼的海面在背景中化為散景
+氛圍：遼闊的海天一色，以及被發現時那份安心的感覺
+背景乾淨整齊。
+
+[主體]
+日本成年女性。
+髮型：鮑伯頭
+姿勢：行走途中向右肩方向回頭，身體仍面向大海，雙手自然下垂，頭髮與裙襬隨海風及轉身動作輕輕飄動。
+表情：發現對方後露出安心的微笑，視線從風景轉回，自然的眉型，瞳孔中有眼神光。
+視線：越過右肩望向鏡頭。
+
+[細節]
+構圖：大腿以上的中景，由低一階的位置微微仰拍，人物對齊畫面右側。前景底部有觀景台欄杆的大面積散景，左側則保留天空與海洋的留白空間。
+距離：靠右的大腿以上中景，由低一階的位置微微仰拍。
+鏡頭：85mm 鏡頭
+相機：全片幅相機
+色調：海天藍搭配溫暖的夕陽色彩
+比例：智慧型手機直式 9:16
+風格：真實相機拍攝的照片。肌膚、頭髮與布料質感皆保持自然。
+
+[限制條件]
+鏡頭即代表在場同齡同班同學（你）的雙眼。請勿讓觀看者的手或身體入鏡。
+背景中可以出現身形較小的女同學（僅露出背影或側臉，且高度模糊）。她不可看向鏡頭、不可靠近主角，也不能比主角更搶眼。前景或主角前方不得出現其他人物。
+相機位置需高於胸部。聚焦於臉部與肢體動作。
+膚色須與參考圖片一致。請透過眼神、嘴部、手部與姿態來表現害羞或喜悅的情緒。
+不得出現男性。呈現健康自然的人像。
+不得包含可辨識的文字、標誌或浮水印。
+不可製成動漫、插畫或 CG 風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587719196_bom6he_HX2PjYta8AEfBBs.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana 2 逼真人像提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587717731_tzs5mx_HX2PnKtawAAle8W.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana 2 逼真人像提示詞 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587718919_0hro1x_HX2Pp3VboAAQ7Xh.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana 2 逼真人像提示詞 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795587719146_2brv51_HX2PsTTbIAA4TXk.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana 2 逼真人像提示詞 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [川越あい(ラブりんって呼んでෆ)](https://x.com/kawagoe_ai)
+- **來源:** [Twitter Post](https://x.com/kawagoe_ai/status/2125012883276992564)
+- **發布時間:** 2026年11月23日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37722)**
+
+---
+
+### No. 3: 個人檔案 / 頭像 - 復古膠捲人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -687,7 +830,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 2: 個人檔案 / 頭像 - 真實感海灘人像提示詞
+### No. 4: 個人檔案 / 頭像 - 真實感海灘人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -720,7 +863,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 臉貼玻璃滑稽表情提示詞
+### No. 5: 個人檔案 / 頭像 - 臉貼玻璃滑稽表情提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -790,7 +933,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 寫實棒球帽人像
+### No. 6: 個人檔案 / 頭像 - 寫實棒球帽人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -824,7 +967,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 保留身分特徵的超寫實冬季時尚人像
+### No. 7: 個人檔案 / 頭像 - 保留身分特徵的超寫實冬季時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -873,7 +1016,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 超寫實自拍人像與穿搭參考
+### No. 8: 個人檔案 / 頭像 - 超寫實自拍人像與穿搭參考
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -920,7 +1063,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 穿搭參考人像
+### No. 9: 個人檔案 / 頭像 - 穿搭參考人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -966,7 +1109,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 黃金時段情侶人像
+### No. 10: 個人檔案 / 頭像 - 黃金時段情侶人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -999,7 +1142,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 女子以甜甜圈遮眼
+### No. 11: 個人檔案 / 頭像 - 女子以甜甜圈遮眼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1050,7 +1193,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 東京 It-Girl 鏡前自拍提示詞
+### No. 12: 個人檔案 / 頭像 - 東京 It-Girl 鏡前自拍提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,7 +1244,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - Nano Banana vs GPT Image 比較提示
+### No. 13: 個人檔案 / 頭像 - Nano Banana vs GPT Image 比較提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1146,7 +1289,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - GPT Image 2.5 與 Nano Banana 的寫實圖書館人像提示詞
+### No. 14: 個人檔案 / 頭像 - GPT Image 2.5 與 Nano Banana 的寫實圖書館人像提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1191,7 +1334,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - Nano Banana 提示詞：牽著狗狗的逼真街頭抓拍
+### No. 15: 個人檔案 / 頭像 - Nano Banana 提示詞：牽著狗狗的逼真街頭抓拍
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1259,7 +1402,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 搭配參考照片的寫實校園人像
+### No. 16: 個人檔案 / 頭像 - 搭配參考照片的寫實校園人像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1325,7 +1468,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 粉色緞面禮服的優雅夜景人像
+### No. 17: 個人檔案 / 頭像 - 粉色緞面禮服的優雅夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1380,7 +1523,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 可愛星星夜燈人像比較
+### No. 18: 個人檔案 / 頭像 - 可愛星星夜燈人像比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1433,7 +1576,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - Nano Banana Pro 湖泊人像比較
+### No. 19: 個人檔案 / 頭像 - Nano Banana Pro 湖泊人像比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1485,106 +1628,6 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36835)**
-
----
-
-### No. 18: 個人檔案 / 頭像 - 紫色毛衣人像比較
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-使用「粉紅髮女性身穿淡紫色毛衣的超近距離寫實人像」提示詞，對 Nano Pro、SeeDream Lite、ChatGPT 與 Flux 2 進行比較。
-
-#### 📝 提示詞
-
-```
-超寫實極近距離特寫肖像，一位年輕東亞女性，留著柔和的粉塵粉色短髮，梳成鬆散的側邊辮。她帶著溫柔溫暖的微笑直視鏡頭。
-
-身穿淺薰衣草色針織毛衣，配戴小巧珍珠耳環。纖細勻稱的運動型身材。
-
-柔和的室內場景，溫暖的自然光線，背景乾淨且略帶模糊。極致細膩的皮膚紋理、逼真的布料質感、精準對焦、優雅自然的肖像攝影風格，8K 超寫實畫質。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg" width="600" alt="個人檔案 / 頭像 - 紫色毛衣人像比較 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg" width="600" alt="個人檔案 / 頭像 - 紫色毛衣人像比較 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg" width="600" alt="個人檔案 / 頭像 - 紫色毛衣人像比較 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg" width="600" alt="個人檔案 / 頭像 - 紫色毛衣人像比較 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
-- **來源:** [Twitter Post](https://x.com/LoveAiko2003/status/2113536852603134291)
-- **發布時間:** 2026年10月23日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36838)**
-
----
-
-### No. 19: 個人檔案 / 頭像 - 皮克斯風格雙人肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用於生成工作室照片的提示詞，內容為真人與其巨大的 3D 皮克斯風格卡通 counterpart 並排出現，需符合參考圖片中的身份與服裝特徵。
-
-#### 📝 提示詞
-
-```
-製作一張超寫實、高品質的攝影棚照片，畫面中需包含一位真人，以及同一位人物的巨型 3D Pixar 風格卡通版本，兩者皆須精準還原上傳的參考圖片。
-
-兩個版本必須擁有相同的面部特徵、膚色、髮型與整體外觀。真人身穿粉嫩粉色與奶油色的寬版針織毛衣、淺藍色高腰牛仔褲，搭配乾淨的白色高筒運動鞋。Pixar 風格的角色則穿著完全相同的服裝，並呈現逼真的針織布料細節。
-
-姿勢與表情：真人自然地站在巨型卡通角色身旁，對著鏡頭露出溫暖的微笑，其中一隻手輕輕搭在卡通角色的肩膀上。卡通角色自信地站立，雙腿微微張開，一手插在牛仔褲口袋裡，臉上掛著調皮的微笑、單邊眉毛微挑，並擁有一雙生動傳神的動畫大眼。
-
-卡通角色應比真人稍微高大一些，具備迷人的 3D 動畫質感，同時保留該人物清晰可辨的個人特徵。
-
-背景與光線：極簡灰藍色攝影棚、柔和的專業燈光、自然的地板陰影、真人具備逼真的皮膚紋理、平滑的 3D 卡通光影渲染、細緻的毛衣纖維、自然的牛仔布褶皺、電影級構圖、銳利對焦、頂級 3D 算圖、8K 畫質。
-
-重要指示：務必嚴格保留上傳參考圖中的人物身分。真人的臉部需維持照片級的寫實感，而卡通版本也必須一眼就能認出是同一人。保持服裝顏色、身體比例一致，並讓兩位角色之間的互動自然流暢。畫面中不得出現多餘人物、文字或浮水印，手部不可變形，也不得添加不必要的配件。
-
-長寬比：4:5（直式）
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792737110333_et2kth_HVNTSu3akAAsdmU.jpg" width="600" alt="個人檔案 / 頭像 - 皮克斯風格雙人肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [HANI💫](https://x.com/AiWithHani)
-- **來源:** [Twitter Post](https://x.com/AiWithHani/status/2113124265306587244)
-- **發布時間:** 2026年10月22日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36753)**
 
 ---
 
@@ -2211,58 +2254,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 28: 社群媒體貼文 - 馬德里黃金時刻時尚編輯大片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-這是一份詳細的提示詞，用於生成一張高階時尚編輯風格的半身照：一位亞洲女性倚靠在馬德里的城市建築旁，捕捉黃金時刻的光影，適用於多種 AI 圖像模型。
-
-#### 📝 提示詞
-
-```
-主題：馬德里黃金時刻高級時尚大片。主體：22 歲亞洲女性，身形高挑如雕像般佇立，在陽光灑落的馬德里街頭倚靠著城市建築向後傾斜。服裝 · 姿勢：白色羅紋棉質短版背心，布料緊繃的張力清晰可見；深色水洗硬挺丹寧外套敞開穿著，隨性地滑落肩頭；細緻的金項鍊；肩部後收的特寫胸上鏡頭。背景 · 光線：馬德里城市大道與歷史石造建築化為奶油色散景；午後晚些時候的黃金時刻氛圍，強烈的暖色側光搭配邊緣柔和的深邃陰影。構圖 · 鏡頭：嚴謹的胸上特寫取景、低角度荷蘭式傾斜（Dutch tilt），模擬 80mm f/2.8 望遠鏡頭，雙眼與五官對焦銳利分明。質感 · 風格：高端時尚編輯美學，羅紋針織與丹寧材質的觸感細節一覽無遺，自然肌膚紋理呈現次表面散射效果，並帶有溫暖氣候下的微濕光澤。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg" width="600" alt="社群媒體貼文 - 馬德里黃金時刻時尚編輯大片 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg" width="600" alt="社群媒體貼文 - 馬德里黃金時刻時尚編輯大片 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg" width="600" alt="社群媒體貼文 - 馬德里黃金時刻時尚編輯大片 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg" width="600" alt="社群媒體貼文 - 馬德里黃金時刻時尚編輯大片 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
-- **來源:** [Twitter Post](https://x.com/LoveAiko2003/status/2118478523786760570)
-- **發布時間:** 2026年11月5日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37381)**
-
----
-
-### No. 29: 資訊圖表 / 教育視覺化內容 - 泰姬陵建造過程電影紀錄片場景
+### No. 28: 資訊圖表 / 教育視覺化內容 - 泰姬陵建造過程電影紀錄片場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2302,7 +2294,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 30: 資訊圖表 / 教育視覺化內容 - 物件轉建築生成提示詞
+### No. 29: 資訊圖表 / 教育視覺化內容 - 物件轉建築生成提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2360,7 +2352,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 31: 資訊圖表 / 教育視覺化內容 - 產品參考表工作流程
+### No. 30: 資訊圖表 / 教育視覺化內容 - 產品參考表工作流程
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2398,7 +2390,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 32: 資訊圖表 / 教育視覺化內容 - 手寫備忘錄食譜插畫
+### No. 31: 資訊圖表 / 教育視覺化內容 - 手寫備忘錄食譜插畫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2460,7 +2452,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 33: 資訊圖表 / 教育視覺化內容 - 手寫風格 3 步驟流程 Slides
+### No. 32: 資訊圖表 / 教育視覺化內容 - 手寫風格 3 步驟流程 Slides
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2526,7 +2518,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 34: 資訊圖表 / 教育視覺化內容 - 復古英式諷刺漫畫
+### No. 33: 資訊圖表 / 教育視覺化內容 - 復古英式諷刺漫畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2559,7 +2551,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 35: 資訊圖表 / 教育視覺化內容 - 企業營收報告資訊圖表
+### No. 34: 資訊圖表 / 教育視覺化內容 - 企業營收報告資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2593,7 +2585,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 36: 資訊圖表 / 教育視覺化內容 - 復古旅遊日誌編輯拼貼
+### No. 35: 資訊圖表 / 教育視覺化內容 - 復古旅遊日誌編輯拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2626,7 +2618,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 37: 資訊圖表 / 教育視覺化內容 - 編輯風格烹飪專案分鏡佈局
+### No. 36: 資訊圖表 / 教育視覺化內容 - 編輯風格烹飪專案分鏡佈局
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2664,7 +2656,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 38: 資訊圖表 / 教育視覺化內容 - 復古旅行日記拼貼
+### No. 37: 資訊圖表 / 教育視覺化內容 - 復古旅行日記拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2716,7 +2708,7 @@ Sydney Sweeney 身穿長款祖母綠禮服，搭配柔和光澤，背景為溫�
 
 ---
 
-### No. 39: 資訊圖表 / 教育視覺化內容 - 區域文化圖譜海報
+### No. 38: 資訊圖表 / 教育視覺化內容 - 區域文化圖譜海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2796,7 +2788,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 40: 資訊圖表 / 教育視覺化內容 - 奇趣著色頁插圖
+### No. 39: 資訊圖表 / 教育視覺化內容 - 奇趣著色頁插圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2830,7 +2822,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 41: 資訊圖表 / 教育視覺化內容 - 專業牛肉塔可產品攝影
+### No. 40: 資訊圖表 / 教育視覺化內容 - 專業牛肉塔可產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2863,7 +2855,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 42: 資訊圖表 / 教育視覺化內容 - Milkshake 產品資訊圖
+### No. 41: 資訊圖表 / 教育視覺化內容 - Milkshake 產品資訊圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2896,7 +2888,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 43: 資訊圖表 / 教育視覺化內容 - 歐洲倉鼠野生動物攝影
+### No. 42: 資訊圖表 / 教育視覺化內容 - 歐洲倉鼠野生動物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2930,7 +2922,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 44: YouTube 縮圖 - 芭蕾舞者俯視聚光燈鏡頭
+### No. 43: YouTube 縮圖 - 芭蕾舞者俯視聚光燈鏡頭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2983,7 +2975,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 45: YouTube 縮圖 - 巨觀星系水滴提示詞
+### No. 44: YouTube 縮圖 - 巨觀星系水滴提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3022,7 +3014,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 46: YouTube 縮圖 - 黃昏山頂電影感人像
+### No. 45: YouTube 縮圖 - 黃昏山頂電影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3055,7 +3047,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 47: YouTube 縮圖 - 90 年代動作女英雄黑色電影提示詞
+### No. 46: YouTube 縮圖 - 90 年代動作女英雄黑色電影提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3125,7 +3117,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 48: YouTube 縮圖 - 使用參考圖片生成科幻電影劇照
+### No. 47: YouTube 縮圖 - 使用參考圖片生成科幻電影劇照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3158,7 +3150,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 49: YouTube 縮圖 - 南極探險歷史寫實風格比較
+### No. 48: YouTube 縮圖 - 南極探險歷史寫實風格比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3197,7 +3189,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 50: YouTube 縮圖 - 寺廟屋頂上的兜帽刺客奇幻藝術
+### No. 49: YouTube 縮圖 - 寺廟屋頂上的兜帽刺客奇幻藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3236,7 +3228,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 51: YouTube 縮圖 - YouTube 縮圖設計提示詞：文字疊加效果
+### No. 50: YouTube 縮圖 - YouTube 縮圖設計提示詞：文字疊加效果
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3272,7 +3264,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 52: YouTube 縮圖 - 蒸汽火車崩塌橋樑風暴
+### No. 51: YouTube 縮圖 - 蒸汽火車崩塌橋樑風暴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3312,7 +3304,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 53: YouTube 縮圖 - 電影感：受損太空船上的太空人
+### No. 52: YouTube 縮圖 - 電影感：受損太空船上的太空人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3361,7 +3353,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 54: YouTube 縮圖 - 摩托車與夕陽的雙重曝光人像
+### No. 53: YouTube 縮圖 - 摩托車與夕陽的雙重曝光人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3395,7 +3387,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 55: YouTube 縮圖 - 高畫質人像轉換
+### No. 54: YouTube 縮圖 - 高畫質人像轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3429,7 +3421,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 56: YouTube 縮圖 - 頂級暗黑奇幻動畫電影質感
+### No. 55: YouTube 縮圖 - 頂級暗黑奇幻動畫電影質感
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3463,7 +3455,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 57: YouTube 縮圖 - 甲子園棒球轉播畫面
+### No. 56: YouTube 縮圖 - 甲子園棒球轉播畫面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3497,7 +3489,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 58: YouTube 縮圖 - 排版湧現電影海報網格
+### No. 57: YouTube 縮圖 - 排版湧現電影海報網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3531,7 +3523,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 59: YouTube 縮圖 - 微型立體書場景模型
+### No. 58: YouTube 縮圖 - 微型立體書場景模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3565,7 +3557,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 60: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
+### No. 59: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3599,7 +3591,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 61: YouTube 縮圖 - 威尼斯超現實巨型女子
+### No. 60: YouTube 縮圖 - 威尼斯超現實巨型女子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3633,7 +3625,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 62: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
+### No. 61: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3667,7 +3659,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 63: YouTube 縮圖 - 壯麗大象雲朵攝影
+### No. 62: YouTube 縮圖 - 壯麗大象雲朵攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3711,7 +3703,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 64: 漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究
+### No. 63: 漫畫 / 分鏡腳本 - Raven 與 Tiffany 背景研究
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3757,7 +3749,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 65: 漫畫 / 分鏡腳本 - 動漫定格粉彩藝術
+### No. 64: 漫畫 / 分鏡腳本 - 動漫定格粉彩藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3790,7 +3782,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 66: 漫畫 / 分鏡腳本 - 結合音訊與圖片輪播的溪邊夢幻場景
+### No. 65: 漫畫 / 分鏡腳本 - 結合音訊與圖片輪播的溪邊夢幻場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3825,7 +3817,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 67: 漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞
+### No. 66: 漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3876,7 +3868,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 68: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
+### No. 67: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3927,7 +3919,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
+### No. 68: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4040,7 +4032,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
+### No. 69: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4080,7 +4072,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
+### No. 70: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4133,7 +4125,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
+### No. 71: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4167,7 +4159,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
+### No. 72: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4268,7 +4260,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
+### No. 73: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4301,7 +4293,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
+### No. 74: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4379,7 +4371,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
+### No. 75: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4413,7 +4405,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
+### No. 76: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4493,7 +4485,7 @@ STORYBOARD：
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
+### No. 77: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4527,7 +4519,7 @@ STORYBOARD：
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
+### No. 78: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4573,7 +4565,7 @@ STORYBOARD：
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
+### No. 79: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4606,7 +4598,7 @@ STORYBOARD：
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
+### No. 80: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4684,7 +4676,7 @@ STORYBOARD：
 
 ---
 
-### No. 82: 產品行銷 - 蛋白質飲料的創意產品攝影
+### No. 81: 產品行銷 - 蛋白質飲料的創意產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4755,7 +4747,7 @@ STORYBOARD：
 
 ---
 
-### No. 83: 產品行銷 - 咖啡袋產品照比較
+### No. 82: 產品行銷 - 咖啡袋產品照比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4791,6 +4783,57 @@ GPT Image 2.6 與 Nano Banana 2.1 生成高級咖啡袋產品照的並排比較�
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37427)**
+
+---
+
+### No. 83: 產品行銷 - 馬德里黃金時刻時尚編輯大片
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+這是一份詳細的提示詞，用於生成一張高階時尚編輯風格的半身照：一位亞洲女性倚靠在馬德里的城市建築旁，捕捉黃金時刻的光影，適用於多種 AI 圖像模型。
+
+#### 📝 提示詞
+
+```
+主題：馬德里黃金時刻高級時尚大片。主體：22 歲亞洲女性，身形高挑如雕像般佇立，在陽光灑落的馬德里街頭倚靠著城市建築向後傾斜。服裝 · 姿勢：白色羅紋棉質短版背心，布料緊繃的張力清晰可見；深色水洗硬挺丹寧外套敞開穿著，隨性地滑落肩頭；細緻的金項鍊；肩部後收的特寫胸上鏡頭。背景 · 光線：馬德里城市大道與歷史石造建築化為奶油色散景；午後晚些時候的黃金時刻氛圍，強烈的暖色側光搭配邊緣柔和的深邃陰影。構圖 · 鏡頭：嚴謹的胸上特寫取景、低角度荷蘭式傾斜（Dutch tilt），模擬 80mm f/2.8 望遠鏡頭，雙眼與五官對焦銳利分明。質感 · 風格：高端時尚編輯美學，羅紋針織與丹寧材質的觸感細節一覽無遺，自然肌膚紋理呈現次表面散射效果，並帶有溫暖氣候下的微濕光澤。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg" width="600" alt="產品行銷 - 馬德里黃金時刻時尚編輯大片 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg" width="600" alt="產品行銷 - 馬德里黃金時刻時尚編輯大片 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg" width="600" alt="產品行銷 - 馬德里黃金時刻時尚編輯大片 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg" width="600" alt="產品行銷 - 馬德里黃金時刻時尚編輯大片 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
+- **來源:** [Twitter Post](https://x.com/LoveAiko2003/status/2118478523786760570)
+- **發布時間:** 2026年11月5日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=37381)**
 
 ---
 
@@ -6598,7 +6641,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15741 更多提示詞未在此顯示
+### 🎯 15743 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6661,6 +6704,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-25T04:01:39.304Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-25T08:01:51.317Z</sub>
 
 </div>
