@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15865** |
+| 📝 คำสั่งทั้งหมด | **15866** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 28 พฤศจิกายน พ.ศ. 2569 เวลา 4 นาฬิกา 01 นาที 43 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 28 พฤศจิกายน พ.ศ. 2569 เวลา 8 นาฬิกา 01 นาที 53 วินาที UTC** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์เรขาคณิตสไตล์มินิมอล - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1770,25 +1770,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างโปสเตอร์ภาพถ่ายเชิงศิลปะ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -6214,7 +6214,40 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 113: สินทรัพย์เกม - เปรียบเทียบโมเดลศิลปะเกม Voxel
+### No. 113: สินทรัพย์เกม - ล็อกใบหน้าและท่าทางด้วยแบบอ้างอิงจากหุ่นจำลอง
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 คำอธิบาย
+
+เทคนิคการใช้ภาพหุ่นจำลองไม้เป็นแบบท่าทาง โดยคงใบหน้าเดิมไว้ รองรับการใช้งานกับ Nano Banana Pro
+
+#### 📝 คำสั่ง
+
+```
+ภาพที่ 2 คือหุ่นไม้สำหรับวาดรูปของศิลปิน ซึ่งแสดงเฉพาะท่าทางนี้เท่านั้น: ให้ลอกเลียนแบบท่าทางให้เหมือนเป๊ะ (ศีรษะ ลำตัว แขน มือ ขา เท้า มือแต่ละข้างทำอะไร และมุมกล้อง) แต่ห้ามก็อปปี้ตัวหุ่นมาด้วย: ห้ามมีผิวไม้ ห้ามเห็นข้อต่อ และห้ามใช้ใบหน้าไร้รายละเอียด
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="สินทรัพย์เกม - ล็อกใบหน้าและท่าทางด้วยแบบอ้างอิงจากหุ่นจำลอง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **เผยแพร่เมื่อ:** 27 พฤศจิกายน 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: สินทรัพย์เกม - เปรียบเทียบโมเดลศิลปะเกม Voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6247,7 +6280,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 114: สินทรัพย์เกม - พรอมต์ภาพนิ่งสไตล์ภาพยนตร์ Rogue One
+### No. 115: สินทรัพย์เกม - พรอมต์ภาพนิ่งสไตล์ภาพยนตร์ Rogue One
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6280,7 +6313,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 115: สินทรัพย์เกม - สถานีสังเกตสัตว์ป่าลุ่มน้ำป่าฝน โลกขนาดจิ๋ว
+### No. 116: สินทรัพย์เกม - สถานีสังเกตสัตว์ป่าลุ่มน้ำป่าฝน โลกขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6313,7 +6346,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 116: สินทรัพย์เกม - ฉากกบสักหลาดน่ารัก
+### No. 117: สินทรัพย์เกม - ฉากกบสักหลาดน่ารัก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6346,7 +6379,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 117: สินทรัพย์เกม - คำสั่งสร้างภาพ Portrait แบบ Macro แนว Melancholy เครื่องจักร
+### No. 118: สินทรัพย์เกม - คำสั่งสร้างภาพ Portrait แบบ Macro แนว Melancholy เครื่องจักร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6488,7 +6521,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 118: สินทรัพย์เกม - ภาพหลักสำหรับแคมเปญเกม RPG สไตล์จิบิ
+### No. 119: สินทรัพย์เกม - ภาพหลักสำหรับแคมเปญเกม RPG สไตล์จิบิ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6539,7 +6572,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 119: สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ
+### No. 120: สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6598,65 +6631,13 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 120: สินทรัพย์เกม - การสร้างภาพ Diorama โบราณวัตถุด้วย SQL
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ชุดคำสั่งสร้างภาพสไตล์ SQL ที่เป็นเอกลักษณ์ สำหรับการสร้างภาพ Diorama สถาปัตยกรรมที่ซับซ้อนด้วยพื้นผิวหินแกะสลักและทองโบราณ
-
-#### 📝 คำสั่ง
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="สินทรัพย์เกม - การสร้างภาพ Diorama โบราณวัตถุด้วย SQL - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="สินทรัพย์เกม - การสร้างภาพ Diorama โบราณวัตถุด้วย SQL - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="สินทรัพย์เกม - การสร้างภาพ Diorama โบราณวัตถุด้วย SQL - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="สินทรัพย์เกม - การสร้างภาพ Diorama โบราณวัตถุด้วย SQL - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **เผยแพร่เมื่อ:** 4 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 15745 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15746 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6719,6 +6700,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-28T04:01:43.224Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-28T08:01:53.900Z</sub>
 
 </div>

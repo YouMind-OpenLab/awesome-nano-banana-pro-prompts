@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15865** |
+| 📝 총 프롬프트 수 | **15866** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 11월 28일 토요일 AM 4시 1분 40초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 28일 토요일 AM 8시 1분 48초 UTC** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="소셜 미디어 게시물 - 미니멀리즘 기하학 포스터 프롬프트 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -1770,25 +1770,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="소셜 미디어 게시물 - 예술적 사진 포스터 프롬프트 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -6221,7 +6221,40 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 113: 게임 에셋 - 복셀 게임 아트 모델 비교
+### No. 113: 게임 에셋 - 마네킹 레퍼런스로 얼굴과 포즈 고정하기
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 설명
+
+원본 얼굴을 유지하면서 나무 마네킹 이미지를 포즈 레퍼런스로 사용하는 기술로, Nano Banana Pro와 호환됩니다.
+
+#### 📝 프롬프트
+
+```
+이미지 2 는 이 자세만 보여주는 목재 인체 모형(마네킹)입니다. 이 포즈를 그대로 따라 하되(머리, 몸통, 팔, 손, 다리, 발의 위치와 각 손의 동작, 카메라 앵글까지 모두 동일하게), 모형 자체를 그대로 그리지는 마세요. 나무 질감의 피부, 관절 연결 부위, 무표정한 얼굴은 제외해야 합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="게임 에셋 - 마네킹 레퍼런스로 얼굴과 포즈 고정하기 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **출처:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **게시일:** 2026년 11월 27일
+- **언어:** zh
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: 게임 에셋 - 복셀 게임 아트 모델 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6254,7 +6287,7 @@ GPT Image, Nano Banana, Grok을 활용한 HUD 요소가 포함된 복셀 게임 
 
 ---
 
-### No. 114: 게임 에셋 - 로그 원 스타일 영화 스틸 프롬프트
+### No. 115: 게임 에셋 - 로그 원 스타일 영화 스틸 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6287,7 +6320,7 @@ Nano Banana Pro를 사용하여 특정한 조명과 텍스처 요구사항을 �
 
 ---
 
-### No. 115: 게임 에셋 - 열대우림 야생동물 관찰소 미니어처 세계
+### No. 116: 게임 에셋 - 열대우림 야생동물 관찰소 미니어처 세계
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6320,7 +6353,7 @@ Nano Banana Pro로 생성된, 예술적인 포레스트펑크 스타일의 열�
 
 ---
 
-### No. 116: 게임 에셋 - 귀여운 펠트 개구리 장면
+### No. 117: 게임 에셋 - 귀여운 펠트 개구리 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6353,7 +6386,7 @@ Nano Banana Pro를 사용하여 연꽃 잎 위에 앉은 만화풍 개구리의 
 
 ---
 
-### No. 117: 게임 에셋 - 기계적 우울함 매크로 초상화 프롬프트
+### No. 118: 게임 에셋 - 기계적 우울함 매크로 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6495,7 +6528,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 118: 게임 에셋 - 치비 RPG 게임 캠페인 키 비주얼
+### No. 119: 게임 에셋 - 치비 RPG 게임 캠페인 키 비주얼
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6546,7 +6579,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 119: 게임 에셋 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
+### No. 120: 게임 에셋 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6605,65 +6638,13 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 120: 게임 에셋 - Artifact Diorama SQL 생성
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-정교한 건축 디오라마를 조각된 석재와 앤티크 골드 질감으로 생성하기 위한 독특한 SQL 스타일의 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="게임 에셋 - Artifact Diorama SQL 생성 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="게임 에셋 - Artifact Diorama SQL 생성 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="게임 에셋 - Artifact Diorama SQL 생성 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="게임 에셋 - Artifact Diorama SQL 생성 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Gadgetify](https://x.com/Gdgtify)
-- **출처:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **게시일:** 2026년 9월 4일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 15745 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15746 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6726,6 +6707,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-28T04:01:40.115Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-28T08:01:48.720Z</sub>
 
 </div>

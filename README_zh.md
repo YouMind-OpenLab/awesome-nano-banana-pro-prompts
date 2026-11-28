@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15865** |
+| 📝 提示词总数 | **15866** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月28日星期六 UTC 04:01:30** |
+| 🔄 最后更新 | **2026年11月28日星期六 UTC 08:01:33** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="社交媒体帖子 - 极简几何海报提示词 - Image 4">
 </div>
 
 #### 📌 详情
@@ -1770,25 +1770,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="社交媒体帖子 - 艺术摄影海报提示词 - Image 4">
 </div>
 
 #### 📌 详情
@@ -6218,7 +6218,40 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 113: 游戏素材 - 体素游戏美术模型对比
+### No. 113: 游戏素材 - 利用木制人偶锁定面部与姿势
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+使用木制人偶图像作为姿势参考，同时保留原始面部特征的技术，兼容 Nano Banana Pro。
+
+#### 📝 提示词
+
+```
+图 2 是一个木质绘画人偶，仅用于展示身体姿势：请完全照搬该姿势（包括头部、躯干、手臂、双手、双腿、双脚、每只手的具体动作以及镜头角度），但不要照搬人偶本身：不要出现木质纹理、关节结构或空白面部。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="游戏素材 - 利用木制人偶锁定面部与姿势 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **来源:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **发布时间:** 2026年11月27日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: 游戏素材 - 体素游戏美术模型对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6251,7 +6284,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 114: 游戏素材 - 《侠盗一号》风格电影剧照提示词
+### No. 115: 游戏素材 - 《侠盗一号》风格电影剧照提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6284,7 +6317,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 115: 游戏素材 - 雨林野生动物观测站微缩世界
+### No. 116: 游戏素材 - 雨林野生动物观测站微缩世界
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6317,7 +6350,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 116: 游戏素材 - 可爱毛毡青蛙场景
+### No. 117: 游戏素材 - 可爱毛毡青蛙场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6350,7 +6383,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 117: 游戏素材 - 机械忧郁微距人像提示词
+### No. 118: 游戏素材 - 机械忧郁微距人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6492,7 +6525,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 118: 游戏素材 - Q 版 RPG 游戏活动主视觉图
+### No. 119: 游戏素材 - Q 版 RPG 游戏活动主视觉图
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6543,7 +6576,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 119: 游戏素材 - 表现主义写实混合风格肖像
+### No. 120: 游戏素材 - 表现主义写实混合风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6602,65 +6635,13 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 ---
 
-### No. 120: 游戏素材 - Artifact Diorama SQL 生成
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一种独特的 SQL 风格生成提示词，用于创建具有雕刻石材和古董金质感的复杂建筑立体模型。
-
-#### 📝 提示词
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="游戏素材 - Artifact Diorama SQL 生成 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **发布时间:** 2026年9月4日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 15745 更多提示词未在此显示
+### 🎯 15746 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6723,6 +6704,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-28T04:01:30.914Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-28T08:01:33.568Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15865** |
+| 📝 プロンプト総数 | **15866** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年11月28日土曜日 4:01:36 UTC** |
+| 🔄 最終更新 | **2026年11月28日土曜日 8:01:43 UTC** |
 
 </div>
 
@@ -1710,25 +1710,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="ソーシャルメディア投稿 - ミニマリスト幾何学ポスターのプロンプト - Image 4">
 </div>
 
 #### 📌 詳細
@@ -1772,25 +1772,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="ソーシャルメディア投稿 - アート写真ポスター用プロンプト - Image 4">
 </div>
 
 #### 📌 詳細
@@ -6251,7 +6251,40 @@ Nano Banana Pro (GPT Image 2) を使用して、赤いファッションをま�
 
 ---
 
-### No. 113: ゲームアセット - ボクセルゲームアートモデル比較
+### No. 113: ゲームアセット - マネキン参照で顔とポーズをロック
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 説明
+
+木製マネキンの画像をポーズの参考として使用し、元の顔を保持するテクニック。Nano Banana Pro と互換性があります。
+
+#### 📝 プロンプト
+
+```
+画像 2 は木製のデッサン用マネキンで、このポーズのみが示されています。ポーズ（頭、胴体、腕、手、脚、足、それぞれの手の動き、カメラアングル）は正確に再現してください。ただし、マネキンそのものは模写しないでください。木肌の質感や関節の継ぎ目、無表情な顔は含めないでください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="ゲームアセット - マネキン参照で顔とポーズをロック - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **ソース:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **公開日:** 2026年11月27日
+- **言語:** zh
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: ゲームアセット - ボクセルゲームアートモデル比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6284,7 +6317,7 @@ GPT Image、Nano Banana、Grok が生成した HUD 要素を含むボクセル�
 
 ---
 
-### No. 114: ゲームアセット - Rogue One スタイルの映画スチール用プロンプト
+### No. 115: ゲームアセット - Rogue One スタイルの映画スチール用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6317,7 +6350,7 @@ Nano Banana Pro を使用して、特定のライティングとテクスチャ�
 
 ---
 
-### No. 115: ゲームアセット - 熱帯雨林野生動物観察ステーション ミニチュアワールド
+### No. 116: ゲームアセット - 熱帯雨林野生動物観察ステーション ミニチュアワールド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6350,7 +6383,7 @@ Nano Banana Pro で生成された、アートなフォレストパンクスタ�
 
 ---
 
-### No. 116: ゲームアセット - かわいいフェルト風カエルのシーン
+### No. 117: ゲームアセット - かわいいフェルト風カエルのシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6383,7 +6416,7 @@ Nano Banana Pro を使用して、スイレンの葉の上にいるカートゥ�
 
 ---
 
-### No. 117: ゲームアセット - 機械的憂鬱 マクロポートレート プロンプト
+### No. 118: ゲームアセット - 機械的憂鬱 マクロポートレート プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6525,7 +6558,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 118: ゲームアセット - ちびキャラ RPG ゲームキャンペーン用キービジュアル
+### No. 119: ゲームアセット - ちびキャラ RPG ゲームキャンペーン用キービジュアル
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6576,7 +6609,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 119: ゲームアセット - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
+### No. 120: ゲームアセット - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6635,65 +6668,13 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 120: ゲームアセット - Artifact Diorama SQL 生成
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-彫刻された石やアンティークゴールドの質感を備えた、精巧な建築ジオラマを作成するためのユニークな SQL 形式の生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="ゲームアセット - Artifact Diorama SQL 生成 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="ゲームアセット - Artifact Diorama SQL 生成 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="ゲームアセット - Artifact Diorama SQL 生成 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="ゲームアセット - Artifact Diorama SQL 生成 - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **ソース:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **公開日:** 2026年9月4日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 15745 さらに多くのプロンプトがあります
+### 🎯 15746 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6756,6 +6737,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-11-28T04:01:36.889Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-11-28T08:01:43.555Z</sub>
 
 </div>

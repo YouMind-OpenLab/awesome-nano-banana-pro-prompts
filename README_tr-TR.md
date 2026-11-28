@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15865** |
+| 📝 Toplam İstem | **15866** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **28 Kasım 2026 Cumartesi 04:02:15 UTC** |
+| 🔄 Son Güncelleme | **28 Kasım 2026 Cumartesi 08:02:43 UTC** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ Geniş boş alanlar (negatif alan), ortalanmış ana obje, dengeli ve sade bir k
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="Sosyal Medya Gönderisi - Minimalist Geometrik Poster İstemi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1770,25 +1770,25 @@ Genel sunum; eski film anılarını andıran bir dokunuşla birlikte sessiz, öl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Sosyal Medya Gönderisi - Sanatsal Fotoğraf Afişi İstemi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6195,7 +6195,40 @@ Hiper gerçekçi, büyük boy bir ahududu kesitinin içine yerleştirilmiş {arg
 
 ---
 
-### No. 113: Oyun Varlığı - Voxel Oyun Sanatı Model Karşılaştırması
+### No. 113: Oyun Varlığı - Manken Referansı ile Yüzü ve Pozi Kilitleme
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Açıklama
+
+Orijinal yüzü korurken ahşap manken görselini poz referansı olarak kullanan ve Nano Banana Pro ile uyumlu bir teknik.
+
+#### 📝 İstem
+
+```
+Görsel 2, yalnızca şu vücut pozunu gösteren ahşap bir sanatçı mankenidir: bu pozu (baş, gövde, kollar, eller, bacaklar, ayaklar, hangi elin ne yaptığı ve kamera açısı) birebir kopyalayın ancak mankenin kendisini kopyalamayın; ahşap doku, eklem yerleri veya ifadesiz bir yüz kullanmayın.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="Oyun Varlığı - Manken Referansı ile Yüzü ve Pozi Kilitleme - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **Kaynak:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **Yayınlandı:** 27 Kasım 2026
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: Oyun Varlığı - Voxel Oyun Sanatı Model Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6228,7 +6261,7 @@ Alacakaranlıkta küçük bir uçan ada şehrinin izometrik 3D piksel sanatı vo
 
 ---
 
-### No. 114: Oyun Varlığı - Rogue One Tarzı Film Kare İstemi
+### No. 115: Oyun Varlığı - Rogue One Tarzı Film Kare İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6261,7 +6294,7 @@ Fotogerçekçi Rogue One/Andor film karesi. Birebir referans yüz: aynı yapı, 
 
 ---
 
-### No. 115: Oyun Varlığı - Yağmur Ormanı Yaban Hayatı Gözlem İstasyonu Minyatür Dünyası
+### No. 116: Oyun Varlığı - Yağmur Ormanı Yaban Hayatı Gözlem İstasyonu Minyatür Dünyası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6294,7 +6327,7 @@ Sanatsal bir forestpunk tarzında yağmur ormanı havzası yaban hayatı gözlem
 
 ---
 
-### No. 116: Oyun Varlığı - Sevimli Keçe Kurbağa Sahnesi
+### No. 117: Oyun Varlığı - Sevimli Keçe Kurbağa Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6327,7 +6360,7 @@ Göletteki büyük bir nilüfer yaprağının üzerinde oturan, sevimli, 3D ve k
 
 ---
 
-### No. 117: Oyun Varlığı - Mekanik Hüzün Makro Portre İstem Promptu
+### No. 118: Oyun Varlığı - Mekanik Hüzün Makro Portre İstem Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6469,7 +6502,7 @@ Pirinç saat mekanizması öğeleri ve mekanik bir sinek kuşu ile hüzünlü bi
 
 ---
 
-### No. 118: Oyun Varlığı - Chibi RPG Oyun Kampanyası Ana Görseli
+### No. 119: Oyun Varlığı - Chibi RPG Oyun Kampanyası Ana Görseli
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6520,7 +6553,7 @@ Mobil RPG etkinlik duyuruları için tasarlanan bu komut, sevimli chibi karakter
 
 ---
 
-### No. 119: Oyun Varlığı - Etkileyici, Ressam Tarzı Gerçekçi Hibrit Portre
+### No. 120: Oyun Varlığı - Etkileyici, Ressam Tarzı Gerçekçi Hibrit Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6579,65 +6612,13 @@ En boy oranı: 9:16 dikey.
 
 ---
 
-### No. 120: Oyun Varlığı - Artifact Diorama SQL Üretimi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Oyma taş ve antika altın dokularla karmaşık mimari dioramalar oluşturmak için benzersiz, SQL tarzında bir üretim istemi.
-
-#### 📝 İstem
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Oyun Varlığı - Artifact Diorama SQL Üretimi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Oyun Varlığı - Artifact Diorama SQL Üretimi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Oyun Varlığı - Artifact Diorama SQL Üretimi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Oyun Varlığı - Artifact Diorama SQL Üretimi - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Gadgetify](https://x.com/Gdgtify)
-- **Kaynak:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **Yayınlandı:** 4 Eylül 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 15745 burada gösterilmeyen daha fazla istem
+### 🎯 15746 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6700,6 +6681,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-28T04:02:15.303Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-28T08:02:43.079Z</sub>
 
 </div>

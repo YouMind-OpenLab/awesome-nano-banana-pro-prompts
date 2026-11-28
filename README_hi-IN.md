@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15865** |
+| 📝 कुल प्रॉम्पट्स | **15866** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शनिवार, 28 नवंबर 2026 को 4:01:49 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शनिवार, 28 नवंबर 2026 को 8:02:03 am UTC बजे** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="सोशल मीडिया पोस्ट - मिनिमलिस्ट ज्योमेट्रिक पोस्टर प्रॉम्प्ट - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -1770,25 +1770,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="सोशल मीडिया पोस्ट - कलात्मक फोटोग्राफी पोस्टर प्रॉम्प्ट - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -6211,7 +6211,40 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 113: गेम एसेट - वॉक्सेल गेम आर्ट मॉडल तुलना
+### No. 113: गेम एसेट - मैनिकिन रेफरेंस के साथ चेहरा और पोज़ लॉक करें
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 विवरण
+
+लकड़ी के मैनिकिन की छवि को पोज़ रेफरेंस के रूप में उपयोग करने और मूल चेहरे को बनाए रखने की एक तकनीक, जो Nano Banana Pro के साथ संगत है।
+
+#### 📝 प्रॉम्पट
+
+```
+इमेज 2 एक लकड़ी का आर्टिस्ट मैनेक्विन (पुतला) है, जो सिर्फ़ यह बॉडी पोज़ दिखाता है: इसे बिल्कुल वैसा ही कॉपी करें (सिर, धड़, बाहें, हाथ, पैर, कौन सा हाथ क्या कर रहा है, कैमरा एंगल), लेकिन खुद मैनेक्विन को कॉपी न करें: कोई लकड़ी वाली त्वचा नहीं, कोई जोड़ नहीं, और कोई खाली चेहरा नहीं।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="गेम एसेट - मैनिकिन रेफरेंस के साथ चेहरा और पोज़ लॉक करें - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **स्रोत:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **प्रकाशित:** 27 नवंबर 2026
+- **भाषाएं:** zh
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: गेम एसेट - वॉक्सेल गेम आर्ट मॉडल तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6244,7 +6277,7 @@ GPT Image, Nano Banana और Grok द्वारा HUD तत्वों क
 
 ---
 
-### No. 114: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
+### No. 115: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6277,7 +6310,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 115: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
+### No. 116: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6310,7 +6343,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 116: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
+### No. 117: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6343,7 +6376,7 @@ Nano Banana Pro का उपयोग करके एक विचित्र
 
 ---
 
-### No. 117: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
+### No. 118: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6485,7 +6518,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 118: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
+### No. 119: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6536,7 +6569,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 119: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
+### No. 120: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6595,65 +6628,13 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 120: गेम एसेट - Artifact Diorama SQL जनरेशन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-नक्काशीदार पत्थर और एंटीक गोल्ड टेक्सचर के साथ जटिल आर्किटेक्चरल डायोरामा बनाने के लिए एक अनोखा SQL-स्टाइल जनरेशन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="गेम एसेट - Artifact Diorama SQL जनरेशन - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Gadgetify](https://x.com/Gdgtify)
-- **स्रोत:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **प्रकाशित:** 4 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 15745 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15746 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6716,6 +6697,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-28T04:01:49.390Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-28T08:02:03.815Z</sub>
 
 </div>

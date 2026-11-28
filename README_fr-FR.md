@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **15865** |
+| 📝 Total des prompts | **15866** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **samedi 28 novembre 2026 à 04:02:01 UTC** |
+| 🔄 Dernière mise à jour | **samedi 28 novembre 2026 à 08:02:22 UTC** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ Privilégiez de vastes espaces négatifs, un sujet centré et une composition é
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt d'affiche géométrique minimaliste - Image 4">
 </div>
 
 #### 📌 Détails
@@ -1770,25 +1770,25 @@ La présentation globale doit dégager le tempérament sobre et maîtrisé de la
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt pour Affiche Photographique Artistique - Image 4">
 </div>
 
 #### 📌 Détails
@@ -6204,7 +6204,40 @@ Photo de studio du produit {argument name="product" default="produit issu de la 
 
 ---
 
-### No. 113: Ressource de jeu - Comparaison des modèles d'art de jeux en voxels
+### No. 113: Ressource de jeu - Verrouiller le visage et la pose avec une référence de mannequin
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Description
+
+Une technique utilisant l'image d'un mannequin en bois comme référence de pose tout en conservant le visage original, compatible avec Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+L'image 2 représente un mannequin d'artiste en bois illustrant uniquement cette pose : reproduisez-la à l'identique (tête, torse, bras, mains, jambes, pieds, rôle de chaque main, angle de prise de vue), mais sans copier le mannequin lui-même : pas d'aspect boisé, pas d'articulations visibles, pas de visage neutre.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="Ressource de jeu - Verrouiller le visage et la pose avec une référence de mannequin - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **Source:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **Publié:** 27 novembre 2026
+- **Langues:** zh
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: Ressource de jeu - Comparaison des modèles d'art de jeux en voxels
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6237,7 +6270,7 @@ Capture d'écran de jeu voxel en pixel art 3D isométrique représentant une min
 
 ---
 
-### No. 114: Ressource de jeu - Invite de style cinématographique Rogue One
+### No. 115: Ressource de jeu - Invite de style cinématographique Rogue One
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6270,7 +6303,7 @@ Photogramme de film photoréaliste issu de Rogue One/Andor. Visage de référenc
 
 ---
 
-### No. 115: Ressource de jeu - Station d'Observation de la Faune de la Forêt Tropicale : Monde Miniature
+### No. 116: Ressource de jeu - Station d'Observation de la Faune de la Forêt Tropicale : Monde Miniature
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6303,7 +6336,7 @@ Représentation fantaisiste d'un monde miniature de station d'observation de la 
 
 ---
 
-### No. 116: Ressource de jeu - Scène de Grenouille en Feutre Mignonne
+### No. 117: Ressource de jeu - Scène de Grenouille en Feutre Mignonne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6336,7 +6369,7 @@ Une scène mignonne, en 3D et à l'aspect feutré, représentant une grenouille 
 
 ---
 
-### No. 117: Ressource de jeu - Prompt de Portrait Macro Mécanique et Mélancolique
+### No. 118: Ressource de jeu - Prompt de Portrait Macro Mécanique et Mélancolique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6478,7 +6511,7 @@ Un prompt complexe au format JSON pour Nano Banana Pro, destiné à générer un
 
 ---
 
-### No. 118: Ressource de jeu - Visuel clé pour campagne de jeu RPG Chibi
+### No. 119: Ressource de jeu - Visuel clé pour campagne de jeu RPG Chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6529,7 +6562,7 @@ Conçu pour les annonces d'événements de jeux RPG mobiles, ce prompt permet de
 
 ---
 
-### No. 119: Ressource de jeu - Portrait hybride réaliste au style pictural expressif
+### No. 120: Ressource de jeu - Portrait hybride réaliste au style pictural expressif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6588,65 +6621,13 @@ Format : 9:16 vertical.
 
 ---
 
-### No. 120: Ressource de jeu - Génération SQL de dioramas d'artefacts
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un prompt de génération unique de style SQL pour créer des dioramas architecturaux complexes avec des textures en pierre sculptée et en or antique.
-
-#### 📝 Prompt
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Ressource de jeu - Génération SQL de dioramas d'artefacts - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Ressource de jeu - Génération SQL de dioramas d'artefacts - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Ressource de jeu - Génération SQL de dioramas d'artefacts - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Ressource de jeu - Génération SQL de dioramas d'artefacts - Image 4">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Gadgetify](https://x.com/Gdgtify)
-- **Source:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **Publié:** 4 septembre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 15745 prompts supplémentaires non affichés ici
+### 🎯 15746 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6709,6 +6690,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-28T04:02:01.832Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-28T08:02:22.937Z</sub>
 
 </div>

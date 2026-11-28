@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15865** |
+| 📝 Tổng số câu lệnh | **15866** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:01:46 UTC Thứ Bảy, 28 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:01:58 UTC Thứ Bảy, 28 tháng 11, 2026** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ Tận dụng khoảng trống lớn, đặt chủ thể ở trung tâm, tạo n�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Hình Học Tối Giản - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1770,25 +1770,25 @@ Tổng thể tác phẩm toát lên khí chất của ảnh biên tập (editori
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Poster Nhiếp Ảnh Nghệ Thuật - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -6200,7 +6200,40 @@ Một câu lệnh tạo ảnh sản phẩm thương mại với hình ảnh sả
 
 ---
 
-### No. 113: Tài sản trò chơi - So sánh mô hình nghệ thuật game voxel
+### No. 113: Tài sản trò chơi - Khóa Khuôn Mặt và Tư Thế Bằng Tham Chiếu Ma-nơ-canh
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Mô tả
+
+Kỹ thuật sử dụng hình ảnh ma-nơ-canh gỗ làm tham chiếu tư thế trong khi vẫn giữ nguyên khuôn mặt gốc, tương thích với Nano Banana Pro.
+
+#### 📝 Câu lệnh
+
+```
+Hình 2 là một ma-nơ-canh gỗ dùng cho họa sĩ, chỉ thể hiện duy nhất dáng người này: hãy sao chép chính xác tư thế đó (đầu, thân, cánh tay, bàn tay, chân, bàn chân, mỗi tay đang làm gì, góc máy), nhưng không được sao chép bản thân con ma-nơ-canh: không có bề mặt gỗ, không có khớp nối, không có khuôn mặt vô hồn.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="Tài sản trò chơi - Khóa Khuôn Mặt và Tư Thế Bằng Tham Chiếu Ma-nơ-canh - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **Nguồn:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **Đã xuất bản:** 27 tháng 11, 2026
+- **Ngôn ngữ:** zh
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: Tài sản trò chơi - So sánh mô hình nghệ thuật game voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6233,7 +6266,7 @@ So sánh khả năng tạo ảnh chụp màn hình nghệ thuật game voxel v�
 
 ---
 
-### No. 114: Tài sản trò chơi - Prompt Ảnh Tĩnh Phim Phong Cách Rogue One
+### No. 115: Tài sản trò chơi - Prompt Ảnh Tĩnh Phim Phong Cách Rogue One
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6266,7 +6299,7 @@ Prompt chi tiết để tạo ảnh tĩnh phim phong cách Rogue One/Andor siêu
 
 ---
 
-### No. 115: Tài sản trò chơi - Trạm Quan Sát Động Vật Rừng Mưa Thu Nhỏ
+### No. 116: Tài sản trò chơi - Trạm Quan Sát Động Vật Rừng Mưa Thu Nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6299,7 +6332,7 @@ Thế giới thu nhỏ kỳ ảo tái hiện trạm quan sát động vật hoan
 
 ---
 
-### No. 116: Tài sản trò chơi - Cảnh ếch nỉ dễ thương
+### No. 117: Tài sản trò chơi - Cảnh ếch nỉ dễ thương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6332,7 +6365,7 @@ Một cảnh 3D dễ thương, mang phong cách nỉ, mô tả chú ếch hoạt
 
 ---
 
-### No. 117: Tài sản trò chơi - Prompt Chân Dung Cận Cảnh Cơ Khí Buồn
+### No. 118: Tài sản trò chơi - Prompt Chân Dung Cận Cảnh Cơ Khí Buồn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6474,7 +6507,7 @@ Một prompt định dạng JSON phức tạp dành cho Nano Banana Pro để t�
 
 ---
 
-### No. 118: Tài sản trò chơi - Hình ảnh chủ đạo (Key Visual) cho chiến dịch game RPG Chibi
+### No. 119: Tài sản trò chơi - Hình ảnh chủ đạo (Key Visual) cho chiến dịch game RPG Chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6525,7 +6558,7 @@ Một prompt định dạng JSON phức tạp dành cho Nano Banana Pro để t�
 
 ---
 
-### No. 119: Tài sản trò chơi - Chân dung lai giữa hội họa biểu cảm và hiện thực
+### No. 120: Tài sản trò chơi - Chân dung lai giữa hội họa biểu cảm và hiện thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6584,65 +6617,13 @@ Tỷ lệ khung hình: 9:16 dọc.
 
 ---
 
-### No. 120: Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tạo hình theo phong cách SQL độc đáo để tạo ra các mô hình diorama kiến trúc tinh xảo với kết cấu đá chạm khắc và vàng cổ.
-
-#### 📝 Câu lệnh
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Gadgetify](https://x.com/Gdgtify)
-- **Nguồn:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **Đã xuất bản:** 4 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 15745 câu lệnh khác không hiển thị ở đây
+### 🎯 15746 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6705,6 +6686,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-28T04:01:46.366Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-28T08:01:58.730Z</sub>
 
 </div>

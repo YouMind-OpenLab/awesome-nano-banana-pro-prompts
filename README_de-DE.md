@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15865** |
+| 📝 Gesamtanzahl Prompts | **15866** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 28. November 2026 um 04:01:58 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 28. November 2026 um 08:02:18 UTC** |
 
 </div>
 
@@ -1708,25 +1708,25 @@ Großzügige Freiräume, zentriertes Motiv, eine ausgewogene und reduzierte Komp
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="Social-Media-Beitrag - Prompt für minimalistisches geometrisches Poster - Image 4">
 </div>
 
 #### 📌 Details
@@ -1770,25 +1770,25 @@ Der Gesamteindruck sollte das ruhige, zurückhaltende Temperament redaktioneller
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Social-Media-Beitrag - Prompt für ein künstlerisches Fotografie-Poster - Image 4">
 </div>
 
 #### 📌 Details
@@ -6206,7 +6206,40 @@ Studio-Produktfoto von {argument name="product" default="Produkt aus hochgeladen
 
 ---
 
-### No. 113: Spiel-Asset - Voxel-Spielgrafik Modellvergleich
+### No. 113: Spiel-Asset - Gesicht und Pose mit Mannequin-Referenz fixieren
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Beschreibung
+
+Eine Technik, die ein Bild einer Holzfigur als Posenreferenz nutzt, während das ursprüngliche Gesicht erhalten bleibt – kompatibel mit Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+Bild 2 zeigt eine hölzerne Künstler-Gliederpuppe, die ausschließlich diese Körperhaltung vorgibt: Übernimm sie exakt (Kopf, Oberkörper, Arme, Hände, Beine, Füße, welche Hand was tut, Kamerawinkel), aber nicht die Puppe selbst: keine Holzoberfläche, keine Gelenke, kein gesichtsloser Kopf.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="Spiel-Asset - Gesicht und Pose mit Mannequin-Referenz fixieren - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **Quelle:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **Veröffentlicht:** 27. November 2026
+- **Sprachen:** zh
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: Spiel-Asset - Voxel-Spielgrafik Modellvergleich
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6239,7 +6272,7 @@ Isometrischer 3D-Pixel-Art-Voxel-Screenshot eines Videospiels, der eine winzige 
 
 ---
 
-### No. 114: Spiel-Asset - Rogue One Stil Filmstandbild-Prompt
+### No. 115: Spiel-Asset - Rogue One Stil Filmstandbild-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6272,7 +6305,7 @@ Fotorealistischer Filmstill aus Rogue One/Andor. Exaktes Referenzgesicht: identi
 
 ---
 
-### No. 115: Spiel-Asset - Regenwald-Wildtierbeobachtungsstation Miniaturwelt
+### No. 116: Spiel-Asset - Regenwald-Wildtierbeobachtungsstation Miniaturwelt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6305,7 +6338,7 @@ Verspielte Miniaturwelt-Darstellung einer Regenwald-Becken-Wildtierbeobachtungss
 
 ---
 
-### No. 116: Spiel-Asset - Niedliche Filz-Frosch-Szene
+### No. 117: Spiel-Asset - Niedliche Filz-Frosch-Szene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6338,7 +6371,7 @@ Eine niedliche, 3D- und filzartige Szene eines Cartoon-Frosches, der auf einem g
 
 ---
 
-### No. 117: Spiel-Asset - Mechanical Melancholy Macro Portrait Prompt
+### No. 118: Spiel-Asset - Mechanical Melancholy Macro Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6480,7 +6513,7 @@ Ein komplexer JSON-formatierter Prompt für Nano Banana Pro zur Generierung eine
 
 ---
 
-### No. 118: Spiel-Asset - Chibi-RPG-Kampagnen-Key-Visual
+### No. 119: Spiel-Asset - Chibi-RPG-Kampagnen-Key-Visual
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6531,7 +6564,7 @@ Dieser Prompt wurde für Ankündigungen von Mobile-RPG-Events entwickelt und ers
 
 ---
 
-### No. 119: Spiel-Asset - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
+### No. 120: Spiel-Asset - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6590,65 +6623,13 @@ Seitenverhältnis: 9:16 vertikal.
 
 ---
 
-### No. 120: Spiel-Asset - Artifact Diorama SQL-Generierung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein einzigartiger SQL-basierter Prompt zur Erstellung komplexer architektonischer Dioramen mit Texturen aus behauenem Stein und antikem Gold.
-
-#### 📝 Prompt
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Spiel-Asset - Artifact Diorama SQL-Generierung - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Spiel-Asset - Artifact Diorama SQL-Generierung - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Spiel-Asset - Artifact Diorama SQL-Generierung - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Spiel-Asset - Artifact Diorama SQL-Generierung - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Gadgetify](https://x.com/Gdgtify)
-- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **Veröffentlicht:** 4. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 15745 weitere Prompts hier nicht angezeigt
+### 🎯 15746 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6711,6 +6692,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-28T04:01:58.531Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-28T08:02:18.122Z</sub>
 
 </div>

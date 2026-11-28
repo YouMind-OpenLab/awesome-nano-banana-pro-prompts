@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15865** |
+| 📝 Total Prompts | **15866** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Saturday, November 28, 2026 at 4:01:27 AM UTC** |
+| 🔄 Last Updated | **Saturday, November 28, 2026 at 8:01:28 AM UTC** |
 
 </div>
 
@@ -1681,26 +1681,26 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social Media Post - Minimalist Geometric Poster Prompt
+### No. 21: Social Media Post - Minimalist Split Layout Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Description
 
-A prompt for transforming uploaded photos into high-end minimalist posters. The design splits the canvas in half: the top preserves the original photo with subtle color grading, while the bottom uses a beige background to feature a simplified geometric representation of the subject extracted from the photo, emphasizing negative space and modern art exhibition aesthetics.
+Prompt for creating a high-end minimalist poster from a single photo, splitting it into a realistic top half and abstract geometric bottom half.
 
 #### 📝 Prompt
 
 ```
-Please turn each of my uploaded photos into a separate high-end minimalist poster, without combining multiple images.
+Please turn each of my uploaded photos into a separate high-end minimalist poster, do not stitch multiple images together.
 
-Use a 3:4 vertical composition, with the top and bottom regions strictly occupying 50% of the height each.
+Adopt a 3:4 vertical composition, with top and bottom regions strictly occupying 50% height each.
 
-The upper half retains the original photo's subject structure, realistic texture, natural light/shadows, and color atmosphere, applying only slight magazine photography color grading. Backgrounds may be naturally extended to fit the aspect ratio, but do not stretch, distort, or change the subject.
+The upper half preserves the original photo's subject structure, realistic texture, natural lighting, and color atmosphere, applying only slight magazine-style color grading. Backgrounds can be naturally extended to fit the aspect ratio, but subjects must not be stretched, distorted, or altered.
 
-The lower half uses beige as the background. Extract the most identifiable contour of the subject and re-present it using simple geometry, flat color blocks, and thin lines. Colors are taken from the photo; omit complex details but keep features that are instantly recognizable.
+The lower half uses off-white as the background, extracting the most recognizable contours of the subject and reinterpreting them with simple geometry, flat color blocks, and thin lines. Colors are taken from the photo, omitting complex details while retaining instantly identifiable features.
 
-Large area of negative space, subject centered, balanced and restrained composition. Small amounts of English titles, numbers, or years may be added. Present the quality of international design studios and art exhibition posters: modern, quiet, and artistic. Avoid realistic illustrations, cartoonishness, cheap vector feel, e-commerce style, and template-like appearances.
+Large areas of whitespace, centered subject, balanced and restrained composition. Small amounts of English titles, numbers, or years can be added. Present the quality of international design studios and art exhibition posters: modern, quiet, artistic. Avoid realistic illustrations, cartoonishness, cheap vector feel, e-commerce style, and template look.
 ```
 
 #### 🖼️ Generated Images
@@ -1708,25 +1708,25 @@ Large area of negative space, subject centered, balanced and restrained composit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg" width="600" alt="Social Media Post - Minimalist Geometric Poster Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846751072_z71x66_HYG9jc8aQAAV6IW.jpg" width="600" alt="Social Media Post - Minimalist Split Layout Poster Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg" width="600" alt="Social Media Post - Minimalist Geometric Poster Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751062_9mxpsk_HYG9jc8agAA8aM3.jpg" width="600" alt="Social Media Post - Minimalist Split Layout Poster Prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg" width="600" alt="Social Media Post - Minimalist Geometric Poster Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846749606_olm0q9_HYG9jdGbcAAP55X.jpg" width="600" alt="Social Media Post - Minimalist Split Layout Poster Prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg" width="600" alt="Social Media Post - Minimalist Geometric Poster Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846750352_oatz3u_HYG9jc7boAAGTK-.jpg" width="600" alt="Social Media Post - Minimalist Split Layout Poster Prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -1740,24 +1740,23 @@ Large area of negative space, subject centered, balanced and restrained composit
 
 ---
 
-### No. 22: Social Media Post - Artistic Photography Poster Prompt
+### No. 22: Social Media Post - Minimalist Film Collage Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A detailed prompt for creating a 3:4 vertical artistic photography poster using an uploaded photo. It splits the canvas into two halves: the top retains the original photo with magazine-style color grading, while the bottom features a 'warm gray film fold' collage effect where the subject is sliced into seven vertical strips arranged in a fan shape against a clean background.
+A detailed prompt for creating an art photography poster with a split layout, featuring warm grey film tones and fan-shaped collage elements.
 
 #### 📝 Prompt
 
 ```
-Create a 3:4 vertical artistic photography diptych poster using the uploaded photo. The image consists of only two equal-height regions (top and bottom), with the horizontal division fixed at 50% of the total canvas height, no borders or gaps.
-The upper half fully presents the original photography: retain the subject's identity, quantity, pose, structure, key object relationships, natural light/shadows, and colors. Apply only restrained magazine photography color grading; slight cropping or background extension is allowed, but do not stretch figures or change actions. No text or decorations in the upper half.
-The lower half creates a "Warm Gray Film Fold" photographic collage: Use a clean, flat, near-white light warm gray #F6F3ED as the base. Retain real photographic grain, subtle shading, and mirror reflections. Convert imagery to low-saturation warm gray, silver gray, smoky brown, and faint residual original colors. Highlights are slightly faded, shadows retain detail. Avoid black-and-white thresholding, heavy sepia filters, and cartoonish styles. Only the interior of the image slices should have fine film grain and very light scan texture; white space areas remain clean.
-Split the subject and necessary environment into {argument name="slice count" default="7"} narrow long photographic slices, taking vertical or slightly tilted long shapes rather than horizontal jagged strips. The central 3 slices combine to form a clearly recognizable core subject, while the left and right sides each have 2 slices fanning outwards at small angles, resembling a set of unfolded image folds. The slices remain flat photographic images; do not generate physical books, 3D paper sculptures, origami models, or 3D objects. Adjacent slices overlap slightly, with only the outermost two having very faint photographic ghosting to create a sense of time passing. The central subject must be clear; do not stack multiple faces or hands into new deformities. The thin gaps between slices are revealed by the paper base naturally; do not add outlines, crease lines, or drop shadows.
-The overall collage forms a connected, low-center-of-gravity, slightly asymmetric horizontal cluster, with a width of about 55-60% of the entire canvas and a height not exceeding 40% of the lower half's height. The visual center of gravity is located at approximately 65% of the lower half's height. Keep large quiet whitespace above, wide whitespace on left and right. Do not expand the slices to fill the entire layout. Retain the most critical identification contours of the subject; secondary backgrounds can be omitted. Important items and their relationship to the subject in the photography must remain readable.
-The overall presentation should have a quiet, restrained editorial photography temperament with a hint of old film memory. Prohibit adding tape, stamps, stickers, icons, colored blocks, frames, scattered fragments, full-pattern textures, dreamy soft focus, vector flat painting, or lack of photographic quality.
+Use the uploaded photo to create a 3:4 vertical art photography diptych poster. The image consists of two equal-height regions top and bottom, with the horizontal boundary fixed at 50% of the canvas height, no borders or gaps.
+The upper half fully presents the original photography: preserve subject identity, quantity, pose, structure, key object relationships, natural lighting and color, applying only restrained magazine-style color grading. Backgrounds may be lightly cropped or extended, but figures must not be stretched or actions changed; no text or decorations in the upper half.
+The lower half creates a "warm grey film fold-out" photographic collage: use a clean, flat, near-white light warm grey #F6F3ED background, preserving real photography grain, subtle shading, and mirror reflections; convert imagery to low-saturation warm grey, silver grey, smoky brown, and faint residual colors from the original, with slightly faded highlights and preserved shadow details, avoiding black-and-white thresholding, heavy brown-yellow filters, or cartoonization. Only the interior of image slices contains fine film grain and very light scan texture; white space remains clean.
+Split the subject and necessary environment into 7 narrow, long photographic slices, arranged vertically or slightly tilted, rather than horizontal jagged strips. The central 3 slices form the clearly recognizable core subject, while 2 slices on each side fan outwards at small angles, like unfolded image pages; slices remain flat photographic images, generating no physical books, 3D paper sculptures, origami models, or 3D objects. Adjacent slices overlap slightly, with only the outermost two having very faint photographic ghosts to create a sense of time passing; the central subject must be clear, preventing multiple faces or hands from merging into new deformities. Thin gaps between slices are naturally revealed by the paper background, without outlines, crease lines, or drop shadows.
+The overall collage forms a connected, low-center-of-gravity, slightly asymmetric horizontal cluster, occupying about 55–60% of the canvas width and no more than 40% of the lower half's height; visual center located at approximately 65% of the lower half's height. Maintain large quiet whitespace above, wide whitespace on left and right, prohibiting expanding slices to full bleed. Preserve the most critical identifying contours of the subject, omitting secondary backgrounds; important items and subject relationships in the photography must remain readable.
+Overall presentation should have a quiet, restrained, editorial photography atmosphere with memories of old film. Prohibit adding tape, stamps, stickers, icons, colored blocks, frames, scattered fragments, full-bleed textures, dreamy soft focus, vector flat painting, or lack of photographic quality.
 ```
 
 #### 🖼️ Generated Images
@@ -1765,25 +1764,25 @@ The overall presentation should have a quiet, restrained editorial photography t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg" width="600" alt="Social Media Post - Artistic Photography Poster Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795846750962_j00b78_HYGOOXUbsAAeYLE.jpg" width="600" alt="Social Media Post - Minimalist Film Collage Poster Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg" width="600" alt="Social Media Post - Artistic Photography Poster Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1795846751143_5xt2vf_HYGOOXSboAAHUU8.jpg" width="600" alt="Social Media Post - Minimalist Film Collage Poster Prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Social Media Post - Artistic Photography Poster Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1795846750835_c65dko_HYGOOXSbsAA_Z5Y.jpg" width="600" alt="Social Media Post - Minimalist Film Collage Poster Prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Social Media Post - Artistic Photography Poster Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1795846751775_ejvxdo_HYGOOXVaAAAiPx7.jpg" width="600" alt="Social Media Post - Minimalist Film Collage Poster Prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -6210,7 +6209,40 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 113: Game Asset - Voxel Game Art Model Comparison
+### No. 113: Game Asset - Lock Face and Pose with Mannequin Reference
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Description
+
+A technique using a wooden mannequin image as a pose reference while keeping the original face, compatible with Nano Banana Pro.
+
+#### 📝 Prompt
+
+```
+Image 2 is a wooden artist's mannequin that shows only this body pose: copy it exactly (head, torso, arms, hands, legs, feet, which hand does what, the camera angle), but do not copy the mannequin itself: no wooden skin, no joints, no blank face.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg" width="600" alt="Game Asset - Lock Face and Pose with Mannequin Reference - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [逍遥猫|给 Agent 做产品](https://x.com/leisurecat111)
+- **Source:** [Twitter Post](https://x.com/leisurecat111/status/2126310826822824439)
+- **Published:** November 27, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37772)**
+
+---
+
+### No. 114: Game Asset - Voxel Game Art Model Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6243,7 +6275,7 @@ Isometric 3D pixel-art voxel game screenshot of a tiny floating island city at d
 
 ---
 
-### No. 114: Game Asset - Rogue One Style Film Still Prompt
+### No. 115: Game Asset - Rogue One Style Film Still Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6276,7 +6308,7 @@ Photorealistic Rogue One/Andor film still. Exact ref face: same structure, skin 
 
 ---
 
-### No. 115: Game Asset - Rainforest Wildlife Observation Station Miniature World
+### No. 116: Game Asset - Rainforest Wildlife Observation Station Miniature World
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6309,7 +6341,7 @@ Whimsical miniature world depiction of a rainforest basin wildlife observation s
 
 ---
 
-### No. 116: Game Asset - Cute Felt Frog Scene
+### No. 117: Game Asset - Cute Felt Frog Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6342,7 +6374,7 @@ A cute, 3D and felt-like scene of a cartoon-style frog sitting on a large lily p
 
 ---
 
-### No. 117: Game Asset - Mechanical Melancholy Macro Portrait Prompt
+### No. 118: Game Asset - Mechanical Melancholy Macro Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6484,7 +6516,7 @@ A complex JSON-formatted prompt for Nano Banana Pro to generate an extreme close
 
 ---
 
-### No. 118: Game Asset - Chibi RPG Game Campaign Key Visual
+### No. 119: Game Asset - Chibi RPG Game Campaign Key Visual
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6535,7 +6567,7 @@ Designed for mobile RPG event announcements, this prompt creates cheerful fantas
 
 ---
 
-### No. 119: Game Asset - Expressive Painterly Realistic Hybrid Portrait
+### No. 120: Game Asset - Expressive Painterly Realistic Hybrid Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6594,65 +6626,13 @@ Aspect ratio: 9:16 vertical.
 
 ---
 
-### No. 120: Game Asset - Artifact Diorama SQL Generation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A unique SQL-style generation prompt for creating intricate architectural dioramas with carved stone and antique gold textures.
-
-#### 📝 Prompt
-
-```
-16:9 select * from artifact_diorama_archives where subject_media = '{argument name="media title" default="[media_title]"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name="media title" default="[media_title]"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name="media title" default="[media_title]"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name="media title" default="[media_title]"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name="media title" default="[media_title]"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg" width="600" alt="Game Asset - Artifact Diorama SQL Generation - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg" width="600" alt="Game Asset - Artifact Diorama SQL Generation - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg" width="600" alt="Game Asset - Artifact Diorama SQL Generation - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg" width="600" alt="Game Asset - Artifact Diorama SQL Generation - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Gadgetify](https://x.com/Gdgtify)
-- **Source:** [Twitter Post](https://x.com/Gdgtify/status/2095942973934698532)
-- **Published:** September 4, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33471)**
-
----
-
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 15745 more prompts not shown here
+### 🎯 15746 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6715,6 +6695,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T04:01:27.927Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T08:01:28.551Z</sub>
 
 </div>
